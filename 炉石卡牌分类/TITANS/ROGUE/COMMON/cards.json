@@ -1,0 +1,112 @@
+[
+  {
+    "artist": "Adam Byrne",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97638,
+    "flavor": "哦，一堆废物。",
+    "id": "TTN_719",
+    "name": "废料回收",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "获取三张1/1并具有<b>磁力</b>和随机<b>额外效果</b>的火花机器人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97109,
+    "flavor": "过冬之前会搜集坚果和……螺栓。",
+    "health": 3,
+    "id": "TTN_921",
+    "mechanics": [
+      "MAGNETIC",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "铜尾刺探鼠",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。每当本随从攻击时，获取一张\n幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97318,
+    "flavor": "小蜘蛛，腿弯弯，啪嗒吸上铁水管。",
+    "health": 4,
+    "id": "TTN_923",
+    "mechanics": [
+      "MAGNETIC",
+      "STEALTH"
+    ],
+    "name": "SP-3Y3-D3R蛛型机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>潜行</b>1回合。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101557,
+    "flavor": "“冬幕节过去几个月了，为什么你们的灯还亮着？”",
+    "id": "YOG_526",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "触须缠握",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "造成$3点伤害。<b>连击：</b>获取一张1/1的混乱触须。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101559,
+    "flavor": "“毁灭世界，有我一份！”",
+    "health": 4,
+    "id": "YOG_527",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迷你灭世者",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>如果你控制着其他机械，则造成4点伤害。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Steven Prescott",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56819,
+    "flavor": "不积废料，无以成邪爆。",
+    "health": 7,
+    "id": "BT_155",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "废料场巨像",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽，亡语：</b>召唤一个7/7并具有<b>嘲讽</b>的邪爆巨像。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 57181,
+    "flavor": "伊利达雷称之为“腐糊护肤”凝胶，对抗德拉诺暴烈的阳光特别有效。",
+    "health": 2,
+    "id": "BT_721",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "起泡的腐泥怪",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "在你的回合结束时，召唤一个属性值等同于本随从的腐质。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57191,
+    "flavor": "无防护措施的活动极易造成传染，请不要模仿。",
+    "health": 2,
+    "id": "BT_731",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "传染孢子",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "在对随从造成伤害后，将其变为\n传染孢子。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 63778,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43121,
+    "flavor": "他总想朝别人做粗鄙的手势，幸好他没有中指。",
+    "health": 4,
+    "id": "LOOT_013",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "粗俗的矮劣魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "techLevel": 1,
+    "text": "<b>嘲讽，战吼：</b>对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43122,
+    "flavor": "狗头人用蜡油十进制法来分类图书。",
+    "health": 1,
+    "id": "LOOT_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狗头人图书管理员",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>\n抽一张牌。对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43128,
+    "faction": "ALLIANCE",
+    "flavor": "“不用在意附加条款，只要签名就行了。”",
+    "id": "LOOT_017",
+    "name": "黑暗契约",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个友方随从。为你的英雄恢复#8点生命值。",
+    "type": "SPELL"
+  }
+]

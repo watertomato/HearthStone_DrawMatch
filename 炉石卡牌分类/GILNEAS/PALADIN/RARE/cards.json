@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Nutchapol Thitinunthakorn",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 47201,
+    "durability": 0,
+    "flavor": "银虽然质地较软，不适合用来做锋利的武器……但是它好看呀！",
+    "health": 4,
+    "id": "GIL_596",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "银剑",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "在你的英雄攻击后，你的所有随从获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47405,
+    "flavor": "他是吉尔尼斯教堂的敲钟人。外表丑陋异常，但心地却极其善良。",
+    "health": 4,
+    "id": "GIL_634",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "警钟哨卫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>战吼，亡语：</b>将一个<b>奥秘</b>从你的牌库中置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 47614,
+    "flavor": "“你信圣光吗？！”",
+    "health": 5,
+    "id": "GIL_685",
+    "name": "圣光楷模",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "set": "GILNEAS",
+    "text": "如果本随从的攻击力大于或等于3，便拥有<b>嘲讽</b>和<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

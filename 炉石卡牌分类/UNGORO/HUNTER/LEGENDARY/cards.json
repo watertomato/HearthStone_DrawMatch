@@ -1,0 +1,45 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 9,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41366,
+    "elite": true,
+    "flavor": "常年生活在沼泽潮湿环境下的爵德，不可避免地患上了关节炎。",
+    "health": 9,
+    "id": "UNG_919",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沼泽之王爵德",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "在你的对手使用一张随从牌后，攻击该随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41368,
+    "elite": true,
+    "flavor": "是1个大恐龙可怕呢，还是20个小恐龙可怕呢？这是一个值得思考的…啊！它们来了！！",
+    "id": "UNG_920",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "湿地女王",
+    "questReward": "UNG_920t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>使用七张法力值消耗为（1）的随从牌。\n<b>奖励：</b>卡纳莎女王。",
+    "type": "SPELL"
+  }
+]

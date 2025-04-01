@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Velvet Engine",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 2796,
+    "elite": true,
+    "flavor": "她最喜欢别人说她像翠迪了，我保证。",
+    "health": 5,
+    "id": "AT_045",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "艾维娜",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "你的随从牌的法力值消耗为（1）点。",
+    "type": "MINION"
+  }
+]

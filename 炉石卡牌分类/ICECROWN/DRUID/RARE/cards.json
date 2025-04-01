@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42651,
+    "flavor": "德鲁伊从不安的睡梦中醒来，发现自己变形成了一只巨大的蜘蛛。",
+    "health": 2,
+    "id": "ICC_051",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "虫群德鲁伊",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS",
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>抉择：</b>变形成为1/2并具有<b>剧毒</b>；或者变形成为1/5并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42656,
+    "flavor": "我一直以为瘟疫都是苍蝇老鼠在传播，可没想到你是这样的精灵。",
+    "id": "ICC_054",
+    "name": "传播瘟疫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "NATURE",
+    "text": "召唤一只1/5并具有<b>嘲讽</b>的甲虫。如果你的对手拥有的随从更多，则再次施放该法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43022,
+    "flavor": "这不是盗墓，我只是在……清理墓地。",
+    "health": 3,
+    "id": "ICC_807",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "硬壳清道夫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>使你具有<b>嘲讽</b>的随从获得+2/+2。",
+    "type": "MINION"
+  }
+]

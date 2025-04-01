@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56420,
+    "elite": true,
+    "flavor": "艾萨拉女王的私人侍女，变成了伊利丹·怒风的副官。兼任发型嘶嘶嘶……师。",
+    "health": 3,
+    "id": "BT_109",
+    "mechanics": [
+      "DEATHRATTLE",
+      "SPELLPOWER"
+    ],
+    "name": "瓦丝琪女士",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n<b>亡语：</b>将“终极瓦丝琪”洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 57619,
+    "elite": true,
+    "flavor": "“快把它扔回去！快扔回去！”",
+    "health": 5,
+    "id": "BT_230",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鱼斯拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>对一个敌方随从造成3点伤害。如果该随从死亡，则对一个相邻的随从重复此效果。",
+    "type": "MINION"
+  }
+]

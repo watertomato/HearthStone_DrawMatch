@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42649,
+    "flavor": "遍身丝网者，不是养蛛人。",
+    "id": "ICC_050",
+    "name": "蛛网",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "召唤两只1/2并具有<b>剧毒</b>的\n蜘蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phil Saunders",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42748,
+    "flavor": "他常在餐后用利爪帮自己剔牙。",
+    "id": "ICC_079",
+    "name": "铁齿铜牙",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "使你的英雄获得3点护甲值，并在本回合中获得\n+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43025,
+    "flavor": "他曾是甲虫乐队的一员，效忠巫妖王后便隐退了。",
+    "health": 6,
+    "id": "ICC_808",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "地穴领主",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n在你召唤一个随从后，获得+1生命值。",
+    "type": "MINION"
+  }
+]

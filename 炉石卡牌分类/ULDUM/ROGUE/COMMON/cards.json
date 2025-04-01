@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54261,
+    "flavor": "最强的捕鼠能手，上猫窝与下猫窝之王，红色光斑的征服者，全知全能的喵特谢普苏特。",
+    "health": 2,
+    "id": "ULD_186",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "法老御猫",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ULDUM",
+    "text": "<b>战吼：\n</b>随机将一张<b>复生</b>随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54015,
+    "durability": 0,
+    "flavor": "钩！钩！钩！哦嘞哦嘞哦嘞！",
+    "health": 2,
+    "id": "ULD_285",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "钩镰弯刀",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "<b>连击：</b>获得+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ekaterina Shapovalova",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54317,
+    "flavor": "“是我！托瓦格尔！”",
+    "id": "ULD_328",
+    "name": "聪明的伪装",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "随机将另一职业的两张法术牌置入你的手牌。",
+    "type": "SPELL"
+  }
+]

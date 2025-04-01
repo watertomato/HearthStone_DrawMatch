@@ -1,0 +1,33 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50644,
+    "flavor": "多年来的驯服成果毁于一旦。",
+    "id": "TRL_119",
+    "name": "野兽之心",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "使一个友方野兽获得+1/+1，使其随机攻击一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rudy Siswanto",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50212,
+    "flavor": "“喂？对，主人，我是霍弗。”",
+    "id": "TRL_339",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "主人的召唤",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "从你的牌库中<b>发现</b>一张随从牌。如果三张牌都是野兽，改为抽取全部三张牌。",
+    "type": "SPELL"
+  }
+]

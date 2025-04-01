@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102633,
+    "flavor": "哼。应该是风之优雅图腾。哼。",
+    "id": "WON_091",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "图腾团聚",
+    "overload": 1,
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "召唤全部五种<i>（？！）</i>基础图腾。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peet Cooper",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103224,
+    "durability": 0,
+    "flavor": "只有得到锤子认可的人，才能将其举起。",
+    "health": 3,
+    "id": "WON_321",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "灌魔之锤",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>你的英雄技能改为“造成\n2点伤害”。",
+    "type": "WEAPON"
+  }
+]

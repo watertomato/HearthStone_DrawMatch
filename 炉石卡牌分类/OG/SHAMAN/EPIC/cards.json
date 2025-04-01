@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "J. Meyers & Nutchapol",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38265,
+    "flavor": "即便长了这么多眼睛，走起路来还是会撞到人。",
+    "health": 2,
+    "id": "OG_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒哨卫",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>将你所有<b>过载</b>的法力水晶解锁。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38270,
+    "durability": 0,
+    "flavor": "这把蕴含了元素之力的战锤散发出诡异的暮色光芒。",
+    "health": 2,
+    "id": "OG_031",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暮光神锤",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>亡语：</b>召唤一个4/2的元素。",
+    "type": "WEAPON"
+  }
+]

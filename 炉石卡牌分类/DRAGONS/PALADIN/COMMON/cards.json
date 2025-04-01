@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55048,
+    "flavor": "人在空中难免伤，巨龙盛来琥珀光。",
+    "health": 6,
+    "id": "DRG_226",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "琥珀看守者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "targetingArrowText": "恢复8点生命值。",
+    "text": "<b>战吼：</b>\n恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55056,
+    "flavor": "时刻期待着发现新的朋友。不包括死亡之翼。",
+    "health": 3,
+    "id": "DRG_229",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "LIFESTEAL"
+    ],
+    "name": "青铜龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>吸血</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55069,
+    "flavor": "从奥丹姆回来之后，每个人都能吐出点沙子来。",
+    "id": "DRG_233",
+    "name": "沙尘吐息",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DRAGONS",
+    "text": "使一个随从获得+1/+2。如果你的手牌中有龙牌，使其获得<b>圣盾</b>。",
+    "type": "SPELL"
+  }
+]

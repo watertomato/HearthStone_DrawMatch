@@ -1,0 +1,77 @@
+[
+  {
+    "artist": "AJ Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106307,
+    "flavor": "“是啊，自然法术足以供我生存，但这些爱好才是我的生活。”",
+    "id": "VAC_305",
+    "name": "冰霜摆件",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "召唤两个2/4并具有<b>嘲讽</b>和“<b>亡语：</b>获得4点护甲值”的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106310,
+    "flavor": "“听懂的和我一起唱！——咿呜咿呜！”",
+    "id": "VAC_308",
+    "name": "海妖之歌",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "随机获取两张你在本局对战中未施放过的派系的法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108338,
+    "flavor": "“呃……我怎么没看到头顶的水流？”",
+    "health": 3,
+    "id": "VAC_954",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "顶流主唱",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>使你手牌中每个派系的各一张法术牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110848,
+    "flavor": "冰冠堡垒滑雪场，值得一去，死了也值。",
+    "id": "WORK_030",
+    "isMiniSet": true,
+    "name": "冰冠堡垒宣传单",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "对一个随从造成$3点伤害并<b>冻结</b>\n其相邻随从。\n<i>（每回合翻面。）</i>",
+    "type": "SPELL"
+  }
+]

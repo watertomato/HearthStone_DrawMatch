@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47554,
+    "flavor": "它能帮你从昏迷中苏醒，还能教你飞。",
+    "health": 3,
+    "id": "GIL_664",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "三眼乌鸦",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "每当你施放一个法术，随机召唤一个法力值消耗为（2）的\n随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 47821,
+    "flavor": "舔一舔就知道甜不甜了。",
+    "id": "GIL_801",
+    "name": "急速冷冻",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "GILNEAS",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从。如果该随从已被<b>冻结</b>，则将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48445,
+    "flavor": "她性格之奇特，绝非偶然。",
+    "health": 3,
+    "id": "GIL_838",
+    "mechanics": [
+      "BATTLECRY",
+      "SPELLPOWER"
+    ],
+    "name": "黑猫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1，战吼：</b>如果你的牌库中只有法力值消耗为奇数的牌，抽一张牌。",
+    "type": "MINION"
+  }
+]

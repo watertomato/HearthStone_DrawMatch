@@ -1,0 +1,35 @@
+[
+  {
+    "artist": "Cicily He",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48764,
+    "flavor": "以来自月之暗面的稀有矿藏打磨而成。",
+    "id": "BOT_436",
+    "name": "棱彩透镜",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "从你的牌库中抽一张随从牌和一张法术牌，交换其法力值消耗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48989,
+    "flavor": "“温德，灯再亮一点！”“我已经开到最大啦，坎格尔！”",
+    "health": 4,
+    "id": "BOT_910",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亮石技师",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+2/+2。",
+    "type": "MINION"
+  }
+]

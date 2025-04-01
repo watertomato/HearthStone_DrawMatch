@@ -1,0 +1,27 @@
+[
+  {
+    "artist": "Robb Shoberg",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 1806,
+    "flavor": "“虚空！别调皮了，为师叫你呢，过来吧，虚空！”",
+    "health": 4,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁制作。",
+    "id": "FP1_022",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "空灵召唤者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>\n随机将一张恶魔牌从你的手牌置入战场。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56483,
+    "flavor": "地狱野猪培根，野兽的最爱！",
+    "health": 1,
+    "id": "BT_202",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "地狱野猪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>随机使你手牌中的一张野兽牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56482,
+    "flavor": "它不关心是谁弄醒了它，总之必须得有个人挨上几口。",
+    "health": 4,
+    "id": "BT_211",
+    "name": "被禁锢的魔喉",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>2回合。唤醒时，随机攻击一个\n敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56703,
+    "flavor": "“一头奄奄一息的野兽。先生们，我们可以将其重塑！让它变得更强，更快……更扎手。”",
+    "id": "BT_213",
+    "name": "拾荒者的智慧",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "抽一张野兽牌。使其获得+3/+3。",
+    "type": "SPELL"
+  }
+]

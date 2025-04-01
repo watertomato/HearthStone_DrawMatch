@@ -1,0 +1,211 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 63778,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43121,
+    "flavor": "他总想朝别人做粗鄙的手势，幸好他没有中指。",
+    "health": 4,
+    "id": "LOOT_013",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "粗俗的矮劣魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "techLevel": 1,
+    "text": "<b>嘲讽，战吼：</b>对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43122,
+    "flavor": "狗头人用蜡油十进制法来分类图书。",
+    "health": 1,
+    "id": "LOOT_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狗头人图书管理员",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>\n抽一张牌。对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43128,
+    "faction": "ALLIANCE",
+    "flavor": "“不用在意附加条款，只要签名就行了。”",
+    "id": "LOOT_017",
+    "name": "黑暗契约",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个友方随从。为你的英雄恢复#8点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43133,
+    "flavor": "铁钩只是个装饰，实战中并不怎么需要。",
+    "health": 4,
+    "id": "LOOT_018",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "铁钩掠夺者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>如果你的生命值小于或等于15点，则获得+3/+3和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43272,
+    "flavor": "“阿扎里将紫色的石头送给黑暗之心，只有最渴求力量的人才能得到。第一个拥抱黑暗的是术士林恩，得到石头后她就杀死了同袍。”——《魔石》",
+    "id": "LOOT_043",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "小型法术紫水晶",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n对一个随从造成$3点伤害。<i>（受到来自你的卡牌的伤害后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 45820,
+    "flavor": "他曾经只是个男仆，但后来被拖欠了工资。",
+    "health": 2,
+    "id": "LOOT_306",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "着魔男仆",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>\n<b>招募</b>一个恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 46056,
+    "flavor": "他能让一切归于虚空，包括每个月的信用卡账单。",
+    "health": 9,
+    "id": "LOOT_368",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "虚空领主",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>嘲讽，亡语：</b>\n召唤三个1/3并具有<b>嘲讽</b>的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 46040,
+    "elite": true,
+    "flavor": "已知的，未知的，所有的一切都会被湮没。",
+    "health": 6,
+    "id": "LOOT_415",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "首席门徒林恩",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>嘲讽，亡语：</b>\n将“第一封印”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46286,
+    "flavor": "快跑啊！天上下蜡烛啦！",
+    "id": "LOOT_417",
+    "name": "大灾变",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "FIRE",
+    "text": "消灭所有随从。弃两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46299,
+    "durability": 0,
+    "elite": true,
+    "flavor": "不要相信死人的头颅。",
+    "health": 3,
+    "id": "LOOT_420",
+    "mechanics": [
+      "TRIGGER_VISUAL",
+      "InvisibleDeathrattle"
+    ],
+    "name": "堕落者之颅",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合开始时，从你的手牌中召唤一个\n恶魔。",
+    "type": "WEAPON"
+  }
+]

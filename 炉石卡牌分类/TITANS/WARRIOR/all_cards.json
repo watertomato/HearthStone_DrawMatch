@@ -1,0 +1,263 @@
+[
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96710,
+    "elite": true,
+    "flavor": "卡兹格罗斯打造了各个种族的泰坦造物，以期保护艾泽拉斯免受腐蚀与纷乱的侵害。",
+    "health": 5,
+    "id": "TTN_415",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "卡兹格罗斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，在本回合中获得<b>免疫</b>并随机攻击一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97678,
+    "flavor": "“他为什么气成这样？”“他在炉石的隐藏迷宫谜题里困了好多年了。”",
+    "health": 5,
+    "id": "TTN_466",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "米诺陶牛头人",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>\n每当本随从造成伤害时，获得等量的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97680,
+    "durability": 0,
+    "flavor": "还会使你的英雄获得<b>匠人精神+1</b>。",
+    "health": 3,
+    "id": "TTN_467",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "匠人之锤",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "每当你的英雄攻击时，便获得4点\n护甲值。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97687,
+    "flavor": "蒸汽沸腾，岩浆滚滚，双重保护这座蒸汽平台。",
+    "health": 3,
+    "id": "TTN_468",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蒸汽守卫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>抽一张法术牌。使你手牌中一张火焰法术牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97697,
+    "flavor": "对某些厚岩客户特别敏感。",
+    "health": 2,
+    "id": "TTN_469",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "岩肤护甲商",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本回合中，如果你的护甲值发生变化，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97700,
+    "flavor": "就你了，上吧。",
+    "id": "TTN_470",
+    "name": "火焰试炼",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "召唤五个1/1并具有<b>突袭</b>的瓦格里。当一个死亡时，使其他的获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97739,
+    "flavor": "气得冒烟了。",
+    "health": 3,
+    "id": "TTN_471",
+    "mechanics": [
+      "MAGNETIC"
+    ],
+    "name": "愤怒焚炉",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98565,
+    "flavor": "声势大，火势小。",
+    "id": "TTN_753",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "鼓动火焰",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$5点伤害。<b>锻造：</b>然后造成$5点伤害，随机分配到所有敌方随从身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97052,
+    "flavor": "卡兹格罗斯的生活可谓是其乐熔熔。",
+    "id": "TTN_803",
+    "name": "熔铸",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "随机使你手牌中的一张随从牌获得+3/+3。失去3点护甲值以重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97061,
+    "elite": true,
+    "flavor": "最好的进攻其实是加强防守。准确地说，叠30点就够了。",
+    "health": 8,
+    "id": "TTN_811",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "首席管理官奥丁",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你的英雄获得护甲值后，还会在当回合获得等量的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100870,
+    "elite": true,
+    "flavor": "你有4，他就没4；你没4，他就真的4了。",
+    "health": 6,
+    "id": "YOG_500",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "维扎克斯将军",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>战吼：</b>获得4点护甲值。<b>亡语：</b>失去4点护甲值以再次召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100874,
+    "flavor": "“我要抱住他，缠紧他，亲切地叫他土灵乔治。”",
+    "health": 2,
+    "id": "YOG_501",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "历战无面者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "targetingArrowText": "变形成为它的复制。",
+    "text": "<b>战吼：</b>变形成为一个受伤的随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100875,
+    "flavor": "我们本打算在这里写一段某位人气主播的笑话，但因为某位设计师的严重洁癖而作罢。",
+    "id": "YOG_502",
+    "isMiniSet": true,
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "清理污染",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "对所有随从造成等同于你的护甲值的伤害。<b>锻造：</b>先获得3点护甲值。",
+    "type": "SPELL"
+  }
+]

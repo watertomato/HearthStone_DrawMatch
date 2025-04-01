@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64637,
+    "elite": true,
+    "flavor": "悄悄地进去，打枪的不要。",
+    "id": "SW_322",
+    "name": "保卫矮人区",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>通过三张法术牌造成伤害。<b>奖励：</b>你的英雄技能能够以随从为目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64970,
+    "elite": true,
+    "flavor": "“我就是鼠界之王！”",
+    "health": 5,
+    "id": "SW_323",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "鼠王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>突袭</b>，<b>亡语：</b>进入<b>休眠</b>状态。在5个友方随从死亡后复活。",
+    "type": "MINION"
+  }
+]

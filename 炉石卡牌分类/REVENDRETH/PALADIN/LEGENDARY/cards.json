@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 78086,
+    "elite": true,
+    "flavor": "三张传说邀请函，啊！啊！啊！",
+    "health": 7,
+    "id": "REV_951",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女伯爵",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，将3张<b>传说</b>邀请函置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78146,
+    "elite": true,
+    "flavor": "这点心要啃多少口才能吃到馅？",
+    "health": 3,
+    "id": "REV_955",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "执事者斯图尔特",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>亡语：</b>\n使你召唤的下一个白银之手新兵获得+3/+3以及此<b>亡语</b>。",
+    "type": "MINION"
+  }
+]

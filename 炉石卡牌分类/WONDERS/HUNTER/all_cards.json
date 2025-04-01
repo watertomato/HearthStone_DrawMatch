@@ -1,0 +1,246 @@
+[
+  {
+    "artist": "Lorenzo Minaca",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102541,
+    "flavor": "伟大的狙击手总是能够正中目标。就像吃下一整块猪肋排。嗯，味道好极了。",
+    "id": "WON_018",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "狙击",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，对该随从造成$6点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Skan Srisuwan",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102544,
+    "flavor": "到处都是蜘蛛，真让人头皮发麻。",
+    "id": "WON_021",
+    "name": "天降蛛群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WONDERS",
+    "text": "召唤三只1/1并具有“<b>亡语：</b>随机获取一张野兽牌”的\n结网蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Joe Wilson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102545,
+    "flavor": "很遗憾，哈里森·琼斯没能加入到探险者协会，但他的探险帽却成了会员的标配。",
+    "id": "WON_022",
+    "name": "探险帽",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WONDERS",
+    "text": "使一个随从获得+1/+1，以及“<b>亡语：</b>获取一张探险帽”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 102546,
+    "flavor": "雷克萨唤醒米莎，拿起墙角的机关枪，眯着眼睛说道：“子弹上膛！是时候找点乐子了！”",
+    "id": "WON_023",
+    "name": "子弹上膛",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "在本回合中，每当你施放一个法术，随机获取一张\n猎人卡牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102547,
+    "elite": true,
+    "flavor": "在老伙计恐鳞的帮助下，酸喉能够轻易地咬穿板甲。看来有些骑士要倒大霉了！",
+    "health": 2,
+    "id": "WON_024",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "酸喉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "每当有敌方随从受到伤害时，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102548,
+    "elite": true,
+    "flavor": "有酸喉这个老伙计在，就没有嚼不烂的骑士。",
+    "health": 2,
+    "id": "WON_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恐鳞",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "在你的回合结束时，对所有敌人造成\n1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102549,
+    "flavor": "永恒龙军团的刺客等候时机，要在萨尔成为大酋长之前把他干掉。",
+    "health": 3,
+    "id": "WON_026",
+    "name": "敦霍尔德卧底",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "WONDERS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张法力值消耗为（3）并获得<b>剧毒</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102552,
+    "flavor": "大部分时间都沉迷在了《暗黑破坏神IV》里。",
+    "health": 1,
+    "id": "WON_027",
+    "mechanics": [
+      "BATTLECRY",
+      "ECHO"
+    ],
+    "name": "迷时迅猛龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>回响</b>。<b>战吼：</b><b>进化</b>你的迷时迅猛龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi & Konstantin Turovec",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102553,
+    "flavor": "经查，这两只冰虫曾团灭冒险者33次，被判有罪，不予通过考验。",
+    "id": "WON_028",
+    "name": "冰虫考验",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "召唤你牌库中法力值消耗小于或等于（3）点的两只野兽的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Seamus Gallagher",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102981,
+    "flavor": "一声长啸百兽惊，贫瘠之地留威名。",
+    "health": 5,
+    "id": "WON_162",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "百兽之王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>\n你每控制一只其他野兽，便拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Howard Lyon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103196,
+    "flavor": "戴眼镜的蛇当然会瞄的更准一点。",
+    "id": "WON_306",
+    "name": "眼镜蛇射击",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "对一个随从和敌方英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103197,
+    "flavor": "污手党提供的装备稳定性不怎么好，误伤事件屡有发生。",
+    "health": 3,
+    "id": "WON_307",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "豺狼人土枪手",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>随机使你手牌中的一张随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 105901,
+    "flavor": "污手党声称不对质量问题承担任何责任。",
+    "id": "WON_347",
+    "name": "走私货物",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "随机使你手牌中的一张野兽牌获得+2/+2。",
+    "type": "SPELL"
+  }
+]

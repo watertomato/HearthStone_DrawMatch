@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56598,
+    "flavor": "这就是鸦人的交友方式。",
+    "id": "BT_253",
+    "name": "心灵分裂",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+1/+2，并召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56681,
+    "flavor": "啊，训诫靴……拿来治疗苦工的懒病最快了。",
+    "health": 2,
+    "id": "BT_256",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙喉监工",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "在你的回合结束时，使另一个友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56632,
+    "flavor": "正在利用业余时间备战龙喉氏族的石锤大会。",
+    "health": 4,
+    "id": "BT_262",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙喉哨兵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1攻击力和<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

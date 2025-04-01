@@ -1,0 +1,191 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38304,
+    "flavor": "如果你的英雄不先动手的话，它们就得改名叫“异种观察蝎”了。",
+    "health": 5,
+    "id": "OG_034",
+    "name": "异种群居蝎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "在本回合中，除非你的英雄进行过攻击，否则无法进行攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38528,
+    "flavor": "竟然为敌人治疗！看来连中央处理器都被腐化了。",
+    "health": 6,
+    "id": "OG_147",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "腐化治疗机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>亡语：</b>为敌方英雄恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ryan Metcalf",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38545,
+    "flavor": "对于先知而言，水晶球长在脑袋上真是太方便了。",
+    "health": 3,
+    "id": "OG_161",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐化先知",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>对所有非鱼人随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38547,
+    "flavor": "只要加入教派，就可以享受免费的下午茶。这也是克苏恩这么受欢迎的原因。",
+    "health": 2,
+    "id": "OG_162",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩的信徒",
+    "rarity": "RARE",
+    "set": "OG",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>\n造成2点伤害。使你的克苏恩获得+2/+2<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38792,
+    "flavor": "要是他吃下了爆炸陷阱，就最好离他远一点。没人会喜欢这种惊喜的。",
+    "health": 4,
+    "id": "OG_254",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥秘吞噬者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>摧毁所有敌方<b>奥秘</b>。每摧毁一个，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Zhang",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38795,
+    "flavor": "为什么会有人蠢到去召唤厄运？",
+    "health": 9,
+    "id": "OG_255",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "厄运召唤者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>使你的克苏恩获得+2/+2<i>（无论它在哪里）。</i>如果克苏恩死亡，将其洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Lockwood",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38957,
+    "flavor": "白天看上去也很恐怖。",
+    "health": 4,
+    "id": "OG_320",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "午夜幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>你每有一张其他手牌，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38960,
+    "flavor": "传闻地精财阀暗地里提供了资金支持，从而使黑水海盗得以迅速发展壮大。",
+    "health": 5,
+    "id": "OG_322",
+    "name": "黑水海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "你的武器法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 39118,
+    "flavor": "每一位加入教派的新人，都必须接受克苏恩的一整套职前培训（洗脑）课程。",
+    "health": 6,
+    "id": "OG_339",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "斯克拉姆狂热者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n使你的克苏恩\n获得+2/+2<i>（无论它在哪里）</i>。",
+    "type": "MINION"
+  }
+]

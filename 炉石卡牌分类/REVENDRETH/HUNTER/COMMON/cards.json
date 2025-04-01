@@ -1,0 +1,80 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79555,
+    "flavor": "不得经过起点。不得收取200金币。",
+    "id": "MAW_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "否决动议",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>在你的对手在一回合中使用三张牌后，对敌方英雄造成$6点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78264,
+    "flavor": "右边那只更时髦。",
+    "id": "REV_350",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "狂暴利齿",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "召唤两只2/1的蝙蝠。<b>注能（3）：</b>使其获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78268,
+    "flavor": "特别擅长“蹲好别动”。",
+    "health": 5,
+    "id": "REV_352",
+    "mechanics": [
+      "INFUSE",
+      "RUSH"
+    ],
+    "name": "石缚加尔贡",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>突袭</b>，<b>注能（3）：</b>同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 78273,
+    "flavor": "最爱的食物是巧克力麦片。",
+    "health": 1,
+    "id": "REV_356",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "狂蝠来宾",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>亡语：</b>召唤一只2/1的蝙蝠。",
+    "type": "MINION"
+  }
+]

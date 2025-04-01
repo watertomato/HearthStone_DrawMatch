@@ -1,0 +1,3979 @@
+[
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102149,
+    "flavor": "你连一只雪鳍企鹅都顶不住，难道还想……来两只？！",
+    "id": "DEEP_000",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "召唤结界",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>奥秘：</b>当你的回合开始时，召唤你法力值消耗最高的随从的一个复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102151,
+    "flavor": "一定是不小心才拼错的。",
+    "id": "DEEP_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "错位化石",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>发现</b>一张野兽牌和一张亡灵牌，交换其属性值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "MAGE",
+    "classes": [
+      "HUNTER",
+      "MAGE"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102152,
+    "flavor": "总是出霍法。",
+    "id": "DEEP_002",
+    "isMiniSet": true,
+    "name": "元素伙伴",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "随机召唤一个元素伙伴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102158,
+    "flavor": "但愿结果不会太糟。",
+    "id": "DEEP_003",
+    "isMiniSet": true,
+    "name": "磷光射击",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "ARCANE",
+    "text": "造成$1点伤害，随机召唤一个法力值消耗与伤害量相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "classes": [
+      "HUNTER",
+      "MAGE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102160,
+    "flavor": "你想装修吗？我认识一个帷幔造型师。",
+    "health": 5,
+    "id": "DEEP_004",
+    "isMiniSet": true,
+    "name": "地幔塑型者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "本牌在你手中时，你每施放一个法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102161,
+    "flavor": "亡魂？灵魂又死了一次？",
+    "health": 6,
+    "id": "DEEP_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "黑曜亡魂",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>随机召唤两个法力值消耗小于或等于（3）点的<b>亡语</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102162,
+    "flavor": "“我是岩石神龙——早上好！”",
+    "health": 8,
+    "id": "DEEP_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "ELUSIVE",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "岩石幼龙",
+    "race": "DRAGON",
+    "races": [
+      "ELEMENTAL",
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>圣盾</b>，<b>嘲讽</b>，<b>吸血</b>，<b>扰魔</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Hayes",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102163,
+    "elite": true,
+    "flavor": "话说芬利到底是怎么把所有人都变成鱼人的？",
+    "health": 3,
+    "id": "DEEP_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "无畏爵士芬利",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，将所有敌方随从变形成为1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "classes": [
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102172,
+    "flavor": "绿石头进，红石头出：针岩进，血石出。",
+    "health": 2,
+    "id": "DEEP_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "针岩图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，获得2点护甲值并抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edward Frayna",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102173,
+    "flavor": "这种错误只能犯一次。",
+    "id": "DEEP_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "向下深挖",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$8点伤害。<b>发掘</b>一个宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARRIOR",
+    "classes": [
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102175,
+    "flavor": "他们看起来大受震撼！",
+    "id": "DEEP_010",
+    "isMiniSet": true,
+    "name": "余震",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "对所有随从造成$1点伤害，造成三次。如果你在上个回合施放过法术，则法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARRIOR",
+    "classes": [
+      "WARRIOR",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102249,
+    "flavor": "渠道100%合规的火元素心脏极为稀少。这一颗绝对不是。",
+    "id": "DEEP_011",
+    "isMiniSet": true,
+    "name": "灼燃之心",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$2点伤害，如果它依然存活，使你的英雄在本回合中获得+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "ROGUE",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102250,
+    "flavor": "分享即是关心——但它没有心。",
+    "health": 1,
+    "id": "DEEP_012",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "影石潜伏者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>战吼：</b>夺取你的武器并获得其属性值。<b>亡语：</b>还回武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102252,
+    "flavor": "不容错过的清场好隙。",
+    "id": "DEEP_013",
+    "isMiniSet": true,
+    "name": "邪能陷隙",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "对所有随从造成$2点伤害。在你的下个回合开始时，再对所有随从造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "classes": [
+      "ROGUE",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102254,
+    "durability": 0,
+    "flavor": "疾速矿锄急速出，狂锄矿锄出极速。出矿锄，粗矿出，锄出粗矿铸矿锄。",
+    "health": 2,
+    "id": "DEEP_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "疾速矿锄",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的英雄攻击后，抽一张牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104524,
+    "flavor": "声音尖利，有点锈迹。沾了点污泥，还有点神秘。",
+    "health": 1,
+    "id": "DEEP_015",
+    "isMiniSet": true,
+    "mechanics": [
+      "MAGNETIC",
+      "REBORN"
+    ],
+    "name": "义肢假手",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>磁力</b>。<b>复生</b>\n可以<b>磁力</b>吸附在机械或亡灵上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104523,
+    "durability": 0,
+    "flavor": "认清它的石质：这是把武器！",
+    "health": 3,
+    "id": "DEEP_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "FREEZE",
+      "LIFESTEAL"
+    ],
+    "name": "石英碎击槌",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>吸血</b>。<b>冻结</b>任何受到你的英雄伤害的角色。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102418,
+    "flavor": "他们一定会没逝的。",
+    "id": "DEEP_017",
+    "isMiniSet": true,
+    "name": "采矿事故",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤两个1/1并具有“<b>亡语：</b>召唤一个1/1的脆弱的食尸鬼”的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104526,
+    "flavor": "格洛布在蘑菇矿中辛劳终日，同时菇量着自己的处境。恍惚之间，他猛然惊觉：他的老板实在没什么劲。",
+    "id": "DEEP_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "魔菇采掘",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WILD_WEST",
+    "text": "使一个随从获得<b>圣盾</b>。<b>发掘</b>一个宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "WARRIOR",
+    "classes": [
+      "WARRIOR",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104530,
+    "flavor": "唔，我觉得这是粉色。",
+    "health": 2,
+    "id": "DEEP_019",
+    "isMiniSet": true,
+    "name": "赤红岩床",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "选择一个\n受伤的随从，召唤一个它的<b>休眠</b>一回合的复制。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104528,
+    "elite": true,
+    "flavor": "布莱恩的效果——真不赖。",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "DEEP_020",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深岩矿工布莱恩",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则在本局对战的剩余时间内，你的<b>战吼</b>会触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104537,
+    "flavor": "安度因会大大方方地带走你的东西。圣光的事，能算偷吗？",
+    "id": "DEEP_021",
+    "isMiniSet": true,
+    "name": "暗言术：窃",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "将一个敌方随从移回<b>你</b>的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102421,
+    "flavor": "价值千斤。",
+    "id": "DEEP_022",
+    "isMiniSet": true,
+    "name": "愚人金",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "随机获取其他职业的金色海盗牌和元素牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102422,
+    "flavor": "独角兽牧师一定喜欢这个。",
+    "health": 2,
+    "id": "DEEP_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "隐藏宝石",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>潜行</b>。在你的回合结束时，为所有友方角色恢复#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102424,
+    "flavor": "信不信由你，这一只是列车司机杰里的旋岩虫。那么它的名字究竟应该读作什么呢？杰里的旋岩虫？杰瑞的旋岩虫？还是杰瑞的旋烟囱？",
+    "health": 4,
+    "id": "DEEP_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "FORGE",
+      "LIFESTEAL",
+      "QUICKDRAW"
+    ],
+    "name": "亮石旋岩虫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "WILD_WEST",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b><b>吸血</b>。快枪：</b>造成5点伤害。<b>锻造：</b>将<b>快枪</b>变为<b>战吼</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102423,
+    "flavor": "对镜泄愤一下子，映像破碎一辈子:(",
+    "id": "DEEP_025",
+    "isMiniSet": true,
+    "name": "破碎映像",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TITAN"
+    ],
+    "set": "WILD_WEST",
+    "text": "选择一个随从，将一个它的复制置入你的手牌，牌库和战场。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102426,
+    "flavor": "大——地——坠——饰——之——力！！",
+    "id": "DEEP_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "大地坠饰",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "从你的牌库中<b>发现</b>一张随从牌，为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102427,
+    "flavor": "前有<b>抉择</b>，后有<b>绝择</b>。",
+    "health": 8,
+    "id": "DEEP_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE",
+      "FORGE",
+      "TAUNT"
+    ],
+    "name": "暗石守卫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>抉择：</b>弃两张牌；或者摧毁你的一个法力水晶。<b>锻造：</b>无需弃牌或摧毁。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102432,
+    "flavor": "结晶不积极，元素有问题。",
+    "id": "DEEP_028",
+    "isMiniSet": true,
+    "name": "晶体结积",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WILD_WEST",
+    "text": "获得三个空的法力水晶，每有一个超过上限的法力水晶，召唤一个3/7并具有<b>嘲讽</b>的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102434,
+    "flavor": "别！用这么值钱的宝石丢我！不要！停！",
+    "health": 2,
+    "id": "DEEP_029",
+    "isMiniSet": true,
+    "name": "穴居人宝石投掷者",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>压轴：</b>你每有一个法力水晶，随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102435,
+    "flavor": "这是基本元素，亲爱的华砷。",
+    "health": 1,
+    "id": "DEEP_030",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "源质晶簇",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>抽一张牌，并对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102443,
+    "flavor": "原来是它把大家染<b>绿</b>了！",
+    "id": "DEEP_031",
+    "isMiniSet": true,
+    "name": "混乱化形",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "造成$6点伤害。随机召唤一个法力值消耗为（6）的随从。摧毁你牌库底的6张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102724,
+    "flavor": "想冻住灵魂，先冻住身体。",
+    "id": "DEEP_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "灵魂冻结",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从及其相邻随从，对你的英雄造成等同于所<b>冻结</b>随从数量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102728,
+    "flavor": "他其实没那么差。如果你第4回合没死的话。",
+    "health": 4,
+    "id": "DEEP_033",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "化石水晶龙",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>随机获得两项<b>额外效果</b>。<b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102732,
+    "flavor": "冷门俱乐部“名字叫蛛却不是野兽”的第2名会员。",
+    "health": 2,
+    "id": "DEEP_034",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "页岩蛛",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102733,
+    "flavor": "又菜又爱炫。",
+    "health": 3,
+    "id": "DEEP_035",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "炫彩旋岩虫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>使你的每个随从各获得一项随机<b>额外效果</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 104573,
+    "elite": true,
+    "flavor": "你们都以为我们把她忘了，是吧？*尬笑*",
+    "health": 5,
+    "id": "DEEP_036",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "塞拉赞恩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>使你手牌和牌库中的所有元素牌属性值翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102741,
+    "elite": true,
+    "flavor": "玛鲁特是世界之柱的保护者，曾英勇地抗击暮光之锤，帮助塞拉赞恩抵御大灾变。",
+    "health": 6,
+    "id": "DEEP_037",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "玛鲁特·缚石",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，<b>发现</b>一个元素并召唤，并将其余的置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Loren",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98762,
+    "flavor": "会挖矿的狗头人，消耗为2点，生命值极低，还能给你提供资源……这不是《魔兽大作战》吗？",
+    "health": 1,
+    "howToEarnGolden": "可以在<i>决战荒芜之地</i>奖励路线中获得该奖励。",
+    "id": "WW_001",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "狗头人矿工",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>\n<b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98768,
+    "flavor": "它的名字差点就定成了“钻机巨人”。不过那样的话，它的身材就得变成8/8。",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>决战荒芜之地</i>奖励路线中获得该奖励。",
+    "id": "WW_002",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE",
+      "RUSH"
+    ],
+    "name": "破地钻机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>战吼：</b><b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98769,
+    "flavor": "雷诺一直想在荒芜之地露露脸。他确实做到了。",
+    "health": 5,
+    "id": "WW_003",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "悬赏公告栏",
+    "rarity": "RARE",
+    "referencedTags": [
+      "EXCAVATE",
+      "QUICKDRAW",
+      "TRADEABLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "你的<b>发掘，快枪</b>，<b>可交易</b>和<b>传说</b>牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 99129,
+    "flavor": "你知道吗？只有高端的玩家才能两次都扎在同一个目标上。这个就叫做“镖准”！",
+    "id": "WW_006",
+    "name": "飞镖投掷",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "随机向敌方随从投掷两枚造成$2点伤害的飞镖。<i>（如果两枚击中同一个随从，获取一张幸运币！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 99221,
+    "flavor": "记得在家长回家之前把元素从冰箱里拿出来！",
+    "id": "WW_009",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "低温贮藏",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WILD_WEST",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个敌人。<b>发掘</b>一个\n宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 99961,
+    "elite": true,
+    "flavor": "如果说还有什么能治愈荒芜之地的话，那一定是青蛙之力！",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "WW_010",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荷利戴医生",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，装备九蛙魔杖。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100286,
+    "flavor": "哇哦，牛上天了！",
+    "health": 4,
+    "id": "WW_024",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体原野岩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，召唤两只3/3并具有<b>突袭</b>的奶牛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 100234,
+    "flavor": "要么就是那个巨人身材不够大，要么就是那座门修得太大了！",
+    "health": 8,
+    "howToEarnGolden": "可以在<i>决战荒芜之地</i>奖励路线中获得该奖励。",
+    "id": "WW_025",
+    "name": "艾泽里特巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "每有一个你使用过元素牌的连续的回合，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100288,
+    "elite": true,
+    "flavor": "这可不是在卡拉赞了，雷诺。",
+    "health": 7,
+    "id": "WW_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灾变飓风斯卡尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>对所有敌人造成1点伤害<i>（每有一个你使用过元素牌的连续的回合，伤害都会提升）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100291,
+    "flavor": "教科书般的长幼关系。",
+    "id": "WW_027",
+    "name": "可靠陪伴",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "使一个随从获得+2/+3。如果该随从有随从类型，抽一张该类型的随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101269,
+    "flavor": "亮绿色液体一般都对人体有害……可能是废弃物，也可能是什么新口味的软饮料。",
+    "health": 2,
+    "id": "WW_041",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "排污助理",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>将一张淤泥桶置于你的\n牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 7,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101270,
+    "flavor": "三“洁”原则：能源清洁！环境整洁！世界浩劫！",
+    "health": 7,
+    "id": "WW_042",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "废物清理工",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，摧毁你牌库底的\n三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101271,
+    "flavor": "走一路，洒一路。",
+    "health": 5,
+    "id": "WW_043",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "轮式淤泥怪",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。每当本随从受到伤害时，获取一张淤泥桶并将一张淤泥桶置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101272,
+    "flavor": "头戴淤泥眼镜，笑看多彩人生。",
+    "health": 1,
+    "howToEarnGolden": "可以在<i>决战荒芜之地</i>奖励路线中获得该奖励。",
+    "id": "WW_044",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "列车机务工",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>获取一张淤泥桶。<i>有毒废弃物：请妥善处理。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101109,
+    "flavor": "法外狂徒的手法对决。",
+    "id": "WW_051",
+    "name": "决战！",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "双方玩家各召唤三个3/3的歹徒，使你召唤的获得<b>突袭</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101110,
+    "flavor": "不不不，我要的不是瓶装闪光，是瓶装闪电！",
+    "id": "WW_052",
+    "name": "萤光虫群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤10只1/1并具有<b>吸血</b>的萤光虫。将超过随从数量上限的萤光虫存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101382,
+    "flavor": "飞车党连车都要劫走！？",
+    "id": "WW_053",
+    "name": "飞车劫掠",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "获取你的对手上回合使用的每张卡牌的各一张复制。",
+    "type": "SPELL"
+  },
+  {
+    "armor": 5,
+    "artist": "Mooncolony",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 103471,
+    "elite": true,
+    "flavor": "雷诺的过去成谜，前途未卜。他是多么的幸运，能在这片荒原上找到自己的家。",
+    "health": 30,
+    "heroPowerDbfId": 103472,
+    "id": "WW_0700",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "孤胆游侠雷诺",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，将所有敌方随从移出对战。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102061,
+    "flavor": "蛙制，蛙有，蛙享。",
+    "id": "WW_080",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "两栖药剂",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "恢复#5点\n生命值。<b>发现</b>一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102059,
+    "flavor": "除了把荒芜之地搅个稀巴烂，斯卡尔最大的爱好是保龄球。",
+    "id": "WW_090",
+    "name": "巨型风滚草！",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "对所有随从造成$6点伤害。召唤一个6/6的风滚草。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102144,
+    "elite": true,
+    "flavor": "坏蛋坏蛋追呼呼！杰里火车开嘟嘟！满车淤泥噗噗噗！",
+    "health": 6,
+    "id": "WW_091",
+    "mechanics": [
+      "AURA",
+      "BATTLECRY"
+    ],
+    "name": "腐臭淤泥波普加",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "text": "你的邪能法术法力值消耗减少（2）点且拥有<b>吸血</b>。<b>战吼：</b>获取两张淤泥桶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102148,
+    "flavor": "为了那些不知道该把什么牌抽出套牌的人准备的！",
+    "id": "WW_092",
+    "name": "液力压裂",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "检视你的牌库底的三张牌，抽其中一张，摧毁其余牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98734,
+    "flavor": "我能明白它们是生态系统的重要环节，我也尊重它们，前提是你让它们离我远——————一点。",
+    "health": 2,
+    "id": "WW_300",
+    "mechanics": [
+      "POISONOUS",
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "陷坑蜘蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>潜行</b>。<b>剧毒</b>。在你的对手使用一张随从牌后，攻击该随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 99957,
+    "flavor": "这些工人不会流汗，不用呼吸，连蜡烛都省了……你还有什么不满意的呢？",
+    "health": 3,
+    "id": "WW_322",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "骷髅矿工",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b><b>发掘</b>一个宝藏，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 99959,
+    "flavor": "堆得不错，很整齐，很连贯。",
+    "health": 1,
+    "id": "WW_324",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨堆",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>在你下次<b>发掘</b>时，再次\n召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100015,
+    "flavor": "就差一点点了小家伙，相信自己，你能行的！！",
+    "id": "WW_325",
+    "mechanics": [
+      "LIFESTEAL",
+      "QUICKDRAW"
+    ],
+    "name": "脱水",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>吸血</b>。对一个随从造成$4点伤害。<b>快枪：</b>法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100016,
+    "flavor": "矿车巡逻兵，你要去何方？去哪里追寻财富与名望？",
+    "health": 5,
+    "id": "WW_326",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "矿车巡逻兵",
+    "overload": 2,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>过载：</b>（2）。<b>战吼：</b>如果你在上个回合使用过元素牌，则本牌不会<b>过载</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100019,
+    "flavor": "棘尾幼龙最好的朋友。",
+    "health": 2,
+    "id": "WW_327",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "仙人掌割水工",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张法术牌。如果你在本回合中施放抽到的牌，则获得+1/+2和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100062,
+    "flavor": "就为了扔这么一捆炸药，你至于穿这么大一身机甲吗？",
+    "health": 4,
+    "id": "WW_329",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "机甲爆王",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>使你手牌中的<b>嘲讽</b>随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100101,
+    "flavor": "“嗨！你好啊亲！你想创业自己当老板吗？”",
+    "health": 2,
+    "id": "WW_331",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "奇迹推销员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>获取一张<b>可交易</b>的蛇油。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100103,
+    "flavor": "对战打得好，蛇油绝对不能少。",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>决战荒芜之地</i>奖励路线中获得该奖励。",
+    "id": "WW_332",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "蛇油商人",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>将2张<b>可交易</b>的蛇油洗入你对手的\n牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100113,
+    "flavor": "喝水喝出鱼腥味，这下知道该怪谁了吧。",
+    "health": 3,
+    "howToEarnGolden": "购买<i>决战荒芜之地</i>炉石通行证后开放解锁。",
+    "id": "WW_333",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "交际鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "每当你的手牌少于三张，随机获取一张鱼人牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100114,
+    "flavor": "我成了死神，艾泽里特的毁灭者。",
+    "id": "WW_334",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "加固护板",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "获得6点\n护甲值。<b>发掘</b>\n一个宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100118,
+    "flavor": "等等，就是说……他是不是应该叫“神圣科多仔”？",
+    "health": 3,
+    "id": "WW_335",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神圣牛仔",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>你的下一张神圣法术牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100121,
+    "flavor": "彩虹有七色，每个敌方随从一个。",
+    "id": "WW_336",
+    "name": "棱彩光束",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "对所有敌人造成$3点伤害。每有一个敌方随从，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100124,
+    "elite": true,
+    "flavor": "这就是荒芜之地！的精神！",
+    "health": 4,
+    "id": "WW_337",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒芜之地的精魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则获取一张<i>永久</i>的\n幻象牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100195,
+    "flavor": "你是我最喜欢的警……哦，你死了啊，我开玩笑的，那位才是我最喜欢的警官。",
+    "id": "WW_341",
+    "name": "警务光环",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "spellSchool": "HOLY",
+    "text": "你最左边的随从拥有+1攻击力和<b>吸血</b>。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100230,
+    "flavor": "凡事总喜欢从他自己的法律里翻出法条。",
+    "health": 5,
+    "id": "WW_342",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "name": "长臂执法者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>战吼：</b>你每有一张手牌，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. Gimaldinov & J. Nelson",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100284,
+    "flavor": "这张牌原来有3000点攻击力！",
+    "health": 1,
+    "id": "WW_344",
+    "mechanics": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD"
+    ],
+    "name": "威猛银翼巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>圣盾</b>。<b>亡语：</b>抽一张神圣法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 100285,
+    "elite": true,
+    "flavor": "劫掠者……集合！",
+    "id": "WW_345",
+    "name": "荒芜之地劫掠者",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "获取八张3/2并具有<b>额外效果</b>的劫掠者。手牌中放不下的劫掠者会被召唤。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 100537,
+    "flavor": "是谁？……是爆破龟！\n“是我，爆破龟。”",
+    "health": 7,
+    "id": "WW_346",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "爆破龟",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>对所有敌方随从造成等同于本随从攻击力的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100539,
+    "durability": 0,
+    "flavor": "你可以用战斧挖矿，也可以用矿镐战斗，但你不能，呃……乱镐你的战斧。",
+    "health": 1,
+    "id": "WW_347",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "矿镐战斧",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WILD_WEST",
+    "text": "在你使用一张<b>嘲讽</b>随从牌后，获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100540,
+    "flavor": "“我不该带蜡烛。”",
+    "id": "WW_348",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "误炸",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "对随机随从分别造成$3点，$2点和$1点伤害。<b>快枪：</b>可以选择目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100546,
+    "flavor": "注意注意注意——RKO登场了！",
+    "health": 4,
+    "id": "WW_349",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒芜之地乱斗打手",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>发起一场绝命乱斗！如果你已经<b>发掘</b>过两次，则本随从总会赢得胜利。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100553,
+    "flavor": "小时偷猫，长大偷牛。可耻。",
+    "health": 4,
+    "id": "WW_351",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "偷牛贼",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张野兽牌，其法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100595,
+    "flavor": "看看这顶土掉渣的帽子，难怪裁缝被栽到了地里。",
+    "id": "WW_352",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "自埋自收",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "造成$3点\n伤害。<b>发掘</b>一个\n宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100611,
+    "flavor": "理论上讲，它们两个现在还不算是残骸。",
+    "id": "WW_354",
+    "name": "残骸遍野",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "对一个随从造成等同于你的<b>残骸</b>数量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 7,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100616,
+    "flavor": "无论死活，泥犁难脱。",
+    "health": 7,
+    "id": "WW_356",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "泥犁耕牛",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你已经<b>发掘</b>过两次，在本回合中你的下一张牌法力值消耗减少（7）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100619,
+    "elite": true,
+    "flavor": "心之所系即为家。哪怕父老乡亲的心已经凉透了。",
+    "health": 8,
+    "id": "WW_357",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "老腐和老墓",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，获得5份<b>残骸</b>。在你的回合开始时，消耗5份<b>残骸</b>，使你的英雄获得+5生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100627,
+    "flavor": "我知道这是只亡灵的手，但我还是要说，把小拇指弯成这样对关节很不好。",
+    "health": 3,
+    "id": "WW_358",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "QUICKDRAW"
+    ],
+    "name": "农场小助手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b><b>发现</b>一张亡灵牌。<b>快枪：</b>其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100641,
+    "elite": true,
+    "flavor": "那位就是荒芜之地桶屋的主人，桶沿警长吗？",
+    "health": 4,
+    "howToEarn": "收集30张<i>决战荒芜之地</i>卡牌后开放解锁。",
+    "howToEarnGolden": "购买<i>决战荒芜之地</i>炉石通行证后开放解锁。",
+    "id": "WW_359",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "桶沿警长",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的生命值小于或等于20点，开启荒芜之地监狱。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101093,
+    "flavor": "这还得熬多久？至少6年！",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>决战荒芜之地</i>奖励路线中获得该奖励。",
+    "id": "WW_360",
+    "mechanics": [
+      "BATTLECRY",
+      "QUICKDRAW",
+      "TAUNT"
+    ],
+    "name": "艾泽里特苦囚",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼，快枪：</b>召唤一个本随从的\n复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101133,
+    "flavor": "满手的钱，得意的笑，她太贪了。",
+    "health": 4,
+    "id": "WW_363",
+    "mechanics": [
+      "COMBO",
+      "QUICKDRAW"
+    ],
+    "name": "押注猎手",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>快枪或连击：</b>获取一张幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101134,
+    "elite": true,
+    "flavor": "他的伪装成功把血石公司骗入了无底深坑。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "WW_364",
+    "name": "威拉罗克·温布雷",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "当本牌在你手牌中时，使用一张另一职业的卡牌以揭示威拉罗克的真正形态！",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101142,
+    "flavor": "“乖乖听话！”的另类说法。",
+    "id": "WW_365",
+    "mechanics": [
+      "QUICKDRAW",
+      "TRADEABLE"
+    ],
+    "name": "不许乱动",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "HOLY",
+    "text": "<b>可交易</b>\n将一个随从的攻击力和生命值变为1。<b>快枪：</b>然后对其造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 101162,
+    "flavor": "即便是在最黑暗的日子里，荒芜之地的太阳也永远不会落下。",
+    "health": 6,
+    "id": "WW_366",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "活体天光",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>圣盾</b>。你每有一张其他手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101264,
+    "flavor": "呵，我应该会死……第二次。",
+    "health": 2,
+    "id": "WW_367",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "倒霉的炸药师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>使你手牌和牌库中的<b>嘲讽</b>随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101265,
+    "flavor": "“戴夫，我说了你肯定不信！这次植物变成了僵尸！”",
+    "id": "WW_368",
+    "name": "耕地轮作",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "召唤四个1/1并具有<b>突袭</b>且会在回合结束时死亡的亡灵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 101367,
+    "elite": true,
+    "flavor": "血石公司自从雇了这家伙，生意火爆极了！",
+    "health": 7,
+    "id": "WW_372",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "爆破工头索格伦",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>将3张TNT炸药洗入你对手的牌库。当抽到炸药时，炸毁其手牌，牌库和面板上的各一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 20,
+    "dbfId": 101375,
+    "elite": true,
+    "flavor": "雷斯卡是血石矿井的工头。他会先把人累死，再把尸体复活，最后再把尸体累死。",
+    "health": 3,
+    "id": "WW_373",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "矿坑老板雷斯卡",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。在本局对战中每有一个随从死亡，本牌的法力值消耗便减少（1）点。<b>亡语：</b>随机夺取一个敌方随从的控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101376,
+    "flavor": "产量虽不大，例例皆心苦。",
+    "id": "WW_374",
+    "name": "凉心农场",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "消耗最多\n8份<b>残骸</b>，随机召唤一个法力值消耗相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 16,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101454,
+    "elite": true,
+    "flavor": "你太贪了，挖得太深了。你知道你在荒芜之地唤醒了什么吗？突袭和嘲讽。",
+    "health": 16,
+    "id": "WW_375",
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "偃息的焰喉",
+    "race": "BEAST",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>嘲讽</b>。<b>休眠</b>6回合。<i>（<b>发掘</b>即可提前2回合唤醒！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101461,
+    "flavor": "那些杀不死你的事物，只会让你死得更惨。",
+    "health": 1,
+    "id": "WW_376",
+    "mechanics": [
+      "POISONOUS"
+    ],
+    "name": "仙人掌暴怒者",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101462,
+    "flavor": "这是你人生中<i>迄今为止</i>最热的一个夏天。",
+    "id": "WW_377",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "热浪来袭",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "对一个敌方随从及其相邻随从造成$2点伤害。<b>快枪：</b>改为对所有敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101464,
+    "flavor": "别怕，这列车烧的是绿色能源！",
+    "id": "WW_378",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "列车烟囱",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$1点伤害。如果该随从死亡，<b>发掘</b>一个\n宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101476,
+    "elite": true,
+    "flavor": "你肯定猜不到大家为什么要叫他这个名字。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "WW_379",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "弗林特·枪臂",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "QUICKDRAW"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>随机获取一张<b>快枪</b>牌。如果你在本回合使用获取的牌，重复此效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101480,
+    "flavor": "你的爆系法术拥有+1攻击力。",
+    "id": "WW_380",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "起爆炸药",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "消灭一个受伤的敌方随从。<b>发掘</b>一个宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101481,
+    "faction": "HORDE",
+    "flavor": "荒芜之地到处都是仙人掌，这份工作一定很伤人。",
+    "health": 7,
+    "id": "WW_381",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERHEAL"
+    ],
+    "name": "受伤的搬运工",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>对本随从造成4点伤害。<b>过量治疗：</b>对所有敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101482,
+    "flavor": "山动了！",
+    "health": 16,
+    "id": "WW_382",
+    "mechanics": [
+      "LIFESTEAL",
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "步移山丘",
+    "overload": 2,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>超级风怒</b>。<b>过载：（2）</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101483,
+    "flavor": "这位干鳞警官……就是我们镇上的甘霖！",
+    "health": 2,
+    "id": "WW_383",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "干鳞警官",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>你下一次抽到一张法术牌时，获取一张它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101955,
+    "flavor": "“呵，你想多了，我们银行的名字叫‘和善’。”",
+    "health": 4,
+    "id": "WW_384",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "QUICKDRAW"
+    ],
+    "name": "和善的银行职员",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张法术牌。<b>快枪：</b>改为从敌方牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101958,
+    "flavor": "快！给她拿一张法力渴求牌！",
+    "health": 6,
+    "id": "WW_387",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "口渴的流浪者",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。在本局对战中，你每使用过一张法力值消耗为（1）的牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101966,
+    "flavor": "“我不明白，为什么大家都去抢着挖艾泽里特，这里明明有这么多的金子！”",
+    "health": 2,
+    "id": "WW_391",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "淘金客",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 101989,
+    "elite": true,
+    "flavor": "从图书馆到荒野，她证明了自己的领导才能。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "WW_392",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒地奇兵伊莉斯",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，随机召唤你牌库中4个随从的5/5的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102051,
+    "flavor": "不要让阴影四处蔓延，快瓶蔽掉！",
+    "id": "WW_393",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "影叶入侵",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "对一个敌方随从造成$10点伤害。将超过目标生命值的伤害存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102052,
+    "elite": true,
+    "flavor": "有一次，我发现危险的坏蛋切瑞·欧列就在皮普的身边，可我最终只喊出了“皮普！皮普！欧——”",
+    "health": 3,
+    "id": "WW_394",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "皮普，强力水霸",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>复制你手牌中法力值消耗为\n（1）的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102054,
+    "flavor": "这儿有瓶儿水儿！",
+    "id": "WW_395",
+    "name": "神圣泉水",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "HOLY",
+    "text": "为一个受伤的角色恢复#8点生命值。将超过目标生命值上限的治疗量存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102129,
+    "flavor": "“可恶之极坏到炸裂的元素”这个名字太长了。",
+    "health": 3,
+    "id": "WW_397",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "炸裂元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>对除友方元素外的所有随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102170,
+    "flavor": "见识下她的看家本领！",
+    "health": 4,
+    "id": "WW_398",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "提灯门卫",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>将你的手牌洗入牌库，然后抽取相同数量的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102171,
+    "flavor": "“终极技能准备——呃，我是说，我的法力值够了。”",
+    "health": 3,
+    "id": "WW_399",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "正午决斗者",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>双方玩家抽牌！摧毁其中法力值消耗较低的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100296,
+    "elite": true,
+    "flavor": "嘿！说你呢，把你所有的手全都放在桌面上！",
+    "health": 4,
+    "id": "WW_400",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "蛇眼",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>投两枚骰子，然后\n<b>发现</b>法力值消耗分别对应点数的两张牌。<i>（投出对子可以额外<b>发现</b>一张！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98652,
+    "elite": true,
+    "flavor": "“我牺牲了一切（牌库中的复制）！你又付出了什么？”",
+    "health": 6,
+    "id": "WW_401",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "枪手库尔特鲁斯",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则对敌方手牌中的随从开六枪，每枪造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100358,
+    "flavor": "“中了……吧。”",
+    "health": 3,
+    "id": "WW_402",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "盲眼神射手",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "在你使用一张纳迦牌后，随机对一个敌人造成2点伤害，抽一张法术牌。\n<i>（然后切换！）</i>2在你施放一个法术后，随机对一个敌人造成2点伤害，抽一张纳迦牌。\n<i>（然后切换！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100359,
+    "flavor": "我不过是想把沙子撒到你眼睛里，兄弟，你把嘴张得那么大干什么！",
+    "id": "WW_403",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "袋底藏沙",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "造成$3点伤害。<b>快枪：</b>你对手的下一张牌法力值消耗增加（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100361,
+    "flavor": "血石矿业公司污染了绿洲，蛇眼因此放下了与荒芜之地各个帮派的恩怨，阻止血石的恶行。",
+    "id": "WW_404",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "绿洲歹徒",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>发现</b>一张纳迦牌。如果你在此牌在你手中时使用过纳迦牌，发现的牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100362,
+    "flavor": "我原本以为，库尔特鲁斯会更喜欢战刃。",
+    "id": "WW_405",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "迅疾连射",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "造成$6点伤害，分配到生命值最低的敌人身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 100363,
+    "flavor": "集齐三只，就能凑成一件史诗级\nT恤。",
+    "health": 6,
+    "id": "WW_406",
+    "mechanics": [
+      "OUTCAST",
+      "RUSH"
+    ],
+    "name": "午夜啸狼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>流放：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100365,
+    "flavor": "喝不喝都得死。",
+    "health": 2,
+    "id": "WW_407",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "焦渴的亡命徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过法术，使你的英雄在本回合中获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100367,
+    "flavor": "机器调酒师！调好我的流放牌，别傻愣着！",
+    "health": 1,
+    "id": "WW_408",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "机器调酒师",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张<b>流放</b>牌并将其放在你手牌中的最左边。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100369,
+    "flavor": "等等！决斗开始之前我需要先安装着色器。",
+    "id": "WW_409",
+    "name": "装填弹膛",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "造成$2点伤害。你的下一张纳迦牌，邪能法术牌和武器牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100935,
+    "flavor": "如果算上卡牌名里的“七”字，那总共就有四个7，而不是三个。设计师的巨大失误。",
+    "id": "WW_410",
+    "name": "三条七",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "对一个随从造成$7点伤害。\n抽7张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100936,
+    "flavor": "威拉罗克，先让我把我的回合打完，都烧绳了！",
+    "id": "WW_411",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "持枪要挟",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "QUICKDRAW"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>发现</b>一张另一职业的<b>快枪</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100937,
+    "durability": 0,
+    "flavor": "舞铲者，联合起来！",
+    "health": 3,
+    "id": "WW_412",
+    "mechanics": [
+      "DEATHRATTLE",
+      "EXCAVATE"
+    ],
+    "name": "血石牌铁铲",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>\n<b>发掘</b>一个宝藏。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100938,
+    "flavor": "是谁的雕像，是谁的宝藏，又给谁带来了创伤。",
+    "health": 3,
+    "id": "WW_413",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "古董投手",
+    "rarity": "RARE",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "set": "WILD_WEST",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100942,
+    "flavor": "对着星星许愿？切，幼稚。稍等，等我把幸运币都投进这座井里。",
+    "health": 7,
+    "id": "WW_415",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "许愿井",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "在你使用一张幸运币后，随机获取一张另一职业的<b>传说</b>随从牌并将其法力值消耗变为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100943,
+    "flavor": "我觉得……三个下面都有！",
+    "id": "WW_416",
+    "name": "龟壳游戏",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "随机获取其他职业的史诗，稀有和普通卡牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100944,
+    "elite": true,
+    "flavor": "“我讨厌这个绰号。\n叫我钻先生！”",
+    "health": 3,
+    "id": "WW_417",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "EXCAVATE",
+      "QUICKDRAW"
+    ],
+    "name": "钻头小子",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，快枪，亡语：</b><b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101549,
+    "flavor": "再买一顶帽子不就好了？",
+    "health": 4,
+    "id": "WW_418",
+    "mechanics": [
+      "FORGETFUL",
+      "RUSH"
+    ],
+    "name": "食人魔帮歹徒",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>突袭。</b>50%几率攻击错误的敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Loren",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101550,
+    "flavor": "下马难分左右，上马不识东西。",
+    "health": 6,
+    "id": "WW_419",
+    "mechanics": [
+      "FORGETFUL",
+      "RUSH"
+    ],
+    "name": "食人魔帮骑手",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭。</b>攻击时有50%几率改为使你的英雄在本回合中获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101551,
+    "flavor": "100%的几率不按规则来。",
+    "health": 4,
+    "id": "WW_420",
+    "mechanics": [
+      "FORGETFUL",
+      "RUSH"
+    ],
+    "name": "食人魔帮王牌",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。每当本随从攻击时，获得<b>圣盾</b>。<i>（50%的几率改为获得\n<b>吸血</b>。）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101555,
+    "elite": true,
+    "flavor": "好人，坏人，经典身材的带头人。",
+    "health": 7,
+    "id": "WW_421",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "帮派头领普德",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>复活你的食人魔帮众，使其获得\n<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101849,
+    "flavor": "每当矿脉附近的大地颤动，那究竟是地震，还是这颗星球的心跳？",
+    "id": "WW_422",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "艾泽里特矿脉",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>奥秘：</b>当敌人使用一张在当回合进入手牌的牌时，获取一张它的复制，其法力值消耗为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101871,
+    "flavor": "桶沿赴酒店，旧店沽酒酽。酒筵谷酒鲜，酒仙复同宴。",
+    "health": 2,
+    "id": "WW_423",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "沙龙酒仙",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "targetingArrowText": "将一个友方随从移回手牌，并使其获得+2/+2。",
+    "text": "<b>战吼：</b>将一个友方随从移回你的手牌，使其获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101873,
+    "flavor": "它身上流下来的“水滴”——其实是火！",
+    "health": 2,
+    "id": "WW_424",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "溢流熔岩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>每有一个你使用过元素牌的连续的回合，召唤一个本随从的复制。0<i>（召唤0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101874,
+    "flavor": "看到天上的光点了吗？那就是“星星”。哦，你说那个，那个不是星星，那个叫“飞机”。",
+    "id": "WW_425",
+    "name": "观星",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "ARCANE",
+    "text": "抽一张不同的奥术法术牌。如果你在本回合中使用这张抽到的牌，则会施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101875,
+    "flavor": "“管他呢，我先炸了！”",
+    "health": 4,
+    "id": "WW_426",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "矿工炎术师",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：发掘</b>一个宝藏。你每有一张手牌，便随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101876,
+    "flavor": "当夕阳光线刚刚好的时候，你就可以拿出自拍杆狠狠地拍一通了。",
+    "id": "WW_427",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "夕阳漫射",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "造成$10点伤害，随机分配到所有敌人身上。随机召唤一个法力值消耗为（10）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101877,
+    "flavor": "特别适合沉迷于旧版本的玩家。",
+    "health": 3,
+    "id": "WW_428",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "侵蚀沉积岩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，<b>发现</b>一张来自过去的任意元素牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101879,
+    "elite": true,
+    "flavor": "大家一起开个元素庆祝一下！",
+    "health": 5,
+    "id": "WW_429",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "碎裂巨岩迈沙顿",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张元素牌，将其拆成两半。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101880,
+    "elite": true,
+    "flavor": "控制死骑直播的头号粉丝。",
+    "health": 5,
+    "id": "WW_430",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "泰瑟兰·血望者",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "你的套牌之外的牌法力值消耗减少（4）点<i>（但不能少于1点）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101881,
+    "flavor": "他本是一条普通的蛇。直到有一天，他爬进了一间正在火并的沙龙，走出来时就变成了这样。",
+    "health": 5,
+    "id": "WW_431",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "枪尾蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，装填两发枪弹，每发可以造成1点伤害。<b>亡语：</b>随机对敌人开火！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101939,
+    "flavor": "如果研究员研究的一切都是秘密，那还研究什么？",
+    "health": 5,
+    "id": "WW_432",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神圣遗物学会研究员",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "EXCAVATE",
+      "SECRET"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，随机施放两个法师<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101968,
+    "flavor": "你从哪里来？（从排舞伴侣的战吼中来）你去哪里？（去打脸）",
+    "health": 2,
+    "id": "WW_433",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "排舞的伴侣",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你手牌中有其他法力值消耗为（3）的牌，随机召唤一个法力值消耗为（3）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101969,
+    "flavor": "这就是不要直视太阳的原因。",
+    "health": 6,
+    "howToEarnGolden": "可以在<i>决战荒芜之地</i>奖励路线中获得该奖励。",
+    "id": "WW_434",
+    "mechanics": [
+      "LIFESTEAL",
+      "QUICKDRAW",
+      "TRADEABLE"
+    ],
+    "name": "日斑巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "targetingArrowText": "造成6点伤害。",
+    "text": "<b>可交易</b>\n<b>吸血</b>。<b>快枪：</b>造成6点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101971,
+    "flavor": "拥有跳扑学博士学位。",
+    "health": 3,
+    "id": "WW_435",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "飞踏野兔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "你的野兽拥有<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103462,
+    "flavor": "我要是能预想到所有可能的情况那该有多好！",
+    "id": "WW_436",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "列车难题",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "弃掉你法力值最低的法术牌。召唤两节3/3并具有<b>突袭</b>的矿车。<b>快枪：</b>无需弃牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103463,
+    "elite": true,
+    "flavor": "其实应该读作“杰瑞”。",
+    "health": 4,
+    "id": "WW_437",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "列车司机杰里",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，召唤六节3/3并具有<b>突袭</b>的矿车。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 102902,
+    "elite": true,
+    "flavor": "好马喝水不能强按头。可要是它喝起水来，电翻了水里的各种生物，更是按都按不住。",
+    "health": 6,
+    "howToEarn": "完成学徒阶段后解锁。",
+    "howToEarnGolden": "购买<i>决战荒芜之地</i>炉石通行证后开放解锁。",
+    "id": "WW_440",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "奔雷骏马",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>从你的牌库中召唤一个元素和一只野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102903,
+    "flavor": "还记得摩天龙吗？他现在变成这个了。有沧桑的感觉了吧？",
+    "id": "WW_441",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "锅炉燃料",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "当本牌被使用，弃掉或摧毁时，抽两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102904,
+    "flavor": "兼任镇上的牙医。",
+    "health": 5,
+    "id": "WW_442",
+    "mechanics": [
+      "DEATHRATTLE",
+      "EXCAVATE",
+      "TAUNT"
+    ],
+    "name": "钻拳莫尔葛",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b><b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104999,
+    "flavor": "不要远离朋友，更不要远离对手，更更更不要远离你自己的影子。",
+    "id": "WW_600",
+    "name": "夺舍对射",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "召唤你对手手牌中一个随机随从的4/4的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100171,
+    "flavor": "你是条潜行的蛇，对吧？",
+    "id": "WW_806",
+    "name": "潜踪群蛇",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤两条1/1并具有<b>潜行</b>的蛇。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100191,
+    "flavor": "飞鸟传书，书传飞鸟。",
+    "health": 2,
+    "id": "WW_807",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "秃鹫信使",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>抽一张野兽牌。使你手牌中的随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100172,
+    "flavor": "擅长探索隐秘的神庙。",
+    "health": 3,
+    "id": "WW_808",
+    "mechanics": [
+      "POISONOUS",
+      "QUICKDRAW",
+      "RUSH"
+    ],
+    "name": "银蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b><b>突袭</b>。<b>剧毒</b>\n快枪：</b>在本回合中获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100173,
+    "flavor": "神秘奶牛关重见天日。",
+    "health": 3,
+    "id": "WW_809",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "骷髅牛",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>如果本随从的攻击力大于或等于4点，召唤一只骷髅牛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100174,
+    "flavor": "什么坐骑？我什么都没看到……",
+    "id": "WW_810",
+    "name": "迷彩坐骑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "使一个随从获得+3/+3和一项随机<b>额外效果</b>。当该随从死亡时，召唤一只变色龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101950,
+    "flavor": "又称十加仑牛仔帽。实际上它的容量只有四分之三加仑，但这样叫太难听了。",
+    "id": "WW_811",
+    "name": "宽檐高帽",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "抽一张随从牌。使其获得+1/+1和\n“<b>亡语：</b>获取一张宽檐高帽”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100178,
+    "flavor": "一行人向着夕阳飞驰而去，全然忘记了家里的炉子没有关。",
+    "id": "WW_812",
+    "name": "跨鞍飞驰",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "使你的随从获得“<b>亡语：</b>随机召唤一只法力值消耗小于或等于（3）点的野兽”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101953,
+    "durability": 0,
+    "flavor": "为人当怀摘星之志。即便够不到，也别来打我。",
+    "health": 3,
+    "id": "WW_813",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "明星手枪",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "在你的英雄攻击后，获取一张奥术射击。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100179,
+    "elite": true,
+    "flavor": "他始终保持着微笑……他也不想这样，但闭嘴时扎得太疼了。",
+    "health": 5,
+    "id": "WW_814",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "刺牙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>随机召唤一只法力值消耗等同于本随从攻击力的\n野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100180,
+    "elite": true,
+    "flavor": "人会迷路，拳头不会迷路。",
+    "health": 4,
+    "id": "WW_815",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迷失者塞尔杜林",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，在本回合中获得<b>免疫</b>并攻击所有敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101975,
+    "flavor": "比冲向天空更进一步。",
+    "id": "WW_816",
+    "name": "飞向天空",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "抽两张龙牌，使其获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101976,
+    "flavor": "“我不是玛法里奥！\n我是仙人掌大王！”",
+    "id": "WW_818",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "仙人掌构造术",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张法力值消耗为（2）的随从牌，召唤一个它的1/2的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101051,
+    "flavor": "小小雏龙乐呵呵，法力水晶\n多又多。",
+    "health": 1,
+    "id": "WW_819",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "戏水雏龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，获得一个空的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101052,
+    "flavor": "仙人掌割水工的死对头。",
+    "health": 4,
+    "id": "WW_820",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "棘尾幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "targetingArrowText": "对一个敌方随从造成5点伤害。",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，则对一个敌方随从造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101369,
+    "flavor": "“很久很久以前，有一间魔——法玩具店，各种奇迹和巨龙都会在那里出现！”",
+    "id": "WW_821",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "巨龙传说",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>抉择：</b>获取两张法力值消耗小于或等于（5）点的随机龙牌；或者获取两张法力值消耗大于（5）点的随机龙牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 101053,
+    "flavor": "我有条巨龙。我有个魔像。啊~巨龙魔像！",
+    "health": 4,
+    "id": "WW_822",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "巨龙魔像",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>你手牌中每有一张龙牌，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101054,
+    "flavor": "《炉石传说》开发团队“提醒喝水小助手”提醒您及时补水！",
+    "id": "WW_823",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "补水",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "恢复#7点生命值。<b>快枪：</b>复原两个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 8,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 101055,
+    "elite": true,
+    "flavor": "瑞亚丝塔萨不仅忠于自己所属的红龙军团，更忠于所有的巨龙军团。她坚信各族巨龙都理应存续，她也甘愿为后来的黑龙王子献出自己的生命。",
+    "health": 8,
+    "id": "WW_824",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瑞亚丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则召唤纯净龙巢。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101057,
+    "elite": true,
+    "flavor": "在血石深处，有一条名为“落日”的巨龙。",
+    "health": 12,
+    "id": "WW_825",
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "落日灵龙菲伊",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>嘲讽</b>。在本局对战中，你每召唤一条龙，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101978,
+    "flavor": "不如砂糖巢母甜，但依旧很温馨！",
+    "health": 5,
+    "id": "WW_826",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "沙漠巢母",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的手牌中有龙牌，复原四个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102001,
+    "flavor": "“我的围栏明明有小腿那么高，这群长了翅膀又会飞的小东西怎么可能又飞出来了！？见了鬼了！”",
+    "health": 3,
+    "id": "WW_827",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "雏龙牧人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，获取一张1/2并具有<b>嘲讽</b>的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98701,
+    "flavor": "它怎么了？嗨，别蹄了！",
+    "health": 1,
+    "id": "WW_900",
+    "mechanics": [
+      "BATTLECRY",
+      "QUICKDRAW"
+    ],
+    "name": "蹄铁发射机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>随机对一个敌方随从造成2点伤害。<b>快枪：</b>并对一个相邻随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98704,
+    "flavor": "“放心吧！你还信不过我吗，赏金当然是平分了！这样我拿的两份就一样多了！”",
+    "health": 3,
+    "id": "WW_901",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "贪婪的伴侣",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你手牌中有其他法力值消耗为2的牌，获取一张\n幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. Gimaldinov & Mooncolony",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98750,
+    "flavor": "好热闹啊，朋友！",
+    "health": 3,
+    "id": "WW_906",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吵闹的伴侣",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>如果你手牌中有其他法力值消耗为4的牌，造成4点\n伤害。",
+    "type": "MINION"
+  }
+]

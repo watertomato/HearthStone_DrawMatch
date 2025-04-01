@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Laurel Austin",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2782,
+    "flavor": "她对法力水晶是又爱又恨。女人心，海底针！",
+    "health": 3,
+    "id": "AT_038",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "达纳苏斯豹骑士",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>获得一个空的法力水晶。\n<b>亡语：</b>失去一个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Pascenko",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2780,
+    "flavor": "或许哼个小曲会让他安静下来……不信你试试。",
+    "health": 4,
+    "id": "AT_039",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "狂野争斗者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>激励：</b>在本回合中，使你的英雄获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2788,
+    "flavor": "他既是骑手又是坐骑，所以入场门票给打了折扣。",
+    "health": 6,
+    "id": "AT_041",
+    "name": "荒野骑士",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "在本局对战中，你每召唤过一只野兽，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  }
+]

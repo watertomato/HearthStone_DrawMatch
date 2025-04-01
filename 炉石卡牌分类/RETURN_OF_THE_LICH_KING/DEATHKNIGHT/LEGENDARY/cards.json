@@ -1,0 +1,98 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 87329,
+    "elite": true,
+    "flavor": "辛达苟萨用她最后的一丝气息，诅咒她的爱侣，以及所有任由她死在冰冠冰川的生灵。当她在巫妖王的手中重生之时，她吐出了新生的第一口寒气。那是饱含痛苦的寒气。",
+    "health": 6,
+    "id": "NX2_037",
+    "isMiniSet": true,
+    "mechanics": [
+      "COLOSSAL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "冰霜女王辛达苟萨",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>巨型+2</b>\n在一个敌方随从被<b>冻结</b>后，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86733,
+    "elite": true,
+    "flavor": "对面有只大！蜘！蛛！",
+    "health": 3,
+    "id": "RLK_225",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凋零毒牙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>感染所有敌方随从。当感染的随从死亡时，为你召唤一个2/2并具有<b>嘲讽</b>的僵尸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 7,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 80644,
+    "elite": true,
+    "flavor": "莫格莱尼，莫得问题。",
+    "health": 7,
+    "id": "RLK_706",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亚历山德罗斯·莫格莱尼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 3,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你的回合结束时，对你的对手造成3点伤害。",
+    "type": "MINION"
+  }
+]

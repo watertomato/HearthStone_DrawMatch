@@ -1,0 +1,21 @@
+[
+  {
+    "artist": "Joe Wilson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 3001,
+    "flavor": "很遗憾，哈里森·琼斯没能加入到探险者协会，但他的探险帽却成了会员的标配。",
+    "howToEarn": "在开始“探险者协会”冒险模式后解锁。",
+    "howToEarnGolden": "在开始“探险者协会”冒险模式后能够制作。",
+    "id": "LOE_105",
+    "name": "探险帽",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "LOE",
+    "text": "使一个随从获得+1/+1，以及“<b>亡语：</b>获取一张探险帽”。",
+    "type": "SPELL"
+  }
+]

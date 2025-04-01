@@ -1,0 +1,54 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 49999,
+    "flavor": "这就是……圣骑士的绝对领域吗？！",
+    "id": "TRL_302",
+    "name": "暂避锋芒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "TROLL",
+    "text": "直到你的\n下个回合，你的英雄<b>免疫</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50028,
+    "flavor": "早知道戴上氪金护目镜了！",
+    "id": "TRL_307",
+    "name": "圣光闪现",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "spellSchool": "HOLY",
+    "text": "恢复#4点生命值。抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50512,
+    "durability": 0,
+    "flavor": "快使用*哎呀*……血爪，哼哼哈*哎呀*嘿！",
+    "health": 2,
+    "id": "TRL_543",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血爪",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>对你的英雄造成5点伤害。",
+    "type": "WEAPON"
+  }
+]

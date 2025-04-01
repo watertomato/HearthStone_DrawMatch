@@ -1,0 +1,35 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 67194,
+    "flavor": "“我肯定能砸了它。”",
+    "id": "AV_109",
+    "name": "凝冰护盾",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FROST",
+    "text": "获得10点护甲值。在你的下个回合开始时，失去5点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 68246,
+    "flavor": "“学校为什么不停课？！下了这么大的雪！”",
+    "id": "AV_322",
+    "name": "冰雪围困",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FROST",
+    "text": "消灭一个受伤的随从。<b>冻结</b>所有其他随从。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102184,
+    "elite": true,
+    "flavor": "“护甲与治疗或许能暂缓我的狂热，但邪能和战刃总能鞭策着我！”",
+    "health": 5,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得500场对战后解锁。",
+    "id": "CORE_BT_187",
+    "mechanics": [
+      "AURA",
+      "CHARGE"
+    ],
+    "name": "凯恩·日怒",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "CORE",
+    "text": "<b>冲锋</b>\n所有友方攻击无视\n<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 61137,
+    "dbfId": 120570,
+    "elite": true,
+    "flavor": "接下来有请她的弟弟，平凡艺人扎尔。",
+    "health": 4,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得500场对战后解锁。",
+    "id": "CORE_DMF_231",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "扎依，出彩艺人",
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>战吼：</b>\n复制你手牌中最左边和最右边的牌。",
+    "type": "MINION"
+  }
+]

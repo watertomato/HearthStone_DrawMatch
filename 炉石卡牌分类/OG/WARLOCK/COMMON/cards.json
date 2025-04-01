@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Garrett Hanna",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38452,
+    "flavor": "夜色镇的居民选他做议员的其中一个原因，就是他嗓门大。",
+    "health": 5,
+    "id": "OG_113",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜色镇议员",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "在你召唤一个随从后，获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38774,
+    "flavor": "村民那充满魔性的舞步在艾泽拉斯造成了轰动，模仿者不计其数！",
+    "health": 1,
+    "id": "OG_241",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "着魔村民",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>召唤一个1/1的暗影兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38898,
+    "flavor": "自从有了好向导，妈妈再也不用担心我的灵魂会迷路了！",
+    "health": 5,
+    "id": "OG_302",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "渡魂者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "每当一个随从死亡，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  }
+]

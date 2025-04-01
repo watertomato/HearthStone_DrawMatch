@@ -1,0 +1,79 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86693,
+    "flavor": "通过教官拉苏维奥斯的训练，天灾军团的死亡骑士会变成无坚不摧的杀戮机器。这套冷酷训练方式的核心便是摧残手下的身心，直到其产生对教官威势的抵抗力。",
+    "id": "NX2_029",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "训练课程",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>发现</b>一张<b>嘲讽</b>随从牌。如果你在本回合使用发现的牌，重复此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84291,
+    "flavor": "很简单，把剑扔进太阳里就行。",
+    "id": "RLK_600",
+    "name": "阳炎冶锻",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FIRE",
+    "text": "装备一把4/2的剑。随机使你手牌中的一张随从牌获得+4/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84292,
+    "flavor": "如果你在一局对战中用了两张破釜沉舟，那你就什么都不剩了。",
+    "id": "RLK_601",
+    "mechanics": [
+      "MANATHIRST"
+    ],
+    "name": "破釜沉舟",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "抽一张<b>嘲讽</b>随从牌。<b>法力渴求（7）：</b>使其属性值翻倍。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86417,
+    "flavor": "两个1/2的守卫，那就是一个守卫喽。",
+    "id": "RLK_960",
+    "mechanics": [
+      "MANATHIRST"
+    ],
+    "name": "力量余烬",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FIRE",
+    "text": "召唤两个1/2并具有<b>嘲讽</b>的守卫。<b>法力渴求（6）：</b>使其获得+1/+2。",
+    "type": "SPELL"
+  }
+]

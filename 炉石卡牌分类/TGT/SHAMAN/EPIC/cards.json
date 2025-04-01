@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Peet Cooper",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2617,
+    "durability": 0,
+    "flavor": "只有得到锤子认可的人，才能将其举起。",
+    "health": 3,
+    "id": "AT_050",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "灌魔之锤",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "<b>亡语：</b>你的英雄技能改为“造成\n2点伤害”。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2620,
+    "flavor": "我虽然不是什么萨满，但他们不是一直倡导要与元素和谐共存的吗？",
+    "id": "AT_051",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "元素毁灭",
+    "overload": 2,
+    "rarity": "EPIC",
+    "set": "TGT",
+    "spellSchool": "NATURE",
+    "text": "对所有随从造成$4到$5点伤害。<b>过载：</b>（2）",
+    "type": "SPELL"
+  }
+]

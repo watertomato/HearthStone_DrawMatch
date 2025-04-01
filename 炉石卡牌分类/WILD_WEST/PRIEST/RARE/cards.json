@@ -1,0 +1,128 @@
+[
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104537,
+    "flavor": "安度因会大大方方地带走你的东西。圣光的事，能算偷吗？",
+    "id": "DEEP_021",
+    "isMiniSet": true,
+    "name": "暗言术：窃",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "将一个敌方随从移回<b>你</b>的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102424,
+    "flavor": "信不信由你，这一只是列车司机杰里的旋岩虫。那么它的名字究竟应该读作什么呢？杰里的旋岩虫？杰瑞的旋岩虫？还是杰瑞的旋烟囱？",
+    "health": 4,
+    "id": "DEEP_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "FORGE",
+      "LIFESTEAL",
+      "QUICKDRAW"
+    ],
+    "name": "亮石旋岩虫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "WILD_WEST",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b><b>吸血</b>。快枪：</b>造成5点伤害。<b>锻造：</b>将<b>快枪</b>变为<b>战吼</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102423,
+    "flavor": "对镜泄愤一下子，映像破碎一辈子:(",
+    "id": "DEEP_025",
+    "isMiniSet": true,
+    "name": "破碎映像",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TITAN"
+    ],
+    "set": "WILD_WEST",
+    "text": "选择一个随从，将一个它的复制置入你的手牌，牌库和战场。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101110,
+    "flavor": "不不不，我要的不是瓶装闪光，是瓶装闪电！",
+    "id": "WW_052",
+    "name": "萤光虫群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤10只1/1并具有<b>吸血</b>的萤光虫。将超过随从数量上限的萤光虫存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101958,
+    "flavor": "快！给她拿一张法力渴求牌！",
+    "health": 6,
+    "id": "WW_387",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "口渴的流浪者",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。在本局对战中，你每使用过一张法力值消耗为（1）的牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102051,
+    "flavor": "不要让阴影四处蔓延，快瓶蔽掉！",
+    "id": "WW_393",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "影叶入侵",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "对一个敌方随从造成$10点伤害。将超过目标生命值的伤害存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,3884 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69710,
+    "flavor": "再怎么说他也要比岩浆暴怒者冷静多了。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_AT_092",
+    "name": "冰霜暴怒者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111468,
+    "elite": true,
+    "flavor": "英雄技能2.0升级版，面向所有职业。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_AT_132",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "裁决者图哈特",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>以更强的英雄技能来替换你的初始英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102220,
+    "flavor": "我的滑板车时尚时尚最时尚。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_BOT_020",
+    "mechanics": [
+      "MAGNETIC",
+      "RUSH"
+    ],
+    "name": "滑板机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>磁力</b>\n<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102219,
+    "flavor": "我的盾，我的全身心，现在都属于你。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_BOT_021",
+    "mechanics": [
+      "MAGNETIC",
+      "TAUNT"
+    ],
+    "name": "青铜门卫",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>磁力</b>\n<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69711,
+    "flavor": "让她辅修烹饪学显然是个错误。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_BOT_083",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "毒物学家",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>使你的武器获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102969,
+    "flavor": "我来组成头部！\n我来组成躯干！\n我来组成……",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_BOT_312",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MAGNETIC"
+    ],
+    "name": "量产型恐吓机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>磁力</b>\n<b>亡语：</b>召唤三个1/1的微型机器人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97112,
+    "elite": true,
+    "flavor": "设施完备，功能齐全，只缺一个水槽就能用了。等等，它背面有个水槽。",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_BOT_548",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "MAGNETIC",
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "奇利亚斯",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>磁力，圣盾，嘲讽，吸血，突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102218,
+    "flavor": "AMANI NAKUPENDA NAKUPENDA WE WE",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_BOT_563",
+    "mechanics": [
+      "MAGNETIC"
+    ],
+    "name": "战争机兵",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>磁力</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76315,
+    "flavor": "相信我，我在喝下这瓶药水前就已经死了。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_CFM_120",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "亡灵药剂师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>为每个英雄恢复#4点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69647,
+    "flavor": "他确实能看得很远，他才不像那些肮脏的海盗们需要用望远镜。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_CS2_117",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大地之环先知",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "恢复3点生命值。",
+    "text": "<b>战吼：</b>\n恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69536,
+    "flavor": "“左撇子”爱德华·史密斯曾经试着从一条淡水鳄的嘴里把行李夺回来。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_CS2_120",
+    "name": "淡水鳄",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Brereton",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 113225,
+    "faction": "ALLIANCE",
+    "flavor": "海盗们都非常热衷于这项新的时尚活动：“趴甲板”。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_CS2_146",
+    "name": "南海船工",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "如果你装备着武器，本随从拥有\n<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69648,
+    "faction": "HORDE",
+    "flavor": "他说这是在一次惨烈的战斗中留下的伤疤，但我们觉得，他只是刮胡子的时候弄伤了自己。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_CS2_181",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "负伤剑圣",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>对自身造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauro Cascioli",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69543,
+    "flavor": "他梦想着有一天能够下山开一间拉面店。但他没有那个勇气。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_CS2_182",
+    "name": "冰风雪人",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trevor Jacobs",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69650,
+    "faction": "HORDE",
+    "flavor": "它们挥动翅膀的时候悄无声息，但是它们的嘶鸣却是...任何悄无声息的反义词都可以形容。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_CS2_203",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "铁喙猫头鹰",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "<b>沉默</b>一个随从。",
+    "text": "<b>战吼：</b>\n<b>沉默</b>一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69712,
+    "flavor": "她看着你呢。一直看着你。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_DAL_086",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夺日者间谍",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "countAsCopyOfDbfId": 55441,
+    "dbfId": 115769,
+    "elite": true,
+    "flavor": "依然能够带来生命与希望，但打起架来也毫不手软。",
+    "health": 8,
+    "id": "CORE_DRG_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "红龙女王阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则随机将两张其他龙牌置入你的手牌，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vance Kovacs",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69651,
+    "flavor": "她已经等不及想要学习2级的真言术：韧了。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_004",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "年轻的女祭司",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，随机使另一个友方随从获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69653,
+    "faction": "ALLIANCE",
+    "flavor": "“在此我严正宣誓：追随圣光，净化黑暗，只吃煎饼。”——银色黎明之誓",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_EX1_008",
+    "mechanics": [
+      "DIVINE_SHIELD"
+    ],
+    "name": "银色侍从",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 111463,
+    "elite": true,
+    "flavor": "没有人比女王更渴望真正地死去。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_016",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "希尔瓦娜斯·风行者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机夺取一个敌方随从的控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69657,
+    "faction": "HORDE",
+    "flavor": "荆棘谷是一个很适合观光的地方，但你绝对不会想住在那儿。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_EX1_017",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "丛林猎豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>潜行</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Scott Hampton",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69659,
+    "faction": "ALLIANCE",
+    "flavor": "黑铁矿脉的守护者。也许那是最令人头疼的矿脉，因为你必须在某个特殊的地方才能熔炼它。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_EX1_046",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑铁矮人",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "获得+2攻击力。",
+    "text": "<b>战吼：</b>在本回合中，使一个随从获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111474,
+    "flavor": "他们能够预见未来。在未来的时间里，双方玩家都将抽更多的牌。真准！",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_050",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "寒光智者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>每个玩家抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69548,
+    "faction": "ALLIANCE",
+    "flavor": "软泥怪喜欢弗拉门戈舞。别问为什么。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_066",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "酸性沼泽软泥怪",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n摧毁对手的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Leo Che",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111473,
+    "faction": "ALLIANCE",
+    "flavor": "精神控制技术正在日益改善，但这并不能说明什么。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_085",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "精神控制技师",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "夺取一个随从的控制权。",
+    "text": "<b>战吼：</b>如果你的对手有4个或者更多随从，夺取其中一个的控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69663,
+    "faction": "ALLIANCE",
+    "flavor": "你肯定没想到阿古斯会需要如此坚实的防御。但它确实需要。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_093",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿古斯防御者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>使相邻的随从获得+1/+1和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69664,
+    "flavor": "他曾经经营过黑市的拍卖行，但是那里的暴力冲突太多了，他只好被迫离开。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_095",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "加基森拍卖师",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你施放一个法术，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 12,
+    "dbfId": 111470,
+    "flavor": "他的妈妈说，他只是骨架比较大而已。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_EX1_105",
+    "name": "山岭巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "你每有一张其他手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabe from Penny Arcade",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111462,
+    "elite": true,
+    "faction": "ALLIANCE",
+    "flavor": "至少他还有愤怒的小鸡。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_116",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "火车王里诺艾",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>冲锋</b>，<b>战吼：</b>\n为你的对手召唤两条1/1的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69669,
+    "flavor": "这次渗透要破坏的目标是什么？是个秘密！",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_186",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "军情七处渗透者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机摧毁一个敌方<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 69670,
+    "flavor": "她喜欢在吞之前以优美的姿态撒上一撮盐。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_EX1_187",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奥术吞噬者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你施放一个法术，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69671,
+    "flavor": "就不出霍弗。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_EX1_188",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "贫瘠之地饲养员",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机召唤一只野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69672,
+    "elite": true,
+    "flavor": "小精灵龙一般是由糖、香料和无数个疯狂的副作用所组成的。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_189",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光明之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机将一张<b>传说</b>随从牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69673,
+    "elite": true,
+    "flavor": "没人告诉过她，其实勇士们并不想起来。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_190",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大检察官怀特迈恩",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤所有在本回合中死亡的友方\n随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69674,
+    "elite": true,
+    "flavor": "迦顿男爵曾经是拉格纳罗斯的首席副官，因为他实在太“火”了。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_249",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迦顿男爵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，对所有其他角色造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Zhang",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 76324,
+    "flavor": "它们本来应该是宝蓝色或是蔚蓝色，但这几个颜色显得有点太耀眼了。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_EX1_284",
+    "mechanics": [
+      "BATTLECRY",
+      "SPELLPOWER"
+    ],
+    "name": "碧蓝幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>，<b>战吼：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69554,
+    "flavor": "如果那些伤痛没能让你死掉，它们就会让你更强大。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_EX1_399",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "古拉巴什狂暴者",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当本随从受到伤害，获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69676,
+    "flavor": "作为尤格-萨隆的仆从，无面者们以人们的恐惧为食，而现在他们的菜谱中包括你对“不小心把好牌分解掉”的担心和忧虑。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_EX1_564",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无面操纵者",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "成为一个随从的复制。",
+    "techLevel": 6,
+    "text": "<b>战吼：</b>选择一个随从，成为它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Svetlin Velinov",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 76322,
+    "flavor": "嗨，巨人！",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_EX1_586",
+    "name": "海巨人",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "战场上每有一个其他随从，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 20,
+    "dbfId": 111472,
+    "flavor": "无数初次来到熔火之心的冒险者倒在他滚烫的脚掌之下。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_EX1_620",
+    "name": "熔核巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "你的英雄每缺失一点生命值，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 1914,
+    "dbfId": 120998,
+    "elite": true,
+    "flavor": "洛欧塞布原本只是头普通的沼泽兽。从它身上的变化可见矿业和农业给自然带来了多大的破坏。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "CORE_FP1_030",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "洛欧塞布",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>下个回合敌方法术的法力值消耗增加（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69714,
+    "elite": true,
+    "flavor": "整天和三个吵吵嚷嚷打打杀杀的男人们为伍，布劳缪克丝女士总是担心自己会老得很快。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_FP1_031",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "瑞文戴尔男爵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你的随从的<b>亡语</b>将触发两次。",
+    "type": "MINION"
+  },
+  {
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110080,
+    "elite": true,
+    "flavor": "“庆祝开始了，都来炉火边热闹热闹吧！这一刻属于我们所有人！”——哈斯",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_01",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哈斯·石酒",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将你的手牌替换为炉石传说史上知名的一副手牌。<i>（每局对战限一次）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 86550,
+    "flavor": "听说这位异乡怪客来自一个叫恐魔园的地方。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_GIL_124",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "苔藓恐魔",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>消灭所有其他攻击力小于或等于2的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102229,
+    "flavor": "现在你知道吉尔尼斯的苹果酱为什么会……这么酸爽了吧。",
+    "health": 6,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_GIL_667",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "腐烂的苹果树",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>为你的英雄恢复#6点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 47693,
+    "dbfId": 111686,
+    "elite": true,
+    "flavor": "“希尔瓦娜斯杀了偶的儿子，偶一定要为他报仇！”",
+    "health": 5,
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_GIL_692",
+    "mechanics": [
+      "COLLECTIONMANAGER_FILTER_MANA_EVEN",
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "吉恩·格雷迈恩",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>对战开始时：</b>如果你的套牌中只有法力值消耗为偶数的牌，你的初始英雄技能的法力值消耗变为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 111687,
+    "elite": true,
+    "flavor": "“不是我的错，月亮惹的祸。”",
+    "health": 8,
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_GIL_826",
+    "mechanics": [
+      "COLLECTIONMANAGER_FILTER_MANA_ODD",
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "噬月者巴库",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>对战开始时：</b>如果你的套牌中只有法力值消耗为奇数的牌，升级你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69715,
+    "flavor": "片刻之后，你看到的不再是齿轮和链条，它们可能变成了机器人、蜘蛛坦克、射线发射器和其他各种各样的装置……",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_GVG_013",
+    "name": "齿轮大师",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "如果你控制任何机械，便拥有\n+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69716,
+    "flavor": "“我想在这家伙上面装上一门炮，你觉得怎么样?”菲兹布里兹看着蜘蛛运输装置说道。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_GVG_044",
+    "name": "蜘蛛坦克",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69717,
+    "flavor": "这项武器究竟应该怎么使用？让你的敌人觉得它很可爱然后指望他会把它抱起来？",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_GVG_076",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "自爆绵羊",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>对所有随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Olson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69719,
+    "flavor": "有时候你能够在古拉巴什竞技场的宝箱中发现他。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_GVG_109",
+    "mechanics": [
+      "SPELLPOWER",
+      "STEALTH"
+    ],
+    "name": "小个子法师",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellDamage": 1,
+    "text": "<b>潜行，法术伤害+1</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Garner",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102216,
+    "elite": true,
+    "flavor": "让你见识一下他的厉害！",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_GVG_110",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "砰砰博士",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n召唤两个1/1的砰砰机器人。<i>警告：该机器人随时可能爆炸。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 12,
+    "dbfId": 69720,
+    "flavor": "虽然体型相仿，他和山岭巨人总是交不上朋友。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_GVG_121",
+    "name": "发条巨人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "你的对手每有一张手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95733,
+    "flavor": "虽说是幻影，但她手上的武器可是货真价实！",
+    "health": 3,
+    "id": "CORE_ICC_018",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幻影海盗",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n获得等同于你的武器属性的属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95753,
+    "flavor": "精通死灵的只能叫死灵法师，精通骷髅的才能叫骷髅法师。",
+    "health": 2,
+    "id": "CORE_ICC_019",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "骷髅法师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个8/8的骷髅。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 95755,
+    "flavor": "既然冲不了浪，那就溜冰吧。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_ICC_023",
+    "name": "雪鳍企鹅",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95739,
+    "flavor": "别放弃，骷髅！",
+    "health": 2,
+    "id": "CORE_ICC_025",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "骷髅捣蛋鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤一个5/5的骷髅。\n<b>亡语：</b>为你的对手召唤一个5/5的骷髅。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69721,
+    "flavor": "警告：该骷髅任何时候都无法爆炸。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_ICC_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冷酷的死灵法师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤两个1/1的骷髅。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95648,
+    "flavor": "我们坐在高高的骨堆旁边，听妈妈讲那过去的事情。",
+    "health": 5,
+    "id": "CORE_ICC_027",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨幼龙",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机将一张龙牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95763,
+    "flavor": "请为奥丁的殿堂带来荣耀，勇士！",
+    "health": 4,
+    "id": "CORE_ICC_028",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阳焰瓦格里",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>使相邻的随从获得+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 76330,
+    "flavor": "你有剑！他有剑！大家都有剑！",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_ICC_029",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "深蓝刃鳞龙兽",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，随机使另一个友方随从获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95731,
+    "flavor": "老实说，其实他大白天也在嗥叫。",
+    "health": 4,
+    "id": "CORE_ICC_031",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗夜嗥狼",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当本随从受到伤害，获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95777,
+    "flavor": "要不是身患绝症想为家里留笔钱，她也不会走上这条路。",
+    "health": 5,
+    "id": "CORE_ICC_032",
+    "mechanics": [
+      "POISONOUS"
+    ],
+    "name": "制毒师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95780,
+    "flavor": "其实他的真名叫“维护食尸鬼”，但遭到了卡牌名称规范委员会的强烈抗议。",
+    "health": 1,
+    "id": "CORE_ICC_067",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "维库食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95634,
+    "flavor": "这是我的符文剑。有很多类似的符文剑，但是这把符文剑是我的。",
+    "health": 1,
+    "id": "CORE_ICC_092",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿彻鲁斯老兵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "获得+1攻击力。",
+    "text": "<b>战吼：</b>使一个友方随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95771,
+    "flavor": "如果你给他500条鱼，他会给你这根精致的卡鲁亚克鱼竿。",
+    "health": 3,
+    "id": "CORE_ICC_093",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海象人渔夫",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "获得<b>法术伤害+1</b>。",
+    "text": "<b>战吼：</b>使一个友方随从获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95701,
+    "flavor": "破碎残阳祭司堕落后身材也瘦了一圈。",
+    "health": 1,
+    "id": "CORE_ICC_094",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "堕落残阳祭司",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "使其获得+1/+1。",
+    "text": "<b>战吼：</b>使一个友方随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95706,
+    "flavor": "只熔在口，不熔在手。",
+    "health": 6,
+    "id": "CORE_ICC_096",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "熔火巨像",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>弃掉你手牌中所有的武器牌，并获得这些武器的属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95711,
+    "flavor": "不知道是哪个死灵法师干的，做的有点过头了。",
+    "health": 4,
+    "id": "CORE_ICC_097",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "墓地蹒跚者",
+    "race": "ELEMENTAL",
+    "races": [
+      "UNDEAD",
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你的武器被摧毁时，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95768,
+    "flavor": "你要是常年宅着不见天日，也会长成这样。",
+    "health": 3,
+    "id": "CORE_ICC_098",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "墓穴潜伏者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机将一个在本局对战中死亡并具有<b>亡语</b>的随从置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95767,
+    "flavor": "名字的重点在第二个字。",
+    "health": 6,
+    "id": "CORE_ICC_099",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "自爆憎恶",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>对你所有的随从造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95683,
+    "flavor": "“死鱼翻身”的杰出代表。",
+    "health": 1,
+    "id": "CORE_ICC_220",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "死鳞骑士",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95675,
+    "flavor": "他只是在自管自埋头摆弄尸体，是你们这些冒险者要来找麻烦的。",
+    "health": 3,
+    "id": "CORE_ICC_257",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATH_KNIGHT"
+    ],
+    "name": "唤尸者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "获得“<b>亡语：</b>再次召唤该随从。”",
+    "text": "<b>战吼：</b>使一个友方随从获得“<b>亡语：</b>再次召唤该随从。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 95765,
+    "elite": true,
+    "flavor": "“我将我拥有的一切——愤怒，力量，意志，和8点攻击力——全部赐予你，我精心挑选的骑士。”",
+    "health": 8,
+    "id": "CORE_ICC_314",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巫妖王",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，随机将一张<b>巫妖王</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95744,
+    "flavor": "其实他更想一个人呆着。",
+    "health": 3,
+    "id": "CORE_ICC_466",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "萨隆苦囚",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95686,
+    "flavor": "虫之将死，其声也亮。",
+    "health": 4,
+    "id": "CORE_ICC_467",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亡语者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "在本回合中获得<b>免疫</b>。",
+    "text": "<b>战吼：</b>在本回合中，使一个友方随从获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95783,
+    "flavor": "要是让你去永久冻土层上耕地，你也会失心疯的。",
+    "health": 1,
+    "id": "CORE_ICC_468",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "失心农夫",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当本随从攻击时，对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95713,
+    "flavor": "做鬼呢，最重要的就是开心咯…",
+    "health": 3,
+    "id": "CORE_ICC_700",
+    "name": "开心的食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在本回合中，如果你的英雄受到治疗，则\n法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95754,
+    "flavor": "就好像千百万个青玉护符同时在咆哮，然后突然一切都变得鸦雀无声。",
+    "health": 6,
+    "id": "CORE_ICC_701",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "游荡恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>摧毁双方手牌中和牌库中所有法力值消耗为（1）的\n法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95750,
+    "flavor": "你自己海拔只有三尺高，很难挖地六尺埋葬他们。",
+    "health": 1,
+    "id": "CORE_ICC_702",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "孱弱的掘墓者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机将一个具有<b>亡语</b>的随从置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 95649,
+    "flavor": "请尽全力攻击她的杰作。",
+    "health": 5,
+    "id": "CORE_ICC_705",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "骨魇",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "获得+4/+4和嘲讽。",
+    "text": "<b>战吼：</b>使一个友方随从获得+4/+4和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lars Grant-West",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95730,
+    "flavor": "他就喜欢编织奇怪的故事。",
+    "health": 5,
+    "id": "CORE_ICC_706",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "蛛魔拆解者",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "法术的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95685,
+    "flavor": "一把奥金斧没什么好怕的，两把才可怕。",
+    "health": 3,
+    "id": "CORE_ICC_810",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亡斧惩罚者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机使你手牌中一个具有<b>吸血</b>的随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95725,
+    "flavor": "死灵法师管这玩意儿叫“送上门来的肥肉”。",
+    "health": 4,
+    "id": "CORE_ICC_812",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "绞肉车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>从你的牌库中召唤一个攻击力小于本随从攻击力的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95735,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要支援兄弟。",
+    "health": 2,
+    "id": "CORE_ICC_851",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凯雷塞斯王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（2）的牌，则使你牌库里所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95736,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要模仿兄弟。",
+    "health": 3,
+    "id": "CORE_ICC_852",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "塔达拉姆王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "变形成为一个复制。",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（3）的牌，则变形成为一个随从的3/3的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95737,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要吃掉兄弟。",
+    "health": 4,
+    "id": "CORE_ICC_853",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦拉纳王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（4）的牌，则获得<b>吸血</b>和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95638,
+    "elite": true,
+    "flavor": "一定要有一位巫妖汪。",
+    "health": 2,
+    "id": "CORE_ICC_854",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿尔福斯",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机将一张<b>巫妖王</b>牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Marcelo Vignali",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95716,
+    "flavor": "别犯傻了，冲着谁去是北极熊说了算的。",
+    "health": 4,
+    "id": "CORE_ICC_855",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海德尼尔冰霜骑士",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b><b>冻结</b>你的其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95758,
+    "flavor": "法术的透气性要比棉布好两倍。",
+    "health": 4,
+    "id": "CORE_ICC_856",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "织法者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95729,
+    "flavor": "以眼换眼，以鬼换鬼。",
+    "health": 3,
+    "id": "CORE_ICC_900",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "死灵恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你的其他随从死亡时，召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95726,
+    "flavor": "他会摧心，夺梦，还会训练食尸鬼，所以别惹他。",
+    "health": 5,
+    "id": "CORE_ICC_902",
+    "name": "摧心者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "双方英雄技能均无法使用。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95782,
+    "flavor": "受限于生理构造，他注定无法成为一个好的饶舌歌手。",
+    "health": 1,
+    "id": "CORE_ICC_904",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪骨骷髅",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>在本回合中每有一个随从死亡，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95645,
+    "flavor": "兰娜瑟尔女王每天早餐都要吃上一条，必须炸得嘎嘣脆。",
+    "health": 4,
+    "id": "CORE_ICC_905",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "血虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95720,
+    "flavor": "“你有什么能耐？”面试官问她。“噢，我对哭真的很在行。”",
+    "health": 5,
+    "id": "CORE_ICC_911",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "哀泣女妖",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你使用一张牌，便移除你的牌库顶的三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95678,
+    "flavor": "她的藏尸涉猎广泛，囊括了几乎所有类型的尸体。她也很乐意把你加入她的藏品。",
+    "health": 3,
+    "id": "CORE_ICC_912",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夺尸者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n如果你的牌库里有<b>嘲讽</b>随从牌，则获得<b>嘲讽</b>。依此法检定是否可获得<b>圣盾</b>，<b>吸血</b>和<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95764,
+    "flavor": "圣光的爱，被污染了就不会再回来。",
+    "health": 1,
+    "id": "CORE_ICC_913",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "SPELLPOWER"
+    ],
+    "name": "被污染的狂热者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellDamage": 1,
+    "text": "<b>圣盾</b>\n<b>法术伤害+1</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69722,
+    "flavor": "他原本是一个时空畸体，在厌倦了两极颠倒的生活后变成了现在这个模样。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_KAR_036",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奥术畸体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你施放一个法术后，使本随从获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyson Murphy",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 76314,
+    "elite": true,
+    "flavor": "雷诺曾四次荣获由探险者协会颁发的“年度最佳服饰奖”。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_011",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷诺·杰克逊",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则为你的英雄恢复所有生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76311,
+    "elite": true,
+    "flavor": "除了正常的官方用语外，他还精通14种鱼人方言。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_076",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "芬利·莫格顿爵士",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b><b>发现</b>一个新的基础英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76312,
+    "elite": true,
+    "flavor": "自从铁炉堡的国王麦格尼华丽登场后，布莱恩也想像哥哥那样出一套英雄皮肤。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_077",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "布莱恩·铜须",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你的<b>战吼</b>会触发\n两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 76313,
+    "elite": true,
+    "flavor": "作为团队里的绘图师，伊莉斯现在最主要的工作就是拼凑出完整的“黄金猿藏宝图”。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_079",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伊莉斯·逐星",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将“黄金猿藏宝图”洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Oliver Chipping",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 69723,
+    "flavor": "鱼人宝宝实在是太可爱了，以至于谁见了都想抱一抱，结果因窒息所导致的死亡率极高。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_LOEA10_3",
+    "name": "鱼人宝宝",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69724,
+    "flavor": "问世间是否此山最高，或者另有高处比天高。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_LOOT_124",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "孤胆英雄",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，则获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Julian Del Rey",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69725,
+    "flavor": "有一次他不小心看了一眼镜子。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_LOOT_125",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "POISONOUS"
+    ],
+    "name": "石皮蜥蜴",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>圣盾</b>\n<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76310,
+    "elite": true,
+    "flavor": "挑战她需要一面光洁的盾牌，或者自残双目。",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOOT_516",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蛇发女妖佐拉",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "将一张金色复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一个友方随从。将它的金色复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 79546,
+    "dbfId": 118015,
+    "flavor": "搜魂者的职责就是揪出内鬼。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_MAW_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "搜魂者",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将本随从与你对手牌库中的一个随机随从互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79778,
+    "dbfId": 118041,
+    "flavor": "啊！手腕抽筋了！",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_MAW_031",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA",
+      "INFUSE"
+    ],
+    "name": "冥界侍从",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "你的<b>注能</b>牌在牌库中也会<b>注能</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79779,
+    "dbfId": 118042,
+    "flavor": "大家都在向她请教她的金牌辣酱汤的配方。但她实在是张不开嘴。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_MAW_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "无语的证人",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘</b>不会被揭示。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 79780,
+    "dbfId": 118043,
+    "elite": true,
+    "flavor": "会变成“被注希尔瓦娜斯”。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_MAW_033",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "被告希尔瓦娜斯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "<b>战吼：</b>消灭一个敌方随从。<b>注能（7）：</b>改为夺取其控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 79782,
+    "dbfId": 118044,
+    "elite": true,
+    "flavor": "典狱长曾是暗影界所有灵魂的仲裁官，是不偏不倚的正义典范。但那都只是曾经。",
+    "health": 10,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_MAW_034",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "典狱长",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>摧毁你的牌库。本随从获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69678,
+    "flavor": "要是你不专心听讲，你就会被变成一只猪，然后你的名字就会被写在黑板上。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_NEW1_026",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "紫罗兰教师",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你施放一个法术，召唤一个1/1的紫罗兰学徒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102226,
+    "flavor": "要是他吃下了爆炸陷阱，就最好离他远一点。没人会喜欢这种惊喜的。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_OG_254",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥秘吞噬者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>摧毁所有敌方<b>奥秘</b>。每摧毁一个，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 79557,
+    "dbfId": 118050,
+    "flavor": "我确信，这里面至少有一根是真正的兽骨。",
+    "health": 6,
+    "id": "CORE_REV_012",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "沼泽兽",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>召唤一滩2/4并具有<b>嘲讽</b>的泥浆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 79559,
+    "dbfId": 118051,
+    "flavor": "“我一进来就看见他在打他！”",
+    "health": 5,
+    "id": "CORE_REV_013",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "石裔指控者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>注能（5）：</b>获得“<b>战吼：</b>造成5点伤害。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "countAsCopyOfDbfId": 79562,
+    "dbfId": 118052,
+    "flavor": "他的体内鳃满了罪恶！",
+    "health": 12,
+    "id": "CORE_REV_014",
+    "mechanics": [
+      "AURA",
+      "TAUNT"
+    ],
+    "name": "红鲱鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>。你的非红鲱鱼随从拥有<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 79563,
+    "dbfId": 118053,
+    "flavor": "“开启派对！派……对，对吗？对的对的！”",
+    "health": 4,
+    "id": "CORE_REV_015",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "假面狂欢者",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>，<b>亡语：</b>召唤你牌库中另一个随从的2/2的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 79581,
+    "dbfId": 118054,
+    "flavor": "许多不是毒药的液体也能要人命。但是这一锅，它就是毒药。",
+    "health": 4,
+    "id": "CORE_REV_016",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶的厨师",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，如果你已对敌方英雄造成3点或更多伤害，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "countAsCopyOfDbfId": 79584,
+    "dbfId": 118055,
+    "flavor": "缺少心能时，你就不是你了。",
+    "health": 4,
+    "id": "CORE_REV_017",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "贪食的吞噬者",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "吞食一个敌方随从并获得其属性值。",
+    "text": "<b>战吼：</b>吞食一个敌方随从并获得其属性值。<b>注能（5）：</b>还会吞食相邻随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79767,
+    "dbfId": 111689,
+    "elite": true,
+    "flavor": "许多孩子都经历过叛逆期，可雷纳索尔王子的叛逆有点极端。",
+    "health": 4,
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_REV_018",
+    "name": "雷纳索尔王子",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "你的套牌容量和初始生命值为40。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 79932,
+    "dbfId": 118056,
+    "flavor": "不求食物，只求关注。",
+    "health": 5,
+    "id": "CORE_REV_019",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "饥饿的愚人",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>抽一张牌。<b>注能（4）：</b>改为抽三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79992,
+    "dbfId": 118057,
+    "flavor": "砰！",
+    "health": 3,
+    "id": "CORE_REV_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "晚宴表演者",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机从你的牌库中召唤一个你有足够的法力值使用的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 79934,
+    "dbfId": 118058,
+    "elite": true,
+    "flavor": "你认识凯尔萨斯吗？这也太乱了吧？",
+    "health": 7,
+    "id": "CORE_REV_021",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "逐罪者凯尔萨斯",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在每回合中，你每使用三张随从牌，第三张随从牌的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79935,
+    "dbfId": 118059,
+    "elite": true,
+    "flavor": "当你排除了所有不蝌能的情形，剩下的，无论多么离鳍，那也一定是真相。",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "CORE_REV_022",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摩洛克·福尔摩斯",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>破解你对手卡牌的3条线索，即可获取其复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 76984,
+    "dbfId": 118060,
+    "elite": true,
+    "flavor": "“我觉得你疯了，疯透了。但我仍要告诉你一个秘密。所有优秀的灵魂都是疯子。”",
+    "health": 4,
+    "id": "CORE_REV_238",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "癫狂公爵西塔尔",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>从每个玩家的手牌中各<b>发现</b>一张牌并交换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 77308,
+    "dbfId": 118071,
+    "flavor": "据说布兰契生前是一匹又乖巧又听话的好马。她怎么会来雷文德斯？我们也不敢问。",
+    "health": 5,
+    "id": "CORE_REV_251",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "罪奔者",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 78373,
+    "dbfId": 118089,
+    "flavor": "泥仆员工手执泥仆的刀，说道：“泥仆向大帝敬礼！”",
+    "health": 2,
+    "id": "CORE_REV_338",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泥仆员工",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>使你手牌中的随从牌获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 78267,
+    "dbfId": 118091,
+    "flavor": "三分像石，七分像鬼。",
+    "health": 3,
+    "id": "CORE_REV_351",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "栖巢石像鬼",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "使一只友方野兽获得+2攻击力。",
+    "text": "<b>战吼：</b>使一只友方野兽获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 78547,
+    "dbfId": 118102,
+    "flavor": "“你想没想过，为什么从来没人邀请你？”“……没，没怎么想过。”",
+    "health": 9,
+    "id": "CORE_REV_370",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "派对捣蛋鬼",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "选择一个敌方随从。随机将你手牌中的一个随从投向选中的随从。",
+    "text": "<b>战吼：</b>选择一个敌方随从。随机将你手牌中的一个随从投向选中的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 79532,
+    "dbfId": 118107,
+    "flavor": "铁腕治军，铁石心肠。",
+    "health": 8,
+    "id": "CORE_REV_375",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "石裔干将",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>，<b>亡语：</b>召唤一只8/8并具有<b>突袭</b>的墓翼蝠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79535,
+    "dbfId": 118108,
+    "flavor": "请执事者送信，太老派了。",
+    "health": 4,
+    "id": "CORE_REV_377",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邀请函信使",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在另一职业的卡牌被置入你的手牌后，复制置入的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79784,
+    "dbfId": 118109,
+    "flavor": "他在当管家时就常与粉尘打交道。悬案发生之际，正是他换行的好机会！",
+    "health": 4,
+    "id": "CORE_REV_378",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "涂粉取证师",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>下个回合你的对手随从牌的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 78133,
+    "dbfId": 118133,
+    "flavor": "喝了泥浆的感觉，就像在活着的时候进入噬渊。",
+    "health": 5,
+    "id": "CORE_REV_837",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "淤泥水管工",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "所有随从牌的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 78532,
+    "dbfId": 118135,
+    "flavor": "比木质的图腾重。主要是因为罪孽太重了。",
+    "health": 3,
+    "id": "CORE_REV_839",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "罪碑图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 79486,
+    "dbfId": 118137,
+    "flavor": "事实证明，她的手上好像存不住秘密。",
+    "health": 3,
+    "id": "CORE_REV_841",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "匿名线人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>你使用的下一张<b>奥秘</b>牌的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "countAsCopyOfDbfId": 79928,
+    "dbfId": 118139,
+    "flavor": "可怜的魔像，被永远地困在了守卫的岗位上，再无出头之日！",
+    "health": 2,
+    "id": "CORE_REV_843",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "罪能魔像",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>注能（3）：</b>获得属性值，数值等同于为本随从<b>注能</b>的随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 84169,
+    "dbfId": 118140,
+    "flavor": "这些冰雕看起来好像真的！",
+    "health": 2,
+    "id": "CORE_REV_845",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "不稳定的骷髅",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 75868,
+    "dbfId": 118141,
+    "flavor": "“食尸”过的谣言，还算不算谣言？",
+    "health": 5,
+    "id": "CORE_REV_900",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "谣言食尸鬼",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你控制一个<b>奥秘</b>，便召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 75876,
+    "dbfId": 118142,
+    "flavor": "对她来说，她的离世恐怕是个巨大的打击。",
+    "health": 5,
+    "id": "CORE_REV_901",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "离躯之魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你控制一个地标，<b>发现</b>你牌库中一张牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 75881,
+    "dbfId": 118143,
+    "elite": true,
+    "flavor": "历史可以帮助人们避免走上反派的老路。不幸的是，温西尔个个都和大帝差不多。",
+    "health": 10,
+    "id": "CORE_REV_906",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE",
+      "LIFESTEAL"
+    ],
+    "name": "德纳修斯大帝",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>吸血</b>，<b>战吼：</b>对所有敌人造成总计5点伤害。<b>无限注能（2）：</b>伤害增加1点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 76968,
+    "dbfId": 118144,
+    "flavor": "我不喜欢这幅画，哈斯老板。它学我。",
+    "health": 6,
+    "id": "CORE_REV_916",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "诡异的画像",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在另一个随从死亡后，成为它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 77714,
+    "dbfId": 118162,
+    "flavor": "资源全部加载完毕后，我觉得更像是“清晰的陌生人”。",
+    "health": 2,
+    "id": "CORE_REV_945",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "模糊的陌生人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b><b>发现</b>一张另一职业的<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 78153,
+    "dbfId": 118170,
+    "flavor": "“美味的漏斗蛋糕？我好多年没尝过了……”",
+    "health": 3,
+    "id": "CORE_REV_956",
+    "mechanics": [
+      "INFUSE",
+      "TAUNT"
+    ],
+    "name": "亡者牧师",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>，<b>注能（3）：</b>获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 78155,
+    "dbfId": 118171,
+    "flavor": "鱼人吸血鬼的高光时刻：高喊“现在是鱼人时间”，然后把所有人都吸掉。",
+    "health": 4,
+    "id": "CORE_REV_957",
+    "mechanics": [
+      "INFUSE",
+      "LIFESTEAL"
+    ],
+    "name": "鱼人吸血鬼",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>吸血</b>，<b>注能（4）：</b>法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 78375,
+    "dbfId": 118174,
+    "flavor": "“城堡很棒，可惜壁炉太小了。评价：2/5。”",
+    "health": 4,
+    "id": "CORE_REV_960",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灰烬元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>下个回合，每当你的对手抽牌时，对手会受到2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111471,
+    "flavor": "图中各种物美价廉的魔杖都是她亲手制作的。但猫头鹰不是，猫头鹰是纯野生的。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_SCH_160",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔杖工匠",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机将一张你职业的法力值消耗为（1）的法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102743,
+    "flavor": "“请看，这是学园的原始设计图！别在意什么所谓的小黑屋……那是旅途的终点。”",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_SCH_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巡游向导",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n你的下一个英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 112098,
+    "flavor": "三般武艺，集于一身。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_TOY_101",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗夜精灵女猎手",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "造成3点伤害。（还剩@次！）",
+    "text": "<b>战吼：</b>对三个不同的敌人各造成3点伤害。<i>（目标由你选定！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 112099,
+    "flavor": "哈！哈！呼！哈！",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_TOY_102",
+    "mechanics": [
+      "AURA",
+      "TAUNT"
+    ],
+    "name": "人类步兵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>。相邻随从在攻击时<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 112100,
+    "flavor": "你以为小鸡的愤怒是跟谁学的？",
+    "health": 6,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_TOY_103",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "战歌步兵",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>\n在本随从攻击并消灭一个随从后，可再次攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69680,
+    "flavor": "诟病食尸鬼吃“腐肉”其实对它们并不公平，它们只是没有别的可吃了而已。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_tt_004",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "腐肉食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "techLevel": 3,
+    "text": "每当一个随从死亡，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 53756,
+    "dbfId": 115762,
+    "elite": true,
+    "flavor": "“这就是完美的卡牌，只是你不会用而已。”",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "id": "CORE_ULD_003",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "了不起的杰弗里斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则可以许愿获取一张完美的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69727,
+    "flavor": "他的另一份工作是气象预报员。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CORE_UNG_813",
+    "mechanics": [
+      "WINDFURY"
+    ],
+    "name": "风暴看守",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69728,
+    "faction": "ALLIANCE",
+    "flavor": "最爱吃地精。鸡肉味，嘎嘣脆！",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_UNG_844",
+    "mechanics": [
+      "CANT_ATTACK"
+    ],
+    "name": "巨齿刀叶",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "无法攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 111467,
+    "elite": true,
+    "flavor": "生命的缚誓者阿莱克丝塔萨给所有人带来生命和希望。除了死亡之翼。除了玛里苟斯。除了耐克鲁斯。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_VAN_EX1_561",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "将生命值变为15点。",
+    "text": "<b>战吼：</b>\n将一方英雄的剩余生命值变为15。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 111465,
+    "elite": true,
+    "flavor": "伊瑟拉统治翡翠梦境。所谓翡翠梦境，究竟只是现实世界的绿色朦胧倒影，还是其他别的什么地方？",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_VAN_EX1_572",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，随机获取两张梦境牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabe Gonzalez",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 89354,
+    "flavor": "圈养的魔刃豹也没好多少——天天抓你的家具，还会乱吐法力毛球。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得2500场对战后解锁。",
+    "id": "CORE_YOD_006",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奔逃的魔刃豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>潜行</b>\n每当本随从攻击，便获得一个仅限本回合可用的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102223,
+    "flavor": "“一看您就是那种需要三套护甲的大客户，一套实用，一套备用，一套备用的备用。”",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得1000场对战后解锁。",
+    "id": "CORE_YOP_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "护甲商贩",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>使每个英雄获得4点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66864,
+    "elite": true,
+    "flavor": "友方伤害：已关闭",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_031",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "生命的缚誓者阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "恢复8点生命值或造成8点伤害。",
+    "text": "<b>战吼：</b>选择一个角色。如果是友方角色，为其恢复8点生命值；如果是敌方角色，对其造成8点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66866,
+    "elite": true,
+    "flavor": "快给她上dot，快上，再上，都给我上！",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_032",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙巢之母奥妮克希亚",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在每个回合结束时，用1/1的雏龙填满你的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66868,
+    "elite": true,
+    "flavor": "快！快！快把这个梦写下来，一会就全忘了！",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "沉睡者伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将每种\n梦境牌各一张置\n入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66869,
+    "elite": true,
+    "flavor": "多年之后，玛里苟斯决定允许凡人使用魔法。想用吗？那就全都给你！",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "织法者玛里苟斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n抽取法术牌直到达到你的手牌上限。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 66872,
+    "elite": true,
+    "flavor": "“他是死亡之翼？那个也是死亡之翼？你也是死亡之翼！？我才是死亡之翼！这里到底有多少死亡之翼？”",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_036",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灭世者死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>消灭所有其他随从。每消灭一个随从，便弃一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72248,
+    "flavor": "这些勇猛的天爪枭曾在翡翠巨龙圣地宣誓保卫伊瑟拉，被翡翠梦境的力量所触及，呈现出了晶莹剔透的外观。",
+    "health": 1,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得500场对战后解锁。",
+    "id": "CS3_037",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "翡翠天爪枭",
+    "race": "BEAST",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>",
+    "type": "MINION"
+  }
+]

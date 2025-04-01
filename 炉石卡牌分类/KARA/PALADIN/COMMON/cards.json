@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39477,
+    "flavor": "她原本想要加入蓝龙骑士团的，可谁又能拒绝传送门的诱惑呢？",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_010",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夜魇骑士",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便召唤两条1/1的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jimmy Lo",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39716,
+    "flavor": "和部落粗犷且朴素的整体风格相比，银月城可谓是东部王国的时尚之都。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_077",
+    "name": "银月城传送门",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2/+2。随机召唤一个法力值消耗为（2）的随从。",
+    "type": "SPELL"
+  }
+]

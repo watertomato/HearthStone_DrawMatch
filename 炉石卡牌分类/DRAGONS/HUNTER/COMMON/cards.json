@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54922,
+    "flavor": "来一口新鲜的恐惧！",
+    "id": "DRG_006",
+    "name": "腐蚀吐息",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$3点伤害。如果你的手牌中有龙牌，还会命中敌方英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55292,
+    "flavor": "剪子，飞刀，钢针，你说什么他打什么。",
+    "health": 3,
+    "id": "DRG_253",
+    "name": "矮人神射手",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "你的英雄技能能够以随从为目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55294,
+    "flavor": "“我们真的要让这个浑身剧毒的家伙驮行李吗？”",
+    "health": 3,
+    "id": "DRG_254",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "POISONOUS"
+    ],
+    "name": "始生龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>剧毒</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  }
+]

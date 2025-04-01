@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Paul Mafayon",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 62877,
+    "flavor": "太阳神的名字为什么要叫“暗色”呢？",
+    "health": 5,
+    "id": "BAR_313",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "安瑟祭司",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你在本回合中恢复过生命值，便获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62878,
+    "flavor": "“我无意伤害你们，但你们实在过于残忍，以圣光之名，我要向你们施加罪罚！”泽瑞拉大声喊着，却没有意识到自己的“狠话”其实一点也不狠。",
+    "id": "BAR_314",
+    "name": "罪罚（等级1）",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "spellSchool": "HOLY",
+    "text": "对所有敌方随从造成$1点伤害。<i>（当你有5点法力值时升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63347,
+    "flavor": "看这群家伙的样子平平无奇……",
+    "id": "WC_014",
+    "isMiniSet": true,
+    "name": "除奇致胜",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "spellSchool": "HOLY",
+    "text": "消灭所有攻击力为奇数的随从。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Nutchapol Thitinunthakorn",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47594,
+    "durability": 0,
+    "flavor": "在一款名叫《水果幽灵》的游戏里可是收费道具！",
+    "health": 2,
+    "id": "GIL_672",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "幽灵弯刀",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>吸血</b>\n每当你使用一张另一职业的卡牌时，获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47625,
+    "flavor": "重金悬赏：无论死不死。",
+    "id": "GIL_687",
+    "name": "通缉令",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "对一个随从造成$3点伤害。如果消灭该随从，将一张幸运币置入你的手牌。",
+    "type": "SPELL"
+  }
+]

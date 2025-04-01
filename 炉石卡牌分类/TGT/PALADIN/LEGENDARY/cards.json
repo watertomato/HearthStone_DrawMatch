@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2727,
+    "elite": true,
+    "flavor": "没人能像耶德瑞克那样轻松驾驭单片眼镜。",
+    "health": 7,
+    "id": "AT_081",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纯洁者耶德瑞克",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>战吼：</b>使所有敌方随从的攻击力变为1。",
+    "type": "MINION"
+  }
+]

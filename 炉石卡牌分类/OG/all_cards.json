@@ -1,0 +1,2646 @@
+[
+  {
+    "artist": "Jerry Mascho",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38227,
+    "flavor": "这个鱼人掌握了很多审判技巧，待会你就知道厉害了！",
+    "health": 3,
+    "id": "OG_006",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恶鳍审判者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n你的英雄技能变为“召唤一个1/1的鱼人”。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jimmy Lo",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38262,
+    "flavor": "G&D今年又出了一款全新系列的大地图腾，全国各地专柜均有销售。",
+    "id": "OG_023",
+    "name": "原始融合",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "你每有一个图腾，就使一个随从获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "E. M. Gist",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38263,
+    "flavor": "他的手感热得发烫，百步穿杨技惊四座！",
+    "health": 7,
+    "id": "OG_024",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "投火无面者",
+    "overload": 2,
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>过载：</b>（2）",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Meyers & Nutchapol",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38265,
+    "flavor": "即便长了这么多眼睛，走起路来还是会撞到人。",
+    "health": 2,
+    "id": "OG_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒哨卫",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>将你所有<b>过载</b>的法力水晶解锁。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38266,
+    "flavor": "诡异的眼球，黏滑的触须，阴阳怪气的语调……这种变化不要也罢。",
+    "id": "OG_027",
+    "name": "异变",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "随机将你的\n所有随从变形成为法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38267,
+    "flavor": "深渊魔物有一奇怪的癖好，就是收集各式各样的萨满祭司图腾。",
+    "health": 5,
+    "id": "OG_028",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "深渊魔物",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>嘲讽</b>\n在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38270,
+    "durability": 0,
+    "flavor": "这把蕴含了元素之力的战锤散发出诡异的暮色光芒。",
+    "health": 2,
+    "id": "OG_031",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暮光神锤",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>亡语：</b>召唤一个4/2的元素。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Alex Konstad",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38279,
+    "durability": 0,
+    "flavor": "要是打不赢仗，加尔鲁什会用这条钢铁触须抽死你。",
+    "health": 2,
+    "id": "OG_033",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "钢铁触须",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>亡语：</b>将这把武器移回你的手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38304,
+    "flavor": "如果你的英雄不先动手的话，它们就得改名叫“异种观察蝎”了。",
+    "health": 5,
+    "id": "OG_034",
+    "name": "异种群居蝎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "在本回合中，除非你的英雄进行过攻击，否则无法进行攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 38312,
+    "elite": true,
+    "flavor": "如果亚煞极没那么“怒发冲冠”时，它会扎个马尾辫做一些户外运动。",
+    "health": 10,
+    "id": "OG_042",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "亚煞极",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "在你的回合结束时，将一个随从从你的牌库置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38318,
+    "elite": true,
+    "flavor": "每当范达尔·鹿盔举起酒杯，并以“想当年我在种世界之树的时候……”为开场白在那老调重弹时，众酒客便会作鸟兽散。",
+    "health": 6,
+    "id": "OG_044",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "范达尔·鹿盔",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "你的<b>抉择</b>牌和英雄技能可以同时拥有两种效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38329,
+    "flavor": "作为寄生虫最有趣的一刻就是破肚而出时吓宿主一跳……好吧，他们已经是死人了。",
+    "id": "OG_045",
+    "name": "寄生感染",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得\n“<b>亡语：</b>随机将一张野兽牌置入你的手牌”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38334,
+    "flavor": "老实说，其中一个选择比另一个野性多了。",
+    "id": "OG_047",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "野性之怒",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>抉择：</b>使你的英雄在本回合中获得+4攻击力；或者获得8点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38337,
+    "flavor": "只要能变强，丑一点也是值得的。",
+    "id": "OG_048",
+    "name": "亚煞极印记",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "使一个随从获得+2/+2。\n如果该随从是野兽，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38340,
+    "flavor": "禁忌古树在自己的套牌里放满了砰砰博士，因此旅店里没人愿意跟它玩。",
+    "health": 1,
+    "id": "OG_051",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "禁忌古树",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>战吼：</b>消耗你所有的法力值，每消耗一点法力值，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38377,
+    "flavor": "要是没打中鸭子，獒犬可是会笑话你的。",
+    "id": "OG_061",
+    "name": "搜寻猎物",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "造成$1点伤害。召唤一个1/1的獒犬。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38391,
+    "flavor": "别以为普通教徒没什么战斗力，尝尝我手中的利刃吧！",
+    "health": 2,
+    "id": "OG_070",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "执刃教徒",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>连击：</b>获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38393,
+    "flavor": "深渊深处究竟有什么？恐怕只有深埋地底的人才知道。",
+    "id": "OG_072",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "深渊探险",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "text": "<b>发现</b>一张<b>亡语</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38395,
+    "flavor": "“喝了菊花茶，腰不酸腿不痛，连击起来更带劲” - 潜行者协会指定饮品。",
+    "id": "OG_073",
+    "name": "菊花茶",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "抽一张牌。将两张该牌的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38403,
+    "elite": true,
+    "flavor": "什么！螳螂妖给你的东西你也敢喝？真是自寻死路。",
+    "health": 2,
+    "id": "OG_080",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "毒心者夏克里尔",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼，亡语：</b>随机将一张毒素牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38407,
+    "flavor": "想来杯慕斯冰沙吗？稍等片刻！",
+    "id": "OG_081",
+    "name": "冰爆",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "OG",
+    "spellSchool": "FROST",
+    "text": "消灭一个被<b>冻结</b>的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Genevieve Tsai & Nutchapol",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38408,
+    "flavor": "你不能拿走我的触须！",
+    "health": 2,
+    "id": "OG_082",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "异变的狗头人",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38409,
+    "flavor": "暮光烈焰召唤者供能稳定，火力十足，是户外烧烤的首选之人。",
+    "health": 2,
+    "id": "OG_083",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光烈焰召唤者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>对所有敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38412,
+    "flavor": "千万别带他去任何派对，因为他的冷场天赋太过强大……",
+    "health": 4,
+    "id": "OG_085",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "癫狂的唤冰者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "OG",
+    "text": "在你施放一个法术后，随机<b>冻结</b>\n一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 38413,
+    "flavor": "警告：只有持有上古之神所颁发的侍僧执照才可以使用禁忌烈焰，否则后果自负！",
+    "id": "OG_086",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "禁忌烈焰",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "FIRE",
+    "text": "消耗你所有的法力值，对一个随从造成等同于所消耗法力值数量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38414,
+    "flavor": "尤格-萨隆总是在抱怨自己的仆从太多，每天起床一想到还有那么多张嘴等着它喂就头疼。",
+    "health": 4,
+    "id": "OG_087",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尤格-萨隆的仆从",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>随机施放一个法力值消耗大于或等于（5）点的法术<i>（目标随机而定）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Milivoj Ceran",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38418,
+    "flavor": "秘法宝典？说不定里面有制作魔法点心的食谱……",
+    "id": "OG_090",
+    "name": "秘法宝典",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "ARCANE",
+    "text": "随机获取3张法师法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38426,
+    "flavor": "这么多触手都是保护我的吗？要是拿不下来该怎么办……",
+    "id": "OG_094",
+    "name": "真言术：触",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+2/+6。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Garner",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38429,
+    "flavor": "想用黑暗能量来治疗，先得从光里剥离出来，再用清水洗净晾干即可。",
+    "health": 5,
+    "id": "OG_096",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光暗愈者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>如果你的克苏恩至少有10点攻击力，便为你的英雄恢复#10点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38433,
+    "flavor": "其实并没有被消灭，而是被吸入无尽的虚空之中。",
+    "id": "OG_100",
+    "name": "暗言术：骇",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有攻击力小于或等于2的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 38434,
+    "flavor": "唯一的缺点就是召唤出来的随从都黏糊糊的。",
+    "id": "OG_101",
+    "name": "禁忌畸变",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "消耗你所有的法力值，随机\n召唤一个法力值消耗相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38436,
+    "flavor": "即便是上古之神也会有休息的片刻，这时候就轮到黑暗低语者来继续向艾泽拉斯的生灵们循环播放恼人的低语了。",
+    "health": 6,
+    "id": "OG_102",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑暗低语者",
+    "rarity": "EPIC",
+    "set": "OG",
+    "targetingArrowText": "交换属性值。",
+    "text": "<b>战吼：</b>与另一个友方随从交换属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38439,
+    "flavor": "要是你的奥金尼灵魂祭司请病假了，就用它吧。",
+    "id": "OG_104",
+    "name": "暗影之握",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "在本回合中，你的治疗效果转而造成等量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38447,
+    "flavor": "请注意，逾期不还者需赔付十倍的滞纳金！",
+    "health": 2,
+    "id": "OG_109",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "夜色镇图书管理员",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n随机弃一张牌。\n<b>亡语：</b>\n抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38452,
+    "flavor": "夜色镇的居民选他做议员的其中一个原因，就是他嗓门大。",
+    "health": 5,
+    "id": "OG_113",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜色镇议员",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "在你召唤一个随从后，获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Zaqumyennyy",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 38454,
+    "flavor": "经证实，该仪式已获得上古之神克苏恩的认可。",
+    "id": "OG_114",
+    "name": "禁忌仪式",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "消耗你所有的法力值，召唤相同数量的1/1的触须。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38456,
+    "flavor": "不少夜色镇的居民相信只要戴上口罩就能有效预防传染，从而导致口罩价格迅速上涨。",
+    "id": "OG_116",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "狂乱传染",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "造成$13点伤害，随机分配到所有角色身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38461,
+    "flavor": "我以前没得选择，现在我想做一个好人。",
+    "id": "OG_118",
+    "name": "弃暗投明",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "将你的英雄技能和术士卡牌替换成另一职业的。这些牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kan Liu",
+    "attack": 8,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38463,
+    "elite": true,
+    "flavor": "阿诺玛鲁斯是由混乱的奥术能量所组成的，所以消灭它存在相当大的风险。",
+    "health": 6,
+    "id": "OG_120",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿诺玛鲁斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>亡语：</b>对所有随从造成8点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38464,
+    "elite": true,
+    "flavor": "即便这么多年过去了，古尔丹还是会吩咐古加尔去准备咖啡和甜甜圈。",
+    "health": 8,
+    "id": "OG_121",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "古加尔",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>将你在本局对战中弃掉的所有牌移回你的手牌，这些牌会消耗生命值而非法力值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38468,
+    "elite": true,
+    "flavor": "其实除了香蕉之外，他还喜欢吃花生酱。",
+    "health": 5,
+    "id": "OG_122",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "山谷之王穆克拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>将两根香蕉置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38475,
+    "elite": true,
+    "flavor": "一个翻脸比翻书还快的家伙，说变就变！",
+    "health": 1,
+    "id": "OG_123",
+    "name": "百变泽鲁斯",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38488,
+    "elite": true,
+    "flavor": "我比你大两分钟，所以听我的！快，给我放火烧了那座村子！",
+    "health": 7,
+    "id": "OG_131",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "维克洛尔大帝",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b><b>嘲讽</b>，战吼：</b>如果你的克苏恩至少有10点攻击力，则召唤另一名双子皇帝。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyson Murphy",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 38496,
+    "elite": true,
+    "flavor": "恩佐斯会在睡前听美人鱼给它吟唱安眠曲。这个习惯保持了五千多年，从未改变。",
+    "health": 7,
+    "id": "OG_133",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恩佐斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>召唤所有你在本局对战中死亡的，并具有<b>亡语</b>的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 38505,
+    "elite": true,
+    "flavor": "你死期到了……死期到了……期到了……到了……了！",
+    "health": 5,
+    "id": "OG_134",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尤格-萨隆",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n在本局对战中，你每施放过一个法术，便随机施放一个法术<i>（目标随机而定）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lars Grant-West",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38517,
+    "flavor": "不知他的预言里有没有这么一条：被各式各样的玩家反复蹂躏。",
+    "health": 4,
+    "id": "OG_138",
+    "name": "蛛魔先知",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "在你的回合开始时，本牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 38521,
+    "flavor": "无面巨兽打哈欠时犹如黑洞般吞噬周围的一切。所以当你看到它伸懒腰时，就赶紧跑吧！",
+    "health": 10,
+    "id": "OG_141",
+    "name": "无面巨兽",
+    "rarity": "COMMON",
+    "set": "OG",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38522,
+    "flavor": "长得丑并不是它的错，但是出来吓人就是它的不对了。",
+    "health": 10,
+    "id": "OG_142",
+    "name": "惊骇恐魔",
+    "rarity": "COMMON",
+    "set": "OG",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38526,
+    "flavor": "音响设备全面升级，让我们燥起来！",
+    "health": 4,
+    "id": "OG_145",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "闹闹机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>\n<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38528,
+    "flavor": "竟然为敌人治疗！看来连中央处理器都被腐化了。",
+    "health": 6,
+    "id": "OG_147",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "腐化治疗机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>亡语：</b>为敌方英雄恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38530,
+    "flavor": "别看他个头不大，脾气倒不小。",
+    "health": 3,
+    "id": "OG_149",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴虐食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>对所有其他随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38531,
+    "flavor": "我狂，故我在。",
+    "health": 5,
+    "id": "OG_150",
+    "mechanics": [
+      "ENRAGED"
+    ],
+    "name": "畸变狂战士",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "受伤时拥有+2攻\n击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Meyers & T. Washington",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38532,
+    "flavor": "恩佐斯很在意自己的触须，因此它对相关的洗护用品非常挑剔。",
+    "health": 1,
+    "id": "OG_151",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "恩佐斯的触须",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>对所有随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38533,
+    "flavor": "人们总说“外形不重要，主要看气质”，可要是他们看过畸变的龙鹰就不会这么想了。真的好恶心！",
+    "health": 5,
+    "id": "OG_152",
+    "mechanics": [
+      "WINDFURY"
+    ],
+    "name": "畸变的龙鹰",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38534,
+    "flavor": "他试过很多种出行方式，包括站起来走，横过来挪，卷起来滚，但是都没有窝在那爬来得轻松惬意。",
+    "health": 8,
+    "id": "OG_153",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "毒沼爬行者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38538,
+    "flavor": "用它的鳍制成的脚蹼质量出奇的好。",
+    "health": 1,
+    "id": "OG_156",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怒鳍猎潮者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>召唤一个1/1并具有<b>嘲讽</b>的软泥怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cole Eastburn",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38541,
+    "flavor": "嘿，新来的！你得先冷静下来做好自己的本职工作。那么现在你要做的就是去送死，好让你的队友增强那么一点点。",
+    "health": 1,
+    "id": "OG_158",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "狂热的新兵",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>随机使一个友方随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ryan Metcalf",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38545,
+    "flavor": "对于先知而言，水晶球长在脑袋上真是太方便了。",
+    "health": 3,
+    "id": "OG_161",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐化先知",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>对所有非鱼人随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38547,
+    "flavor": "只要加入教派，就可以享受免费的下午茶。这也是克苏恩这么受欢迎的原因。",
+    "health": 2,
+    "id": "OG_162",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩的信徒",
+    "rarity": "RARE",
+    "set": "OG",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>\n造成2点伤害。使你的克苏恩获得+2/+2<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 38567,
+    "flavor": "一杯柠檬汁外加两杯远古造物之血，再加点朗姆酒摇匀后，充满着远古风情的鸡尾酒就制作好了。",
+    "health": 9,
+    "id": "OG_173",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "远古造物之血",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "在你的回合结束时，如果你控制两个远古造物之血，则将其融合成远古造物。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38569,
+    "flavor": "无面者最让人艳羡的一点就是，高矮胖瘦想变就变！",
+    "health": 1,
+    "id": "OG_174",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "无面蹒跚者",
+    "rarity": "EPIC",
+    "set": "OG",
+    "targetingArrowText": "复制一个友方随从的攻击力和生命值。",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>复制一个友方随从的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38578,
+    "flavor": "这招有点像背刺。区别在于暗影打击是迎着面来的，而且比背刺更疼。",
+    "id": "OG_176",
+    "name": "暗影打击",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "对一个\n未受伤的角色造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38584,
+    "flavor": "多亏了防火型护发素，炽炎蝙蝠才活到今天。",
+    "health": 1,
+    "id": "OG_179",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "炽炎蝙蝠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cole Eastburn",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38621,
+    "flavor": "琥珀编织技术只有在特殊的职业技校才能学到。",
+    "health": 5,
+    "id": "OG_188",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "卡拉克西织珀者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>\n如果你的克苏恩至少有10点攻击力，便获得+5生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Skan Srisuwan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38655,
+    "flavor": "只不过是打上了“上古之神”的商标，其实和普通的小精灵并无二致。",
+    "id": "OG_195",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "上古之神的小精灵",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤七个1/1的小精灵；或者使你的所有随从获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Franchina",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 38666,
+    "flavor": "人人都爱治疗术。可禁忌治疗……听起来有些不靠谱。",
+    "id": "OG_198",
+    "name": "禁忌治疗",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "消耗你所有的法力值，恢复等同于所消耗法力值数量两倍的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38669,
+    "flavor": "上古之神的出现让他自我感觉变得越来越好……当然，他也很怀念过去开载人收割机的那段美好时光。",
+    "health": 7,
+    "id": "OG_200",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "末日践行者",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "在你的回合开始时，将本随从的攻击力\n变为7。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38718,
+    "flavor": "金窝银窝不如自己的泥潭，说什么也不会卖的！",
+    "health": 4,
+    "id": "OG_202",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "泥潭守护者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>抉择：</b>召唤一个2/2的泥浆怪；或者获得一个空的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38724,
+    "flavor": "被雷劈是什么滋味……恐怕没多少亲历者能活着告诉你。",
+    "id": "OG_206",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "雷暴术",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$4点伤害，<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mark Abadier",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38725,
+    "flavor": "无面者夜以继日不停工作，却从未得到应有的认可。",
+    "health": 5,
+    "id": "OG_207",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无面召唤者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>随机召唤一个法力值消耗为（3）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38722,
+    "elite": true,
+    "flavor": "根据能量守恒定律，你损失的生命值最终会转移到我身上。",
+    "health": 6,
+    "id": "OG_209",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "升腾者海纳泽尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "OG",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n你的法术拥有<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38727,
+    "flavor": "总有人抱怨使用“动物伙伴”这张牌时，召唤出来的并不是他们想要的。现在好了，三个愿望，一次满足。",
+    "id": "OG_211",
+    "name": "兽群呼唤",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "召唤全部三个动物伙伴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "E. Guiton & A. Bozonnet",
+    "attack": 3,
+    "battlegroundsPremiumDbfId": 58365,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38734,
+    "flavor": "听说除虱粉对治疗这种寄生感染有奇效。",
+    "health": 3,
+    "id": "OG_216",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "寄生恶狼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "techLevel": 3,
+    "text": "<b>亡语：</b>召唤两只1/1的蜘蛛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38738,
+    "flavor": "上古之神对他低语了很长时间他才回过神来，看来这位勇士真的该好好检查一下听力了。",
+    "health": 6,
+    "id": "OG_218",
+    "mechanics": [
+      "ENRAGED",
+      "TAUNT"
+    ],
+    "name": "血蹄勇士",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>\n受伤时拥有+3攻\n击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "E. Guiton & Nutchapol",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38739,
+    "elite": true,
+    "flavor": "马尔考罗克是加尔鲁什最好的兄弟！真的，不信你去查查。",
+    "health": 5,
+    "id": "OG_220",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "马尔考罗克",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>随机装备一把武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38740,
+    "flavor": "“别担心，即便我倒下了，也会祝福你们。向着胜利……前进！”",
+    "health": 1,
+    "id": "OG_221",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "无私的英雄",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "OG",
+    "text": "<b>亡语：</b>随机使一个友方随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jeremy Cranford",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38745,
+    "durability": 0,
+    "flavor": "就一把武器而言，它的确还蛮振奋人心的。",
+    "health": 2,
+    "id": "OG_222",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "集结之刃",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>使你具有<b>圣盾</b>的随从获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38749,
+    "flavor": "每年总会有个别圣骑士在西部荒野举重大赛上偷偷使用这一招，导致因作弊而被淘汰出局。",
+    "id": "OG_223",
+    "name": "神圣之力",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38758,
+    "elite": true,
+    "flavor": "根据负负得正定理，当你去腐化一个已被腐化的炎魔之王，其结果就是他变成了你们口中所谓的“好人”。",
+    "health": 8,
+    "id": "OG_229",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光耀之主拉格纳罗斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "在你的回合结束时，为一个受伤的友方角色恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Seaman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38764,
+    "flavor": "她最拿手的甜点就是巧克力熔岩漏斗蛋糕。",
+    "health": 5,
+    "id": "OG_234",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夜色镇炼金师",
+    "rarity": "COMMON",
+    "set": "OG",
+    "targetingArrowText": "恢复5点生命值。",
+    "text": "<b>战吼：</b>\n恢复#5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 38770,
+    "flavor": "古往今来总有人在那里宣扬末日论，可我们现在不是还活得好好的吗。",
+    "id": "OG_239",
+    "name": "末日降临",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有随从。每消灭一个随从，便抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38774,
+    "flavor": "村民那充满魔性的舞步在艾泽拉斯造成了轰动，模仿者不计其数！",
+    "health": 1,
+    "id": "OG_241",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "着魔村民",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>召唤一个1/1的暗影兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38781,
+    "flavor": "被上古之神腐化后，有时会获得无穷的力量，有时仅仅获得+1攻击力。不可能每个人都是幸运儿，主要看气质。",
+    "health": 1,
+    "id": "OG_247",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "扭曲的狼人",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>潜行</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Gaser",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38782,
+    "flavor": "俗话说怨由心生，可这家伙根本就没有心，哪儿来的这么多恨……",
+    "health": 5,
+    "id": "OG_248",
+    "name": "浆岩暴怒者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38784,
+    "flavor": "科普卢星区的主宰和上古之神有很多相似之处。",
+    "health": 3,
+    "id": "OG_249",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "被感染的牛头人",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>\n<b>亡语：</b>召唤一个2/2的泥浆怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38792,
+    "flavor": "要是他吃下了爆炸陷阱，就最好离他远一点。没人会喜欢这种惊喜的。",
+    "health": 4,
+    "id": "OG_254",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥秘吞噬者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>摧毁所有敌方<b>奥秘</b>。每摧毁一个，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Zhang",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38795,
+    "flavor": "为什么会有人蠢到去召唤厄运？",
+    "health": 9,
+    "id": "OG_255",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "厄运召唤者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>使你的克苏恩获得+2/+2<i>（无论它在哪里）。</i>如果克苏恩死亡，将其洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38797,
+    "flavor": "别看恩佐斯长得那么惊悚，它的子嗣却出奇的可爱。这些黏呼呼臭烘烘的小家伙们最得女性玩家的恩宠了！",
+    "health": 2,
+    "id": "OG_256",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "恩佐斯的子嗣",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>使你的所有随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38825,
+    "flavor": "你有两个选择：要么死，要么在她的船上服役100年。",
+    "health": 4,
+    "id": "OG_267",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "南海畸变船长",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>使你的武器获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38832,
+    "flavor": "你问我梦魇为什么要有鳞片，因为有鳞片很酷啊。",
+    "health": 8,
+    "id": "OG_271",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "梦魇之龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "在你的回合开始时，本随从的攻击力\n翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38833,
+    "flavor": "如果你杀死他，他会变得更强，强到你无法想象。",
+    "health": 1,
+    "id": "OG_272",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暮光召唤师",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>亡语：</b>召唤一个5/5的无面破坏者。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38843,
+    "flavor": "对抗黑暗，伸张正义，是每一位圣骑士的毕生信念。",
+    "id": "OG_273",
+    "name": "惩黑除恶",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "召唤五个1/1的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38848,
+    "flavor": "复制过程画面血腥，未成年人和心脏病患者禁止观看。",
+    "id": "OG_276",
+    "name": "苦战傀儡",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "将每个受伤的友方随从的各一张复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38857,
+    "elite": true,
+    "flavor": "克苏恩最讨厌的一张牌，就是圣骑士的奥秘“以眼还眼”。",
+    "health": 6,
+    "howToEarn": "打开“上古之神的低语”卡牌包后可解锁。",
+    "howToEarnGolden": "打开“上古之神的低语”卡牌包后可解锁制作。",
+    "id": "OG_280",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n造成等同于本随从攻击力的伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38859,
+    "flavor": "总有些人唯恐天下不乱……",
+    "health": 3,
+    "howToEarn": "打开“上古之神的低语”卡牌包后可解锁。",
+    "howToEarnGolden": "打开“上古之神的低语”卡牌包后可解锁制作。",
+    "id": "OG_281",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪灵召唤师",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>使你的克苏恩获得+2/+2<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38861,
+    "flavor": "克苏恩要求献上祭品，选谁好呢……死亡之翼不错！",
+    "health": 4,
+    "id": "OG_282",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩之刃",
+    "rarity": "EPIC",
+    "set": "OG",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>消灭一个随从。你的克苏恩会获得其攻击力和生命值<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38863,
+    "flavor": "克苏恩曾许以她永生不灭。那她到底会不会死呢？打一顿就知道了。",
+    "health": 2,
+    "id": "OG_283",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD"
+    ],
+    "name": "克苏恩的侍从",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>圣盾</b>，<b>战吼：</b>使你的克苏恩获得+3/+3<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38864,
+    "flavor": "那里有块风水宝地，用来召唤克苏恩真是再合适不过了。",
+    "health": 4,
+    "id": "OG_284",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "暮光地卜师",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>使你的克苏恩获得+1/+1和<b>嘲讽</b><i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38868,
+    "flavor": "真搞不懂现在暮光的年轻人都在想些什么，整天沉迷于漫画书和摇滚乐。",
+    "health": 4,
+    "id": "OG_286",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暮光尊者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "在你的回合结束时，使你的克苏恩\n获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38873,
+    "flavor": "先驱的主要工作就是为身后的狠角色们预先暖场。",
+    "health": 6,
+    "id": "OG_290",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "上古之神先驱",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "在你的回合开始时，将一个法力值消耗为（10）的随从从你的牌库置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Meyers & A. Bozonnet",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38876,
+    "flavor": "由于学艺不精，暗影施法者所复制的随从块头都变小了。不过正好可以当玩偶收藏在橱柜里。",
+    "health": 4,
+    "id": "OG_291",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影施法者",
+    "rarity": "EPIC",
+    "set": "OG",
+    "targetingArrowText": "将一张1/1的复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一个友方随从，将它的一张1/1的复制置入你的手牌，其法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38875,
+    "flavor": "他喜欢将猎物追得精疲力竭，再慢慢将其折磨致死。",
+    "health": 2,
+    "id": "OG_292",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狼人追猎者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>使你手牌中所有<b>亡语</b>随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nutchapol Thitinunthakorn",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38882,
+    "flavor": "黑夜给了它黑色的眼睛，它却用来寻找古神。",
+    "health": 7,
+    "id": "OG_293",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "黑暗鸦人",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>使你的克苏恩获得+4/+4<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38888,
+    "flavor": "即便是异教徒也得找人看病吃药。",
+    "health": 4,
+    "id": "OG_295",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "异教药剂师",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>每有一个敌方随从，便为你的英雄恢复#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "battlegroundsPremiumDbfId": 58425,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38895,
+    "elite": true,
+    "flavor": "波戈蒙斯塔已连续7年蝉联“艾泽拉斯大胃王”的称号，至今为止还没有人能挑战他的记录。",
+    "health": 7,
+    "id": "OG_300",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "波戈蒙斯塔",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "techLevel": 4,
+    "text": "每当波戈蒙斯塔攻击并消灭一个随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Konstad",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38897,
+    "flavor": "在过去，她一个胳膊就能举起4面2吨重的盾牌，所以现在这点份量根本不在话下！",
+    "health": 6,
+    "id": "OG_301",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "上古之神护卫",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n如果你的克苏恩至少有10点攻击力，则获得10点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38898,
+    "flavor": "自从有了好向导，妈妈再也不用担心我的灵魂会迷路了！",
+    "health": 5,
+    "id": "OG_302",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "渡魂者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "每当一个随从死亡，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Meyers & T. Washington",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38900,
+    "flavor": "不论我们告诫她多少回，她还是会偷偷拿东西去喂牌桌底下的克苏恩。",
+    "health": 2,
+    "id": "OG_303",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "异教女巫",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n在你施放一个法术后，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38909,
+    "flavor": "据说艾泽拉斯所有的自助餐馆都拒绝使用沙虫肉，尽管它们的价格十分低廉。",
+    "health": 8,
+    "id": "OG_308",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨型沙虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "每当本随从攻击并消灭一个随从，可再次攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38910,
+    "elite": true,
+    "flavor": "哈霍兰公主游荡在安其拉废墟的上空，梦想有朝一日能遇见自己的心上人，并为他生下成千上万个孩子。",
+    "health": 5,
+    "id": "OG_309",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哈霍兰公主",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "targetingArrowText": "触发一个<b>亡语</b>。",
+    "text": "<b>战吼：</b>触发一个友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38911,
+    "flavor": "大量优质圣盾批发价甩卖，要的带价密。",
+    "health": 3,
+    "id": "OG_310",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜色镇执法官",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "OG",
+    "text": "每当你召唤一个生命值为1的随从，便使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38913,
+    "flavor": "即便在最黑暗的岁月里，圣骑士也依然保持着他们的赤诚之心，誓要将光明与正义挥洒到世间的每一个角落。",
+    "id": "OG_311",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗曙光",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "<b>发现</b>一张圣骑士随从牌。使其获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38914,
+    "flavor": "作为副官成天被呼来喝去真是不胜其烦，可谁让恩佐斯是他的老板呢。",
+    "health": 1,
+    "id": "OG_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恩佐斯的副官",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>装备一把1/3的锈蚀铁钩。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38916,
+    "flavor": "腐化灰熊曾在森林里袭击过一个猎人。后来那个猎人奇迹般活了下来，并转行做了演员，听说最近还得了奖。",
+    "health": 3,
+    "id": "OG_313",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "腐化灰熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "在你召唤一只野兽后，使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38918,
+    "flavor": "第二招叫化脓为血，将之前的过程反向来一遍，受害者多半是被恶心死的……",
+    "id": "OG_314",
+    "name": "化血为脓",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "对一个随从造成$1点伤害，如果它依然存活，则召唤一个2/2的泥浆怪。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38920,
+    "flavor": "血帆海盗之所以干这行，是因为想要一只属于自己的血帆鹦鹉。",
+    "health": 4,
+    "id": "OG_315",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血帆教徒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>如果你控制着其他海盗，使你的武器获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38922,
+    "elite": true,
+    "flavor": "作为传令官他的工作其实很简单，就是整天吆喝：“尤格-萨隆要来啦！”",
+    "health": 5,
+    "id": "OG_316",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "传令官沃拉兹",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>召唤所有其他友方随从的复制，他们均为1/1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 38943,
+    "elite": true,
+    "flavor": "这回死亡之翼听取了大家的意见，他不再单打独斗，而是以团队合作的方式重新出现在战场上。",
+    "health": 12,
+    "id": "OG_317",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "黑龙领主死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>亡语：</b>将你手牌中所有的龙牌置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38944,
+    "elite": true,
+    "flavor": "克苏恩在睡前总会看看霍格有没有偷偷地藏在床底下。",
+    "health": 6,
+    "id": "OG_318",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "艾尔文灾星霍格",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "OG",
+    "text": "每当本随从受到伤害，召唤一个2/2并具有<b>嘲讽</b>的豺狼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Lockwood",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38957,
+    "flavor": "白天看上去也很恐怖。",
+    "health": 4,
+    "id": "OG_320",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "午夜幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>你每有一张其他手牌，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38958,
+    "flavor": "每个月捐钱最多的信徒会获得一次与上古之神共进午餐的机会。",
+    "health": 6,
+    "id": "OG_321",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "疯狂的信徒",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>嘲讽</b>。每当本随从受到伤害，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38960,
+    "flavor": "传闻地精财阀暗地里提供了资金支持，从而使黑水海盗得以迅速发展壮大。",
+    "health": 5,
+    "id": "OG_322",
+    "name": "黑水海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "你的武器法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38961,
+    "flavor": "这就是掷骰时选择“需求”的下场！",
+    "health": 2,
+    "id": "OG_323",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "被感染的贮藏者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kan Liu",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38985,
+    "flavor": "有喜欢吃鲜肉的，就有喜欢吃腐肉的。",
+    "health": 5,
+    "id": "OG_325",
+    "name": "腐肉虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39002,
+    "flavor": "虽然样子有些怪异，但味道堪称一绝！",
+    "health": 1,
+    "id": "OG_326",
+    "name": "暮色野猪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & Nutchapol",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39003,
+    "flavor": "农夫们对裂地触须真是又爱又恨，要是它们能在开垦土地时不破坏房屋就好了。",
+    "health": 4,
+    "id": "OG_327",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "裂地触须",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39008,
+    "flavor": "在新游戏《炉石宝贝》中一定会大放异彩。",
+    "health": 5,
+    "id": "OG_328",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "异变之主",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>将一个友方随从随机变形成为一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jon Neimeister",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39026,
+    "flavor": "嘿，想来几张对手职业的卡牌吗？别问从哪儿搞来的，知道太多对你没好处。",
+    "health": 3,
+    "id": "OG_330",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "幽暗城商贩",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>亡语：</b>随机获取一张<i>（你对手职业的）</i>卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39033,
+    "flavor": "你见过不带兜帽的侍僧吗？反正我没见过……",
+    "health": 6,
+    "id": "OG_334",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "兜帽侍僧",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>。每当一个角色获得治疗时，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39034,
+    "flavor": "看！这是我的胸肌，这是我的马甲线，这是我的……我的肚子去哪儿了？",
+    "health": 3,
+    "id": "OG_335",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "变幻之影",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>亡语：</b>复制你对手的牌库中的一张牌，并将其置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39041,
+    "flavor": "如此炯炯有神的大眼睛，瞪谁谁倒霉。",
+    "health": 3,
+    "id": "OG_337",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "巨型独眼怪",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>嘲讽，战吼：</b>每有一个敌方随从，便获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39046,
+    "elite": true,
+    "flavor": "或许你能夺走他的人性，但是你夺不走他的鱼杆！",
+    "health": 4,
+    "id": "OG_338",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "阴暗渔夫纳特",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "你的对手在回合开始时，有50%的几率额外抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 39118,
+    "flavor": "每一位加入教派的新人，都必须接受克苏恩的一整套职前培训（洗脑）课程。",
+    "health": 6,
+    "id": "OG_339",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "斯克拉姆狂热者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n使你的克苏恩\n获得+2/+2<i>（无论它在哪里）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 39119,
+    "elite": true,
+    "flavor": "千万别告诉索苟斯将来它会被主宰之剑给干掉，还有它的颅骨后来成为了艾泽拉斯非常热门的旅游景点……",
+    "health": 9,
+    "id": "OG_340",
+    "mechanics": [
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "深渊滑行者索苟斯",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105822,
+    "flavor": "你好……你好……好便宜！",
+    "id": "TOY_716",
+    "name": "光速抢购",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "召唤一个1/2并具有<b>圣盾</b>和<b>嘲讽</b>的机械。使你的随从获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103630,
+    "flavor": "长得……很有创造力。",
+    "health": 4,
+    "id": "TOY_809",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纸板魔像",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>使你手牌，牌库和战场上的光环持续时间提高1回合。",
+    "type": "MINION"
+  }
+]

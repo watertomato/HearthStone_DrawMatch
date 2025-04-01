@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57166,
+    "elite": true,
+    "flavor": "三张脸分别代表愤怒，欲望和苦难。恰似午夜公会团。",
+    "health": 3,
+    "id": "BT_197",
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "灵魂之匣",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>吸血</b>\n<b>亡语：</b>将“终极魂匣”洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57160,
+    "elite": true,
+    "flavor": "是我杀了我！",
+    "id": "BT_198",
+    "name": "灵魂之镜",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "SHADOW",
+    "text": "召唤所有敌方随从的复制，并使敌方随从攻击其复制。",
+    "type": "SPELL"
+  }
+]

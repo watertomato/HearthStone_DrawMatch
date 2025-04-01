@@ -1,0 +1,101 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105573,
+    "flavor": "报错：这张牌功能完好，没有故障。",
+    "id": "MIS_107",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "玩具故障",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害，随机分配到所有敌方随从身上。如果你的牌库中没有随从牌，再造成$3点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108620,
+    "flavor": "暗月魔术师能从帽子里变出兔子，还有……胜利。",
+    "health": 4,
+    "id": "MIS_303",
+    "mechanics": [
+      "ELUSIVE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗月魔术师",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扰魔</b>。在你施放一个法术后，随机施放一个法力值消耗增加（1）点的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103269,
+    "flavor": "你肯定觉得生产这种只有9块的拼图不是什么难事，对吧？",
+    "id": "TOY_371",
+    "name": "加工失误",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽三张牌。如果你的牌库里没有随从牌，这三张牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103348,
+    "flavor": "冰元素朋友，你们好吗？",
+    "health": 4,
+    "id": "TOY_375",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "滑冰元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "冻结一个敌方随从。",
+    "text": "<b>微缩</b>\n<b>战吼：</b><b>冻结</b>一个敌方随从，获得等同于其攻击力的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103352,
+    "flavor": "水人本身并不可怕，可怕的是它的主人！",
+    "id": "TOY_377",
+    "name": "霜巫十字绣",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FROST",
+    "text": "对一个角色造成$3点伤害。如果该角色死亡，召唤一个3/6的可以<b><b>冻结</b></b>攻击目标的水元素。",
+    "type": "SPELL"
+  }
+]

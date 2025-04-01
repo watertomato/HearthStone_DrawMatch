@@ -1,0 +1,202 @@
+[
+  {
+    "artist": "Kagi",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 53442,
+    "flavor": "“快把它放下，雷诺！”",
+    "id": "ULD_216",
+    "name": "尤格-萨隆的谜之匣",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "spellSchool": "SHADOW",
+    "text": "随机施放10个法术<i>（目标随机而定）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 53771,
+    "flavor": "一只海龟成功入……沙漠！",
+    "health": 5,
+    "id": "ULD_236",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "始祖龟朝圣者",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>从你的牌库中\n<b>发现</b>一张法术牌，并对随机目标施放。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 53778,
+    "elite": true,
+    "flavor": "终其一生，雷诺·杰克逊和古往今来第一法师之间只有一把加特林法杖的距离。",
+    "health": 6,
+    "id": "ULD_238",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "考古专家雷诺",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则造成10点伤害，随机分配到所有敌方随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53823,
+    "flavor": "小心玩火，殃及四邻。",
+    "id": "ULD_239",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "火焰结界",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "spellSchool": "FIRE",
+    "text": "<b>奥秘：</b>在一个随从攻击你的英雄后，对所有敌方随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53822,
+    "flavor": "熊猫人旧谚：人无奥秘，顶无遮蔽。",
+    "health": 2,
+    "id": "ULD_240",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "对空奥术法师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ULDUM",
+    "text": "在你使用一张<b>奥秘</b>牌后，对所有敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54493,
+    "flavor": "在那西方云雾之乡\n我就在那地方成长\n每天都要到处浪荡\n还要放个闪电听响",
+    "health": 4,
+    "id": "ULD_293",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "云雾王子",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ULDUM",
+    "targetingArrowText": "造成6点伤害。",
+    "text": "<b>战吼：</b>\n如果你控制一个<b>奥秘</b>，则造成6点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Servando Lupini",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54408,
+    "flavor": "魔法表演，欢迎参观。沙雕城堡，随从驻足。",
+    "health": 3,
+    "id": "ULD_329",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙丘塑形师",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "在你施放一个法术后，随机将一张法师随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53945,
+    "elite": true,
+    "flavor": "“我怎么就拿不住这些卷轴？”",
+    "id": "ULD_433",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "洗劫天空殿",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>任务：</b>施放10个法术。\n<b>奖励：</b>升格卷轴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 53974,
+    "flavor": "免费提高到5点法力值，想试试吗？",
+    "health": 5,
+    "id": "ULD_435",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纳迦沙漠女巫",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>使你手牌中的法术牌法力值消耗变为（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54772,
+    "flavor": "我不是说这是外星人干的，这<b>根本</b>就是外星人干的！",
+    "id": "ULD_726",
+    "name": "远古谜团",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ULDUM",
+    "spellSchool": "ARCANE",
+    "text": "从你的牌库中抽一张<b>奥秘</b>牌。其法力值消耗为（0）点。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Sam Nielson",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56392,
+    "flavor": "它也被囚禁了一万年！可并非因为它是恶魔，而是因为它的鱼人舞蹈。",
+    "health": 1,
+    "id": "BT_009",
+    "name": "被禁锢的阳鳃鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>2回合。唤醒时，召唤两个1/1的\n鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56555,
+    "flavor": "最好的智慧便是传承。",
+    "id": "BT_025",
+    "name": "智慧圣契",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+1/+1，以及“<b>亡语：</b>将一张‘智慧圣契’法术牌置入你的手牌。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56556,
+    "flavor": "真理在圣契范围之内。",
+    "health": 6,
+    "id": "BT_026",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "奥尔多真理追寻者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽，战吼：</b>\n在本局对战中，你的圣契的法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

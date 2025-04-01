@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59400,
+    "flavor": "武器本身已经很好用了……这只是以防万一。",
+    "health": 3,
+    "id": "SCH_519",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "狐人淬毒师",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "你的武器拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59877,
+    "flavor": "所谓抄袭，不过是“合理”地利用了你的资源。",
+    "id": "SCH_706",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "抄袭",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>奥秘：</b>在你对手的回合结束时，将其使用的卡牌的复制置入你的手牌。",
+    "type": "SPELL"
+  }
+]

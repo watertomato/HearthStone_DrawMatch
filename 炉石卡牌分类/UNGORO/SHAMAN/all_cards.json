@@ -1,0 +1,222 @@
+[
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41152,
+    "faction": "HORDE",
+    "flavor": "那种没人在意你的感觉，是永远的痛。",
+    "health": 1,
+    "id": "UNG_019",
+    "mechanics": [
+      "ELUSIVE"
+    ],
+    "name": "空气元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gustav Schmidt",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41159,
+    "flavor": "许多年轻的萨满喜欢以火山为主题来做毕业设计。",
+    "id": "UNG_025",
+    "mechanics": [
+      "OVERLOAD",
+      "ImmuneToSpellpower"
+    ],
+    "name": "火山喷发",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "造成$15点伤害，随机分配到所有随从身上。\n<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41105,
+    "flavor": "蛮鱼图腾会播放只有鱼人才能听到的声音，也还好只有他们能听到…",
+    "health": 3,
+    "id": "UNG_201",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "蛮鱼图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "在你的回合结束时，召唤一个1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41107,
+    "flavor": "擅长召唤元素，更擅长烤棉花糖。",
+    "health": 1,
+    "id": "UNG_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火羽先锋",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>使你手牌中所有元素牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rudy Siswanto",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41116,
+    "flavor": "他只是想和他的小伙伴们一起摇摆。",
+    "health": 4,
+    "id": "UNG_208",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "岩石哨兵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则召唤两个2/3并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41331,
+    "elite": true,
+    "flavor": "炼金术师认为只要将土、气、水、火四种元素结合在一起，就能产生第五元素。",
+    "health": 7,
+    "id": "UNG_211",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒蛮之主卡利莫斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则施放一个元素祈咒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41521,
+    "flavor": "水流强劲，祛渍无残留。",
+    "id": "UNG_817",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "海潮涌动",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "<b>吸血</b>\n对一个随从造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gustav Schmidt",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41479,
+    "flavor": "他很怀念当年和他一起守关的299位小伙伴。",
+    "health": 4,
+    "id": "UNG_938",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "温泉守卫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "targetingArrowText": "恢复3点生命值。",
+    "text": "<b>嘲讽，战吼：</b>\n恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41499,
+    "elite": true,
+    "flavor": "山上的朋友，树上的朋友，水里的朋友，请举起你们的双蹼！让正义的鱼人来拯救艾泽拉斯！",
+    "id": "UNG_942",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "鱼人总动员",
+    "questReward": "UNG_942t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>召唤8个鱼人。\n<b>奖励：</b>老鲨嘴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41879,
+    "flavor": "死亡不是终点，而是新的开始。",
+    "id": "UNG_956",
+    "name": "灵魂回响",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得“<b>亡语：</b>将本随从移回你的手牌”。",
+    "type": "SPELL"
+  }
+]

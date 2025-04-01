@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54904,
+    "elite": true,
+    "flavor": "和巨龙之魂有点像——如果巨龙有这种冷冰冰的灵魂。",
+    "health": 5,
+    "id": "DRG_104",
+    "name": "齐恩瓦拉",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "你在一回合中施放三个法术后，召唤一个5/5的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56161,
+    "elite": true,
+    "flavor": "官宣：也可以叫他玛里狗斯。",
+    "health": 8,
+    "id": "DRG_270",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "织法巨龙玛里苟斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，便<b>发现</b>一张升级过的法师法术牌。",
+    "type": "MINION"
+  }
+]

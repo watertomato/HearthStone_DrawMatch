@@ -1,0 +1,124 @@
+[
+  {
+    "artist": "Akkapoj T.",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59089,
+    "durability": 0,
+    "flavor": "非常适合用来对付冰冠堡垒的第一个首领。",
+    "health": 2,
+    "id": "SCH_252",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "切髓之刃",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将两张灵魂残片洗入你的\n牌库。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 60164,
+    "flavor": "什么东西能保护恶魔的蹄子？邪能。",
+    "id": "SCH_357",
+    "name": "邪能护卫",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FEL",
+    "text": "召唤三个1/2并具有<b>嘲讽</b>的恶魔。每当一个友方随从死亡，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59606,
+    "flavor": "各种速通的关键技能。",
+    "id": "SCH_422",
+    "name": "二段跳",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "从你的牌库中抽一张<b>流放</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59720,
+    "flavor": "“红血饮料，给你一双翅膀。”",
+    "health": 1,
+    "id": "SCH_618",
+    "multiClassGroup": "HUNTER_DEMONHUNTER",
+    "name": "嗜血传令官",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "如果这张牌在你的手牌中，每当一个友方随从死亡，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59732,
+    "flavor": "宝石匠点燃了一张残片。残片发出强烈的光，她的英雄从没有像现在这样高大。",
+    "health": 5,
+    "id": "SCH_704",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "铸魂宝石匠",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>摧毁一张你牌库中的灵魂残片，在本回合中使你的英雄获得+5攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59753,
+    "flavor": "我的训练师给了我一双新跑鞋，比我的Air Gul'dan强多了！",
+    "health": 4,
+    "id": "SCH_705",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "邪犬训练师",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>流放：</b>召唤两个1/1的恶魔。",
+    "type": "MINION"
+  }
+]

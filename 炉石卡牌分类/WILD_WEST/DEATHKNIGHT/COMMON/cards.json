@@ -1,0 +1,122 @@
+[
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104523,
+    "durability": 0,
+    "flavor": "认清它的石质：这是把武器！",
+    "health": 3,
+    "id": "DEEP_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "FREEZE",
+      "LIFESTEAL"
+    ],
+    "name": "石英碎击槌",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>吸血</b>。<b>冻结</b>任何受到你的英雄伤害的角色。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102418,
+    "flavor": "他们一定会没逝的。",
+    "id": "DEEP_017",
+    "isMiniSet": true,
+    "name": "采矿事故",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤两个1/1并具有“<b>亡语：</b>召唤一个1/1的脆弱的食尸鬼”的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100595,
+    "flavor": "看看这顶土掉渣的帽子，难怪裁缝被栽到了地里。",
+    "id": "WW_352",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "自埋自收",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "造成$3点\n伤害。<b>发掘</b>一个\n宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100611,
+    "flavor": "理论上讲，它们两个现在还不算是残骸。",
+    "id": "WW_354",
+    "name": "残骸遍野",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "对一个随从造成等同于你的<b>残骸</b>数量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100627,
+    "flavor": "我知道这是只亡灵的手，但我还是要说，把小拇指弯成这样对关节很不好。",
+    "health": 3,
+    "id": "WW_358",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "QUICKDRAW"
+    ],
+    "name": "农场小助手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b><b>发现</b>一张亡灵牌。<b>快枪：</b>其法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

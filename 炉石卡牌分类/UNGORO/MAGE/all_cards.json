@@ -1,0 +1,195 @@
+[
+  {
+    "artist": "Chris Seaman",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41151,
+    "flavor": "火可以带来光明，也可以毁掉一切。",
+    "id": "UNG_018",
+    "name": "烈焰喷涌",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。\n将一张1/2的元素牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41153,
+    "flavor": "你抽到什么了？嘘…那是个秘密。",
+    "health": 3,
+    "id": "UNG_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "秘法学家",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>抽一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41154,
+    "flavor": "身处野外的探险者会时不时地用他来泡茶。",
+    "health": 4,
+    "id": "UNG_021",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蒸汽涌动者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，将一张“烈焰喷涌”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41158,
+    "flavor": "好厉害的法术，我也要！",
+    "id": "UNG_024",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "法术共鸣",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "ARCANE",
+    "text": "<b>奥秘：</b>当你的对手施放一个法术时，将该法术的一张复制置入你的手牌，其法力值消耗变为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41162,
+    "elite": true,
+    "flavor": "如果你杀死她，她会变得更强，强到…变成6/6这样。",
+    "health": 2,
+    "id": "UNG_027",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "派烙斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将本随从移回你的手牌，并变为法力值消耗为（4）点的6/6随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41168,
+    "elite": true,
+    "flavor": "这个咒语看似复杂，但只要往左跳一小步，再往右跳一小步，就完成施法了。",
+    "id": "UNG_028",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "打开时空之门",
+    "questReward": "UNG_028t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>施放8个你的套牌之外的\n法术。\n <b>奖励：</b>时空扭曲。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41927,
+    "flavor": "他最讨厌被肯瑞托的法师拿来当派对的灯光特效。",
+    "health": 2,
+    "id": "UNG_846",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体风暴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>随机将一张法师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41496,
+    "flavor": "雕文上的符号翻译过来就是“抱歉”。",
+    "id": "UNG_941",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "远古雕文",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>一张法术牌，使其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41690,
+    "flavor": "加过特技后，我看起来棒极了！",
+    "id": "UNG_948",
+    "name": "熔岩镜像",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "选择一个友方随从，召唤一个该随从的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Gaser",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41878,
+    "flavor": "引导时请注意落点的选择。",
+    "id": "UNG_955",
+    "name": "陨石术",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$15点伤害，并对其相邻的随从造成\n$4点伤害。",
+    "type": "SPELL"
+  }
+]

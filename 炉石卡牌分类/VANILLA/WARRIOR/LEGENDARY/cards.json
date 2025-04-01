@@ -1,0 +1,25 @@
+[
+  {
+    "artist": "Glenn Rane",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 69958,
+    "elite": true,
+    "flavor": "灰谷南方，来自地狱的咆哮还在回响。",
+    "health": 9,
+    "id": "VAN_EX1_414",
+    "mechanics": [
+      "CHARGE"
+    ],
+    "name": "格罗玛什·地狱咆哮",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "ENRAGED"
+    ],
+    "set": "VANILLA",
+    "text": "<b>冲锋</b>\n<b>激怒：</b>+6攻击力",
+    "type": "MINION"
+  }
+]

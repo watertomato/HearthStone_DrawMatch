@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53445,
+    "flavor": "精雕细刻，精湛工艺，至真精品，惊世再现。",
+    "health": 2,
+    "id": "ULD_217",
+    "mechanics": [
+      "REBORN",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "微型木乃伊",
+    "race": "MECHANICAL",
+    "races": [
+      "UNDEAD",
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>复生</b>\n在你的回合结束时，随机使另一个友方随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 54427,
+    "flavor": "鱼人永不为奴！",
+    "id": "ULD_716",
+    "name": "鱼人为王",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "从你的牌库中召唤七个鱼人。",
+    "type": "SPELL"
+  }
+]

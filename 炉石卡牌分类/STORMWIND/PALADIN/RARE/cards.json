@@ -1,0 +1,105 @@
+[
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65579,
+    "flavor": "你想套现吗？\n[  ]呀哈        [  ]哟吼",
+    "health": 8,
+    "id": "DED_500",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "分赃专员",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>交换攻击力最高和最低的随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samche Chen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65591,
+    "flavor": "圣骑士嘛……就喜欢抢别人的风头。还有属性值。",
+    "id": "DED_502",
+    "isMiniSet": true,
+    "name": "正义防御",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "HOLY",
+    "text": "将一个随从的攻击力和生命值变为1，并使你手牌中的一张随从牌获得其失去的属性值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 0,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64554,
+    "durability": 0,
+    "flavor": "用来切磋可以，打架就算了。",
+    "health": 3,
+    "id": "SW_048",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "棱彩珠宝工具",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "STORMWIND",
+    "text": "在一个友方随从失去<b>圣盾</b>后，使你手牌中的随从牌获得+1/+1。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64525,
+    "flavor": "还记得凯瑞尔获准带宠物上班的那一天。部落恨死那一天了。",
+    "id": "SW_316",
+    "name": "神圣坐骑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+1/+1和<b>圣盾</b>。当该随从死亡时，召唤一匹战马。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64371,
+    "flavor": "行于黑暗，侍奉光明。",
+    "health": 4,
+    "id": "SW_317",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "古墓卫士",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "targetingArrowText": "对一个敌方随从造成等同于本随从攻击力的伤害。",
+    "text": "<b>吸血</b>，<b>战吼：</b>对一个敌方随从造成等同于本随从攻击力的伤害。",
+    "type": "MINION"
+  }
+]

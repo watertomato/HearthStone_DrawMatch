@@ -1,0 +1,104 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 376,
+    "flavor": "“但是，真正的胜利，孩子——是鼓舞你的子民心中的斗志。”——泰瑞纳斯·米奈希尔",
+    "id": "CS1_129",
+    "name": "心灵之火",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "使一个随从的攻击力等同于其生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 1189,
+    "flavor": "专为施法者设计。施法者包括从墓地里钻出来的邪恶巫妖，也包括在黑铁酒吧里唱卡拉OK的麦霸。",
+    "id": "EX1_332",
+    "mechanics": [
+      "SILENCE"
+    ],
+    "name": "沉默",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "<b>沉默</b>一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daarken",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 886,
+    "flavor": "光耀孕育之子嗣，吾等子嗣之光耀。",
+    "health": 4,
+    "id": "EX1_335",
+    "name": "光耀之子",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "本随从的攻击力始终等同于其生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Garner",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 30,
+    "flavor": "“人类喜欢说‘对牛弹琴’来形容白费功夫，哼，我们喜欢说‘对兽人使用思维窃取’！”——牛头人长者",
+    "id": "EX1_339",
+    "name": "思维窃取",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "复制你对手的牌库中的两张牌，并将其置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daarken",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 1362,
+    "flavor": "神圣的象征。",
+    "id": "EX1_621",
+    "name": "治疗之环",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "HOLY",
+    "text": "为所有随从恢复#4点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1364,
+    "flavor": "他在每周四的夜晚都会悄然出现在猪和哨声旅店担当保镖。",
+    "health": 6,
+    "id": "EX1_623",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "圣殿执行者",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "targetingArrowText": "使其获得+3生命值。",
+    "text": "<b>战吼：</b>使一个友方随从获得+3生命值。",
+    "type": "MINION"
+  }
+]

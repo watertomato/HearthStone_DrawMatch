@@ -1,0 +1,93 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 59092,
+    "flavor": "用两张仇恨之轮，能不能组成一辆仇恨之自行车？",
+    "id": "SCH_253",
+    "name": "仇恨之轮",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "对所有随从造成$3点伤害。每消灭一个随从，召唤一个3/3的怨魂。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59230,
+    "flavor": "奔袭如火。讨厌话多。喜欢紫色。",
+    "health": 3,
+    "id": "SCH_276",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "法师猎手",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭</b>\n每当本随从攻击一个随从时，将其<b>沉默</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 60151,
+    "flavor": "感受这震撼灵魂的伤害吧。",
+    "health": 2,
+    "id": "SCH_355",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "残片震爆秘术师",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>摧毁一张你牌库中的灵魂残片，对所有其他随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 60153,
+    "flavor": "“我的爱好是滑雪，你呢？”\n“滑翔……”",
+    "id": "SCH_356",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "滑翔",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "将你的手牌洗入你的牌库，抽四张牌。<b>流放：</b>使你的对手做出相同行为。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59394,
+    "flavor": "养了宠物之后，有时就会感觉自己在和恶魔作伴。",
+    "id": "SCH_600",
+    "name": "恶魔伙伴",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "随机召唤一个恶魔伙伴。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 7,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 56685,
+    "flavor": "蛇怪多头，凛凛巨口，飒飒奔踏，忿忿不休。",
+    "health": 7,
+    "id": "BT_133",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沼泽多头蛇",
+    "race": "BEAST",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>突袭</b>\n在本随从攻击后，随机将一张法力值消耗为（8）的随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56687,
+    "flavor": "在没有沼泽射线的年代，德鲁伊们白天捕捉萤火虫，晚上靠着萤火虫的亮光学习法术。",
+    "id": "BT_135",
+    "name": "萤火成群",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "你的手牌中每有一张法术牌，召唤一只2/2的萤火虫。",
+    "type": "SPELL"
+  }
+]

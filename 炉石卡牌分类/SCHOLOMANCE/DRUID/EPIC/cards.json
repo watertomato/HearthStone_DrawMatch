@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 59450,
+    "flavor": "足够聪明的物种才能存续。看到七个6/6的树人就快跑吧。",
+    "id": "SCH_609",
+    "name": "优胜劣汰",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "使你手牌，牌库和战场上的所有随从获得+4/+4。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59542,
+    "flavor": "“多美的图腾，就这么被你刻毁了……真是符了！”",
+    "id": "SCH_612",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "OVERLOAD"
+    ],
+    "name": "雕琢符文",
+    "overload": 2,
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤四个2/2的树人图腾；或者<b>过载：</b>（2）召唤四个2/2并具有<b>突袭</b>的树人图腾。",
+    "type": "SPELL"
+  }
+]

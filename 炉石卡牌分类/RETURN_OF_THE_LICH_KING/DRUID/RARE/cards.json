@@ -1,0 +1,73 @@
+[
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 86508,
+    "flavor": "虽然名字听起来很正面，但仍不能改变其通灵术的邪恶本质。",
+    "id": "NX2_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "死中新生",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "NATURE",
+    "text": "抽三张牌。<b>注能（6）：</b>法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86510,
+    "flavor": "可以掠过随从，不要略过英雄。",
+    "id": "NX2_012",
+    "isMiniSet": true,
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "斜掠",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在本回合中，使你的英雄获得+2攻击力。对一个随从造成等同于你的英雄攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 85049,
+    "flavor": "甲虫通灵术。甲虫通灵术。甲虫通灵术。",
+    "id": "RLK_654",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "甲虫通灵术",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>抉择：</b>获得12点护甲值；或者召唤两只3/3并具有<b>嘲讽</b>的甲虫。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 85051,
+    "flavor": "可靠，可拆，可机洗。",
+    "id": "RLK_656",
+    "name": "壳质护板",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "获得4点护甲值。在你的下个回合开始时，再获得4点。",
+    "type": "SPELL"
+  }
+]

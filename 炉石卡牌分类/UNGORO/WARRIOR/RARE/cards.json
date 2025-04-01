@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41406,
+    "flavor": "德莱尼高层开始考虑取消“带宠物一起上班”这项政策。",
+    "health": 6,
+    "id": "UNG_926",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "身陷绝境的哨卫",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>\n为你的对手召唤三只1/1的迅猛龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41420,
+    "durability": 0,
+    "flavor": "造型很酷，但是要怎么拿起来呢？",
+    "health": 1,
+    "id": "UNG_929",
+    "name": "熔岩之刃",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "如果这张牌在你的手牌中，每个回合都会变成一张新的武器牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41890,
+    "flavor": "打恐龙也要看妈妈。",
+    "health": 6,
+    "id": "UNG_957",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "恐角龙宝宝",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>\n将一张8/12并具有<b>嘲讽</b>的“恐角龙头领”洗入你的牌库。",
+    "type": "MINION"
+  }
+]

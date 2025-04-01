@@ -1,0 +1,186 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43357,
+    "flavor": "狼群在左，箭雨在右。",
+    "id": "LOOT_077",
+    "name": "侧翼打击",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "对一个随从造成$3点伤害。召唤一只3/3的狼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43358,
+    "flavor": "再加50矿和100气，就可以升级为洞穴潜伏者。",
+    "health": 4,
+    "id": "LOOT_078",
+    "name": "洞穴多头蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga & James Martin",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43359,
+    "flavor": "并非所有游荡者都迷失了自我。然而这个肯定是迷失了。",
+    "id": "LOOT_079",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "游荡怪物",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>奥秘：</b>\n当一个敌人攻击你的英雄时，随机召唤一个法力值消耗为（3）的随从，并使其成为攻击的目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Joe Wilson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 43363,
+    "flavor": "“牛头人得到了这块绿色的石头，想要用它的力量拯救自己的土地。他们释放了心中的怒火，族群却从此失落。究竟谁是猎手，谁又是野兽？”——《魔石》",
+    "id": "LOOT_080",
+    "name": "小型法术翡翠",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "NATURE",
+    "text": "召唤两只3/3的狼。<i>（使用一个<b>奥秘</b>后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga & James Martin",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43369,
+    "durability": 0,
+    "elite": true,
+    "flavor": "迷人的西蒙妮，疯狂的克林弗兰，毁灭者阿特留斯和屠杀者索伦诺尔觉得这件武器很棒。",
+    "health": 2,
+    "id": "LOOT_085",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伦鲁迪洛尔",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>如果你的牌库里没有随从牌，则用随机猎人法术牌填满你的手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 45546,
+    "flavor": "我独自狩猎。还有米莎。还有霍弗。还有雷欧克。",
+    "id": "LOOT_217",
+    "name": "来我身边",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "text": "召唤一个动物伙伴，如果你的牌库里没有随从牌，则召唤两个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Kagounkin",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 45537,
+    "durability": 0,
+    "flavor": "曾经被称作“卡恩迪洛尔”，精灵语的意思是“上古剃须匠的短弓”。",
+    "health": 3,
+    "id": "LOOT_222",
+    "name": "蜡烛弓",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "你的英雄在攻击时<b>免疫</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 46390,
+    "elite": true,
+    "flavor": "她不是那种喜欢抱着树的精灵，不过偶尔的拥抱还是很让人舒服的。",
+    "health": 6,
+    "id": "LOOT_511",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "卡瑟娜·冬灵",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼，亡语：</b><b>招募</b>一个野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Kagounkin",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 46445,
+    "flavor": "呃，你最好找人来修一下。",
+    "health": 4,
+    "id": "LOOT_520",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "渗水的软泥怪",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>\n随机获得牌库中一个随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 46450,
+    "flavor": "“情况还没到最糟！”“是啊，所以就变得更糟了。”",
+    "id": "LOOT_522",
+    "name": "碾压墙",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "text": "消灭对手场上最左边和最右边的随从。",
+    "type": "SPELL"
+  }
+]

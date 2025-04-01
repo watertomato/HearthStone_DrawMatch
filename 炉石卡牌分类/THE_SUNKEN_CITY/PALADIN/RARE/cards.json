@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Todd Harris",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 73431,
+    "flavor": "时刻保持闪亮就好。",
+    "health": 5,
+    "id": "TSC_060",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "闪光翻车鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你的手牌中有神圣法术牌，则获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72926,
+    "flavor": "艾露恩的光芒在辛艾萨莉的废墟中消散，可宝藏依然如故。",
+    "health": 2,
+    "id": "TSC_644",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD"
+    ],
+    "name": "艾萨拉的观月仪",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>圣盾</b>，<b>战吼：</b>将一张沉没的观月仪置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 73424,
+    "flavor": "如果你把10点法力值都用了，这就叫“午市特惠”。",
+    "id": "TSC_952",
+    "name": "神圣寿司卷",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "恢复#2点生命值。在本回合可以重复使用。",
+    "type": "SPELL"
+  }
+]

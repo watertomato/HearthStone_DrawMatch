@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54926,
+    "flavor": "警告：可能使你想起被旋转木马支配的不良回忆。",
+    "health": 1,
+    "id": "DRG_010",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "俯冲狮鹫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>突袭，战吼：</b>从你的牌库中抽一张具有<b>突袭</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55288,
+    "flavor": "这个任务最可怕的部分就是狮鹫在最后的叫声。",
+    "id": "DRG_251",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "扫清道路",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n召唤三个<b>突袭</b>随从。<b>奖励：</b>召唤一头4/4并具有<b>突袭</b>的狮鹫。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55291,
+    "flavor": "我又跳出来了！我又站回去了！",
+    "health": 3,
+    "id": "DRG_252",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "相位追猎者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DRAGONS",
+    "text": "在你使用你的英雄技能后，从你的牌库中施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  }
+]

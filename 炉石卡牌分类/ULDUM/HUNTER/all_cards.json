@@ -1,0 +1,205 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53917,
+    "flavor": "“不听话就送你去荣誉室！”",
+    "health": 3,
+    "id": "ULD_151",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "拉穆卡恒驯兽师",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>随机复制一张你手牌中的野兽牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53919,
+    "flavor": "要能像每天上秤时那么小心翼翼，就不会触发陷阱了。",
+    "id": "ULD_152",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "压感陷阱",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术后，随机消灭一个敌方\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53922,
+    "flavor": "阳光所及的万物——只要是死物，都属于我们。",
+    "health": 3,
+    "id": "ULD_154",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "土狼头领",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便召唤两只2/2的土狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53924,
+    "elite": true,
+    "flavor": "“哈哈……又有新素材可以做卡背了。”",
+    "id": "ULD_155",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "打开宝库",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>任务：</b>召唤20个随从。<b>奖励：</b>法老的面盔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 53926,
+    "elite": true,
+    "flavor": "布莱恩的恐龙训练计划进展顺利——他现在已经学会坐下，起立，还有打滚啦！",
+    "health": 4,
+    "id": "ULD_156",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐龙大师布莱恩",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则召唤暴龙王克鲁什。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 53435,
+    "flavor": "“别是石皮蜥蜴，别是石皮蜥蜴，别是……”",
+    "health": 9,
+    "id": "ULD_212",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "刺血狂蝎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>从你对手的手牌中召唤一个随从。攻击该随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 53609,
+    "flavor": "不错吧？织网蛛给探险者赞助了一个睡袋！",
+    "health": 5,
+    "id": "ULD_410",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "猩红织网蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>随机使你手牌中的一张野兽牌的\n法力值消耗减少（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53861,
+    "flavor": "看！这是陷阱！",
+    "id": "ULD_429",
+    "name": "猎人工具包",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ULDUM",
+    "text": "随机将一张猎人野兽牌，<b>奥秘</b>牌和武器牌分别置入你的\n手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53860,
+    "durability": 0,
+    "flavor": "一点寒芒先到，随后一只蝗虫。",
+    "health": 3,
+    "id": "ULD_430",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙漠之矛",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ULDUM",
+    "text": "在你的英雄攻击后，召唤一只1/1并具有<b>突袭</b>的\n蝗虫。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 54424,
+    "flavor": "蝗虫一拥而至，好事从不成群。",
+    "id": "ULD_713",
+    "name": "飞蝗虫群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ULDUM",
+    "text": "召唤七只1/1并具有<b>突袭</b>的\n蝗虫。",
+    "type": "SPELL"
+  }
+]

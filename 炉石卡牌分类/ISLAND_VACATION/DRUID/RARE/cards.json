@@ -1,0 +1,107 @@
+[
+  {
+    "artist": "Alex Stone",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105810,
+    "flavor": "翡翠梦境，变成翡翠般的现实。",
+    "health": 5,
+    "id": "VAC_511",
+    "name": "嗜睡巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>休眠</b>2回合。<b>休眠</b>状态下，在你的回合结束时召唤一条3/5并具有<b>嘲讽</b>的龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105891,
+    "flavor": "“你在哪？”“步道啊！”",
+    "health": 3,
+    "id": "VAC_517",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "远足步道",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>发现</b>一张<b>嘲讽</b>随从牌。在你获得护甲值后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 107856,
+    "flavor": "它们这是聚众群饮……不过动物就该群饮啊。",
+    "id": "VAC_948",
+    "name": "补水区",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "复活你法力值消耗最高的三个不同的<b>嘲讽</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110786,
+    "flavor": "我们的搬家双熊保证会把你的行李尽快送达。",
+    "id": "WORK_024",
+    "isMiniSet": true,
+    "name": "蛮熊搬家",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "获取两张3/3并具有<b>嘲讽</b>的熊，其每在你手牌中一回合便获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110789,
+    "flavor": "*倒吸凉气*原来数据真的能吃！“7把9食”的故事是真的！",
+    "health": 1,
+    "id": "WORK_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "数据分析狮",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b><b>突袭</b>。嘲讽</b>。<b>选择三次：</b>获得+2攻击力；或者+2生命值。",
+    "type": "MINION"
+  }
+]

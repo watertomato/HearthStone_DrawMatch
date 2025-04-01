@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Grace Liu",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64433,
+    "flavor": "不！我的奶酪火锅！",
+    "health": 5,
+    "id": "SW_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "笨拙的信使",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>从你的手牌中施放法力值消耗最高的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64434,
+    "flavor": "“当年下死亡矿井的时候，我一把掐住了范克里夫的脖子，正要给他个痛快……*嗅*什么味？”",
+    "id": "SW_110",
+    "name": "点燃",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。将一张伤害提高一点的“点燃”洗入\n你的牌库。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104524,
+    "flavor": "声音尖利，有点锈迹。沾了点污泥，还有点神秘。",
+    "health": 1,
+    "id": "DEEP_015",
+    "isMiniSet": true,
+    "mechanics": [
+      "MAGNETIC",
+      "REBORN"
+    ],
+    "name": "义肢假手",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>磁力</b>。<b>复生</b>\n可以<b>磁力</b>吸附在机械或亡灵上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104523,
+    "durability": 0,
+    "flavor": "认清它的石质：这是把武器！",
+    "health": 3,
+    "id": "DEEP_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "FREEZE",
+      "LIFESTEAL"
+    ],
+    "name": "石英碎击槌",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>吸血</b>。<b>冻结</b>任何受到你的英雄伤害的角色。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102418,
+    "flavor": "他们一定会没逝的。",
+    "id": "DEEP_017",
+    "isMiniSet": true,
+    "name": "采矿事故",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤两个1/1并具有“<b>亡语：</b>召唤一个1/1的脆弱的食尸鬼”的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 99957,
+    "flavor": "这些工人不会流汗，不用呼吸，连蜡烛都省了……你还有什么不满意的呢？",
+    "health": 3,
+    "id": "WW_322",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "骷髅矿工",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b><b>发掘</b>一个宝藏，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 99959,
+    "flavor": "堆得不错，很整齐，很连贯。",
+    "health": 1,
+    "id": "WW_324",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨堆",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>在你下次<b>发掘</b>时，再次\n召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100595,
+    "flavor": "看看这顶土掉渣的帽子，难怪裁缝被栽到了地里。",
+    "id": "WW_352",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "自埋自收",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "造成$3点\n伤害。<b>发掘</b>一个\n宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100611,
+    "flavor": "理论上讲，它们两个现在还不算是残骸。",
+    "id": "WW_354",
+    "name": "残骸遍野",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "对一个随从造成等同于你的<b>残骸</b>数量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 7,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100616,
+    "flavor": "无论死活，泥犁难脱。",
+    "health": 7,
+    "id": "WW_356",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "泥犁耕牛",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你已经<b>发掘</b>过两次，在本回合中你的下一张牌法力值消耗减少（7）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100619,
+    "elite": true,
+    "flavor": "心之所系即为家。哪怕父老乡亲的心已经凉透了。",
+    "health": 8,
+    "id": "WW_357",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "老腐和老墓",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，获得5份<b>残骸</b>。在你的回合开始时，消耗5份<b>残骸</b>，使你的英雄获得+5生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100627,
+    "flavor": "我知道这是只亡灵的手，但我还是要说，把小拇指弯成这样对关节很不好。",
+    "health": 3,
+    "id": "WW_358",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "QUICKDRAW"
+    ],
+    "name": "农场小助手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b><b>发现</b>一张亡灵牌。<b>快枪：</b>其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101265,
+    "flavor": "“戴夫，我说了你肯定不信！这次植物变成了僵尸！”",
+    "id": "WW_368",
+    "name": "耕地轮作",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "召唤四个1/1并具有<b>突袭</b>且会在回合结束时死亡的亡灵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 20,
+    "dbfId": 101375,
+    "elite": true,
+    "flavor": "雷斯卡是血石矿井的工头。他会先把人累死，再把尸体复活，最后再把尸体累死。",
+    "health": 3,
+    "id": "WW_373",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "矿坑老板雷斯卡",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。在本局对战中每有一个随从死亡，本牌的法力值消耗便减少（1）点。<b>亡语：</b>随机夺取一个敌方随从的控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101376,
+    "flavor": "产量虽不大，例例皆心苦。",
+    "id": "WW_374",
+    "name": "凉心农场",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "消耗最多\n8份<b>残骸</b>，随机召唤一个法力值消耗相同的随从。",
+    "type": "SPELL"
+  }
+]

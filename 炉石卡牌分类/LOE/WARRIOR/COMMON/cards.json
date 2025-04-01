@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2881,
+    "flavor": "黑曜石毁灭者最大的兴趣爱好就是毁灭黑曜石。",
+    "health": 7,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁制作。",
+    "id": "LOE_009",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑曜石毁灭者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LOE",
+    "text": "在你的回合结束时，召唤一只1/1并具有<b>嘲讽</b>的甲虫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2894,
+    "flavor": "山中无老虎，猴子称大王。",
+    "health": 4,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥达曼中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥达曼中解锁制作。",
+    "id": "LOE_022",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "凶暴猿猴",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOE",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  }
+]

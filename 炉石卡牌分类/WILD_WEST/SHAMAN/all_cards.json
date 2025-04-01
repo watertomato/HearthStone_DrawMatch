@@ -1,0 +1,263 @@
+[
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "classes": [
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102172,
+    "flavor": "绿石头进，红石头出：针岩进，血石出。",
+    "health": 2,
+    "id": "DEEP_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "针岩图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，获得2点护甲值并抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edward Frayna",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102173,
+    "flavor": "这种错误只能犯一次。",
+    "id": "DEEP_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "向下深挖",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$8点伤害。<b>发掘</b>一个宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 99961,
+    "elite": true,
+    "flavor": "如果说还有什么能治愈荒芜之地的话，那一定是青蛙之力！",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "WW_010",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荷利戴医生",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，装备九蛙魔杖。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100286,
+    "flavor": "哇哦，牛上天了！",
+    "health": 4,
+    "id": "WW_024",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体原野岩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，召唤两只3/3并具有<b>突袭</b>的奶牛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100288,
+    "elite": true,
+    "flavor": "这可不是在卡拉赞了，雷诺。",
+    "health": 7,
+    "id": "WW_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灾变飓风斯卡尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>对所有敌人造成1点伤害<i>（每有一个你使用过元素牌的连续的回合，伤害都会提升）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100291,
+    "flavor": "教科书般的长幼关系。",
+    "id": "WW_027",
+    "name": "可靠陪伴",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "使一个随从获得+2/+3。如果该随从有随从类型，抽一张该类型的随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102061,
+    "flavor": "蛙制，蛙有，蛙享。",
+    "id": "WW_080",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "两栖药剂",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "恢复#5点\n生命值。<b>发现</b>一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102059,
+    "flavor": "除了把荒芜之地搅个稀巴烂，斯卡尔最大的爱好是保龄球。",
+    "id": "WW_090",
+    "name": "巨型风滚草！",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "对所有随从造成$6点伤害。召唤一个6/6的风滚草。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100015,
+    "flavor": "就差一点点了小家伙，相信自己，你能行的！！",
+    "id": "WW_325",
+    "mechanics": [
+      "LIFESTEAL",
+      "QUICKDRAW"
+    ],
+    "name": "脱水",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>吸血</b>。对一个随从造成$4点伤害。<b>快枪：</b>法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100016,
+    "flavor": "矿车巡逻兵，你要去何方？去哪里追寻财富与名望？",
+    "health": 5,
+    "id": "WW_326",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "矿车巡逻兵",
+    "overload": 2,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>过载：</b>（2）。<b>战吼：</b>如果你在上个回合使用过元素牌，则本牌不会<b>过载</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100019,
+    "flavor": "棘尾幼龙最好的朋友。",
+    "health": 2,
+    "id": "WW_327",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "仙人掌割水工",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张法术牌。如果你在本回合中施放抽到的牌，则获得+1/+2和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101482,
+    "flavor": "山动了！",
+    "health": 16,
+    "id": "WW_382",
+    "mechanics": [
+      "LIFESTEAL",
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "步移山丘",
+    "overload": 2,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>超级风怒</b>。<b>过载：（2）</b>",
+    "type": "MINION"
+  }
+]

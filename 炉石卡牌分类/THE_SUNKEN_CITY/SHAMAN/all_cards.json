@@ -1,0 +1,284 @@
+[
+  {
+    "artist": "Adam Byrne",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 75586,
+    "flavor": "挖掘工作或许不适合所有人，但我选择深入挖掘这项工作。",
+    "health": 4,
+    "id": "TID_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "迷潮挖掘者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。如果选中的是鱼人牌，召唤一个它的2/2的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 75589,
+    "flavor": "他的笑话棒极了。前提是你懂鱼人语。",
+    "health": 2,
+    "id": "TID_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "小丑鱼",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>你的下两张鱼人牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 75590,
+    "flavor": "“亡魂走到F6。将军了，厄祖玛特！”",
+    "id": "TID_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "耐普图隆的指令",
+    "overload": 1,
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "NATURE",
+    "text": "召唤两个5/4并具有<b>突袭</b>的元素。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 72415,
+    "flavor": "如果他能看得见，或许还能瞄得更准些。",
+    "health": 4,
+    "id": "TSC_630",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怒脊附魔师",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>施放你手牌中火焰，冰霜和自然法术各一张的复制<i>（目标随机而定）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72416,
+    "flavor": "*听说你要用刺拳干掉我们？*",
+    "id": "TSC_631",
+    "name": "鱼群聚集",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "将三张1/1的食人鱼集群置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72418,
+    "flavor": "食人鱼捕人，鱼人在后。",
+    "health": 5,
+    "id": "TSC_633",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "食人鱼偷猎者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你的回合结束时，将一张1/1的食人鱼集群置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72423,
+    "elite": true,
+    "flavor": "会用奥术，火焰和冰霜魔法来消灭艾萨拉女王的敌人。也会用它们保养女王的皮肤！",
+    "health": 4,
+    "id": "TSC_635",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "艾萨拉之辉",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>火焰法术伤害+2</b>。你的自然法术法力值消耗降低（1）点。在你施放一个冰霜法术后，获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72508,
+    "flavor": "“哇哦，这种地貌叫什么？”“再靠近些，它就叫溅血热泉。”",
+    "id": "TSC_637",
+    "mechanics": [
+      "DREDGE"
+    ],
+    "name": "间歇热泉",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。<b>探底</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 72553,
+    "elite": true,
+    "flavor": "无底海渊食物匮乏，最顶尖的捕食者也不能挑食。哪怕这食物脆硬如铁。",
+    "health": 5,
+    "id": "TSC_639",
+    "mechanics": [
+      "COLOSSAL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暴食巨鳗格拉格",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>巨型+3</b>\n在一个友方随从死亡后，获得其原始属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 72973,
+    "flavor": "这位是照看这些元素的卡尔。珊瑚容易苫糊在山上变成山糊所以卡尔要时常缮护珊瑚。",
+    "health": 4,
+    "id": "TSC_648",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "珊瑚培育师",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>在本局对战中，你每施放过一个派系的法术，召唤一个3/3的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 77209,
+    "flavor": "这年头，读书就是卷。",
+    "id": "TSC_772",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "艾萨拉的卷轴",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>发现</b>一张火焰，冰霜或自然法术牌。将一张沉没的卷轴置于你的牌库底。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72314,
+    "flavor": "纳迦找到了完美的方法来应对在其海域内驻锚的海盗：在锚上画鬼脸。",
+    "health": 3,
+    "id": "TSC_922",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "驻锚图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你召唤一个法力值消耗为（1）的随从后，使其获得+2/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 72316,
+    "flavor": "完美适用于法强萨，以及法光萨。",
+    "id": "TSC_923",
+    "name": "生物荧光",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "NATURE",
+    "text": "使你的随从获得<b>法术伤害+1</b>。",
+    "type": "SPELL"
+  }
+]

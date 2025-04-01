@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47855,
+    "flavor": "她会从试验和错误中吸取教训……好吧，主要是从错误。",
+    "health": 1,
+    "id": "BOT_038",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "焰火技师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>使一个友方机械获得+1/+1。如果它拥有<b>亡语</b>，则将其\n触发。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48185,
+    "flavor": "击败强敌，惩奸除恶。小心，蜘蛛炸弹来啦！",
+    "health": 2,
+    "id": "BOT_251",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MAGNETIC"
+    ],
+    "name": "蜘蛛炸弹",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>磁力</b>\n<b>亡语：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48772,
+    "flavor": "不好的一点就是——去哪都会被人知道。",
+    "id": "BOT_438",
+    "name": "机核芯片",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。",
+    "type": "SPELL"
+  }
+]

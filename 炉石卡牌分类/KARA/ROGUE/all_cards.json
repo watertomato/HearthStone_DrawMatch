@@ -1,0 +1,69 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39698,
+    "flavor": "只要两杯朗姆酒，他就能吹上一整天！",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吹嘘海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机将一张另一职业的卡牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39700,
+    "flavor": "虚灵以热衷收集和买卖各种魔法物品和神器而著称，比那些贪婪的地精靠谱多了。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_070",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚灵商人",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "<b>战吼：</b>如果你的手牌中有另一职业的卡牌，则其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39822,
+    "flavor": "餐叉既可以用来吃饭，也可以用来……消灭对手。",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_094",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "致命餐叉",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>亡语：</b>将一张3/2的武器牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Lloyd Hoshide",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55002,
+    "durability": 0,
+    "flavor": "快砍！迦拉克隆显灵了！",
+    "health": 2,
+    "id": "DRG_021",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "仪式斩斧",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b><b>\n祈求</b>迦拉克隆。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55004,
+    "flavor": "与其说是空中炮艇，不如说是艇型火炮。",
+    "health": 5,
+    "id": "DRG_023",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "空中炮艇",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "在你召唤一个海盗后，随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55935,
+    "flavor": "烫烫烫烫烫烫烫",
+    "id": "DRG_500",
+    "name": "熔火吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$5点伤害。如果你的手牌中有龙牌，便获得5点护甲值。",
+    "type": "SPELL"
+  }
+]

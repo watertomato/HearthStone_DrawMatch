@@ -1,0 +1,863 @@
+[
+  {
+    "artist": "RK Post",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69732,
+    "flavor": "现如今能看到历史如此悠久的图腾，以及技艺如此精湛的匠人，实属不易。",
+    "health": 5,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_AT_047",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "德莱尼图腾师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>每有一个友方图腾，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102246,
+    "flavor": "先祖赐予我卡牌！！！",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_AT_053",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "先祖知识",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "抽两张牌。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Justin Sweet",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69515,
+    "flavor": "比起“地怒”或是“火怒”，萨满们更喜欢使用“风怒”，因为它更轻巧，更飘逸。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_CS2_039",
+    "name": "风怒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "使一个随从获得<b>风怒</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69517,
+    "flavor": "如果你的敌人是石头做的，那就再好不过了。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_CS2_045",
+    "name": "石化武器",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，使一个友方角色获得+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 77554,
+    "flavor": "呜啊哇哇哇哇哇！",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_CS2_046",
+    "name": "嗜血",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在本回合中，使你的所有随从获得+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102210,
+    "elite": true,
+    "flavor": "敢于阅读这则卡牌趣文的读者啊，听说，它能直接看穿你的灵魂……",
+    "health": 4,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得500场对战后解锁。",
+    "id": "CORE_DMF_709",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨型图腾埃索尔",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，使你手牌，牌库和战场上的所有其他图腾获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Gaser",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69628,
+    "flavor": "无拘无束的它喜欢在灯红酒绿的城里度过每个夜晚。",
+    "health": 4,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_EX1_258",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "无羁元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "在你使用一张具有<b>过载</b>的牌后，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Polidora",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69630,
+    "durability": 0,
+    "flavor": "奥格瑞姆·毁灭之锤将他的传奇武器赠与了萨尔。他的名字只是纯属巧合。",
+    "health": 8,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得250场对战后解锁。",
+    "id": "CORE_EX1_567",
+    "mechanics": [
+      "OVERLOAD",
+      "WINDFURY"
+    ],
+    "name": "毁灭之锤",
+    "overload": 2,
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>风怒，过载：</b>（2）",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Scott Altmann",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69631,
+    "flavor": "据说，有些萨满能够以很快的速度连着说十遍“疼痛的图腾”。",
+    "health": 3,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_EX1_575",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "法力之潮图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110085,
+    "flavor": "“这是我亲手包装的！”——萨尔",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_06",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "萨尔的礼物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>发现</b>一张<b>临时</b>的闪电风暴，妖术或嗜血。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 102208,
+    "flavor": "严禁在鱼塘使用这一法术！",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_GIL_600",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "OVERLOAD"
+    ],
+    "name": "静电震击",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$2点伤害。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95679,
+    "flavor": "等我们找到解药就来融化你。",
+    "id": "CORE_ICC_056",
+    "name": "低温静滞",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "使一个随从获得+3/+3，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95652,
+    "flavor": "因其自带保鲜功能，畅销艾泽拉斯的各个角落！",
+    "health": 2,
+    "id": "CORE_ICC_058",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冷冻鱼人",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "冻结一个敌人。",
+    "text": "<b>战吼：</b>\n<b>冻结</b>一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95640,
+    "flavor": "“打雪仗”的终极版。",
+    "id": "CORE_ICC_078",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "雪崩",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，并对其相邻的随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95695,
+    "flavor": "有时候，最好的进攻就是防御。",
+    "health": 8,
+    "id": "CORE_ICC_081",
+    "mechanics": [
+      "OVERLOAD",
+      "TAUNT"
+    ],
+    "name": "达卡莱防御者",
+    "overload": 3,
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>，<b>过载：</b>（3）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95779,
+    "flavor": "妖术师那恐怖的图腾让白银之手新兵们不寒而栗：那是一个被大头针钉住的小小雪人。",
+    "health": 7,
+    "id": "CORE_ICC_088",
+    "mechanics": [
+      "FREEZE",
+      "TAUNT"
+    ],
+    "name": "巫毒妖术师",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>\n<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95718,
+    "flavor": "两个鱼人两张嘴，四只眼睛，多少条腿？",
+    "id": "CORE_ICC_089",
+    "name": "冰钓术",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "从你的牌库中抽两张鱼人牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 8,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 11,
+    "dbfId": 95756,
+    "flavor": "双11来了，你的卡准备好过载了吗？",
+    "health": 8,
+    "id": "CORE_ICC_090",
+    "name": "雪怒巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "在本局对战中，你每<b>过载</b>一个法力水晶，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95717,
+    "durability": 0,
+    "flavor": "其实这把斧头也是冰做的。",
+    "health": 3,
+    "id": "CORE_ICC_236",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "破冰斧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "消灭所有受到该武器伤害的被<b>冻结</b>的随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95727,
+    "elite": true,
+    "flavor": "莫拉比究竟是怎么给那些冻结的随从涂上风味糖浆的，这是一个世纪谜题。",
+    "health": 4,
+    "id": "CORE_ICC_289",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫拉比",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "每当有其他随从被<b>冻结</b>，将一张被<b>冻结</b>随从的复制置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Jerry Mascho",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95766,
+    "elite": true,
+    "flavor": "“不要害怕。过来。亡者会沉睡……一段时间。”",
+    "health": 30,
+    "heroPowerDbfId": 42982,
+    "id": "CORE_ICC_481",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡先知萨尔",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机将你的所有随从变形成为法力值消耗增加（2）点的随从。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111380,
+    "durability": 0,
+    "flavor": "比起那些钢爪骨爪，幽灵之爪伸出来时一点都不疼。",
+    "health": 3,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_KAR_063",
+    "name": "幽灵之爪",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "当你拥有<b>法术伤害</b>时，拥有\n+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76295,
+    "flavor": "坊间传闻这是当下最热门的一个度假胜地，旱鸭子和深海恐惧者谢绝前往！",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_KAR_073",
+    "name": "大漩涡传送门",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "对所有敌方随从造成$1点伤害。随机召唤一个法力值消耗为（1）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 79542,
+    "dbfId": 118014,
+    "flavor": "每一根图腾都是证据。树木谋杀案的证据。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_MAW_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "图腾物证",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "选择一个基础图腾并召唤它。\n<b>注能（3个图腾）：</b>改为召唤全部4个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 77033,
+    "dbfId": 118016,
+    "flavor": "“是谁把这口锅藏在了我的背包里？！”——背锅人",
+    "health": 3,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_MAW_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "栽赃者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将3张栽赃牌洗入你对手的牌库。当抽到栽赃牌时，使其<b>过载</b>（2）。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 79774,
+    "dbfId": 118040,
+    "flavor": "为什么它只能是张普通卡牌？因为它的地位比脚低！",
+    "health": 10,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_MAW_030",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "托加斯特管理员",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH",
+      "WINDFURY"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n每有一个敌方随从，随机从<b>突袭</b>，<b>圣盾</b>或<b>风怒</b>中获得一项。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102209,
+    "flavor": "深渊魔物有一奇怪的癖好，就是收集各式各样的萨满祭司图腾。",
+    "health": 5,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_OG_028",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "深渊魔物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>\n在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 79531,
+    "dbfId": 118122,
+    "flavor": "1号！只有你和他们四个不一样！",
+    "id": "CORE_REV_517",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "罪犯列队",
+    "overload": 2,
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "选择一个友方随从。召唤3个它的复制。<b>过载：</b>（2）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 8,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 78525,
+    "dbfId": 118134,
+    "flavor": "图腾魔像的叔叔，走得有点早。",
+    "health": 8,
+    "id": "CORE_REV_838",
+    "name": "图腾巨像",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 76970,
+    "dbfId": 118145,
+    "durability": 3,
+    "flavor": "观察你的石头。想象其中的图腾。然后轻轻地……",
+    "id": "CORE_REV_917",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "石雕凿刀",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的英雄攻击后，随机召唤一个基础图腾。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 76975,
+    "dbfId": 118146,
+    "flavor": "好了，朋友们，看看面具后面是谁……*啊*是老布鲁坎！？",
+    "id": "CORE_REV_920",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "可信的伪装",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "将一个友方随从变形成为法力值消耗增加（2）点的随从。<b>注能（4）：</b>改为变形所有友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 76977,
+    "dbfId": 118147,
+    "elite": true,
+    "flavor": "她可是“石纹锻字”的匠人。",
+    "health": 4,
+    "id": "CORE_REV_921",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "锻石师",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，你的图腾拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111382,
+    "flavor": "制作泥仆比你想象的简单，搞砸了都不怕！",
+    "health": 3,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_REV_923",
+    "name": "淤泥之池",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "将一个友方随从变形成为法力值消耗增加（1）点的随从。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 76982,
+    "dbfId": 118148,
+    "flavor": "有味道的插画，有味道的名字。",
+    "id": "CORE_REV_924",
+    "name": "始源之潮",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "将敌方随从变形成为法力值消耗减少（1）点的随从，将友方随从变形成为法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 77366,
+    "dbfId": 118154,
+    "flavor": "可以升值（图腾）的装饰品（图腾）！",
+    "health": 3,
+    "id": "CORE_REV_935",
+    "mechanics": [
+      "INFUSE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "派对图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，随机召唤一个基础图腾。<b>注能（2）：</b>改为召唤两个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 77428,
+    "dbfId": 118155,
+    "flavor": "只需要一点点的爱意，和大量的垃圾！",
+    "health": 1,
+    "id": "CORE_REV_936",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "粗暴的看管者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤一个3/5并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102207,
+    "flavor": "等等，我透支法力水晶还要花法力水晶？！",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得250场对战后解锁。",
+    "id": "CORE_SW_114",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "TRADEABLE"
+    ],
+    "name": "强行透支",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>可交易</b>\n解锁你<b>过载</b>的法力水晶，并造成等量的\n伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 113108,
+    "faction": "HORDE",
+    "flavor": "那种没人在意你的感觉，是永远的痛。",
+    "health": 1,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "Core_UNG_019",
+    "mechanics": [
+      "ELUSIVE"
+    ],
+    "name": "空气元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 111381,
+    "elite": true,
+    "flavor": "炼金术师认为只要将土、气、水、火四种元素结合在一起，就能产生第五元素。",
+    "health": 7,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得500场对战后解锁。",
+    "id": "Core_UNG_211",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒蛮之主卡利莫斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则施放一个元素祈咒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69744,
+    "flavor": "水流强劲，祛渍无残留。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_UNG_817",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "海潮涌动",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "<b>吸血</b>\n对一个随从造成$5点伤害。",
+    "type": "SPELL"
+  }
+]

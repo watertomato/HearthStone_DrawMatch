@@ -1,0 +1,35 @@
+[
+  {
+    "artist": "Juan Calle",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98055,
+    "flavor": "接受菜决吧！",
+    "id": "TTN_853",
+    "name": "审判恶徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "将一个敌方随从的生命值变为1，然后对所有敌人造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98058,
+    "flavor": "“伟大的阿米图斯，我遵从了您关于披肩的穿搭建议，但可否示下——我要不要换上金色手套呢？”",
+    "health": 5,
+    "id": "TTN_856",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "阿米图斯的信徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在你的回合结束时，召唤一个2/2的土灵。在本局对战中你每召唤过一个其他土灵，这个土灵获得+2/+2。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 87648,
+    "flavor": "现场的观众，挥动你们的双手！两双手也可以！",
+    "health": 4,
+    "id": "ETC_029",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "键盘独演者",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，召唤两个1/2并具有<b>法术伤害+1</b>的扩音器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90738,
+    "flavor": "元素混音技术问世之后，艾泽拉斯进入了合成乐的时代。",
+    "id": "ETC_535",
+    "name": "元素混合",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "随机将法力值消耗为（1），（2）和（3）的元素牌各一张置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90856,
+    "flavor": "“我向他提出过建设性的意见，可他只说了一句：‘切！’”",
+    "health": 2,
+    "id": "ETC_536",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "音频切分机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>复制你手牌中法力值消耗最高的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "classes": [
+      "HUNTER",
+      "MAGE"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95336,
+    "flavor": "可能哪个叫不上来名字的脸熟过气名人还穿过这套服装，谁知道呢！",
+    "health": 1,
+    "id": "JAM_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "盛装歌手",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合结束时，抽一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  }
+]

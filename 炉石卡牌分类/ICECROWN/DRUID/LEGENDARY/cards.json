@@ -1,0 +1,54 @@
+[
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43417,
+    "elite": true,
+    "flavor": "“塞纳留斯曾经教导我，生死之间的平衡极其宝贵。我现在明白了：根本没有平衡。死亡永远不败。”",
+    "health": 30,
+    "heroPowerDbfId": 43182,
+    "id": "ICC_832",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "污染者玛法里奥",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "POISONOUS",
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>抉择：</b>召唤两只具有<b>剧毒</b>的蜘蛛；或者召唤两只具有<b>嘲讽</b>的甲虫。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43439,
+    "elite": true,
+    "flavor": "艾卓-尼鲁布的元老释放出哈多诺克斯作为抵御巫妖王的最后一道防线。他们非常小心地在一家主流报纸上进行了抢先报道。",
+    "health": 7,
+    "id": "ICC_835",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "哈多诺克斯",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>召唤所有你在本局对战中死亡的，并具有<b>嘲讽</b>的随从。",
+    "type": "MINION"
+  }
+]

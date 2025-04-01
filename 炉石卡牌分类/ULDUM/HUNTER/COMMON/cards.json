@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53919,
+    "flavor": "要能像每天上秤时那么小心翼翼，就不会触发陷阱了。",
+    "id": "ULD_152",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "压感陷阱",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术后，随机消灭一个敌方\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53861,
+    "flavor": "看！这是陷阱！",
+    "id": "ULD_429",
+    "name": "猎人工具包",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ULDUM",
+    "text": "随机将一张猎人野兽牌，<b>奥秘</b>牌和武器牌分别置入你的\n手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53860,
+    "durability": 0,
+    "flavor": "一点寒芒先到，随后一只蝗虫。",
+    "health": 3,
+    "id": "ULD_430",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙漠之矛",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ULDUM",
+    "text": "在你的英雄攻击后，召唤一只1/1并具有<b>突袭</b>的\n蝗虫。",
+    "type": "WEAPON"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Steven Prescott",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 51795,
+    "elite": true,
+    "flavor": "泥土之中稍作长眠，周身上下焕然一新。",
+    "health": 8,
+    "id": "DAL_357",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "卢森巴克",
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>进入<b>休眠</b>状态。累计恢复5点生命值可唤醒本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52809,
+    "elite": true,
+    "flavor": "我全都要！",
+    "health": 3,
+    "id": "DAL_732",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "守护者斯塔拉蒂斯",
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "在你施放了一个<b>抉择</b>法术后，将每个选项的复制置入你的手牌。",
+    "type": "MINION"
+  }
+]

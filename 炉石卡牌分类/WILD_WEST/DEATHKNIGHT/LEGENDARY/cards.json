@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100619,
+    "elite": true,
+    "flavor": "心之所系即为家。哪怕父老乡亲的心已经凉透了。",
+    "health": 8,
+    "id": "WW_357",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "老腐和老墓",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，获得5份<b>残骸</b>。在你的回合开始时，消耗5份<b>残骸</b>，使你的英雄获得+5生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 20,
+    "dbfId": 101375,
+    "elite": true,
+    "flavor": "雷斯卡是血石矿井的工头。他会先把人累死，再把尸体复活，最后再把尸体累死。",
+    "health": 3,
+    "id": "WW_373",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "矿坑老板雷斯卡",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。在本局对战中每有一个随从死亡，本牌的法力值消耗便减少（1）点。<b>亡语：</b>随机夺取一个敌方随从的控制权。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "artist": "BOSi Studio",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 70118,
+    "flavor": "有种嚼邪能口香糖的感觉。",
+    "health": 7,
+    "id": "AV_286",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "邪能行者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>从你的手牌中施放法力值消耗最高的邪能法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 67826,
+    "flavor": "邪能法术被她整理得井井有条，只是容器太脏了。",
+    "health": 1,
+    "id": "AV_308",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "墓地污染者",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>复制你手牌中的一张邪能法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 67757,
+    "flavor": "只要你完成了第一次荣誉消灭，相信我，你一定会就此上钩，一发不可收拾！",
+    "health": 8,
+    "id": "AV_313",
+    "mechanics": [
+      "BATTLECRY",
+      "HONORABLE_KILL"
+    ],
+    "name": "可怕的憎恶",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>对所有敌方随从造成1点伤害。<b>荣誉消灭：</b>获得目标随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 71295,
+    "flavor": "嗷呜，谁是这个世界最大的威胁？是你！",
+    "health": 6,
+    "id": "ONY_035",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡之翼的子嗣",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>随机消灭一个敌方随从。随机弃一张牌。",
+    "type": "MINION"
+  }
+]

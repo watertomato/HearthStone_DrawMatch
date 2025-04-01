@@ -1,0 +1,110 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90688,
+    "durability": 0,
+    "flavor": "不，不磕战槌，直接磕脸。",
+    "health": 2,
+    "id": "ETC_317",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迪斯科战槌",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>随机使一个友方随从获得+1/+1。<i>（装备期间，使用随从牌以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90689,
+    "flavor": "无论如何，都不要向右滑步。",
+    "id": "ETC_318",
+    "name": "布吉舞乐",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "从你的牌库中召唤两个法力值消耗为（1）的随从。<b>压轴：</b>再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91066,
+    "flavor": "让我们一鳍摇摆！",
+    "health": 2,
+    "id": "ETC_337",
+    "mechanics": [
+      "AURA",
+      "DIVINE_SHIELD"
+    ],
+    "name": "放克鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>圣盾</b>。你的<b>圣盾</b>随从拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98411,
+    "flavor": "场内禁止奔跑突袭。",
+    "health": 2,
+    "id": "JAM_009",
+    "isMiniSet": true,
+    "name": "闪亮舞池",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "使你的所有随从获得<b>突袭</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 0,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95345,
+    "flavor": "如果你真的喜爱《炉石传说》，那么就给图腾再投个币吧！",
+    "health": 4,
+    "id": "JAM_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "点唱机图腾",
+    "race": "TOTEM",
+    "races": [
+      "MECHANICAL",
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合结束时，召唤一个1/1的白银之手新兵。",
+    "type": "MINION"
+  }
+]

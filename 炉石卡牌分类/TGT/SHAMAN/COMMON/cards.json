@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2513,
+    "flavor": "事实证明海象人对于图腾的样式一点都不挑剔。",
+    "health": 2,
+    "id": "AT_046",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海象人图腾师",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>战吼：</b>随机召唤一个基础图腾。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2610,
+    "flavor": "当你把一堆图腾绑在一起时，图腾魔像就诞生了。",
+    "health": 4,
+    "id": "AT_052",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "图腾魔像",
+    "overload": 1,
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2514,
+    "flavor": "先祖赐予我卡牌！！！",
+    "id": "AT_053",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "先祖知识",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "抽两张牌。<b>过载：</b>（1）",
+    "type": "SPELL"
+  }
+]

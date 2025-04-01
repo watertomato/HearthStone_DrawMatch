@@ -1,0 +1,191 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43373,
+    "flavor": "只要喝上三碗，老虎又算什么。",
+    "id": "LOOT_088",
+    "name": "英勇药水",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得<b>圣盾</b>。抽\n一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43382,
+    "flavor": "“古神陨落的时代，军团的阿扎里制造了这些力量之石，用它们来诱惑凡人。弱者屈从于魔石的力量，他们的灵魂随即被吞噬。”——《魔石》",
+    "id": "LOOT_091",
+    "name": "小型法术珍珠",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "HOLY",
+    "text": "召唤一个2/2并具有<b>嘲讽</b>的灵魂。<i>（恢复3点生命值后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43384,
+    "flavor": "有了手机还要号角干什么？",
+    "id": "LOOT_093",
+    "name": "战斗号角",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>招募</b>三个法力值消耗小于或等于（2）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 45539,
+    "elite": true,
+    "flavor": "纯粹魔法能量构成的饮食有利于保持身材，但会使情绪变得混乱。",
+    "health": 1,
+    "id": "LOOT_216",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "莱妮莎·炎伤",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>将你在本局对战中对友方随从施放过的所有法术施放在本随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45782,
+    "durability": 0,
+    "flavor": "手里拿着一把未鉴定的槌子，看什么就都像未鉴定的钉子。",
+    "health": 2,
+    "id": "LOOT_286",
+    "name": "未鉴定的重槌",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "在你手牌中时获得额外效果。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 45833,
+    "flavor": "新兵的标准装备：一把白银之剑，一面洛丹伦徽记盾牌，还有两袋水晶猫粮。",
+    "health": 5,
+    "id": "LOOT_313",
+    "mechanics": [
+      "DIVINE_SHIELD"
+    ],
+    "name": "水晶雄狮",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>圣盾</b>\n你每控制一个白银之手新兵，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45877,
+    "flavor": "叮！免费直升！",
+    "id": "LOOT_333",
+    "name": "等级提升",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "使你的白银之手新兵获得+2/+2和<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46007,
+    "flavor": "检查牢房的时候别忘了把墙上的海报揭起来看看。",
+    "health": 1,
+    "id": "LOOT_363",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "旱谷狱卒",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>\n将三张“白银之手新兵”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ware Lee",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46258,
+    "flavor": "第一个愿望是漏斗蛋糕，第二个愿望是漏斗蛋糕，第三个愿望……才不是更多的漏斗蛋糕呢，是更多的愿望，这样就可以有更多的漏斗蛋糕了！",
+    "health": 4,
+    "id": "LOOT_398",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "和蔼的灯神",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合结束时，为你的英雄恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 46263,
+    "durability": 0,
+    "elite": true,
+    "flavor": "狗头人在洞穴深处发现了它，然后用它换了一根巨大的蜡烛。",
+    "health": 2,
+    "id": "LOOT_500",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "瓦兰奈尔",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>使你手牌中的一张随从牌获得+4/+2。当该随从死亡时，重新装备这把武器。",
+    "type": "WEAPON"
+  }
+]

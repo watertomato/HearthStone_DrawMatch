@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102547,
+    "elite": true,
+    "flavor": "在老伙计恐鳞的帮助下，酸喉能够轻易地咬穿板甲。看来有些骑士要倒大霉了！",
+    "health": 2,
+    "id": "WON_024",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "酸喉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "每当有敌方随从受到伤害时，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102548,
+    "elite": true,
+    "flavor": "有酸喉这个老伙计在，就没有嚼不烂的骑士。",
+    "health": 2,
+    "id": "WON_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恐鳞",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "在你的回合结束时，对所有敌人造成\n1点伤害。",
+    "type": "MINION"
+  }
+]

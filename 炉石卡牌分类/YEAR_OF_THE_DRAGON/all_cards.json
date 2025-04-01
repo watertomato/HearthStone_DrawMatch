@@ -1,0 +1,764 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56057,
+    "flavor": "抽一张牌怎么了，它还是个孩子！",
+    "id": "YOD_001",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "TWINSPELL"
+    ],
+    "name": "乘风而起",
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>双生法术</b>\n<b>抉择：</b>抽一张牌；或者召唤一只3/2的鹰。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 56063,
+    "flavor": "就算冰雪覆盖，我也不怕重来，我已不是那个懵懂的幼崽。",
+    "health": 8,
+    "id": "YOD_003",
+    "mechanics": [
+      "ELUSIVE",
+      "REBORN",
+      "TAUNT"
+    ],
+    "name": "飞翼守护者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>嘲讽</b>。<b>复生</b>。<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Servando Lupini",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56064,
+    "flavor": "发明是混乱之母。",
+    "health": 4,
+    "id": "YOD_004",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "拆件旋翼机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "targetingArrowText": "变成一个机械的复制。",
+    "text": "在一个友方机械死亡后，随机将一张机械牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56067,
+    "flavor": "*嗅，嗅*是王牌部队……*嗅，嗅*武装到了牙齿……*嗅，嗅*牙缝里还有培根！",
+    "id": "YOD_005",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "新鲜气息",
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>双生法术</b>\n使一个野兽获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabe Gonzalez",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56068,
+    "flavor": "圈养的魔刃豹也没好多少——天天抓你的家具，还会乱吐法力毛球。",
+    "health": 5,
+    "id": "YOD_006",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奔逃的魔刃豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>潜行</b>\n每当本随从攻击，便获得一个仅限本回合可用的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 7,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 56071,
+    "flavor": "每次都因为说话的时候手上动作太多而冲下山崖。",
+    "health": 6,
+    "id": "YOD_007",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活化雪崩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，召唤一个本随从的\n复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56072,
+    "flavor": "和术士的关系不太好。",
+    "health": 5,
+    "id": "YOD_008",
+    "mechanics": [
+      "HEROPOWER_DAMAGE"
+    ],
+    "name": "奥术增幅体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "你的英雄技能会额外造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56076,
+    "elite": true,
+    "flavor": "“雷诺！”“请用正确的方式称呼我。”“<叹气><i>神奇的</i>雷诺……”",
+    "health": 30,
+    "heroPowerDbfId": 56075,
+    "id": "YOD_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神奇的雷诺",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>使所有随从消失。<i>*咻！*</i>",
+    "type": "HERO"
+  },
+  {
+    "artist": "Phil Saunders",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56077,
+    "flavor": "侦测到即将落地。启动英雄造型。",
+    "health": 2,
+    "id": "YOD_010",
+    "mechanics": [
+      "REBORN"
+    ],
+    "name": "炮火机甲",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>复生</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56086,
+    "faction": "ALLIANCE",
+    "flavor": "发起一场空中团战真的很难。你要凑齐二十五个人，还得是二十五个圣骑士！",
+    "id": "YOD_012",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "空中团战",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>双生法术</b>\n召唤两个1/1并具有<b>嘲讽</b>的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56088,
+    "flavor": "手牌中没有龙牌的时候能把人急死。",
+    "health": 1,
+    "id": "YOD_013",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "龙鳞祭司",
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便<b>发现</b>你牌库中的一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 56089,
+    "flavor": "他会把永恒的时间撕成碎片，这样有助于管理繁忙的日程。",
+    "health": 4,
+    "id": "YOD_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒掠夺者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "targetingArrowText": "造成等同于随从攻击力的伤害。",
+    "text": "<b>战吼：</b>对一个随从造成等同于其攻击力的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56090,
+    "flavor": "拉祖尔的预言总是那么黑暗。那些欢快又可爱的预言都去哪了？！",
+    "id": "YOD_015",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗预兆",
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法力值消耗为（2）的随从牌。召唤该随从并使其获得+3生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56091,
+    "flavor": "要是飞艇上没有水果，空中的日子一定不好过。",
+    "health": 3,
+    "id": "YOD_016",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "空中私掠者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>潜行</b>\n<b>亡语：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56093,
+    "faction": "HORDE",
+    "flavor": "手影艺术界的又一场灾难。",
+    "health": 2,
+    "id": "YOD_017",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "暗影塑形师",
+    "rarity": "EPIC",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lloyd Hoshide",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56094,
+    "flavor": "精烧细作两手间，\n火蜡交织塑浑圆。\n旁人不解说疯子，\n只因随从省蜡钱。",
+    "id": "YOD_018",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "蜡烛学",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌。其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56098,
+    "flavor": "一起为地精的实验助一臂之力！",
+    "id": "YOD_020",
+    "name": "惊爆异变",
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "spellSchool": "NATURE",
+    "text": "将一个随从随机变形成为一个法力值消耗增加（3）点的\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56100,
+    "flavor": "稳健的船员的死对头。",
+    "health": 3,
+    "id": "YOD_022",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "冒进的艇长",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在你使用一张随从牌后，对所有随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56101,
+    "flavor": "发现团队目标的真正含义。",
+    "id": "YOD_023",
+    "mechanics": [
+      "DISCOVER",
+      "GEARS"
+    ],
+    "name": "砰砰战队",
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>发现</b>一张<b>跟班</b>牌，机械牌或\n龙牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56107,
+    "flavor": "炸弹牛仔希望自己的职业生涯能比引线还短。",
+    "health": 3,
+    "id": "YOD_024",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "炸弹牛仔",
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "每当本随从受到伤害，召唤一个1/1的砰砰机器人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56109,
+    "flavor": "人每年平均会在睡觉时吃进去八个蜘蛛。半人马有两个胸腔。矮人其实只是泰坦的仿制品。",
+    "id": "YOD_025",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "扭曲学识",
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>两张术士牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 60671,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56112,
+    "flavor": "当仆从只是邪魔的爱好，主人是谁无所谓。",
+    "health": 1,
+    "id": "YOD_026",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "邪魔仆从",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "techLevel": 1,
+    "text": "<b>亡语：</b>随机使一个友方随从获得本随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56114,
+    "flavor": "再看我，再看我就把你丢掉！",
+    "health": 3,
+    "id": "YOD_027",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "混乱凝视者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>诅咒你对手的一张可用手牌。对手将有一个回合的机会来使用那张牌！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56116,
+    "flavor": "“跳伞会有危险吗？”“危险？绝对没有！至少我没有。快跳吧！”",
+    "health": 2,
+    "id": "YOD_028",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伞降教官",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>从你的牌库中召唤一个法力值消耗为（1）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56118,
+    "flavor": "通晓各种迎冰待客之礼。",
+    "health": 4,
+    "id": "YOD_029",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰雹使者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>召唤两个1/1的可以<b>冻结</b>攻击目标的寒冰碎片。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56120,
+    "flavor": "“想搞什么宝贝，告诉我大概方位，剩下的就交给我了！没有我砸不坏的！”",
+    "health": 2,
+    "id": "YOD_030",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "资深探险者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "QUEST"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你控制一个<b>任务</b>，则将一张幸运币置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56122,
+    "flavor": "白骨怨灵生前的原型找到了！",
+    "health": 3,
+    "id": "YOD_032",
+    "name": "狂暴邪翼蝠",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在本回合中，你的对手每受到1点伤害，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56131,
+    "flavor": "谁想用战吼打击她，她就用枪打击谁。",
+    "health": 5,
+    "id": "YOD_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "持枪恶霸",
+    "rarity": "EPIC",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>下个回合敌方<b>战吼</b>牌的法力值消耗增加（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56135,
+    "elite": true,
+    "flavor": "拉法姆手下备受尊重的人力资源部门主管，不过团队成员都不是<i>人</i>。",
+    "health": 3,
+    "id": "YOD_035",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "高级跟班厄尔克",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在你使用一张<b>跟班</b>牌后，将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56239,
+    "flavor": "把你的巢收拾干净，不然我就把你最喜欢的随从带走了！",
+    "health": 5,
+    "id": "YOD_036",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐巢幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56307,
+    "elite": true,
+    "flavor": "他的下一个目标是天空元帅。",
+    "health": 3,
+    "id": "YOD_038",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "天空上将库拉格",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "QUEST",
+      "RUSH"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>嘲讽，战吼：</b>如果你在本局对战中使用过<b>任务</b>，则召唤一只4/2并具有<b>突袭</b>的鹦鹉。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56262,
+    "flavor": "从大号昆虫的甲壳中提取而来——甲虫钢材，值得信赖。",
+    "health": 3,
+    "id": "YOD_040",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "钢铁甲虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，便获得5点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56292,
+    "flavor": "眼中窥暴，可知其全，剩下的部分我实在不想看了。",
+    "id": "YOD_041",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "风暴之眼",
+    "overload": 3,
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "spellSchool": "NATURE",
+    "text": "召唤三个5/6并具有<b>嘲讽</b>的元素。\n<b>过载：</b>（3）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Katherine Fortune",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56294,
+    "durability": 0,
+    "elite": true,
+    "flavor": "强大的莱登以风暴守护者的身份闻名于世。可悲的是，他连自己的拳套都守护不住。",
+    "health": 4,
+    "id": "YOD_042",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莱登之拳",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在你施放一个法术后，召唤一个法力值消耗相同的<b>传说</b>随从。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56438,
+    "flavor": "这张卡牌的名字是为了说明鱼人和巨龙的共同之处，而非它们之间的差异。",
+    "health": 6,
+    "id": "YOD_043",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鳞甲领主",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>使你的所有鱼人获得<b>圣盾</b>。",
+    "type": "MINION"
+  }
+]

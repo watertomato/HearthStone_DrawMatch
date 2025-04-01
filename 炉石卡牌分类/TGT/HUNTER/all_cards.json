@@ -1,0 +1,199 @@
+[
+  {
+    "artist": "Brandon Kitkouski",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2552,
+    "flavor": "驯养公羊最重要的技巧，就是别被它踩到。",
+    "health": 3,
+    "id": "AT_010",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴躁的牧羊人",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你控制任何野兽，则随机召唤一个野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jonboy Meyers",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2638,
+    "flavor": "该技能的要诀就是在台风天使用。",
+    "id": "AT_056",
+    "name": "强风射击",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "对一个随从及其相邻的随从造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyson Murphy",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2639,
+    "flavor": "比起那些五大三粗的男人而言，她在照顾宠物方面显然用心多了。",
+    "health": 2,
+    "id": "AT_057",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "兽栏大师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "TGT",
+    "targetingArrowText": "在本回合中，获得<b>免疫</b>。",
+    "text": "<b>战吼：</b>在本回合中，使一个友方野兽获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Zhang",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2635,
+    "flavor": "骑着雷象去参加枪术比赛真是棒极了！",
+    "health": 2,
+    "id": "AT_058",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "皇家雷象",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>战吼：</b>揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，抽这张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2642,
+    "flavor": "当她拈弓搭箭时，你的命运就已掌握在她的手中。",
+    "health": 1,
+    "id": "AT_059",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "神勇弓箭手",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>激励：</b>如果你没有其他手牌，则对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Richard Wright",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2641,
+    "flavor": "得多大尺寸的陷阱才能捕住一头熊，只有熊知道。",
+    "id": "AT_060",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "捕熊陷阱",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "<b>奥秘：</b>在你的英雄受到攻击后，召唤一个3/3并具有<b>嘲讽</b>的灰熊。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 2484,
+    "flavor": "雷克萨唤醒米莎，拿起墙角的机关枪，眯着眼睛说道：“子弹上膛！是时候找点乐子了！”",
+    "id": "AT_061",
+    "name": "子弹上膛",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "在本回合中，每当你施放一个法术，随机获取一张\n猎人卡牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Skan Srisuwan",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2483,
+    "flavor": "到处都是蜘蛛，真让人头皮发麻。",
+    "id": "AT_062",
+    "name": "天降蛛群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "TGT",
+    "text": "召唤三只1/1并具有“<b>亡语：</b>随机获取一张野兽牌”的\n结网蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2633,
+    "elite": true,
+    "flavor": "在老伙计恐鳞的帮助下，酸喉能够轻易地咬穿板甲。看来有些骑士要倒大霉了！",
+    "health": 2,
+    "id": "AT_063",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "酸喉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "每当有敌方随从受到伤害时，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2634,
+    "elite": true,
+    "flavor": "有酸喉这个老伙计在，就没有嚼不烂的骑士。",
+    "health": 2,
+    "id": "AT_063t",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恐鳞",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "在你的回合结束时，对所有敌人造成\n1点伤害。",
+    "type": "MINION"
+  }
+]

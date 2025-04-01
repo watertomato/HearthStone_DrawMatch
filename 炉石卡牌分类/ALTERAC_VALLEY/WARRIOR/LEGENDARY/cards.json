@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你获得的护甲值大于或等于15点，便获得+3/+3和<b>冲锋</b>。",
+    "cost": 6,
+    "dbfId": 70282,
+    "elite": true,
+    "flavor": "摧垮加尔范的不是战争，而是低温症。",
+    "health": 6,
+    "id": "AV_145",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "加尔范上尉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>在本局对战中，如果你获得的护甲值大于或等于15点，便获得+3/+3和<b>冲锋</b>。@<i>（还剩{0}点！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "armor": 10,
+    "artist": "Rafael Zanchetin",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 66876,
+    "elite": true,
+    "flavor": "洛卡拉仍像刚刚加入部落时那样意志坚定，如今她的武器也像她一样强韧。",
+    "health": 30,
+    "heroPowerDbfId": 66877,
+    "id": "AV_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "勇气战将洛卡拉",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>装备一把5/2的无坚不摧之力。",
+    "type": "HERO"
+  }
+]

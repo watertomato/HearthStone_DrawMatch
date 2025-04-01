@@ -1,0 +1,84 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78145,
+    "flavor": "圣骑士身上最为罪恶的特质，就是他们很<i>享受</i>这份陪审义务。",
+    "id": "MAW_015",
+    "isMiniSet": true,
+    "name": "陪审义务",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "召唤两个白银之手新兵。使你的白银之手新兵获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78080,
+    "flavor": "派对来宾从不像鲍勃的酒客那样大方地给小费。",
+    "health": 4,
+    "id": "REV_947",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "TAUNT"
+    ],
+    "name": "污泥仆从",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>嘲讽</b>，<b>战吼：</b><b>发现</b>一张圣骑士牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 78143,
+    "flavor": "如果这场晚宴一切顺利，她就有信心参加地狱厨房了。",
+    "health": 1,
+    "id": "REV_952",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "罪恶的副厨师长",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>亡语：</b>\n将2张“白银之手新兵”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78156,
+    "flavor": "“我就想知道，究竟是什么样的怪物在这里面加了葡萄干。”",
+    "health": 4,
+    "id": "REV_958",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "餐会巨仆",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>召唤两个白银之手新兵。<b>注能（3）：</b>使其获得+2攻击力和<b>圣盾</b>。",
+    "type": "MINION"
+  }
+]

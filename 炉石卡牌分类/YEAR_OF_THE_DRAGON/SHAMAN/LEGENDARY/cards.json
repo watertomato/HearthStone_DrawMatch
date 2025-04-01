@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Katherine Fortune",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56294,
+    "durability": 0,
+    "elite": true,
+    "flavor": "强大的莱登以风暴守护者的身份闻名于世。可悲的是，他连自己的拳套都守护不住。",
+    "health": 4,
+    "id": "YOD_042",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莱登之拳",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在你施放一个法术后，召唤一个法力值消耗相同的<b>传说</b>随从。失去1点耐久度。",
+    "type": "WEAPON"
+  }
+]

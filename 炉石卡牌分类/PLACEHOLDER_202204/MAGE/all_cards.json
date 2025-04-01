@@ -1,0 +1,840 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69696,
+    "flavor": "即便是死后，也要继续发挥余热。",
+    "health": 2,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_AT_003",
+    "mechanics": [
+      "HEROPOWER_DAMAGE"
+    ],
+    "name": "英雄之魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "你的英雄技能会额外造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Christopher Moeller",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69697,
+    "flavor": "其实本次大赛明令禁止龙型生物参加，但是没几个人敢去劝阻。",
+    "health": 7,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得250场对战后解锁。",
+    "id": "CORE_AT_008",
+    "name": "考达拉幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "你可以使用任意次数的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102195,
+    "elite": true,
+    "flavor": "她是砰砰博士的左右手。准确来讲，是右手。",
+    "health": 4,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得500场对战后解锁。",
+    "id": "CORE_BOT_103",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "观星者露娜",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你使用最右边的一张手牌后，抽\n一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69698,
+    "flavor": "追星族请勿靠近。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_BOT_453",
+    "name": "迸射流星",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从及其相邻的随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "John Avon",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69503,
+    "flavor": "千万别在晚会上召唤水元素。它会把一切都搞砸的。",
+    "health": 6,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_CS2_033",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "水元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Leo Che",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69606,
+    "flavor": "冰锥术在大约90年前开始流行起来，而在那之前，肯瑞托的法师们习惯用的是冰块术。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_EX1_275",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "冰锥术",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从和其相邻的随从，并对它们造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 76272,
+    "flavor": "抽到这张牌的时候，发出一阵邪恶的狂笑吧。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得250场对战后解锁。",
+    "id": "CORE_EX1_279",
+    "name": "炎爆术",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FIRE",
+    "text": "造成$10点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raven Mimura",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69609,
+    "flavor": "“你先上。”——“巨兽”克鲁什格尔对他的宠物野猪说道。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_EX1_294",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "镜像实体",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "ARCANE",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，召唤一个该随从的复制。",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110082,
+    "flavor": "“今时今日，我的魔法将我们连结在一起。”——吉安娜",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_02",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "吉安娜的礼物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>发现</b>一张<b>临时</b>的寒冰箭，奥术智慧或火球术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69699,
+    "flavor": "舔一舔就知道甜不甜了。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_GIL_801",
+    "name": "急速冷冻",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从。如果该随从已被<b>冻结</b>，则将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95719,
+    "flavor": "你管他叫行者？他连个脚都没有！",
+    "health": 3,
+    "id": "CORE_ICC_068",
+    "name": "寒冰行者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你的英雄技能还会\n<b>冻结</b>目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95707,
+    "flavor": "听说，万圣节，紫色和鬼影更配哦！",
+    "health": 6,
+    "id": "CORE_ICC_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鬼影巫师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将一张“镜像”法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95705,
+    "flavor": "似曾相识的感觉。",
+    "id": "CORE_ICC_082",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "寒冰克隆",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，将两张该随从的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95692,
+    "flavor": "吉安娜在学徒保护方面一直备受争议。",
+    "health": 2,
+    "id": "CORE_ICC_083",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "末日学徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "你对手法术的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 95708,
+    "flavor": "想学的话得先破冰。",
+    "id": "CORE_ICC_086",
+    "name": "冰封秘典",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "将每种不同的<b>奥秘</b>从你的牌库中置入战场。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95674,
+    "flavor": "他的骨头都快冻碎了！",
+    "health": 4,
+    "id": "CORE_ICC_252",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰冷鬼魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果有敌人被<b>冻结</b>，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95751,
+    "flavor": "似曾相识的感觉。",
+    "id": "CORE_ICC_823",
+    "name": "模拟幻影",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "复制你手牌中法力值消耗最低的随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "armor": 5,
+    "artist": "Glenn Rane",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 95704,
+    "elite": true,
+    "flavor": "“年轻的阿尔萨斯是个被宠坏的孩子，玩弄着他既不能控制、也不甚了解的力量。过来，不要害怕寒冷。我让你见识一下冰封王座的真正力量。”",
+    "health": 30,
+    "heroPowerDbfId": 42944,
+    "id": "CORE_ICC_833",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰霜女巫吉安娜",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤一个3/6的水元素。在本局对战中，你的所有元素拥有<b>吸血</b>。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Eric Braddock",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95650,
+    "flavor": "是这里本来就冷，还是因为辛达苟萨？",
+    "id": "CORE_ICC_836",
+    "name": "冰龙吐息",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "随机对一个敌方随从造成$2点伤害，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 95752,
+    "elite": true,
+    "flavor": "“我认可你的努力，但我觉得你的魔法还有提升的空间。”——辛达苟萨在上完“如何给出建设性反馈”的课程后说道。",
+    "health": 8,
+    "id": "CORE_ICC_838",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "辛达苟萨",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤两个0/1的被冰封的勇士。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69700,
+    "flavor": "它梦想有一天能像《荆棘谷的青山》一样，“永远”留在冒险者的任务日志里。",
+    "health": 2,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_KAR_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "呓语魔典",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机将一张法师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Zhang",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69701,
+    "flavor": "虽然听起来有点“虚”，但他的确很有实力。",
+    "health": 4,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_LOE_003",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "虚灵巫师",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：\n发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79548,
+    "dbfId": 118017,
+    "flavor": "“大帝，这里是法庭。”",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_MAW_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "异议",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COUNTER"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>当你的对手使用一张随从牌时，<b>反制</b>该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 79596,
+    "dbfId": 118023,
+    "flavor": "一键误终身。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_MAW_013",
+    "isMiniSet": true,
+    "name": "终身刑罚",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "将一个随从移出对战。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 84351,
+    "dbfId": 118045,
+    "flavor": "这份文书具有非法效力。",
+    "health": 6,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_MAW_101",
+    "isMiniSet": true,
+    "name": "契约咒术师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你每控制一个<b>奥秘</b>，本牌的法力值消耗便减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 75866,
+    "dbfId": 118046,
+    "flavor": "副作用可能包括……感觉一切良好！完全不用担心。",
+    "health": 3,
+    "id": "CORE_REV_000",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "可疑的炼金师",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。你的对手如果猜中了你的选择，即可获取一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 77642,
+    "dbfId": 118110,
+    "flavor": "那个靠枕知道的太多了……",
+    "id": "CORE_REV_504",
+    "name": "脱罪力证",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "直到你的下个回合，你的英雄每次只会受到1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 77659,
+    "dbfId": 118111,
+    "flavor": "你看，骷髅就该藏在衣橱里，不能冷藏。",
+    "id": "CORE_REV_505",
+    "name": "冰冷案例",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "召唤两个2/2的不稳定的骷髅。获得4点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 78371,
+    "dbfId": 118118,
+    "flavor": "“一个温西尔，一个上古之神还有一个牛头人走进了酒吧……”",
+    "health": 4,
+    "id": "CORE_REV_513",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "健谈的调酒师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，如果你控制一个<b>奥秘</b>，对所有敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 78394,
+    "dbfId": 118119,
+    "elite": true,
+    "flavor": "克尔苏加德好像从比格沃斯先生的九条命里借了几条。",
+    "health": 8,
+    "id": "CORE_REV_514",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天定之灾克尔苏加德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>复活你的不稳定的骷髅。战场上放不下的骷髅会立即爆炸。0<i>（复活0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 78397,
+    "dbfId": 118120,
+    "elite": true,
+    "flavor": "宇宙的奥秘浩瀚无涯……终将在本局对战中的晚些时候揭示。",
+    "health": 5,
+    "id": "CORE_REV_515",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "豪宅管家俄里翁",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "在一个友方<b>奥秘</b>被揭示后，施放一个不同的法师<b>奥秘</b>并获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 78508,
+    "dbfId": 118121,
+    "flavor": "这面镜子向我们展示的正是内心中最深沉，最黑暗的欲望：打脸。",
+    "id": "CORE_REV_516",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "复仇之像",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>在一个敌方随从攻击你的英雄后，召唤一个它的复制并使其攻击敌方英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 84354,
+    "dbfId": 118123,
+    "flavor": "这难道就是鲍勃讲的，他给死亡骑士倒酒时的情形？",
+    "id": "CORE_REV_601",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "冰冻之触",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "造成$3点伤害。<b>注能（3）：</b>将一张冰冻之触置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 84356,
+    "dbfId": 118124,
+    "flavor": "仅限骨干入内。",
+    "health": 3,
+    "id": "CORE_REV_602",
+    "name": "夜隐者圣所",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>冻结</b>一个随从。召唤一个2/2的不稳定的骷髅。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 79482,
+    "dbfId": 118136,
+    "flavor": "其实只是普通的骷髅。克尔苏加德取这个名字只是为了气势。",
+    "id": "CORE_REV_840",
+    "name": "死神之躯",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "对所有随从造成$2点伤害。每消灭一个随从，召唤一个2/2的不稳定的骷髅。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102193,
+    "flavor": "库房失火，五折甩卖，全场商品一律五折。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_SW_107",
+    "name": "火热促销",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FIRE",
+    "text": "<b>可交易</b>\n对所有随从造成\n$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86533,
+    "flavor": "你看我火吗？",
+    "health": 4,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_TRL_315",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "火焰狂人",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你的英雄技能消灭一个随从，抽\n一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 53778,
+    "dbfId": 115763,
+    "elite": true,
+    "flavor": "终其一生，雷诺·杰克逊和古往今来第一法师之间只有一把加特林法杖的距离。",
+    "health": 6,
+    "id": "CORE_ULD_238",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "考古专家雷诺",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则造成10点伤害，随机分配到所有敌方随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69702,
+    "flavor": "你抽到什么了？嘘…那是个秘密。",
+    "health": 3,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得50场对战后解锁。",
+    "id": "CORE_UNG_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "秘法学家",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>抽一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 62347,
+    "elite": true,
+    "flavor": "她是麦迪文的母亲，所以无论你做出什么坏事，她都不会对你感到失望。",
+    "health": 5,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得500场对战后解锁。",
+    "id": "CS3_001",
+    "mechanics": [
+      "DEATHRATTLE",
+      "SPELLPOWER"
+    ],
+    "name": "守护者艾格文",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>，<b>亡语：</b>你抽到的下一张随从牌会继承这些能力。",
+    "type": "MINION"
+  }
+]

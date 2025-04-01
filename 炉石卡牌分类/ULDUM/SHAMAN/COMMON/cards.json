@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53967,
+    "flavor": "嘟嘟嘟嘟好嗨哟！",
+    "health": 2,
+    "id": "ULD_158",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD"
+    ],
+    "name": "沙暴元素",
+    "overload": 1,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>对所有敌方随从造成1点伤害。\n<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Servando Lupini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 53978,
+    "flavor": "只要画上生气的眉毛，它们就成了愤怒的图腾。",
+    "id": "ULD_171",
+    "name": "图腾潮涌",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "spellSchool": "NATURE",
+    "text": "使你的图腾获得+2攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Servando Lupini",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54009,
+    "flavor": "当图腾误入歧途之时，人们通常会责怪它的父母。",
+    "health": 2,
+    "id": "ULD_276",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "怪盗图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "在你的回合结束时，将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

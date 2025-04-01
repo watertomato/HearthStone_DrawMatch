@@ -1,0 +1,122 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 113321,
+    "elite": true,
+    "flavor": "原名耶瑟拉，好耶的耶。",
+    "hasDiamondSkin": true,
+    "health": 12,
+    "howToEarn": "完成起始任务后解锁。",
+    "id": "EDR_000",
+    "mechanics": [
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "伊瑟拉，翡翠守护巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>对战开始时：</b>双方玩家的法力值上限提高5点。<b>战吼：</b>获得3个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114849,
+    "elite": true,
+    "flavor": "打盹休息结束了！",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "howToEarn": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_844",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "纳拉雷克斯，龙群先锋",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "你的龙牌法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 115090,
+    "elite": true,
+    "flavor": "哇哦，那款除魇喷剂是真的有效！只可惜存量不足以给整棵树都喷一喷。",
+    "id": "EDR_846",
+    "name": "莎拉达希尔",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "获取全部5张梦境牌。如果你在此牌在你手中时使用过法力值消耗更高的牌，腐蚀这些梦境牌！",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115139,
+    "elite": true,
+    "flavor": "在下个补丁中，萨维斯会和上次一样替换掉伊利丹，成为恶魔猎手英雄。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_856",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "梦魇之王萨维斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张随从牌。使其获得<b>黑暗之赐</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 115186,
+    "elite": true,
+    "flavor": "玛洛恩是神话传奇中的存在，最古老的荒野诸神之一，也是塞纳留斯的父亲。",
+    "health": 6,
+    "id": "EDR_888",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "护路者玛洛恩",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>发现</b>一张<b>传说</b>荒野之神。如果你已<b>灌注</b>过你的英雄技能4次，则将发现的荒野之神的法力值消耗变为（1）点。",
+    "type": "MINION"
+  }
+]

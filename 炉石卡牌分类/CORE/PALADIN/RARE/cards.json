@@ -1,0 +1,55 @@
+[
+  {
+    "artist": "Michal Ivan",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69614,
+    "flavor": "正因为我们都是独一无二的，所以我们都是平等的。",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得100场对战后解锁。",
+    "id": "CORE_EX1_619",
+    "name": "生而平等",
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "HOLY",
+    "text": "将所有随从的生命值变为1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Hayes",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 96916,
+    "flavor": "请不要辜负这些新兵的一腔热血，还有这把锤子。",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得100场对战后解锁。",
+    "id": "CORE_GVG_061",
+    "name": "作战动员",
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "召唤三个1/1的白银之手新兵，装备一把1/4的武器。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111369,
+    "flavor": "恐龙骑士唯一的遗憾，就是没能参加“冠军的试炼”。",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得100场对战后解锁。",
+    "id": "CORE_UNG_952",
+    "name": "剑龙骑术",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "CORE",
+    "text": "使一个随从获得+2/+6和<b>嘲讽</b>。当该随从死亡时，召唤一只剑龙。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101955,
+    "flavor": "“呵，你想多了，我们银行的名字叫‘和善’。”",
+    "health": 4,
+    "id": "WW_384",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "QUICKDRAW"
+    ],
+    "name": "和善的银行职员",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张法术牌。<b>快枪：</b>改为从敌方牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104999,
+    "flavor": "不要远离朋友，更不要远离对手，更更更不要远离你自己的影子。",
+    "id": "WW_600",
+    "name": "夺舍对射",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "召唤你对手手牌中一个随机随从的4/4的复制。",
+    "type": "SPELL"
+  }
+]

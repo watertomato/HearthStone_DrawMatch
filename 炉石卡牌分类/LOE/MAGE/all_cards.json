@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Richard Wright",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2874,
+    "flavor": "探险者经常需要在黑暗潮湿的环境下进行考古工作，因此火把成了必不可少的工具之一。",
+    "howToEarn": "在开始“探险者协会”冒险模式后解锁。",
+    "howToEarnGolden": "在开始“探险者协会”冒险模式后能够制作。",
+    "id": "LOE_002",
+    "name": "老旧的火把",
+    "rarity": "COMMON",
+    "set": "LOE",
+    "spellSchool": "FIRE",
+    "text": "造成$3点伤害。将一张可造成6点伤害的“炽烈的火把”洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ben Zhang",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2875,
+    "flavor": "虽然听起来有点“虚”，但他的确很有实力。",
+    "health": 4,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥达曼中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥达曼中解锁制作。",
+    "id": "LOE_003",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "虚灵巫师",
+    "rarity": "COMMON",
+    "set": "LOE",
+    "text": "<b>战吼：\n发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 36111,
+    "flavor": "不知道穿上它会有怎样神奇的效果……",
+    "health": 4,
+    "howToEarn": "加入“探险者协会”冒险模式，在探险者大厅中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在探险者大厅中解锁制作。",
+    "id": "LOE_119",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "活化铠甲",
+    "rarity": "RARE",
+    "set": "LOE",
+    "text": "你的英雄每次只会受到1点伤害。",
+    "type": "MINION"
+  }
+]

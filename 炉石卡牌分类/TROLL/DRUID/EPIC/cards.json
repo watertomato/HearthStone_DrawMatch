@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 50044,
+    "flavor": "古拉巴什竞技场对员工携宠物上班的要求极为宽松。",
+    "id": "TRL_255",
+    "name": "狂奔怒吼",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TROLL",
+    "text": "随机从你的手牌中召唤一个野兽，并使其获得<b>突袭</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50356,
+    "flavor": "他有点木讷，表情也很僵硬。",
+    "health": 4,
+    "id": "TRL_341",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "树语者",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>\n将你的所有树人变形成为5/5的古树。",
+    "type": "MINION"
+  }
+]

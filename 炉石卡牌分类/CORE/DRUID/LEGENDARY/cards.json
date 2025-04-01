@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Steven Prescott",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111353,
+    "elite": true,
+    "flavor": "种一棵树的最佳时间是二十年前，其次是你的随从倒下的时候。",
+    "health": 6,
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得500场对战后解锁。",
+    "id": "CORE_DMF_734",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "格雷布",
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>随机使一个友方随从获得“<b>亡语：</b>召唤格雷布。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 76287,
+    "elite": true,
+    "flavor": "每当范达尔·鹿盔举起酒杯，并以“想当年我在种世界之树的时候……”为开场白在那老调重弹时，众酒客便会作鸟兽散。",
+    "health": 6,
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得500场对战后解锁。",
+    "id": "CORE_OG_044",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "范达尔·鹿盔",
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "你的<b>抉择</b>牌和英雄技能可以同时拥有两种效果。",
+    "type": "MINION"
+  }
+]

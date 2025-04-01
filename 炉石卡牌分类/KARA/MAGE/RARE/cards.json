@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39169,
+    "flavor": "它梦想有一天能像《荆棘谷的青山》一样，“永远”留在冒险者的任务日志里。",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "呓语魔典",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机将一张法师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  }
+]

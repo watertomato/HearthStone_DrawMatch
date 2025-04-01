@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39190,
+    "flavor": "对付女巫有两种办法：要么对她造成4点伤害，要么点燃她脚下的那堆柴火。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_021",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶的巫医",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "每当你施放一个法术，随机召唤一个基础图腾。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39694,
+    "durability": 0,
+    "flavor": "比起那些钢爪骨爪，幽灵之爪伸出来时一点都不疼。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_063",
+    "name": "幽灵之爪",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "KARA",
+    "text": "当你拥有<b>法术伤害</b>时，拥有\n+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39712,
+    "flavor": "坊间传闻这是当下最热门的一个度假胜地，旱鸭子和深海恐惧者谢绝前往！",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_073",
+    "name": "大漩涡传送门",
+    "rarity": "RARE",
+    "set": "KARA",
+    "spellSchool": "NATURE",
+    "text": "对所有敌方随从造成$1点伤害。随机召唤一个法力值消耗为（1）的随从。",
+    "type": "SPELL"
+  }
+]

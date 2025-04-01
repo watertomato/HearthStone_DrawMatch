@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 74894,
+    "elite": true,
+    "flavor": "这头巨兽身披鞍辔，驮载着钩牙船长最爱的船。别把她和她的淡水远亲尼斯搞混了。",
+    "health": 5,
+    "id": "TSC_660",
+    "mechanics": [
+      "BATTLECRY",
+      "COLOSSAL",
+      "DISCOVER"
+    ],
+    "name": "奈利，超巨蛇颈龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>巨型+1</b>\n<b>战吼：</b><b>发现</b>三个海盗来构成奈利的船员团队！",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 72594,
+    "elite": true,
+    "flavor": "艾泽里特嗑上头的后果。",
+    "health": 5,
+    "id": "TSC_943",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾什凡女勋爵",
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>使你手牌，牌库和战场上的所有武器获得+1/+1。",
+    "type": "MINION"
+  }
+]

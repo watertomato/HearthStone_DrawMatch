@@ -1,0 +1,21 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103661,
+    "flavor": "“这份礼物将成为你永恒的负担……我把收据丢了。”——伊利丹",
+    "howToEarn": "打开<i>威兹班的工坊</i>卡牌包后可解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "GIFT_08",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "伊利丹的礼物",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>发现</b>一张<b>临时</b>的邪能弹幕，混乱打击或混乱新星。",
+    "type": "SPELL"
+  }
+]

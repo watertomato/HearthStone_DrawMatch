@@ -1,0 +1,263 @@
+[
+  {
+    "armor": 5,
+    "artist": "Ursula Dorada",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 67040,
+    "elite": true,
+    "flavor": "她的信仰，无懈可击。她的盾牌，无法撼动。她的敌人，无可拯救。",
+    "health": 30,
+    "heroPowerDbfId": 67041,
+    "id": "AV_206",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光铸凯瑞尔",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>对所有敌人造成2点伤害。装备一块2/5的无法撼动之物。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 67211,
+    "flavor": "如果您的活力持续涌现了四个小时以上，请咨询牧师。",
+    "id": "AV_213",
+    "name": "活力涌现",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "HOLY",
+    "text": "抽一张随从牌。为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70260,
+    "flavor": "你不能通过这里！",
+    "id": "AV_338",
+    "name": "坚守桥梁",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2/+1和<b>圣盾</b>。直到回合结束，使其获得<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 70262,
+    "flavor": "与圣堂武士队长的区别在于无法合成执政官队长。",
+    "health": 8,
+    "id": "AV_339",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣殿骑士队长",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>突袭</b>。\n在本随从攻击一个随从后，召唤一个5/5并具有<b>嘲讽</b>的防御者。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 9,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 70261,
+    "flavor": "这种情况我见过。掌握好时间，躲开那条龙就行了。",
+    "health": 7,
+    "id": "AV_340",
+    "mechanics": [
+      "HONORABLE_KILL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "亮铜之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你的回合结束时，对所有敌人造成2点伤害。<b>荣誉消灭：</b>为你的英雄恢复4点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 70264,
+    "durability": 0,
+    "flavor": "号角通知：联盟的人跳过所有目标，直奔德雷克塔尔。",
+    "health": 2,
+    "id": "AV_341",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "骑兵号角",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>亡语：</b>召唤你手牌中法力值消耗最低的随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 70263,
+    "flavor": "“快，快拗个超级英雄的姿势！”",
+    "id": "AV_342",
+    "name": "舍己为人",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "召唤一个5/5并具有<b>嘲讽</b>的防御者。在本回合中，如果你的英雄受到治疗，再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70265,
+    "flavor": "“真正的力量源自你的套牌”，这话听着就不是很给劲。",
+    "health": 1,
+    "id": "AV_343",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "石炉守备官",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>抽一张法力值消耗小于或等于（3）点的法术牌。在本回合中，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 72807,
+    "flavor": "幸好《炉石传说》里没有坠落伤害。",
+    "howToEarnGolden": "在奥特兰克获取荣誉点数以获得该奖励。",
+    "id": "AV_344",
+    "name": "丹巴达尔桥",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你召唤一个随从后，使其获得+2/+2。\n持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72810,
+    "elite": true,
+    "flavor": "有个兽人法师一不小心把他从斯坦索姆一路风筝到了这里。",
+    "health": 2,
+    "id": "AV_345",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "血色骑士赛丹",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>突袭</b>\n每当本随从获得攻击力或生命值，该数值翻倍<i>（无论本随从在哪里）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 71244,
+    "flavor": "“如果你奶住我，我一定好好输出，我发誓。”",
+    "health": 5,
+    "id": "ONY_020",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暴风城复仇者",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你对本随从施放一个法术后，本随从获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 71248,
+    "flavor": "她是那种最接地气的圣骑士……除非她站起身来。",
+    "health": 3,
+    "id": "ONY_022",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "武装教士",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b><b>发现</b>一张神圣法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 71253,
+    "flavor": "现在去找智慧之戒和力量之戒吧。",
+    "id": "ONY_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "勇气之戒",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>可交易</b>\n使一个随从获得+1/+1。每有一个敌方随从，重复一次。",
+    "type": "SPELL"
+  }
+]

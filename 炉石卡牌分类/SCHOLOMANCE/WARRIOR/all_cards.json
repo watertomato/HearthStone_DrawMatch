@@ -1,0 +1,124 @@
+[
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58978,
+    "flavor": "适合考前突击。",
+    "id": "SCH_237",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "体能研习",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>发现</b>一张<b>突袭</b>随从牌。你的下一张<b>突袭</b>随从牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58979,
+    "durability": 0,
+    "flavor": "死吧，死吧，死吧。",
+    "health": 2,
+    "id": "SCH_238",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "收割之镰",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>在本回合中同时对攻击目标相邻的随从造成伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59101,
+    "flavor": "“计划是这样的：你走左边，我走右边，让那个受伤的去扛伤害。”",
+    "health": 3,
+    "id": "SCH_317",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "团伙核心",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你使用一张<b>突袭</b>随从牌后，召唤一个剩余生命值为1的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59175,
+    "flavor": "“既然你诚心诚意地发问了！”“我们就大发慈悲地告诉你！”",
+    "health": 8,
+    "id": "SCH_337",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "问题学生",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，召唤两个3/3的无赖并使其攻击随机敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59410,
+    "flavor": "“这次为什么只考了十分？”“两块盾丢了一块……”",
+    "id": "SCH_525",
+    "name": "保持阵型",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "随机将两张<b>嘲讽</b>随从牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 9,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 59947,
+    "elite": true,
+    "flavor": "他现在是丑，但他当年20/20的时候，也是鲜肉一块。",
+    "health": 9,
+    "id": "SCH_621",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "血骨傀儡",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>亡语：</b>再次召唤本随从并具有-1/-1。",
+    "type": "MINION"
+  }
+]

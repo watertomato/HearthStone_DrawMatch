@@ -1,0 +1,128 @@
+[
+  {
+    "artist": "Dany Orizio",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97573,
+    "flavor": "三个脑袋，3倍起床气。",
+    "health": 5,
+    "id": "TTN_713",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "生气的冥狱之犬",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>\n在你的回合拥有+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97574,
+    "flavor": "唔，符文能量快见底了。最好找个符务区。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_714",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "符文供能魔像",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b><b>发现</b>一张任意职业的武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97626,
+    "flavor": "一闪一闪亮晶晶，满天雏龙小星星。",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_718",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星光雏龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机获取你起始手牌中的一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Dora",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98389,
+    "flavor": "这套伪装不太行啊，兄弟。",
+    "health": 3,
+    "id": "TTN_741",
+    "name": "伪装的克熙尔",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成你对手牌库中的一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98403,
+    "flavor": "有没有可能，我们并非真实存在？我们会不会是，比方说，是什么宇宙空间实体想象出来的？我们又该如何知晓？",
+    "health": 2,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_742",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星空投影师",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "targetingArrowText": "选择一个友方随从，获取临时版复制。",
+    "text": "<b>战吼：</b>选择一个友方随从，将它的一张<b>临时</b>复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，对所有敌人造成2点伤害。",
+    "cost": 4,
+    "dbfId": 101698,
+    "flavor": "不对！最先突破监狱的是拆迁修理工！",
+    "health": 4,
+    "id": "YOG_411",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "越狱者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，对所有敌人造成2点伤害。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "artist": "Maria Trepalina",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90681,
+    "durability": 0,
+    "flavor": "爱豆不是豆。这也不是爱，是麦克风。",
+    "health": 2,
+    "id": "ETC_312",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "爱豆的爱",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "你的英雄技能法力值消耗为（0）点。在你使用技能后，失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91067,
+    "flavor": "“这首歌献给你，姑娘。一万六千岁生日快乐。”",
+    "id": "ETC_338",
+    "name": "真弦术：合",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "选择一个随从，将一张它的复制置入你的手牌。<b>压轴：</b>使其均获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97403,
+    "flavor": "“说来奇怪。我走进俱乐部，找到会长，他噼里啪啦唠叨了大概10分钟，然后给了我一张自行车兑换券……”",
+    "health": 2,
+    "id": "ETC_449",
+    "name": "粉丝俱乐部",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "为所有友方角色恢复#3点生命值。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98377,
+    "flavor": "沃萨特，我们都听不到你的声音。你静音了。",
+    "id": "JAM_022",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "致聋术",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "<b>沉默</b>一个随从。<b>连击：</b>并对其造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97579,
+    "flavor": "一定要让它弱于你的其他光耀之子，这样打光效果才好。",
+    "health": 4,
+    "id": "JAM_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "布景光耀之子",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>压轴，过量治疗：</b>随机使另一个友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98413,
+    "flavor": "他叫什么名字？Stan。",
+    "health": 2,
+    "id": "JAM_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "饭圈迷弟",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>抉择：</b>使一个友方随从获得+2攻击力和<b>突袭</b>；或者+2生命值和<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

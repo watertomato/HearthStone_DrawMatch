@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52482,
+    "flavor": "不惜性命也要急着强化大家。",
+    "health": 2,
+    "id": "DAL_563",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "性急的杂兵",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>随机使两个友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52698,
+    "flavor": "它们从牌库里出来了！",
+    "id": "DAL_602",
+    "name": "情势反转",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "将你的手牌洗入牌库。抽取相同数量的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Hayes",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52871,
+    "flavor": "粉骨碎身全不怕，要留力量在人间。",
+    "id": "DAL_605",
+    "name": "小鬼狱火",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "spellSchool": "FEL",
+    "text": "使你的恶魔获得+1攻击力。对所有敌方随从造成$1点\n伤害。",
+    "type": "SPELL"
+  }
+]

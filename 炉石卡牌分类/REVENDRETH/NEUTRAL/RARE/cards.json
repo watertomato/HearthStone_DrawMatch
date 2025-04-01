@@ -1,0 +1,131 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79778,
+    "flavor": "啊！手腕抽筋了！",
+    "health": 4,
+    "id": "MAW_031",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA",
+      "INFUSE"
+    ],
+    "name": "冥界侍从",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "你的<b>注能</b>牌在牌库中也会<b>注能</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79581,
+    "flavor": "许多不是毒药的液体也能要人命。但是这一锅，它就是毒药。",
+    "health": 4,
+    "id": "REV_016",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶的厨师",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "在你的回合结束时，如果你已对敌方英雄造成3点或更多伤害，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79932,
+    "flavor": "不求食物，只求关注。",
+    "health": 5,
+    "howToEarnGolden": "完成成就“住手！这是注能时间！”后解锁。",
+    "id": "REV_019",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "饥饿的愚人",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>抽一张牌。<b>注能（4）：</b>改为抽三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79535,
+    "flavor": "请执事者送信，太老派了。",
+    "health": 4,
+    "id": "REV_377",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邀请函信使",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "在另一职业的卡牌被置入你的手牌后，复制置入的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 75876,
+    "flavor": "对她来说，她的离世恐怕是个巨大的打击。",
+    "health": 5,
+    "howToEarnGolden": "完成成就“离魂难忘”后解锁。",
+    "id": "REV_901",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "离躯之魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>如果你控制一个地标，<b>发现</b>你牌库中一张牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78079,
+    "flavor": "自从心能短缺，工作清闲了下来。地上迸溅的心能少多了！",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>纳斯利亚堡的悬案</i>奖励路线中获得该奖励。",
+    "id": "REV_946",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蒸汽清洁器",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>摧毁双方玩家牌库中所有套牌之外的牌。",
+    "type": "MINION"
+  }
+]

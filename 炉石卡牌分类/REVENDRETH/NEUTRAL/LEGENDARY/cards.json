@@ -1,0 +1,162 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 79780,
+    "elite": true,
+    "flavor": "会变成“被注希尔瓦娜斯”。",
+    "health": 5,
+    "id": "MAW_033",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "被告希尔瓦娜斯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "<b>战吼：</b>消灭一个敌方随从。<b>注能（7）：</b>改为夺取其控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 79782,
+    "elite": true,
+    "flavor": "典狱长曾是暗影界所有灵魂的仲裁官，是不偏不倚的正义典范。但那都只是曾经。",
+    "health": 10,
+    "id": "MAW_034",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "典狱长",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>摧毁你的牌库。本随从获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79767,
+    "elite": true,
+    "flavor": "许多孩子都经历过叛逆期，可雷纳索尔王子的叛逆有点极端。",
+    "health": 4,
+    "howToEarn": "打开<i>纳斯利亚堡的悬案</i>卡牌包后可解锁。",
+    "howToEarnGolden": "购买<i>纳斯利亚堡的悬案</i>炉石通行证后开放解锁。",
+    "id": "REV_018",
+    "name": "雷纳索尔王子",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "你的套牌容量和初始生命值为40。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 79934,
+    "elite": true,
+    "flavor": "你认识凯尔萨斯吗？这也太乱了吧？",
+    "health": 7,
+    "id": "REV_021",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "逐罪者凯尔萨斯",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "在每回合中，你每使用三张随从牌，第三张随从牌的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79935,
+    "elite": true,
+    "flavor": "当你排除了所有不蝌能的情形，剩下的，无论多么离鳍，那也一定是真相。",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "REV_022",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摩洛克·福尔摩斯",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>破解你对手卡牌的3条线索，即可获取其复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 76984,
+    "elite": true,
+    "flavor": "“我觉得你疯了，疯透了。但我仍要告诉你一个秘密。所有优秀的灵魂都是疯子。”",
+    "health": 4,
+    "id": "REV_238",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "癫狂公爵西塔尔",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>从每个玩家的手牌中各<b>发现</b>一张牌并交换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 75881,
+    "elite": true,
+    "flavor": "历史可以帮助人们避免走上反派的老路。不幸的是，温西尔个个都和大帝差不多。",
+    "health": 10,
+    "howToEarn": "打开<i>纳斯利亚堡的悬案</i>卡牌包后可解锁。",
+    "id": "REV_906",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE",
+      "LIFESTEAL"
+    ],
+    "name": "德纳修斯大帝",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>吸血</b>，<b>战吼：</b>对所有敌人造成总计5点伤害。<b>无限注能（2）：</b>伤害增加1点。",
+    "type": "MINION"
+  }
+]

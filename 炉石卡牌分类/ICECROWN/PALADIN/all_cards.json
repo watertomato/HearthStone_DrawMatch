@@ -1,0 +1,228 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42462,
+    "flavor": "说真的，要不是他能引来那只食尸鬼，这家伙就是个混球。",
+    "health": 2,
+    "id": "ICC_034",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "傲慢的十字军",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 1,
+    "battlegroundsPremiumDbfId": 63774,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42467,
+    "flavor": "本来想起名叫烈日保护者，但这里实在是太冷了。",
+    "health": 1,
+    "id": "ICC_038",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "正义保护者",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "techLevel": 1,
+    "text": "<b>嘲讽</b>\n<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42469,
+    "flavor": "在乌瑟尔的法庭上，他既是法官，也是陪审团，还是行刑者……",
+    "id": "ICC_039",
+    "name": "黑暗裁决",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "将一个随从的攻击力和生命值\n变为3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ben Thompson",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42735,
+    "durability": 0,
+    "flavor": "这种悲伤刺痛的不光只是心。",
+    "health": 4,
+    "id": "ICC_071",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光之悲恸",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ICECROWN",
+    "text": "在一个友方随从失去<b>圣盾</b>后，获得+1攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42824,
+    "flavor": "虽然这些随从准备一搏，但没人准备先死。",
+    "id": "ICC_244",
+    "name": "殊死一搏",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得“<b>亡语：</b>回到战场，并具有1点生命值。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42825,
+    "flavor": "“我有没有说过我曾单枪匹马干掉了一个29/29的克苏恩的事？”——雷诺·杰克逊",
+    "health": 9,
+    "id": "ICC_245",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑色卫士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "每当你的英雄获得治疗时，便随机对一个敌方随从造成等量的\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42948,
+    "flavor": "她的营在征兵时会附送好几对耳塞。",
+    "health": 2,
+    "id": "ICC_801",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "咆哮的指挥官",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>从你的牌库中抽一张具有<b>圣盾</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Chen",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43127,
+    "flavor": "能守能攻，一剑两用，寒刃出鞘，谁与争锋。拿上它，连最矮小的侏儒也能成为勇士。",
+    "health": 2,
+    "id": "ICC_820",
+    "mechanics": [
+      "CHARGE",
+      "LIFESTEAL"
+    ],
+    "name": "寒刃勇士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>冲锋，吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "James Ryman",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43406,
+    "elite": true,
+    "flavor": "“过来，忏悔！曾经的我只是圣光的仆人。但现在，我将独自审判你。”",
+    "health": 30,
+    "heroPowerDbfId": 43013,
+    "id": "ICC_829",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑锋骑士乌瑟尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>\n装备一把5/3并具有<b>吸血</b>的武器。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 1,
+    "battlegroundsPremiumDbfId": 58405,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45392,
+    "elite": true,
+    "flavor": "作为联盟的楷模，身材也很火爆。",
+    "health": 7,
+    "id": "ICC_858",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "浴火者伯瓦尔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "techLevel": 4,
+    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，获得+2攻击力。",
+    "type": "MINION"
+  }
+]

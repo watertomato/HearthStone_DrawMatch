@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2551,
+    "flavor": "只要跟暗影两字沾边的，多半不是什么好人，也不会有什么好事。",
+    "health": 5,
+    "id": "AT_012",
+    "mechanics": [
+      "BATTLECRY",
+      "INSPIRE"
+    ],
+    "name": "暗影子嗣",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼，激励：</b>对每个英雄造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Dos Santos",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2563,
+    "flavor": "“我们这儿提供健全的福利保障……有兴趣吗？！”",
+    "id": "AT_015",
+    "name": "策反",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "将一个敌方随从的一张复制置入你的手牌。其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jeff Easley",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2596,
+    "flavor": "对五位强大的守护巨龙来说，观看锦标赛是当下的头等大事！",
+    "health": 4,
+    "id": "AT_116",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙眠教官",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1攻击力和<b>嘲讽</b>。",
+    "type": "MINION"
+  }
+]

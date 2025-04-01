@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 46706,
+    "elite": true,
+    "flavor": "变换转瞬间，造化钟神秀。",
+    "health": 1,
+    "id": "GIL_142",
+    "name": "变色龙卡米洛斯",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "如果这张牌在你的手牌中，每个回合都会变成你对手手牌中的一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48560,
+    "elite": true,
+    "flavor": "以前是圆点幽魂。可经过侏儒洗衣店的一次人为事故后，变成了现在这样子。",
+    "health": 5,
+    "id": "GIL_840",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "白衣幽魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>对你牌库中的所有随从施放“心灵之火”<i>（使其攻击力等同于生命值）</i>。",
+    "type": "MINION"
+  }
+]

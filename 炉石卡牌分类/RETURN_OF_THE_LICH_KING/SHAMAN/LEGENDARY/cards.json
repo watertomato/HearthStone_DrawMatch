@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 86132,
+    "elite": true,
+    "flavor": "夏日版：伏鳃。少年版：雏鳃。其他生物：无鳃。",
+    "health": 6,
+    "id": "RLK_550",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐鳃",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>使你的其他随从获得“<b>亡语：</b>使你的所有随从获得+1/+1。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 84234,
+    "elite": true,
+    "flavor": "<b>王语：过宰：</b>（1）",
+    "health": 8,
+    "id": "RLK_913",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL",
+      "WINDFURY"
+    ],
+    "name": "达库鲁大王",
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>，<b>风怒</b>。\n在本随从攻击并消灭随从后，为你复活被消灭的随从。",
+    "type": "MINION"
+  }
+]

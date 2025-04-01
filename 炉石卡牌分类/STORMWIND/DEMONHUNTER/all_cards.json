@@ -1,0 +1,252 @@
+[
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65608,
+    "flavor": "抱歉各位，我刚刚是真的想点贪婪。",
+    "id": "DED_506",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "贪婪需求",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n抽三张牌。如果在本回合被抽到，则法力值消耗为（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65609,
+    "flavor": "额外多看几眼，总有额外收获。",
+    "health": 2,
+    "id": "DED_507",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "桅台观察员",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>对最左边和最右边的敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 65610,
+    "flavor": "来跟我单挑吧，仅限恶魔猎手，禁道具，四条命。",
+    "id": "DED_508",
+    "isMiniSet": true,
+    "name": "试炼场",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "从你的牌库中召唤两个随从，并使其互相攻击！",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64373,
+    "flavor": "“你不懂……在复仇和仇恨领域，食人魔可是一大块蓝海市场！”",
+    "health": 7,
+    "id": "SW_037",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "怒缚蛮兵",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>\n在本回合中每抽一张牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64375,
+    "elite": true,
+    "flavor": "终于到了最后的决战。炉石传说的最后一张牌。",
+    "id": "SW_039",
+    "name": "一决胜负",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>在一回合中抽四张牌。<b>奖励：</b>使抽到的牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64393,
+    "flavor": "库尔特鲁斯飞身跃过一块墓碑，冲向入侵的恶魔，口中高喊着“哔又！哔又！”，用邪能将它们射倒在地。",
+    "id": "SW_040",
+    "name": "邪能弹幕",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellSchool": "FEL",
+    "text": "对生命值最低的敌人造成$2点伤害两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64394,
+    "flavor": "红灯停，绿灯行。紫灯表示特别行！",
+    "id": "SW_041",
+    "name": "敏捷咒符",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "在你的下个回合开始时，抽一张牌，并使其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64395,
+    "flavor": "爱好：多层传销，骑车跑路。",
+    "health": 3,
+    "id": "SW_042",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRADEABLE"
+    ],
+    "name": "固执的商贩",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>亡语：</b>从你的牌库中召唤一个固执的商贩。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64396,
+    "flavor": "信奉“纯绿色”饮食。",
+    "health": 3,
+    "id": "SW_043",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪能吞食者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张邪能法术牌，使其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64397,
+    "elite": true,
+    "flavor": "对于一个曾经的法师来说，把火焰转化成邪火相当轻松。",
+    "health": 5,
+    "id": "SW_044",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "杰斯·织暗",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n施放你在本局对战中使用过的所有邪能法术<i>（尽可能以敌人为目标）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64629,
+    "flavor": "梦想是加入恐龙战队，成为绿衣战士。",
+    "health": 2,
+    "id": "SW_451",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "魔变鱼人",
+    "race": "MURLOC",
+    "races": [
+      "DEMON",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你在本回合中施放过邪能法术，获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64665,
+    "flavor": "抽这个，这个劲儿大！",
+    "id": "SW_452",
+    "mechanics": [
+      "LIFESTEAL",
+      "OUTCAST"
+    ],
+    "name": "混乱吸取",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从造成$3点伤害。<b>流放：</b>改为\n造成$5点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64688,
+    "durability": 0,
+    "flavor": "就像陀螺一样，越抽越快。",
+    "health": 2,
+    "id": "SW_454",
+    "name": "雄狮之怒",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "攻击力等同于\n你在本回合中抽牌的数量。",
+    "type": "WEAPON"
+  }
+]

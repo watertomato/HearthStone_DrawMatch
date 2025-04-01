@@ -1,0 +1,469 @@
+[
+  {
+    "artist": "Andrew Hou",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43345,
+    "flavor": "他长的像老鼠，穿的像老鼠，走路也像老鼠。",
+    "health": 1,
+    "id": "LOOT_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "下水道爬行者",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>召唤一个2/3的巨鼠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43463,
+    "flavor": "蜡烛制的武器可以对其造成双倍伤害。",
+    "health": 2,
+    "id": "LOOT_117",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "蜡油元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>嘲讽</b>\n<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 43469,
+    "faction": "ALLIANCE",
+    "flavor": "这就是几百年不清理下水道的下场。",
+    "health": 5,
+    "id": "LOOT_122",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐蚀淤泥",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>\n摧毁对手的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Julian Del Rey",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43474,
+    "flavor": "有一次他不小心看了一眼镜子。",
+    "health": 1,
+    "id": "LOOT_125",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "POISONOUS"
+    ],
+    "name": "石皮蜥蜴",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>圣盾</b>\n<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Kagounkin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 43485,
+    "flavor": "这是一张名副其实的“超模”卡，都从模子里溢出来了。",
+    "health": 3,
+    "id": "LOOT_131",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "绿色凝胶怪",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合结束时，召唤一个1/2并具有<b>嘲讽</b>的软泥怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43486,
+    "flavor": "两个壮实的矮人可以防止大灾变的降临。",
+    "health": 3,
+    "id": "LOOT_132",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "屠龙者",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "targetingArrowText": "造成6点伤害。",
+    "text": "<b>战吼：</b>对一条龙造成6点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43489,
+    "flavor": "你想吃冒险者吗？我想吃！",
+    "health": 4,
+    "id": "LOOT_134",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "利齿宝箱",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合开始时，将本随从的攻击力\n变为4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43493,
+    "faction": "ALLIANCE",
+    "flavor": "一名迪菲亚匪徒、一根变形术魔杖和一捆魔莲花共同酿成的悲剧。",
+    "health": 2,
+    "id": "LOOT_136",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "鬼祟恶魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>潜行</b>\n你的其他随从拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43494,
+    "flavor": "当地村民把她称为“那座沉睡的山丘”。",
+    "health": 12,
+    "id": "LOOT_137",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "贪睡巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43507,
+    "flavor": "找给你的硬币，不用谢。",
+    "health": 6,
+    "id": "LOOT_144",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "藏宝巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>使你的对手获得两张幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43523,
+    "faction": "ALLIANCE",
+    "flavor": "小时候她喜欢滚石头玩，现在她登上了《滚石》的封面。",
+    "health": 2,
+    "id": "LOOT_152",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "喧哗的诗人",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>使你的其他随从获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Cranford",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 43526,
+    "flavor": "它总是一路向下钻。",
+    "health": 7,
+    "id": "LOOT_153",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "紫色岩虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>召唤七只1/1的肉虫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45265,
+    "flavor": "对那些通不过蜡烛学考试的学生来说，真菌分类学是比较容易过关的。",
+    "health": 2,
+    "id": "LOOT_167",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "菌菇术士",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>使相邻的随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Garner",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 45287,
+    "flavor": "像精灵龙一样移动，像虫群女王一样出击。",
+    "health": 3,
+    "id": "LOOT_184",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白银先锋",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>\n<b>招募</b>一个法力值消耗为（8）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45594,
+    "flavor": "比他的兄弟“诅咒人的门徒”更懂礼貌，但也更加邪恶。",
+    "health": 1,
+    "id": "LOOT_233",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "被诅咒的门徒",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>召唤一个5/1的亡魂。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 45707,
+    "flavor": "你肯定不想让厄运鼹鼠把洞穴挖的满山都是吧。",
+    "health": 3,
+    "id": "LOOT_258",
+    "name": "厄运鼹鼠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45784,
+    "flavor": "保证会有副作用！",
+    "health": 4,
+    "id": "LOOT_291",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蘑菇酿酒师",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "targetingArrowText": "恢复4点生命值。",
+    "text": "<b>战吼：</b>\n恢复#4点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Seaman",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45837,
+    "flavor": "他的呼吸中有着痛苦和绝望的味道。但仍然比大部分穴居人嘴里的气味要好。",
+    "health": 5,
+    "id": "LOOT_315",
+    "mechanics": [
+      "POISONOUS",
+      "TAUNT"
+    ],
+    "name": "穴居人食菌者",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>嘲讽</b>\n<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45929,
+    "flavor": "可怕的秘密：奥术飞弹对黑暗之主不起作用。",
+    "health": 1,
+    "id": "LOOT_347",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狗头人学徒",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>造成3点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46069,
+    "flavor": "她以前是个电话销售员。",
+    "health": 4,
+    "id": "LOOT_375",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "公会招募员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b><b>招募</b>一个法力值消耗小于或等于（4）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46087,
+    "flavor": "应聘条件：生下来就戴着尖顶帽子。",
+    "health": 3,
+    "id": "LOOT_388",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "菌菇附魔师",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>为所有友方角色恢复#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 45930,
+    "flavor": "“好了，你的队伍打败了那只甲虫。”“我要把它放在头上。”“什么？”“我要把它戴在头上，像帽子一样。”",
+    "health": 3,
+    "id": "LOOT_413",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "硬壳甲虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>\n获得3点护甲值。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50066,
+    "elite": true,
+    "flavor": "指挥官这头衔听起来比幼龙保姆酷多了。",
+    "health": 3,
+    "id": "TRL_328",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "指挥官沃恩",
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>复制你手牌中的所有龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 50074,
+    "elite": true,
+    "flavor": "巨魔战士冲锋时一般只喊“阿”，并没有喊出“卡里”的机会。",
+    "health": 5,
+    "id": "TRL_329",
+    "mechanics": [
+      "OVERKILL",
+      "RUSH"
+    ],
+    "name": "阿卡里，犀牛之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>突袭，超杀：</b>从你的牌库中抽一张具有<b>突袭</b>的随从牌，并使其获得+5/+5。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59623,
+    "elite": true,
+    "flavor": "“他从不按什么正态曲线打分，直接在零分那里画条竖线，把所有人都挂在上面。”",
+    "health": 6,
+    "id": "SCH_126",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "教导主任加丁",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "在你使用一张随从牌后，将其消灭并召唤一个4/4的挂掉的\n学生。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59643,
+    "elite": true,
+    "flavor": "“……后来我就这么被换到了鱼人文化研究专业。”",
+    "health": 3,
+    "id": "SCH_159",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "裂心者伊露希亚",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>直到回合结束，将你的手牌替换成对手手牌的复制。",
+    "type": "MINION"
+  }
+]

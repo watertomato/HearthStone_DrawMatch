@@ -1,0 +1,310 @@
+[
+  {
+    "artist": "Bernie Kang",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 469,
+    "flavor": "小鬼喜欢躲在暗处嘲讽附近的所有人，并且对此乐此不疲。",
+    "health": 1,
+    "id": "CS2_059",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲜血小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "<b>潜行</b>\n在你的回合结束时，随机使另一个友方随从获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Polidora",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 517,
+    "flavor": "没错，他会为你而战，但并非心甘情愿。",
+    "health": 5,
+    "id": "EX1_301",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "恶魔卫士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>嘲讽，战吼：</b>摧毁你的一个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Kendall",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 147,
+    "flavor": "始于一个强大的随从，终于一场华丽的浩劫。多么有趣！",
+    "id": "EX1_303",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "暗影烈焰",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个友方随从，对所有敌方随从造成等同于其攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1221,
+    "flavor": "如果你把这张牌放到你的套牌中，你就会失去其他随从对你的信任。",
+    "health": 4,
+    "id": "EX1_304",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚空恐魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>战吼：</b>消灭两侧相邻的随从，并获得他们的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 1100,
+    "flavor": "你最好避免虹吸自己的灵魂，这样会造成一些很奇怪的死循环。",
+    "id": "EX1_309",
+    "name": "灵魂虹吸",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从，为你的英雄恢复#3点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Lucas Graciano",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 631,
+    "flavor": "召唤末日守卫有很大的风险。总得有人付出生命的代价。",
+    "health": 7,
+    "id": "EX1_310",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "末日守卫",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>冲锋</b>，<b>战吼：</b>随机弃两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 859,
+    "flavor": "扭曲虚空浩渺无际，充满着魔法、幻象和被放逐的生命体。",
+    "id": "EX1_312",
+    "name": "扭曲虚空",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有随从和地标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 783,
+    "flavor": "或许玛诺洛斯、玛瑟里顿和布鲁塔卢斯都已经死了，但其实深渊领主还有很多很多。",
+    "health": 6,
+    "id": "EX1_313",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深渊领主",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "text": "<b>战吼：</b>对你的英雄造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 969,
+    "flavor": "不能少于1点！你在想什么坏主意呢！",
+    "health": 4,
+    "id": "EX1_315",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "召唤传送门",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "你的随从牌的法力值消耗减少（2）点，但不能少于（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tom Baxa",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 846,
+    "flavor": "别让那个随从知道他死后的样子。那惨象无可言状。",
+    "id": "EX1_316",
+    "name": "力量的代价",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "使一个友方随从获得+4/+4，该随从会在回合结束时死亡。死得很惨。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raven Mimura",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 860,
+    "flavor": "一般说来，恶魔总是比较容易辨认的，不需要用一个法术来感知它们。",
+    "id": "EX1_317",
+    "name": "感知恶魔",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "从你的牌库中抽两张恶魔牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 1090,
+    "flavor": "小鬼们喜欢引火上身。它们就是喜欢。",
+    "health": 2,
+    "id": "EX1_319",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "烈焰小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "<b>战吼：</b>对你的英雄造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 23,
+    "flavor": "福无双至，祸不单行。",
+    "id": "EX1_320",
+    "name": "末日灾祸",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "对一个角色造成$3点伤害。如果消灭该角色，随机召唤一个恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 777,
+    "elite": true,
+    "flavor": "“渺小的侏儒！你的傲慢会招致灭亡！”",
+    "health": 30,
+    "heroPowerDbfId": 1178,
+    "id": "EX1_323",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "加拉克苏斯大王",
+    "rarity": "LEGENDARY",
+    "set": "EXPERT1",
+    "text": "<b>战吼：</b>装备一把3/8的血怒。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Ben Wootten",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1142,
+    "flavor": "恶魔之火和普通火焰没什么区别，除了它从来不会熄灭...救命！",
+    "id": "EX1_596",
+    "name": "恶魔之火",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$2点伤害，如果该随从是友方恶魔，则改为使其获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103664,
+    "flavor": "“这份礼物不会像上次那样……”——古尔丹",
+    "howToEarn": "打开<i>威兹班的工坊</i>卡牌包后可解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "GIFT_11",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "古尔丹的礼物",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>发现</b>一张<b>临时</b>的死亡缠绕，灵魂虹吸或扭曲虚空。",
+    "type": "SPELL"
+  }
+]

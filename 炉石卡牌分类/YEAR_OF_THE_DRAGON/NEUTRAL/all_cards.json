@@ -1,0 +1,185 @@
+[
+  {
+    "artist": "Gabe Gonzalez",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56068,
+    "flavor": "圈养的魔刃豹也没好多少——天天抓你的家具，还会乱吐法力毛球。",
+    "health": 5,
+    "id": "YOD_006",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奔逃的魔刃豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>潜行</b>\n每当本随从攻击，便获得一个仅限本回合可用的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56116,
+    "flavor": "“跳伞会有危险吗？”“危险？绝对没有！至少我没有。快跳吧！”",
+    "health": 2,
+    "id": "YOD_028",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伞降教官",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>从你的牌库中召唤一个法力值消耗为（1）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56118,
+    "flavor": "通晓各种迎冰待客之礼。",
+    "health": 4,
+    "id": "YOD_029",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰雹使者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>召唤两个1/1的可以<b>冻结</b>攻击目标的寒冰碎片。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56120,
+    "flavor": "“想搞什么宝贝，告诉我大概方位，剩下的就交给我了！没有我砸不坏的！”",
+    "health": 2,
+    "id": "YOD_030",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "资深探险者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "QUEST"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你控制一个<b>任务</b>，则将一张幸运币置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56122,
+    "flavor": "白骨怨灵生前的原型找到了！",
+    "health": 3,
+    "id": "YOD_032",
+    "name": "狂暴邪翼蝠",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在本回合中，你的对手每受到1点伤害，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56131,
+    "flavor": "谁想用战吼打击她，她就用枪打击谁。",
+    "health": 5,
+    "id": "YOD_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "持枪恶霸",
+    "rarity": "EPIC",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>下个回合敌方<b>战吼</b>牌的法力值消耗增加（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56135,
+    "elite": true,
+    "flavor": "拉法姆手下备受尊重的人力资源部门主管，不过团队成员都不是<i>人</i>。",
+    "health": 3,
+    "id": "YOD_035",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "高级跟班厄尔克",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在你使用一张<b>跟班</b>牌后，将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56307,
+    "elite": true,
+    "flavor": "他的下一个目标是天空元帅。",
+    "health": 3,
+    "id": "YOD_038",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "天空上将库拉格",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "QUEST",
+      "RUSH"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>嘲讽，战吼：</b>如果你在本局对战中使用过<b>任务</b>，则召唤一只4/2并具有<b>突袭</b>的鹦鹉。",
+    "type": "MINION"
+  }
+]

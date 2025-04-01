@@ -1,0 +1,193 @@
+[
+  {
+    "artist": "Greg Staples",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2576,
+    "flavor": "无敌破坏王！",
+    "health": 3,
+    "id": "AT_086",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "破坏者",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>下个回合敌方英雄技能的法力值消耗增加（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2491,
+    "flavor": "这位勇士师从高人，唯一没学好的就是如何选择目标。",
+    "health": 5,
+    "id": "AT_088",
+    "mechanics": [
+      "FORGETFUL"
+    ],
+    "name": "穆戈尔的勇士",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "50%几率攻击错误的敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2502,
+    "flavor": "不用担心。只要擦点护肤霜，他又会焕然一新的。",
+    "health": 4,
+    "id": "AT_105",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "受伤的克瓦迪尔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>对自身造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrea Uderzo",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2259,
+    "flavor": "恶魔说：“当我的邻居变得唠唠叨叨时，我第一个想到的是求助圣光勇士。”",
+    "health": 3,
+    "id": "AT_106",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "圣光勇士",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "TGT",
+    "targetingArrowText": "<b>沉默</b>一个恶魔。",
+    "text": "<b>战吼：</b>\n<b>沉默</b>一个恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edouard Guiton & Tony Washington",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2627,
+    "flavor": "骑着重甲战马去打仗，别提有多威风了。",
+    "health": 3,
+    "id": "AT_108",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "重甲战马",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则获得<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Zhang",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2505,
+    "flavor": "银色警卫负责监督，那么谁来监督他们呢？",
+    "health": 4,
+    "id": "AT_109",
+    "mechanics": [
+      "CANT_ATTACK",
+      "INSPIRE"
+    ],
+    "name": "银色警卫",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "无法攻击。\n<b>激励：</b>在本回合中可正常进行攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2585,
+    "flavor": "他每个月都会找角斗士来谈谈职业规划的问题。",
+    "health": 5,
+    "id": "AT_110",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "角斗场主管",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>激励：</b>将本随从移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Penny Arcade",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2507,
+    "flavor": "再爬几个月的天梯就能成为宗师级枪骑士了。",
+    "health": 6,
+    "id": "AT_112",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大师级枪骑士",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Howard Lyon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2581,
+    "flavor": "击剑也是有技巧的，不过兽人完全不在意这一点。",
+    "health": 2,
+    "id": "AT_115",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "击剑教头",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>你的下一个英雄技能的法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79748,
+    "flavor": "法夜的司法：以泉谋私。",
+    "id": "MAW_024",
+    "isMiniSet": true,
+    "name": "私法程序",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "NATURE",
+    "text": "在本局对战的剩余时间内，玩家会在其回合开始时额外抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77488,
+    "flavor": "雅座一位！",
+    "id": "MAW_026",
+    "isMiniSet": true,
+    "name": "监禁",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "选择一个随从。使其<b>休眠</b>3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 77562,
+    "flavor": "光照条件需要半阴。但实际生长靠的还是阳的那一半。",
+    "id": "REV_311",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "DISCOVER"
+    ],
+    "name": "夜影花蕾",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>从你的牌库中<b>发现</b>一张随从牌并召唤；或者一张法术牌并施放。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78202,
+    "flavor": "如果你反复见到大帝的雕像，那也不能说明你在兜圈子。因为大帝的雕像太多了。",
+    "health": 2,
+    "id": "REV_333",
+    "name": "树篱迷宫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "REVENDRETH",
+    "text": "触发一个友方随从的<b>亡语</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78261,
+    "flavor": "很精彩的谋划，可惜树漏得太多。",
+    "id": "REV_336",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "罪恶谋划",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "NATURE",
+    "text": "召唤两个2/2的树人。<b>注能（5）：</b>改为两个5/5的古树。",
+    "type": "SPELL"
+  }
+]

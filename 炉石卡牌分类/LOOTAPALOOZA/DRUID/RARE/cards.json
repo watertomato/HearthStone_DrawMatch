@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43288,
+    "flavor": "“古老森林中的精灵们用魔石抵抗恶魔的诅咒。阴影散去，但仇恨仍在，脆弱的灵魂遭到扭曲。精灵长出了角与蹄，他们的森林开始燃烧。”——《魔石》",
+    "id": "LOOT_051",
+    "name": "小型法术玉石",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$2点伤害。<i>（获得3点护甲值后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alexey Aparin",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 45835,
+    "flavor": "最喜欢的三明治是芝士熊肉。",
+    "health": 5,
+    "id": "LOOT_314",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "灰熊守护者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>嘲讽，亡语：</b><b>招募</b>两个法力值消耗小于或等于（4）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45945,
+    "flavor": "七只林精中最闪耀的一只。",
+    "health": 1,
+    "id": "LOOT_351",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "贪婪的林精",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>获得一个空的法力水晶。",
+    "type": "MINION"
+  }
+]

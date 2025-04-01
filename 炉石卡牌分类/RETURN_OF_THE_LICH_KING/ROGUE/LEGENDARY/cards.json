@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 86092,
+    "elite": true,
+    "flavor": "每当你施放一个法术，变形成为该法术卡牌趣文的复制。",
+    "hideStats": true,
+    "id": "RLK_567",
+    "name": "殒命暗影",
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "每当你施放一个法术，变形成为该法术的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86120,
+    "elite": true,
+    "flavor": "“好消息！各位！我现在是潜行者的牌了！”",
+    "health": 4,
+    "id": "RLK_572",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "药剂大师普崔塞德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在一个随从死亡后，将一份药剂置入你的手牌。",
+    "type": "MINION"
+  }
+]

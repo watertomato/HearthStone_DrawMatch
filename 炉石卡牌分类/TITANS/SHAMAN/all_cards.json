@@ -1,0 +1,274 @@
+[
+  {
+    "artist": "Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96077,
+    "flavor": "你要连闪电箭都能躲，还躲不过一个球吗？",
+    "id": "TTN_317",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "闪电反射",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张自然法术牌。如果你在本回合使用发现的牌，再<b>发现</b>一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97671,
+    "flavor": "流     潮",
+    "id": "TTN_722",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "潮流逆转",
+    "overload": 1,
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，使你的英雄获得+3攻击力。召唤一个3/3并具有<b>突袭</b>的元素。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97729,
+    "durability": 0,
+    "flavor": "随风而去吧，虫子！",
+    "health": 3,
+    "id": "TTN_725",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "雷霆之锤",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在你的英雄攻击后，对生命值最低的敌人造成3点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97738,
+    "flavor": "把你的孩子砸向敌人，即可获得年度最差母亲称号。",
+    "health": 6,
+    "id": "TTN_727",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "托林尼尔幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。每当本随从攻击时，召唤两条3/1的雏龙，并使其率先攻击目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96909,
+    "elite": true,
+    "flavor": "高戈奈斯统领天空与海洋，英勇无畏地运用着自然的力量，为万神殿效力。",
+    "health": 7,
+    "id": "TTN_800",
+    "mechanics": [
+      "AURA",
+      "TITAN"
+    ],
+    "name": "雷霆之神高戈奈斯",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n你每个回合使用的第一张法术牌的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. Zemskov & T. Shevtsov",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 96933,
+    "flavor": "受了不少委屈，想撒撒气。",
+    "health": 5,
+    "id": "TTN_801",
+    "mechanics": [
+      "FORGE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "风暴勇士",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "在你施放一个自然法术后，召唤一个4/2的元素。<b>锻造：</b>召唤的元素具有<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97354,
+    "flavor": "快闪……英雄阵亡！",
+    "id": "TTN_830",
+    "name": "须臾闪电",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌。下个回合，你的自然法术牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97355,
+    "flavor": "错误：雷电.exe已停止响应。",
+    "id": "TTN_831",
+    "name": "雷电崩鸣",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "对所有敌人造成$3点伤害。在本回合中，你每施放过一个自然法术，本牌的法力值消耗便减少\n（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97473,
+    "flavor": "警告：非石质生物请勿站在通电的水中。",
+    "health": 3,
+    "id": "TTN_833",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "高戈奈斯的信徒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "TITANS",
+    "text": "在你的回合结束时，随机使你手牌中一张<b>过载</b>牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97474,
+    "elite": true,
+    "flavor": "居于群山之中。",
+    "health": 4,
+    "id": "TTN_835",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风暴之王托里姆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>解锁你<b>过载</b>的法力水晶，抽取相同数量的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101097,
+    "flavor": "无面者的长度越短，横截面积越大，导电能力越好。",
+    "id": "YOG_522",
+    "isMiniSet": true,
+    "name": "电流导联",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，你的下一个法术还会以相邻的随从为目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101099,
+    "flavor": "看到了吧，西瓜籽不能吃到肚子里。",
+    "health": 4,
+    "id": "YOG_523",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "被寄生的看守者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>获取两张1/1的混乱触须。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101100,
+    "flavor": "青蛙当然会跳，有什么雷点吗？",
+    "health": 2,
+    "id": "YOG_524",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷电跳蛙",
+    "race": "BEAST",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机获取一张<b>过载</b>牌。",
+    "type": "MINION"
+  }
+]

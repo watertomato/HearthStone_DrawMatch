@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 115198,
+    "flavor": "等着瞧吧，只要你躺好了打算睡觉，它肯定就会绕着你的房子到处乱跑，发出巨大的噪音。",
+    "id": "EDR_820",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "飞龙之眠",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>召唤两个<b>休眠</b>的魔种；或者对所有随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114498,
+    "flavor": "一树在手，抵得二树在魇。",
+    "health": 5,
+    "id": "EDR_892",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "残暴的魔蝠",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>复活一个不同的法力值消耗大于或等于（5）点的友方<b>亡语</b>随从，并召唤一个它的复制。",
+    "type": "MINION"
+  }
+]

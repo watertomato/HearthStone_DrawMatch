@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115039,
+    "flavor": "腐烂到心里去了。都怪萨维斯！",
+    "health": 1,
+    "id": "EDR_485",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "腐心树妖",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>抽一张法力值消耗大于或等于（7）点的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 115215,
+    "flavor": "野生的林精麻痹了！不能睡觉！",
+    "id": "EDR_490",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "麻痹睡眠",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
+    "text": "<b>抉择：</b>召唤两个3/6并具有<b>嘲讽</b>且无法攻击的恶魔；或者消灭一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 118250,
+    "flavor": "拿我的园艺剪来。最大的那把。",
+    "health": 6,
+    "id": "EDR_654",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "疯长的恐魔",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>使你手牌中具有<b>黑暗之赐</b>的随从牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

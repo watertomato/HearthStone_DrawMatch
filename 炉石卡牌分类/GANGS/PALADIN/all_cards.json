@@ -1,0 +1,172 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 40295,
+    "flavor": "他的着装品味在污手党里可是数一数二的。",
+    "health": 6,
+    "id": "CFM_062",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "污手街守护者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "GANGS",
+    "text": "<b>嘲讽，战吼：</b>使相邻的随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40371,
+    "flavor": "加基森历史上发生过多次银行抢劫案，其中最有名的一次是鱼人干的，不得不说鱼人在违法犯罪上相较于其他种族有着与生俱来的天赋。",
+    "id": "CFM_305",
+    "name": "风驰电掣",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "使你手牌中的所有随从牌获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40469,
+    "flavor": "嘿，你的科多兽不能停在这里！罚你200金币！",
+    "health": 4,
+    "id": "CFM_639",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "污手街惩罚者",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "text": "在你的回合结束时，使你手牌中的所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40531,
+    "flavor": "把他们带到码头上，再丢到海里去，听明白了吗？",
+    "health": 1,
+    "id": "CFM_650",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗鳞劫掠者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>随机使你手牌中的一张鱼人牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40567,
+    "flavor": "如果你是杀价的高手，他还会把帽子也算进来送你。",
+    "health": 2,
+    "id": "CFM_753",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "污手街供货商",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Richie Marella",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40577,
+    "flavor": "所有赃物必须上缴给我，这是法律规定的！",
+    "health": 2,
+    "id": "CFM_759",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "海象人执法官",
+    "rarity": "EPIC",
+    "set": "GANGS",
+    "text": "<b>亡语：</b>如果本随从的攻击力大于或等于2，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rudy Siswanto",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40587,
+    "flavor": "留得青山在，不怕没架打！",
+    "id": "CFM_800",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "战术撤离",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "text": "<b>奥秘：</b>当一个友方随从死亡时，将其移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40636,
+    "elite": true,
+    "flavor": "燃鬃在污手党混迹多年，一直得不到重用。其中最主要的原因就是他开炮的速度太慢了，经常错过最佳时机。后来他把自己的胡子点着了，顺利得到了晋升。",
+    "health": 3,
+    "id": "CFM_815",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "燃鬃·自走炮",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>嘲讽</b>\n<b>吸血</b>。<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40634,
+    "flavor": "小家伙也能制造大麻烦。",
+    "id": "CFM_905",
+    "name": "三教九流",
+    "rarity": "EPIC",
+    "set": "GANGS",
+    "text": "从你的牌库中抽三张法力值消耗为（1）的随从牌。",
+    "type": "SPELL"
+  }
+]

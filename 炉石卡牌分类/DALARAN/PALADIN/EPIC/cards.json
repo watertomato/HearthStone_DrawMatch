@@ -1,0 +1,35 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 51761,
+    "flavor": "他的演讲听起来很冗余。",
+    "health": 5,
+    "id": "DAL_147",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙语者",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>使你手牌中的所有龙牌获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 52742,
+    "flavor": "我要中单，不给就送。",
+    "id": "DAL_731",
+    "name": "决斗",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "从每个玩家的牌库中各召唤一个随从，并使其互相\n攻击！",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "artist": "Gabor Szikszai",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 117308,
+    "flavor": "口气太差了，甚至<b>有毒</b>。",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_EDR_002",
+    "name": "毒性吐息",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "CORE",
+    "text": "使一个友方亡灵获得<b>剧毒</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 117395,
+    "flavor": "他更喜欢死板的录播，不喜欢鲜活的现场。",
+    "health": 4,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_ETC_523",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "死亡金属骑士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "CORE",
+    "text": "<b>嘲讽</b>。在本回合中，如果你的英雄受到治疗，本牌改为消耗生命值而非法力值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111334,
+    "flavor": "怎么了？反正这些身体他们再也用不上了。",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_RLK_035",
+    "name": "邪爆",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "CORE",
+    "spellSchool": "SHADOW",
+    "text": "引爆一份<b>残骸</b>，对所有随从造成$1点伤害。如果有随从存活，重复此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111327,
+    "flavor": "吧啦，吧啦吧啦！",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_RLK_051",
+    "name": "吸血鬼之血",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 3,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "CORE",
+    "text": "使你的英雄获得+5生命值。消耗3份<b>残骸</b>，多获得5点并抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dez Bencosme",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111320,
+    "flavor": "就让她来帮你！重塑！形体！",
+    "health": 3,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_RLK_066",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鲜血魔术师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "CORE",
+    "text": "<b>战吼：</b>消耗一份<b>残骸</b>，<b>发现</b>一张鲜血符文牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 78649,
+    "dbfId": 117027,
+    "flavor": "死亡本就是冰冷的，朋友……放松，躺好，别的什么都不用做。",
+    "health": 3,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_RLK_083",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "死亡寒冰",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "CORE",
+    "text": "在你施放一个法术后，随机对两个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 80085,
+    "dbfId": 117028,
+    "flavor": "感受这绝对的颤栗。",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_RLK_118",
+    "name": "坟墓守卫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "REBORN",
+      "TAUNT"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "CORE",
+    "spellSchool": "SHADOW",
+    "text": "召唤两个2/2并具有<b>嘲讽</b>的僵尸。消耗4份<b>残骸</b>，使其获得<b>复生</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 111323,
+    "flavor": "还能帮你补钙，足足1000毫克。",
+    "health": 5,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_RLK_505",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "髓骨使御者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "CORE",
+    "text": "<b>战吼：</b>消耗最多5份<b>残骸</b>。每消耗一份残骸，随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111321,
+    "flavor": "欢迎来到酒馆！本店有各种分馏饮品。没错，图上那种都有。",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "CORE_RLK_712",
+    "name": "活力分流",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "CORE",
+    "spellSchool": "SHADOW",
+    "text": "使你手牌中的所有随从牌获得+1/+1。消耗2份<b>残骸</b>，再获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78342,
+    "flavor": "用魔法来反魔法，你不觉得有点双标吗？",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得100场对战后解锁。",
+    "id": "RLK_048",
+    "name": "反魔法护罩",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ELUSIVE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "CORE",
+    "spellSchool": "SHADOW",
+    "text": "使你的所有随从获得+1/+1和<b>扰魔</b>。",
+    "type": "SPELL"
+  }
+]

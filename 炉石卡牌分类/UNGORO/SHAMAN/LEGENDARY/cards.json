@@ -1,0 +1,45 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41331,
+    "elite": true,
+    "flavor": "炼金术师认为只要将土、气、水、火四种元素结合在一起，就能产生第五元素。",
+    "health": 7,
+    "id": "UNG_211",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒蛮之主卡利莫斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则施放一个元素祈咒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41499,
+    "elite": true,
+    "flavor": "山上的朋友，树上的朋友，水里的朋友，请举起你们的双蹼！让正义的鱼人来拯救艾泽拉斯！",
+    "id": "UNG_942",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "鱼人总动员",
+    "questReward": "UNG_942t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>召唤8个鱼人。\n<b>奖励：</b>老鲨嘴。",
+    "type": "SPELL"
+  }
+]

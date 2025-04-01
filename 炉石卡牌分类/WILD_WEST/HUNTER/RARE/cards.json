@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102151,
+    "flavor": "一定是不小心才拼错的。",
+    "id": "DEEP_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "错位化石",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>发现</b>一张野兽牌和一张亡灵牌，交换其属性值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100173,
+    "flavor": "神秘奶牛关重见天日。",
+    "health": 3,
+    "id": "WW_809",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "骷髅牛",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>如果本随从的攻击力大于或等于4点，召唤一只骷髅牛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100174,
+    "flavor": "什么坐骑？我什么都没看到……",
+    "id": "WW_810",
+    "name": "迷彩坐骑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "使一个随从获得+3/+3和一项随机<b>额外效果</b>。当该随从死亡时，召唤一只变色龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101950,
+    "flavor": "又称十加仑牛仔帽。实际上它的容量只有四分之三加仑，但这样叫太难听了。",
+    "id": "WW_811",
+    "name": "宽檐高帽",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WILD_WEST",
+    "text": "抽一张随从牌。使其获得+1/+1和\n“<b>亡语：</b>获取一张宽檐高帽”。",
+    "type": "SPELL"
+  }
+]

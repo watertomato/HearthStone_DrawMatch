@@ -1,0 +1,255 @@
+[
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105546,
+    "elite": true,
+    "flavor": "请看您的左手边，这是我们大名鼎鼎的SPA区；而在您的右边，则是尤格-萨隆的监狱！",
+    "health": 5,
+    "id": "VAC_506",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巡游船长萝拉",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>随机召唤\n2个地标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105795,
+    "flavor": "从这张牌你就能看出这是一款虚构的游戏，因为图里没有葡萄干。",
+    "id": "VAC_508",
+    "name": "能量零食",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "仅在下回合，获得两个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105810,
+    "flavor": "翡翠梦境，变成翡翠般的现实。",
+    "health": 5,
+    "id": "VAC_511",
+    "name": "嗜睡巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>休眠</b>2回合。<b>休眠</b>状态下，在你的回合结束时召唤一条3/5并具有<b>嘲讽</b>的龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105891,
+    "flavor": "“你在哪？”“步道啊！”",
+    "health": 3,
+    "id": "VAC_517",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "远足步道",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>发现</b>一张<b>嘲讽</b>随从牌。在你获得护甲值后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105892,
+    "flavor": "托尔托拉！请在这次旅途中为我保存体力！",
+    "health": 5,
+    "id": "VAC_518",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "始祖龟旅行者",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>亡语：\n</b>抽一张其他<b>嘲讽</b>随从牌，其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105893,
+    "elite": true,
+    "flavor": "真名叫维斯特。",
+    "health": 5,
+    "id": "VAC_519",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "米斯塔·维斯塔",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>法师游客</b>\n<b>战吼：</b>3回合后，再次使用你在这三回合期间施放过的所有法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 105813,
+    "flavor": "三次？！接下来还有什么，四次吗？！",
+    "id": "VAC_907",
+    "name": "星夜露宿",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "ARCANE",
+    "text": "<b>选择三次：</b>抽两张牌；获得5点护甲值；或者复原三个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 107856,
+    "flavor": "它们这是聚众群饮……不过动物就该群饮啊。",
+    "id": "VAC_948",
+    "name": "补水区",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "复活你法力值消耗最高的三个不同的<b>嘲讽</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107891,
+    "flavor": "只有天在上，更无山与齐（但其实上限是99）。",
+    "id": "VAC_949",
+    "name": "攀上新高",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "将你的法力值上限提高3点，获得一个空的法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 107892,
+    "flavor": "森林里到处都是手杖，为什么还要花钱买？",
+    "health": 7,
+    "id": "VAC_950",
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "抱石伙伴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭。嘲讽</b>\n如果你拥有至少十个法力水晶，则法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110786,
+    "flavor": "我们的搬家双熊保证会把你的行李尽快送达。",
+    "id": "WORK_024",
+    "isMiniSet": true,
+    "name": "蛮熊搬家",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "获取两张3/3并具有<b>嘲讽</b>的熊，其每在你手牌中一回合便获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110789,
+    "flavor": "*倒吸凉气*原来数据真的能吃！“7把9食”的故事是真的！",
+    "health": 1,
+    "id": "WORK_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "数据分析狮",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b><b>突袭</b>。嘲讽</b>。<b>选择三次：</b>获得+2攻击力；或者+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110882,
+    "flavor": "这款安戈洛套餐包含始祖龟体验之旅！至于什么魔暴龙嘛，不必在意。",
+    "id": "WORK_050",
+    "isMiniSet": true,
+    "name": "安戈洛宣传单",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "抽两张随从牌，使其获得+2/+2。\n<i>（每回合翻面。）</i>",
+    "type": "SPELL"
+  }
+]

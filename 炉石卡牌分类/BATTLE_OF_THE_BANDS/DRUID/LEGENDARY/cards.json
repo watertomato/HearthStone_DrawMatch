@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "Max Grecke",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 94250,
+    "elite": true,
+    "flavor": "别看佐克每只手只有三根手指，他弹贝斯时就像长了五根一样。",
+    "health": 6,
+    "id": "ETC_386",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "佐克·雾鼻",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>召唤两个{0}/{1}并具有<b>嘲讽</b>的野猪人。<i>（随你的英雄本回合获得的攻击力和护甲值提升！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94251,
+    "elite": true,
+    "flavor": "佐克在新歌里描绘了他的寻根之旅。真正的根。树根。",
+    "id": "ETC_387",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "根音古韵",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "NATURE",
+    "text": "<b>秘密抉择：</b>2回合后召唤三棵5/5的古树；或者4回合后召唤三个8/8的巨人。",
+    "type": "SPELL"
+  }
+]

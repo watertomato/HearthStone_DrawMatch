@@ -1,0 +1,246 @@
+[
+  {
+    "artist": "Kevin Chen",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102636,
+    "flavor": "摆弄恶魔法术可是一件极其危险的事情。",
+    "id": "WON_093",
+    "name": "恶魔融合",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "SHADOW",
+    "text": "使一个恶魔获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jeff Haynie",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102638,
+    "flavor": "如果你想要构筑一套简单粗暴的套牌，这张牌就是很好的选择。",
+    "id": "WON_095",
+    "name": "暗色炸弹",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "SHADOW",
+    "text": "对一个角色造成$3点伤害。如果该角色死亡，抽一张暗影法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "George Davis",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102639,
+    "flavor": "快来瞧瞧这台空气净化器，它的功能如此强大，连你的灵魂都能净化！",
+    "health": 3,
+    "id": "WON_096",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "黑市摊贩",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：发现</b>一张\n法力值消耗为（1）的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102640,
+    "flavor": "不少夜色镇的居民相信只要戴上口罩就能有效预防传染，从而导致口罩价格迅速上涨。",
+    "id": "WON_097",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "狂乱传染",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "spellSchool": "SHADOW",
+    "text": "造成$13点伤害，随机分配到所有角色身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102641,
+    "flavor": "听说镀银魔像是由设计出侏儒军刀的神秘部门研发而成的。",
+    "health": 4,
+    "id": "WON_098",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "镀银魔像",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "如果你弃掉了这张随从牌，则会召唤它。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102642,
+    "flavor": "“别看我和我的坐骑个子小，我们坏起来可不比那些大块头们差。”",
+    "health": 2,
+    "id": "WON_099",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "小鬼骑士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "每当你弃掉一张牌时，便获得+2/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102643,
+    "flavor": "这是一个典型的“双输”案例。",
+    "id": "WON_100",
+    "name": "黑暗交易",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "spellSchool": "SHADOW",
+    "text": "随机消灭两个敌方随从，随机弃两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102646,
+    "flavor": "这个洞窟有多少年了？有好多黏！",
+    "health": 2,
+    "id": "WON_103",
+    "name": "维希度斯的窟穴",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "检视你手牌中的三张牌，选择一张弃掉。抽两张牌。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102647,
+    "flavor": "来自王室的传奇泡泡魔女。",
+    "health": 4,
+    "id": "WON_104",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚灵大盗的魔女",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>召唤一个1/3并具有<b>嘲讽</b>的虚空行者。如果你的对手拥有的随从更多，则重复召唤。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 102648,
+    "elite": true,
+    "flavor": "即便这么多年过去了，古尔丹还是会吩咐古加尔去准备咖啡和甜甜圈。",
+    "health": 8,
+    "id": "WON_105",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "古加尔",
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>将你在本局对战中弃掉的所有牌移回你的手牌，这些牌会消耗生命值而非法力值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103225,
+    "flavor": "自从有了好向导，妈妈再也不用担心我的灵魂会迷路了！",
+    "health": 5,
+    "id": "WON_322",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "渡魂者",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "每当一个随从死亡，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103226,
+    "flavor": "福无双至，祸不单行。",
+    "id": "WON_323",
+    "name": "末日灾祸",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "spellSchool": "SHADOW",
+    "text": "对一个角色造成$3点伤害。如果消灭该角色，随机召唤一个恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 9,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 103227,
+    "elite": true,
+    "flavor": "“只有能驾驭恶魔的人，才有资格成为一个术士”。斯匹克·菲兹把这段话刻在了自己的项链上。",
+    "health": 9,
+    "id": "WON_324",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "唤魔者克鲁尔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则召唤你手牌中的所有\n恶魔。",
+    "type": "MINION"
+  }
+]

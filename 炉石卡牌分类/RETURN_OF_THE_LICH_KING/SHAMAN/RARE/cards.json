@@ -1,0 +1,97 @@
+[
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86502,
+    "flavor": "做好寿司，冰鲜鱼人是关键。",
+    "health": 3,
+    "id": "NX2_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "霜鳍咀嚼者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>\n如果你在上个回合使用过元素牌，则召唤三个1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86505,
+    "flavor": "萨菲隆最爱的零食永远是冰棍。",
+    "id": "NX2_009",
+    "isMiniSet": true,
+    "name": "冰冷贮藏",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，将一张它的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 86150,
+    "flavor": "别换台！我就爱看这个。",
+    "id": "RLK_553",
+    "name": "先知先觉",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "抽两张随从牌。每有一张法力值消耗大于或等于（5）点的牌，召唤一个2/3并具有<b>嘲讽</b>的幽灵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84212,
+    "flavor": "发现弥漫性阴影，建议复查。",
+    "id": "RLK_910",
+    "name": "暗影弥漫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "使你的所有随从获得“<b>亡语：</b>随机对一个敌人造成3点伤害。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 84219,
+    "flavor": "达库鲁为什么要过马路？",
+    "id": "RLK_911",
+    "name": "彼界来客",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "召唤你手牌中每一个随从的复制。使其随机攻击敌方随从，然后死亡。",
+    "type": "SPELL"
+  }
+]

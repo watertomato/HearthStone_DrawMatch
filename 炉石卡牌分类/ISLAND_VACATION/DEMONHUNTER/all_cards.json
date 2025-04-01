@@ -1,0 +1,264 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105540,
+    "elite": true,
+    "flavor": "“我觉得你上岛完全只是为了玩滑索，阿兰娜。”",
+    "health": 6,
+    "id": "VAC_501",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "极限追逐者阿兰娜",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>牧师游客</b>\n你的英雄在你的回合中受到的伤害会转移给一个随机敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106582,
+    "flavor": "对着树丛跳？",
+    "id": "VAC_925",
+    "name": "伞降咒符",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，召唤两个1/1并具有<b>冲锋</b>的海盗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106583,
+    "flavor": "“这样稳妥吗？”“放心吧，后备海盗多着呢！”",
+    "id": "VAC_926",
+    "name": "高崖跳水",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "从你的牌库中召唤2个随从并使其获得<b>突袭</b>。在你的回合结束时，它们会返回牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106584,
+    "flavor": "摩托车，就是驮着恶魔的车。",
+    "health": 2,
+    "id": "VAC_927",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂飙邪魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在一个友方海盗攻击后，使你的英雄在\n本回合中获得\n+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106591,
+    "flavor": "我能在天上看见我的……手！！",
+    "id": "VAC_928",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "飞翼滑翔",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "双方玩家抽三张牌。<b>流放：</b>只有你抽牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106614,
+    "flavor": "并不像看上去那么危险……而是危险得多！",
+    "health": 3,
+    "id": "VAC_929",
+    "name": "惊险悬崖",
+    "rarity": "RARE",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "召唤两个1/1并具有<b>冲锋</b>的海盗。在你的英雄攻击后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106615,
+    "flavor": "四爪驱动，独立关节悬架，还有7法力的保修？在哪签字付款？",
+    "health": 8,
+    "id": "VAC_930",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "全地形虚空猎犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "每当本随从攻击时，使你的英雄在本回合中获得+5攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106616,
+    "flavor": "生————死",
+    "id": "VAC_931",
+    "name": "生死一线",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "选择一个随从。在本回合中，你的英雄从该随从处偷取4点攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106618,
+    "durability": 0,
+    "flavor": "“这看起来是个普通的抓钩，但实际上是个登山钩爪。你可能分不清楚，但这个区别很重要。”",
+    "health": 2,
+    "id": "VAC_932",
+    "name": "登山钩爪",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "当你控制着攻击力大于或等于5的随从时，不会失去耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106620,
+    "elite": true,
+    "flavor": "再也不怕第一回合抽到帕奇斯啦！",
+    "health": 1,
+    "id": "VAC_933",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "飞行员帕奇斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>将六张降落伞洗入你的牌库。当抽到降落伞时，召唤一个1/1并具有<b>冲锋</b>的海盗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110767,
+    "flavor": "燃烧军团加大了阿古斯分时度假业务的推销力度。",
+    "id": "WORK_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "恶魔交易",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从造成$4点伤害。将一张法力值消耗大于或等于（5）点的随机恶魔牌置于你的牌库顶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110768,
+    "flavor": "*捂脸*我想要的插画本来是一个幽灵在推车叫卖……",
+    "health": 6,
+    "id": "WORK_015",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "精魂商贩",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>亡语：</b>随机使你手牌中的一张随从牌的法力值消耗减少（6）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110769,
+    "durability": 0,
+    "flavor": "打扰一下，是你把我的订书机拿走了吧……",
+    "health": 3,
+    "id": "WORK_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狱火订书器",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你的英雄攻击后，对你的英雄造成3点伤害。",
+    "type": "WEAPON"
+  }
+]

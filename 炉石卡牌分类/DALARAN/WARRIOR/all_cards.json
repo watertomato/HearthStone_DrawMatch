@@ -1,0 +1,196 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 51372,
+    "flavor": "“哇哈哈！我们把金库炸飞了！”“你是说金库大门吗？”“呃，是炸门啊……”",
+    "id": "DAL_008",
+    "name": "砰砰博士的阴谋",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "获得1点护甲值。<i>（每回合都会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 51734,
+    "flavor": "一台空间撕裂器确定一个点，两台可以确定一个平面，三台就可以确定一个立体空间了！",
+    "id": "DAL_059",
+    "name": "空间撕裂器",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "召唤你的牌库中一个随从的两个复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 51735,
+    "flavor": "有些人拧着拧着就炸了。",
+    "health": 3,
+    "id": "DAL_060",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "发条地精",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>将一张“炸弹” 牌洗入你对手的牌库。当抽到“炸弹”时，便会受到5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 51737,
+    "flavor": "一扫倾人树，再扫倾人城。",
+    "id": "DAL_062",
+    "name": "横扫攻击",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "使一个随从获得\n“同时对其攻击目标相邻的随从造成伤害。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 51738,
+    "durability": 0,
+    "flavor": "谁能从工具箱中拔出这支扳手，谁就是实验室的合法主任。",
+    "health": 2,
+    "id": "DAL_063",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣剑扳手",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "在你的英雄攻击后，将一张“炸弹”牌洗入你对手的牌库。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 51739,
+    "elite": true,
+    "flavor": "给他一点添加剂，他可以飞越整片天空。",
+    "health": 7,
+    "id": "DAL_064",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "爆破之王砰砰",
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>你对手的牌库中每有一张“炸弹”牌，便召唤两个1/1的砰砰机器人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 52086,
+    "elite": true,
+    "flavor": "“吃我一斧！”",
+    "health": 9,
+    "id": "DAL_070",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "砰砰机甲",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>\n召唤一个你牌库中的随从的复制，并使其获得<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53104,
+    "flavor": "听到废钢的声音就激动。",
+    "health": 2,
+    "id": "DAL_759",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "凶恶的废钢猎犬",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "每当本随从造成伤害时，获得等量的\n护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53124,
+    "flavor": "“这是网瘾，是病，得治。”",
+    "id": "DAL_769",
+    "name": "提振士气",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "对一个随从造成$1点伤害。如果它依然存活，则将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53138,
+    "flavor": "阿尔法毁灭者力道不足，贝塔毁灭者功率太大。只有欧米茄毁灭者刚好合适！",
+    "health": 5,
+    "id": "DAL_770",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "欧米茄毁灭者",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "targetingArrowText": "造成10点伤害。",
+    "text": "<b>战吼：</b>如果你有十个法力水晶，对一个随从造成10点伤害。",
+    "type": "MINION"
+  }
+]

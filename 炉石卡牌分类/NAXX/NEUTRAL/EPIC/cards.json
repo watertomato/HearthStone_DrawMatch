@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Eric Browning",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1858,
+    "flavor": "分裂软泥怪……软泥怪……泥怪……怪……",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁制作。",
+    "id": "FP1_003",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "分裂软泥怪",
+    "rarity": "EPIC",
+    "set": "NAXX",
+    "text": "<b>战吼：</b>\n在回合结束时召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ittoku",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1784,
+    "flavor": "纳克萨玛斯这座浮空城那么大，我本以为它的影子也会很大。",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁制作。",
+    "id": "FP1_005",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "纳克萨玛斯之影",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "NAXX",
+    "text": "<b><b>潜行</b>。</b>在你的回合开始时，获得+1/+1。",
+    "type": "MINION"
+  }
+]

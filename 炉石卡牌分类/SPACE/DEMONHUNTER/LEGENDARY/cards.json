@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110908,
+    "elite": true,
+    "flavor": "在维伦的领导下，德莱尼选择逃离敌人，因为他们畏惧杀戮。而在蒂尔德拉的领导下，沃罗尼直面燃烧军团，因为他们渴望杀戮。",
+    "health": 4,
+    "id": "GDB_117",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "蒂尔德拉，反抗军头目",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SPACE",
+    "text": "<b>突袭</b>。<b>战吼：</b>\n将全部8种乘务员洗入你的牌库。<b>亡语：</b>抽取两张乘务员。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110923,
+    "elite": true,
+    "flavor": "为了贴合剧情设定，起初我们把他的属性值定成了50000000000/50000000000，但那实在是太超模了。",
+    "health": 5,
+    "id": "GDB_118",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "佐托斯，星辰毁灭者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>将两张星球牌从两侧置入你的手牌。当两颗星球相撞时，对所有敌人造成5点伤害。",
+    "type": "MINION"
+  }
+]

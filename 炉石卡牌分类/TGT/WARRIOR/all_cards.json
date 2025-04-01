@@ -1,0 +1,176 @@
+[
+  {
+    "artist": "Dany Orizio",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2729,
+    "flavor": "需要付出多少的努力和汗水，才能挥出如此漂亮的一击。",
+    "id": "AT_064",
+    "name": "怒袭",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "造成$3点伤害。获得3点\n护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Michael Franchina",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2756,
+    "durability": 0,
+    "flavor": "国王护卫者是把剑，而国王暗杀者是块盾，有趣吧？",
+    "health": 2,
+    "id": "AT_065",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "国王护卫者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你控制任何具有<b>嘲讽</b>的随从，便获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2711,
+    "flavor": "“三个兽人里，有四个的数学是食人魔教的。”——愤怒的祖格",
+    "health": 3,
+    "id": "AT_066",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "奥格瑞玛狼骑士",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>激励：</b>使你的武器获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2753,
+    "flavor": "猛犸人体格健硕，攻击起来大开大合，凌厉无比。",
+    "health": 3,
+    "id": "AT_067",
+    "name": "猛犸人头领",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mishi McCaig",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2754,
+    "flavor": "最好的进攻就是防守。",
+    "id": "AT_068",
+    "name": "加固",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "使你具有<b>嘲讽</b>的随从获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2733,
+    "flavor": "你来打我呀。",
+    "health": 2,
+    "id": "AT_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "格斗陪练师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "targetingArrowText": "获得<b>嘲讽</b>。",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b>使一个随从获得<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Zaqumyennyy",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2758,
+    "flavor": "“在她身上多装点刺。不，多装点刺。这四个字就这么难理解吗？快照我说的去做！”——阿莱克丝塔萨",
+    "health": 3,
+    "id": "AT_071",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿莱克丝塔萨的勇士",
+    "rarity": "RARE",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1攻击力和<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wei Wang",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 2760,
+    "elite": true,
+    "flavor": "联盟的统治者！安度因的父亲！同时他还喜欢玩竞技模式，场均12胜。",
+    "health": 7,
+    "id": "AT_072",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦里安·乌瑞恩",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>战吼：</b>抽三张牌。将抽到的随从牌直接置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2723,
+    "flavor": "虽然名为破海者，但海底会成为他们的最终归宿。",
+    "health": 7,
+    "id": "AT_130",
+    "name": "破海者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "当你抽到该牌时，对你的随从造成\n1点伤害。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61587,
+    "elite": true,
+    "flavor": "在暗月马戏团按月发行的《暗月月刊》中被评为“最愚的套牌”。",
+    "id": "DMF_108",
+    "name": "愚人套牌",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "将你牌库中的法术牌变形成为法力值消耗增加（3）点的法术牌。<i>（保留其原始法力值消耗。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61589,
+    "elite": true,
+    "flavor": "我们之间不存在秘密……更不存在退款这种事。",
+    "health": 5,
+    "id": "DMF_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗月先知塞格",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>抽1张牌。<i>（在本局对战中，每触发一个友方<b>奥秘</b>都会升级！）</i>",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 0,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103144,
+    "flavor": "究竟是先有穆克拉，还是先有蛋？",
+    "health": 3,
+    "id": "TOY_351",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE"
+    ],
+    "name": "神秘的蛋",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>亡语：</b>获取你牌库中一张随机野兽牌的一张复制，其法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103154,
+    "flavor": "这片场地爆吠了。",
+    "id": "TOY_354",
+    "name": "遥控狂潮",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "召唤六只1/1的猎犬。每有一只放不下的猎犬，使其余猎犬获得+1/+1。",
+    "type": "SPELL"
+  }
+]

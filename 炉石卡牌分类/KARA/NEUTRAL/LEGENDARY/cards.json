@@ -1,0 +1,122 @@
+[
+  {
+    "artist": "Sean McNally",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39453,
+    "elite": true,
+    "flavor": "虽然莫罗斯管理着卡拉赞众多的家仆，但给气球充气这种活还得他自己来干。",
+    "health": 1,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_044",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫罗斯",
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>潜行</b>\n在你的回合结束时，召唤一个1/1的\n家仆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wei Wang",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39225,
+    "elite": true,
+    "flavor": "年久失修的馆长，脾气也变得十分古怪。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_061",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "馆长",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>嘲讽，战吼：</b>从你的牌库中抽一张野兽牌、龙牌和鱼人牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joe Madureira & Grace Liu",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39840,
+    "elite": true,
+    "flavor": "玛克扎尔在一次淘旧货时买到了血吼。但是当他发现这把传奇武器是赝品时，气得把整个旧货市场都送进了扭曲虚空。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_096",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "玛克扎尔王子",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>对战开始时：</b>额外将五张<b>传说</b>随从牌置入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 39841,
+    "elite": true,
+    "flavor": "麦迪文为了让自己的派对更热闹，便联络古尔丹，打开了黑暗之门……",
+    "health": 7,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_097",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "守护者麦迪文",
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>战吼：</b>\n装备埃提耶什，守护者的传说之杖。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39941,
+    "elite": true,
+    "flavor": "他之前能扮演任何角色，直到莫罗斯没收了他的欺诈宝珠。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_114",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巴内斯",
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机挑选你牌库里的一个随从，召唤一个1/1的复制。",
+    "type": "MINION"
+  }
+]

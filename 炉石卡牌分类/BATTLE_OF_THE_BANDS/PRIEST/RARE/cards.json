@@ -1,0 +1,108 @@
+[
+  {
+    "artist": "Jason Kang",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90366,
+    "flavor": "在音乐中故意使用失真特效的话，你就会引来数百只壁虎。原因未知。",
+    "id": "ETC_305",
+    "name": "暗弦术：改",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得-5/-5。如果该随从拥有0点攻击力，将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 90683,
+    "flavor": "“陪你去看流星落在这地球上！”——德莱尼流行歌",
+    "id": "ETC_314",
+    "name": "悦耳流行歌",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "对所有随从造成$3点伤害。召唤一个6/6的流行歌星。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90952,
+    "flavor": "帕兹是“毒花少年”唯一能在水下演唱的成员，曾在辛艾萨莉巡演中力挽狂澜。",
+    "health": 2,
+    "id": "ETC_332",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "梦中男神",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>为所有其他友方随从恢复#3点生命值。每有一个被<b>过量治疗</b>，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95825,
+    "flavor": "正在开发XX传说扩展包：史诗音乐节。",
+    "health": 3,
+    "id": "JAM_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盗版海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>获取你对手牌库顶的一张\n牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95394,
+    "flavor": "说了这么多年……结果就这么大一点！",
+    "id": "JAM_025",
+    "isMiniSet": true,
+    "name": "漏斗蛋糕",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "为一个随从及其相邻随从恢复#3点生命值。每有一个随从受到<b>过量治疗</b>，便复原一个法力水晶。",
+    "type": "SPELL"
+  }
+]

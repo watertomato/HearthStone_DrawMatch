@@ -1,0 +1,17 @@
+[
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102538,
+    "flavor": "在流沙之战后，塞纳里奥要塞变成了一座战略前哨站，时刻提防克苏恩的大军卷土重来。",
+    "health": 2,
+    "id": "WON_015",
+    "name": "塞纳里奥要塞",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "在本回合中，你的下一张<b>抉择</b>牌同时拥有两种效果。",
+    "type": "LOCATION"
+  }
+]

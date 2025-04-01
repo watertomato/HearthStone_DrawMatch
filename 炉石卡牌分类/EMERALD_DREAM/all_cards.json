@@ -1,0 +1,3045 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 113321,
+    "elite": true,
+    "flavor": "原名耶瑟拉，好耶的耶。",
+    "hasDiamondSkin": true,
+    "health": 12,
+    "howToEarn": "完成起始任务后解锁。",
+    "id": "EDR_000",
+    "mechanics": [
+      "BATTLECRY",
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "伊瑟拉，翡翠守护巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>对战开始时：</b>双方玩家的法力值上限提高5点。<b>战吼：</b>获得3个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113328,
+    "flavor": "“希望这条小龙长大之后不要吃掉我。”",
+    "health": 3,
+    "id": "EDR_001",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "满怀希望的树妖",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>随机获取一张梦境牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 113371,
+    "flavor": "至少卡牌边框是茏葱的绿色。",
+    "health": 7,
+    "id": "EDR_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "茏葱梦刃豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果本牌的法力值消耗小于或等于（3）点，随机攻击两个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 113434,
+    "elite": true,
+    "flavor": "欧恩哈拉的风之力深受牛头人和半人马的崇拜，惠泽甚广，延续至今。",
+    "health": 11,
+    "id": "EDR_031",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "欧恩哈拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，使用你牌库顶的3张牌。",
+    "type": "MINION"
+  },
+  {
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110889,
+    "flavor": "防御坚如磐石。",
+    "id": "EDR_060",
+    "name": "大地庇护",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "获得5点护甲值。随机召唤一个法力值消耗为（5）的随从并使其获得<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Allan Arello",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 113822,
+    "flavor": "他太坏了，你看你都快红温了。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_102",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "狡诈拷问者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张具有<b>黑暗之赐</b>的<b>传说</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113973,
+    "flavor": "这才叫疯狂！",
+    "health": 2,
+    "howToEarn": "前往商店以获得该奖励。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "EDR_105",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "疯狂生物",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>发现</b>一张具有<b>黑暗之赐</b>的法力值消耗为（3）的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 115652,
+    "flavor": "不世出的大孢牙。",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_110",
+    "mechanics": [
+      "DEATHRATTLE",
+      "POISONOUS"
+    ],
+    "name": "孢子尖牙怪",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>剧毒</b>。<b>亡语：</b>随机对一个敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 113588,
+    "elite": true,
+    "flavor": "是他亲手选择了玛法里奥而非伊利丹，使之成为第一个德鲁伊。此后便有了无休无止的兄弟相争。",
+    "health": 8,
+    "id": "EDR_209",
+    "name": "森林之王塞纳留斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>选择三次：</b>使你的其他随从获得+1/+3；或者召唤一棵5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114018,
+    "flavor": "“你好呀小家伙！多吃点绿色食品吧，对身体好哦！”",
+    "health": 2,
+    "id": "EDR_226",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奇异训犬师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>\n抽一张野兽牌。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114020,
+    "flavor": "所谓物以类聚，那么幽爪熊该和谁一起冬眠？",
+    "health": 2,
+    "id": "EDR_227",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "幽爪熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>突袭</b>。<b>亡语：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114280,
+    "flavor": "我知道谁能解决这种魔法豆蔓。那可是个行家。",
+    "health": 4,
+    "id": "EDR_230",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "豆蔓蛮兵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>使你牌库中最上方的3张随从牌获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114367,
+    "flavor": "当你需要拥抱的时候，就用这张牌。当你需要灌注英雄技能的时候也可以。",
+    "id": "EDR_231",
+    "name": "守护巨龙之拥",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "恢复#4点生命值。<b>灌注</b>你的英雄技能。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 114357,
+    "flavor": "“不和你说了，茱莉亚，萨特飞过去了。”",
+    "id": "EDR_232",
+    "name": "台风",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "将每个随从\n洗入随机玩家\n的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114369,
+    "flavor": "……或者十六头牛。",
+    "id": "EDR_233",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "森林之灵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤三只2/3并具有<b>嘲讽</b>的狼；或者召唤两只4/3并具有<b>风怒</b>的猎鹰。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114281,
+    "flavor": "<b>过厚：</b>（2）",
+    "id": "EDR_234",
+    "name": "翡翠厚赠",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "抽两张牌。你无法在2回合内使用这些牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 114284,
+    "elite": true,
+    "flavor": "绿龙军团并非伊家之天下，向来是能者居首。",
+    "health": 4,
+    "id": "EDR_238",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "麦琳瑟拉",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>复活所有\n法力值消耗大于或等于（8）点的不同的友方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114511,
+    "flavor": "为什么龙族擅长后期对战？因为龙鳞特别厚！",
+    "id": "EDR_251",
+    "name": "龙鳞军备",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "HOLY",
+    "text": "抽取你套牌中和套牌之外的法术牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114630,
+    "flavor": "乌索尔到此一游",
+    "id": "EDR_252",
+    "name": "乌索尔印记",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "选择一个随从。如果是敌方随从，将其属性值变为1/1；如果是友方随从，改为将其属性值变为3/3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114632,
+    "durability": 0,
+    "flavor": "巧熊难挥五米之槌。",
+    "health": 2,
+    "id": "EDR_253",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨熊之槌",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "在你的英雄攻击后，抽取你\n法力值消耗最高的牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Drew Hill",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114533,
+    "flavor": "你的法术肯定能掀起不小的风浪！",
+    "health": 4,
+    "id": "EDR_254",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "活化月亮井",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你施放一个法术后，获得等同于其法力值消耗的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & I. Campelo da Silva",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114543,
+    "flavor": "我是凤凰大帝！！！",
+    "id": "EDR_255",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "复苏烈焰",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>吸血</b>。对生命值最低的敌人造成$5点伤害，触发两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & I. Campelo da Silva",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 116674,
+    "flavor": "这是高级的捕梦术。",
+    "health": 4,
+    "id": "EDR_256",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "梦境卫士",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的牌库中有对战开始时不在牌库中的牌，则抽取其中的一张并获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 116667,
+    "flavor": "修理一处光源需要多少位圣光抚愈者？",
+    "health": 3,
+    "id": "EDR_257",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "TAUNT"
+    ],
+    "name": "圣光抚愈者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b><b>嘲讽</b>。</b><b>抉择：</b>\n获得+3攻击力和<b>圣盾</b>；或者获得+3生命值和<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114544,
+    "elite": true,
+    "flavor": "托雷斯深谙无敌炉石的精髓。",
+    "health": 4,
+    "id": "EDR_258",
+    "mechanics": [
+      "AURA",
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "坚韧的托雷斯",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>圣盾</b>。<b>嘲讽</b>\n你的<b><b>圣盾</b></b>承受三次伤害才会破灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 9,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 114868,
+    "elite": true,
+    "flavor": "乌索克的孪生兄弟。他们曾经密不可分。直到后来，死亡腐化了乌索克的灵魂，然而乌索尔的灵魂平和如初。",
+    "health": 7,
+    "id": "EDR_259",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乌索尔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>将你手牌中法力值消耗最高的法术变为持续3回合的光环并施放。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114884,
+    "flavor": "“什么幻影——没人欢迎你！灭哈哈哈！”——梦魇之王萨维斯",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_260",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "幻影绿翼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>\n将两张<b>抽到时召唤</b>的4/5并具有<b>嘲讽</b>的龙洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Danny Beck",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115052,
+    "flavor": "看准了再跳。",
+    "id": "EDR_261",
+    "name": "两栖之灵",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "使一个随从获得+2/+2和“<b>亡语：</b>使一个友方随从获得+2/+2以及此<b>亡语</b>。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & T. Shevtsov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 115055,
+    "flavor": "我是绑的。灵魂·绑的。",
+    "id": "EDR_262",
+    "name": "灵魂联结",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$3点伤害。如果消灭该随从，召唤一只3/2并具有<b>突袭</b>的狼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115058,
+    "flavor": "好好看，好好学！",
+    "id": "EDR_263",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "巨狼的恩赐",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>对敌方英雄造成$4点伤害；或者召唤两只3/2并具有<b>突袭</b>的狼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116675,
+    "flavor": "“收紧队形！箭越来越密了！”",
+    "id": "EDR_264",
+    "name": "圣光护盾",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT",
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "HOLY",
+    "text": "随机召唤一个法力值消耗为（1）的随从并使其获得<b>嘲讽</b>。<b>灌注</b>你的英雄技能。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Drew Hill",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115080,
+    "flavor": "别傻了，图里根本没有丰裕之角。",
+    "id": "EDR_270",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "丰裕之角",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张自然法术牌，其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 115809,
+    "flavor": "无限自然法术bug。",
+    "health": 6,
+    "id": "EDR_271",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "林地塑型者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "在你施放一个自然法术后，召唤一个2/2并具有“<b>亡语：</b>获取该法术的一张复制”的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 115873,
+    "flavor": "非常青雄鹿拥有激怒，超杀，以及荣誉消灭。",
+    "health": 7,
+    "id": "EDR_272",
+    "mechanics": [
+      "ELUSIVE",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "常青雄鹿",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>扰魔</b>。<b>吸血</b>。<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115876,
+    "flavor": "这就是生命的循环。",
+    "id": "EDR_273",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "共生术",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张另一职业的<b>抉择</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113568,
+    "durability": 0,
+    "flavor": "催眠专家推荐神器。",
+    "health": 2,
+    "id": "EDR_416",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "牧人之杖",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "在你的英雄\n攻击后，召唤一只3/3并<b>休眠</b>2回合的羊。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 113606,
+    "elite": true,
+    "flavor": "在上古之战中，他高深的智识未能幸免，遭受了恶魔邪能魔法的侵蚀。但艾露恩赐予他的祝福尚有遗存。",
+    "health": 12,
+    "id": "EDR_421",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH",
+      "WINDFURY"
+    ],
+    "name": "年兽",
+    "race": "BEAST",
+    "races": [
+      "DEMON",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>突袭</b>。<b>风怒</b>\n<b>亡语：</b>对所有敌人造成1点伤害。<i>（在本随从攻击后提升！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>\n如果在本局对战中已有20个友方随从死亡，造成20点伤害，随机分配到所有敌人身上。",
+    "cost": 8,
+    "dbfId": 113700,
+    "elite": true,
+    "flavor": "对于凡界众生而言，精灵之母神秘非凡；但对伊瑟拉来说，她只是亲密的朋友与伙伴。",
+    "health": 8,
+    "id": "EDR_430",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾森娜",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>\n如果在本局对战中已有20个友方随从死亡，造成20点伤害，随机分配到所有敌人身上。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114080,
+    "flavor": "我年轻的时候，好友请求都是这样发的。",
+    "health": 1,
+    "id": "EDR_449",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "月翼信使",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>吸血</b>。<b>战吼：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114081,
+    "flavor": "是金子总会……花光的。",
+    "health": 4,
+    "id": "EDR_451",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "金萼幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼，亡语：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 114213,
+    "flavor": "它棘了！棘嗣了！",
+    "health": 7,
+    "id": "EDR_453",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "棘嗣幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，随机攻击一个敌方随从<i>（超过目标生命值的伤害会命中敌方英雄）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114215,
+    "flavor": "这些蛋没有黄！",
+    "health": 2,
+    "id": "EDR_454",
+    "name": "腐蚀之巢",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "选择一条友方的龙。召唤一枚0/2的可以孵化成所选龙的复制的龙蛋。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & I. Campelo da Silva",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114217,
+    "flavor": "你疯了吗兄弟？",
+    "id": "EDR_455",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "屈从疯狂",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>发现</b>一条在本局对战中死亡的友方的龙，并再次召唤它。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114218,
+    "flavor": "早在腐蚀还没有蔓延到翡翠梦境的时候，他的名字叫做：骑士。",
+    "health": 1,
+    "id": "EDR_456",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "黑暗的龙骑士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，<b>发现</b>一张具有<b>黑暗之赐</b>的龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114219,
+    "flavor": "不入龙穴，焉得招惹守护者！",
+    "health": 3,
+    "id": "EDR_457",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙巢守护者",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，装备一把2/2的剑。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114243,
+    "flavor": "不经历痛苦，就不……痛！",
+    "health": 6,
+    "id": "EDR_459",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "受难的毁灭者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>对所有其他友方随从造成3点伤害。<b>亡语：</b>对所有敌方随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114299,
+    "flavor": "对着星星祈愿，那是上个扩展包的事了。",
+    "id": "EDR_460",
+    "name": "新月祈愿",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从\n造成$6点伤害。\n<i>（施放3个法术\n以获得<b>吸血</b>。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114300,
+    "flavor": "这种仪式没有任何作用。只有社交功能。",
+    "id": "EDR_461",
+    "name": "新月仪式",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "随机召唤两个法力值消耗为（3）的随从。<i>（施放3个法术以改为召唤法力值消耗为6的随从。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114308,
+    "flavor": "这张牌的攻击力本该是现在的几千倍吧？",
+    "health": 6,
+    "id": "EDR_462",
+    "mechanics": [
+      "ELUSIVE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "逐月幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>扰魔</b>。在你的回合结束时，随机获取一张龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114310,
+    "flavor": "“一定……要读……吸血鬼小说……”",
+    "id": "EDR_463",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "暮光侵扰",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
+    "text": "<b>抉择：</b>消灭一个攻击力小于或等于3的随从；或者随机召唤一个法力值消耗为（2）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114326,
+    "elite": true,
+    "flavor": "身为高阶月之女祭司，泰兰德曾亲往翡翠梦境去寻找玛法里奥。在发现了萨维斯的梦魇之后，她决心挫败试图腐蚀梦境的势力。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "EDR_464",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泰兰德",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>\n你使用的下三张法术牌会施放两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114340,
+    "elite": true,
+    "flavor": "伊森德雷流尽了一生的泪。",
+    "health": 5,
+    "id": "EDR_465",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "伊森德雷",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>在本局对战中伊森德雷每死亡过一次，随机召唤一条龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 116293,
+    "flavor": "可以半熟，也可以全熟。",
+    "health": 5,
+    "id": "EDR_468",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "捣蛋狂魔",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "targetingArrowText": "造成1点伤害。",
+    "text": "<b>战吼：</b>对一个随从造成1点伤害，并使其获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Felideus Bubastis",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114344,
+    "flavor": "小心，他睡醒的时候有可能又喊又叫又打人。",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_469",
+    "name": "沉睡的林精",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "起始<b>休眠</b>状态。在你使用你的英雄技能后唤醒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114346,
+    "flavor": "盾器也可以是利器。",
+    "health": 2,
+    "id": "EDR_470",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "树皮盾哨兵",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。在你使用你的英雄技能后，获得+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 114353,
+    "elite": true,
+    "flavor": "托尔托拉在燃烧军团的入侵中毫发无损，但梦魇的腐蚀却深深地穿透了他的防备。",
+    "health": 30,
+    "id": "EDR_471",
+    "mechanics": [
+      "ELUSIVE",
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "托尔托拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>\n在本随从受到伤害后，获得1点护甲值并使本随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114373,
+    "flavor": "健身课程中的噩梦。",
+    "health": 3,
+    "id": "EDR_472",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "轮回编织者",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，则造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114627,
+    "flavor": "井底月是天上月，水边人为梦中人。",
+    "id": "EDR_476",
+    "name": "月亮井",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "对所有敌方\n角色造成$4点伤害。为所有友方角色恢复#4点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 114920,
+    "flavor": "你以为这是翡翠梦魇的产物吗，那你可就错了。",
+    "health": 6,
+    "id": "EDR_477",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "明根捕食花",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。在本局对战中，你每使用一次英雄技能，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 9,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 114254,
+    "elite": true,
+    "flavor": "以勇猛果决而闻名于世，且拥有的名号众多，其中包括洛戈什，还有巨狼。",
+    "health": 9,
+    "id": "EDR_480",
+    "mechanics": [
+      "AURA",
+      "RUSH"
+    ],
+    "name": "戈德林",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>突袭</b>。友方野兽造成的伤害翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114298,
+    "flavor": "眼见为实：这确实是符文熊。",
+    "health": 4,
+    "id": "EDR_481",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "神秘符文熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果本随从的攻击力大于或等于4点，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115025,
+    "flavor": "树犹如此，果何以堪。",
+    "id": "EDR_482",
+    "name": "烂苹果",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "为你的英雄恢复#12点生命值。在下2个回合中，每回合对你的英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115033,
+    "flavor": "看呐，术士需要付出怎样的代价，才能模仿出我们力量的一小部分。",
+    "id": "EDR_483",
+    "name": "破碎之力",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "摧毁你的一个法力水晶。2回合后，获得两个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 115037,
+    "flavor": "草无夜蚂不肥。",
+    "health": 7,
+    "id": "EDR_484",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "食腐捕蝇草",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "在一个随从死亡后，获得其攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115039,
+    "flavor": "腐烂到心里去了。都怪萨维斯！",
+    "health": 1,
+    "id": "EDR_485",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "腐心树妖",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>抽一张法力值消耗大于或等于（7）点的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefano Spagnuolo",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 115041,
+    "flavor": "你只有一只眼睛，发脾气我们都能理解。但这也不是你烧掉整个翡翠梦境的借口。",
+    "health": 9,
+    "id": "EDR_486",
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "name": "纵火眼魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>突袭</b>。<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 115044,
+    "elite": true,
+    "flavor": "心智可乱，发型不能乱。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "EDR_487",
+    "name": "瓦洛，污邪古树",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "当本牌在你的手牌或牌库中时，会获得你的随从获得的每项<b>黑暗之赐</b>的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115086,
+    "flavor": "传统的园艺太土了。",
+    "id": "EDR_488",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "前卫园艺",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>发现</b>一张具有<b>黑暗之赐</b>的<b>亡语</b>随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 115203,
+    "elite": true,
+    "flavor": "他虽在上古之战中身殒，但他的遗泽留在了艾泽拉斯，滋养着崇拜他的野猪人各部。",
+    "health": 9,
+    "id": "EDR_489",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿迦玛甘",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>你使用的下一张牌会消耗<b>对手</b>的生命值而非法力值<i>（最高不超过10点）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 115215,
+    "flavor": "野生的林精麻痹了！不能睡觉！",
+    "id": "EDR_490",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "麻痹睡眠",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
+    "text": "<b>抉择：</b>召唤两个3/6并具有<b>嘲讽</b>且无法攻击的恶魔；或者消灭一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115307,
+    "flavor": "他这个“大”字是自己挣来的！",
+    "health": 2,
+    "id": "EDR_491",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荆棘大德鲁伊",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>获得在本回合中死亡的你的随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115365,
+    "flavor": "还会召唤一只0/0的丑小鸭。",
+    "health": 3,
+    "id": "EDR_492",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鸭妈妈",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>召唤三只1/1并具有<b>突袭</b>的小鸭子。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 115928,
+    "elite": true,
+    "flavor": "看，是小鸟！看，是飞机！看，是大熊！看，是魔犬！看，是末日守卫！看，是小鬼！",
+    "health": 5,
+    "id": "EDR_493",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿莱纳希",
+    "race": "BEAST",
+    "races": [
+      "DEMON",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>随机使你手牌中的所有随从牌变形成为恶魔牌。<i>（保留其原始属性值和法力值消耗。）</I>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 117498,
+    "flavor": "园艺界的恐怖元素。",
+    "health": 7,
+    "id": "EDR_494",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "饥饿古树",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，吞食一个你的牌库中的随从，并获得其属性值。<b>亡语：</b>将被吞食的随从置入手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115027,
+    "flavor": "扭曲的树木：玷污湖水，诅咒这片土地！",
+    "health": 2,
+    "id": "EDR_495",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "扭曲的树人",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>使每个玩家手牌中的随机一张随从牌获得-2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114287,
+    "elite": true,
+    "flavor": "“萨齐哪儿去了？你们看到萨齐了吗？”——哈斯",
+    "health": 4,
+    "id": "EDR_517",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "亢祖",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。你可以选择保留该牌，或者将其置于你对手的牌库顶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114289,
+    "flavor": "原野岩，天光，园林，接下来还有什么？",
+    "health": 3,
+    "id": "EDR_518",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体园林",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>灌注</b>你的英雄技能。使你手牌中一张随从牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114292,
+    "flavor": "“灵魂带我飞。”",
+    "health": 4,
+    "id": "EDR_519",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "小精灵驾驭者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>灌注</b>并触发你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114293,
+    "flavor": "越不让我用我越要用。",
+    "health": 3,
+    "id": "EDR_520",
+    "name": "禁忌神龛",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "消耗你所有的法力值，随机施放一个法力值消耗相同的法术。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114505,
+    "flavor": "愚蠢的萨特，这种狡猾的把戏骗骗雏龙还可以！",
+    "health": 3,
+    "id": "EDR_521",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狡猾的萨特",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>获取你对手手牌中法力值消耗最低的牌的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114508,
+    "flavor": "“别再学我了！”“憋在血窝了！”",
+    "id": "EDR_522",
+    "name": "拟态",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "你的对手\n抽两张牌，你获取其复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114510,
+    "flavor": "你落入了谎言织成的网！",
+    "id": "EDR_523",
+    "name": "欺诈之网",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "将一个友方随从移回你的手牌以召唤一只4/4并具有<b>潜行</b>的蜘蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114514,
+    "flavor": "“抓到芬杰了吗？”“抽鱼抽到喽。”",
+    "health": 5,
+    "id": "EDR_524",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "影蔽袭击者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你的手牌中有一张与对手相同的牌，将对手的该牌洗入其牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114517,
+    "durability": 0,
+    "flavor": "附赠一包创可贴。",
+    "health": 3,
+    "id": "EDR_525",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "倒刺荆棘",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "POISONOUS"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>获得在本回合中的<b>剧毒</b>；或者获得“<b>亡语：</b>对所有敌人造成2点伤害。”",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114518,
+    "elite": true,
+    "flavor": "去吧，蛛丝！",
+    "health": 3,
+    "id": "EDR_526",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷弗拉尔，恶念巨蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>随机使你对手手牌中的1张牌困住一回合。\n<i>（你每使用过一次本随从都会提升。）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 7,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 114527,
+    "elite": true,
+    "flavor": "早在上古时代，阿莎曼牺牲了自己，从军团手中拯救了暗夜精灵。她的名字至今仍在精灵一族中广为传颂。",
+    "health": 7,
+    "id": "EDR_527",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿莎曼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>用你对手牌库中牌的复制填满你的手牌，其法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115088,
+    "flavor": "所有的“但不能少于（1）点”全都被换成了“但不能多于（1）点”。",
+    "id": "EDR_528",
+    "mechanics": [
+      "COMBO",
+      "DISCOVER"
+    ],
+    "name": "梦魇供能",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "从你对手的牌库中<b>发现</b>一张随从牌的复制。<b>连击：</b>并使其具有<b>黑暗之赐</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115295,
+    "flavor": "“长大之后，我要变成死亡之翼！”",
+    "health": 2,
+    "id": "EDR_529",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "胆大的魔荚人",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "如果本随从即将变形成为某随从，则会变形成为法力值消耗增加（2）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115364,
+    "flavor": "做你的白日梦去吧。",
+    "health": 4,
+    "id": "EDR_530",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "痴梦树精",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，随机获取一张自然法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116684,
+    "flavor": "不了，谢谢。这个都归你，兄弟。",
+    "id": "EDR_531",
+    "name": "虹吸生长",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "消灭一个友方随从以获得8点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115612,
+    "flavor": "这只蜘蛛太邪恶了，它不仅把猎物抓进蛛网，而且还会吃掉！",
+    "health": 3,
+    "id": "EDR_540",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "扭曲的织网蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "每当你使用其他的你已经使用过的随从牌，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116660,
+    "flavor": "大家都在说梦魇，但我怎么没看到黑马呢？",
+    "id": "EDR_570",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "凶险梦魇",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
+    "text": "<b>抉择：</b>对所有随从造成$1点伤害；或者使一个受伤的随从获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 116672,
+    "flavor": "哇哈哈哈他们绝对发现不了那张法力值消耗大于或等于（5）点的法术牌！",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_571",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "法夜欺诈者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>抽一张法力值消耗大于或等于（5）点的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 116673,
+    "flavor": "大家都说腐蚀会蒙蔽你的双眼——可腐蚀之后眼睛明明更多了！",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_572",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "受难的恐翼巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>抽两张龙牌，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefano Spagnuolo",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 117420,
+    "flavor": "“来呀，来把我点掉呀！”",
+    "health": 1,
+    "id": "EDR_598",
+    "mechanics": [
+      "ELUSIVE"
+    ],
+    "name": "梦境暴怒者",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 118250,
+    "flavor": "拿我的园艺剪来。最大的那把。",
+    "health": 6,
+    "id": "EDR_654",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "疯长的恐魔",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>使你手牌中具有<b>黑暗之赐</b>的随从牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 115174,
+    "flavor": "有些人给自己幻想出了朋友。而他有个幻象双胞胎。",
+    "health": 4,
+    "id": "EDR_780",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血蓟幻术师",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>召唤一个本随从的复制。本体和复制中会秘密区分出一个，在受到伤害时死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Drew Hill",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115176,
+    "flavor": "名字越嚣张，角色就越邪恶。",
+    "health": 3,
+    "id": "EDR_781",
+    "name": "凋零先驱",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "每当本随从从战场进入你的手牌时，随机召唤两个法力值消耗为（2）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114006,
+    "flavor": "蝴蝶振翅飞，守卫永相随——",
+    "health": 4,
+    "id": "EDR_800",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "振翅守卫",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b><b>嘲讽</b>。圣盾</b>\n<b>战吼：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114012,
+    "flavor": "住手！它都已经死了！",
+    "id": "EDR_804",
+    "name": "巫卜",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "targetingArrowText": "消灭一个小精灵。",
+    "text": "消灭一个\n友方小精灵以\n抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 114301,
+    "flavor": "这就是所谓的死亡共生关系。",
+    "health": 5,
+    "id": "EDR_810",
+    "mechanics": [
+      "AURA",
+      "BATTLECRY"
+    ],
+    "name": "丑恶的残躯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "EMERALD_DREAM",
+    "text": "你的水蛭从其宿主处\n偷取的生命值增加2点。<b>战吼：</b>召唤两只0/2的水蛭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114303,
+    "flavor": "这个暴行还怪有礼貌的哩！",
+    "id": "EDR_811",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "暴行祭礼",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "EMERALD_DREAM",
+    "text": "<b>发现</b>一张亡灵牌。消耗2份<b>残骸</b>，使其获得<b>黑暗之赐</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114304,
+    "durability": 0,
+    "flavor": "冰霜符文是最不恶心的符文，这下坐实了。",
+    "health": 2,
+    "id": "EDR_812",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "畸怪符文剑",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你使用的上一张牌拥有邪恶符文，则获得+1攻击力。依此法检定鲜血符文以获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114967,
+    "flavor": "死亡骑士是操纵死亡的大师，可以用暗影魔法来控制无尽的……蚂蚁？",
+    "id": "EDR_813",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "病变虫群",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>召唤两只1/1的蚂蚁；或者消耗2份<b>残骸</b>，对一个随从造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114305,
+    "flavor": "刷牙的时候记得也要刷刷舌头。",
+    "id": "EDR_814",
+    "name": "感染吐息",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "EMERALD_DREAM",
+    "text": "造成$2点伤害。召唤一条0/2的水蛭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 0,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114306,
+    "flavor": "在某些情况下，最好不要“驻足欣赏，品味花香”。",
+    "health": 5,
+    "id": "EDR_815",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "尸魔花",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "EMERALD_DREAM",
+    "text": "在你的对手召唤一个随从后，消耗2份<b>残骸</b>以对其造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 1,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116296,
+    "flavor": "我知道每种生物在生态系统中都很重要，但这些吸血鬼是真的恶心。",
+    "health": 2,
+    "id": "EDR_816",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "怪异魔蚊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，使你的其他随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114966,
+    "flavor": "别怕，这些都是<i>医用</i>水蛭！",
+    "id": "EDR_817",
+    "name": "血虫感染",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "EMERALD_DREAM",
+    "text": "抽两张牌。召唤两条0/2的水蛭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 7,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114307,
+    "elite": true,
+    "flavor": "捉个虫：该随从分裂成了1/1的甲虫并会在下个回合开始时重组。",
+    "health": 7,
+    "id": "EDR_818",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "尼珊德拉",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>分裂为1/1的甲虫。在你的回合开始时，剩余的甲虫会重组为尼珊德拉。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 116018,
+    "elite": true,
+    "flavor": "巨熊之神强壮如斯，梦魇只能腐蚀他的灵魂，无法腐蚀他的力量。",
+    "health": 14,
+    "id": "EDR_819",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "乌索克",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>攻击所有其他随从。<b>亡语：</b>复活本随从消灭的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 115198,
+    "flavor": "等着瞧吧，只要你躺好了打算睡觉，它肯定就会绕着你的房子到处乱跑，发出巨大的噪音。",
+    "id": "EDR_820",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "飞龙之眠",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>召唤两个<b>休眠</b>的魔种；或者对所有随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114654,
+    "flavor": "“灭哈哈哈……今年的收成太<i>恐怖</i>了……但我喜欢！因为我是反派！”",
+    "id": "EDR_840",
+    "name": "恐怖收割",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "抽一张牌。随机召唤一个<b>休眠</b>的魔种。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114663,
+    "flavor": "所谓的恐魂其实并没有受到腐蚀，信不信由你。",
+    "health": 4,
+    "id": "EDR_841",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "恐魂腐蚀者",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼，亡语：</b>随机召唤一个<b>休眠</b>的魔种。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114844,
+    "durability": 0,
+    "flavor": "脸黑的吃我一矛！",
+    "health": 3,
+    "id": "EDR_842",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "亵渎之矛",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你的英雄攻击\n一个敌人后，随机对另一个敌人造成等同于你的英雄攻击力的伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114848,
+    "flavor": "为什么要选？",
+    "id": "EDR_843",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "森林再生",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>抽一张法术牌；或者抽一张随从牌。<i>（本牌在你手中3回合即可同时拥有两种效果！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114849,
+    "elite": true,
+    "flavor": "打盹休息结束了！",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "howToEarn": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_844",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "纳拉雷克斯，龙群先锋",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "你的龙牌法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114858,
+    "elite": true,
+    "flavor": "符文（死亡骑士）+图腾（萨满祭司）=德鲁伊？？",
+    "health": 6,
+    "id": "EDR_845",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "哈缪尔·符文图腾",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>对战开始时：</b>\n如果你套牌中的每张法术牌均为自然法术，<b>灌注</b>你的英雄技能。你每施放2个法术，重复此效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 115090,
+    "elite": true,
+    "flavor": "哇哦，那款除魇喷剂是真的有效！只可惜存量不足以给整棵树都喷一喷。",
+    "id": "EDR_846",
+    "name": "莎拉达希尔",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "获取全部5张梦境牌。如果你在此牌在你手中时使用过法力值消耗更高的牌，腐蚀这些梦境牌！",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114912,
+    "flavor": "这不是睡懒觉，这是深入研究梦境！",
+    "health": 3,
+    "id": "EDR_847",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "梦缚信徒",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼，亡语：</b>你的下一个英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Drew Hill",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114914,
+    "flavor": "能在阳光下舒舒服服地做一次根部保养，夫复何求？",
+    "id": "EDR_848",
+    "name": "光合作用",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "恢复#6点生命值。随机获取3张德鲁伊法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114933,
+    "flavor": "梦啊，梦，梦，梦……",
+    "health": 1,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_849",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "梦缚迅猛龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你使用一张随从牌后，随机使其获得一项<b>额外效果</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefano Spagnuolo",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114935,
+    "flavor": "鲜花虽美，却也有刺。还有胡子。还有盾牌。",
+    "health": 3,
+    "id": "EDR_852",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "苦花骑士",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114857,
+    "elite": true,
+    "flavor": "只有名字叫部落。",
+    "health": 5,
+    "id": "EDR_853",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "布罗尔·熊皮",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "在你施放一个法术后，随机召唤一个动物伙伴。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115139,
+    "elite": true,
+    "flavor": "在下个补丁中，萨维斯会和上次一样替换掉伊利丹，成为恶魔猎手英雄。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_856",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "梦魇之王萨维斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张随从牌。使其获得<b>黑暗之赐</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114076,
+    "flavor": "你做没做过这样的梦，呃，就是说，嗯，怎么说呢，啊，这个，你想，或者说，你能，就是说，你能，还是说，你想干什么就干什么？",
+    "health": 4,
+    "id": "EDR_860",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "明耀织梦者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "targetingArrowText": "对一个随从造成5点伤害。",
+    "text": "<b>战吼：</b>如果你已<b>灌注</b>过你的英雄技能两次，对一个随从造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 116292,
+    "flavor": "“砍下我的枝干，用它做成你的法力水晶吧，”那棵树说。“这样你就能成功跳费……收获幸福。”",
+    "health": 2,
+    "id": "EDR_861",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "宁静树人",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>双方玩家\n各获得一个空的\n法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 116462,
+    "flavor": "静聆小精灵，小精灵径临。",
+    "health": 1,
+    "id": "EDR_871",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灵体采集者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>获取\n一张小精灵。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116977,
+    "flavor": "请勿在世界之树附近使用火源。",
+    "id": "EDR_872",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "DISCOVER"
+    ],
+    "name": "生命火花",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b><b>发现</b>\n一张法师法术牌；或者<b>发现</b>一张德鲁伊法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 116495,
+    "flavor": "这叫“弃暗投林”。",
+    "health": 6,
+    "howToEarnGolden": "可以在<i>漫游翡翠梦境</i>奖励路线中获得该奖励。",
+    "id": "EDR_873",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "林地特使",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>将你牌库中的所有中立卡牌随机变形成为德鲁伊卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 116980,
+    "flavor": "众所周知，月火术和星火术的威力大致相同。",
+    "id": "EDR_874",
+    "name": "星体平衡",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "获取一张月火术和一张星火术，使其获得<b>法术伤害+1</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Felideus Bubastis",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114337,
+    "flavor": "经此一吓，他应该会需求[德鲁伊防水裤]。",
+    "id": "EDR_882",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "跳脸惊吓",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>发现</b>一张法力值消耗大于或等于（5）点并具有<b>黑暗之赐</b>的恶魔牌。将其余两张洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 115186,
+    "elite": true,
+    "flavor": "玛洛恩是神话传奇中的存在，最古老的荒野诸神之一，也是塞纳留斯的父亲。",
+    "health": 6,
+    "id": "EDR_888",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "护路者玛洛恩",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>发现</b>一张<b>传说</b>荒野之神。如果你已<b>灌注</b>过你的英雄技能4次，则将发现的荒野之神的法力值消耗变为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115191,
+    "flavor": "翡翠梦魇对她来说可能其实是个商机。",
+    "health": 4,
+    "id": "EDR_889",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲜花商贩",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，随机使另一条友方的龙获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114496,
+    "flavor": "那如果我是左撇子呢？？",
+    "health": 2,
+    "id": "EDR_890",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "梦魇龙裔",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>使你最右边的手牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114497,
+    "flavor": "最爱恶魔的魂。",
+    "health": 3,
+    "id": "EDR_891",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "贪婪的地狱猎犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>复活一个法力值消耗小于或等于（4）点的友方<b>亡语</b>随从，并召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114498,
+    "flavor": "一树在手，抵得二树在魇。",
+    "health": 5,
+    "id": "EDR_892",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "残暴的魔蝠",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>亡语：</b>复活一个不同的法力值消耗大于或等于（5）点的友方<b>亡语</b>随从，并召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 7,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 115264,
+    "elite": true,
+    "flavor": "百鸟之神对所有的空中生物都抱有特别的兴趣。哪怕是那些生有翅膀却不能飞的生物。",
+    "health": 11,
+    "id": "EDR_895",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾维娜，艾露恩钦选者",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>开启为期三回合的月相演变。当满月升起时，在本局对战中你的卡牌法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115805,
+    "flavor": "精灵飘，精灵飘，经过我周围！",
+    "health": 6,
+    "id": "EDR_940",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "喜悦的枭兽",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，获得1点护甲值。你每控制一个小精灵，重复一次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 115866,
+    "flavor": "全称是“星星怂恿你束手送命”。",
+    "id": "EDR_941",
+    "name": "星涌术",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从造成$1点伤害。<i>（每有一个在本局对战中死亡的友方随从都会提升。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115867,
+    "flavor": "一击出洞！",
+    "health": 5,
+    "id": "EDR_942",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "好奇的积云",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合\n结束时，使你的英雄获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115461,
+    "flavor": "艾露恩，我向您祈求……对战中的每次随机都有最好的结果，这样我就能100%胜率上传说啦。",
+    "health": 4,
+    "id": "EDR_970",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "卡多雷女祭司",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>直到你的下个回合，使所有敌方随从获得-2攻击力。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "C. Gariba and R. Zanchetin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115938,
+    "flavor": "她教会了小动物两件事：自驭和治愈。",
+    "health": 2,
+    "id": "EDR_971",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "小动物看护者",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，为双方英雄各恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 117511,
+    "flavor": "我们各走各的，鹿。",
+    "health": 11,
+    "id": "EDR_978",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "踏青驼鹿",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>将一张踏青驼鹿置于你的牌库底，其法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 117302,
+    "flavor": "谁敢吸食古树？",
+    "health": 5,
+    "id": "EDR_979",
+    "name": "昔时古树",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>休眠</b>2回合。<b>休眠</b>状态下，在你的回合结束时，获得5点护甲值并抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116256,
+    "flavor": "“你又在啃树皮了！？作啮啊……”",
+    "health": 1,
+    "id": "EDR_999",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "啮齿绿鳍鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>随机获取一张鱼人牌。",
+    "type": "MINION"
+  }
+]

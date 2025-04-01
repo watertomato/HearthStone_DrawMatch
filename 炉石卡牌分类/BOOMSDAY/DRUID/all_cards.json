@@ -1,0 +1,181 @@
+[
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 47887,
+    "flavor": "第一步，种超大颗的草莓；第二步，不可描述；第三步，统治艾泽拉斯！",
+    "id": "BOT_054",
+    "name": "生物计划",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "spellSchool": "NATURE",
+    "text": "每个玩家获得两个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48524,
+    "flavor": "瓜本身并不香甜，它只是麻痹了你的味觉。",
+    "id": "BOT_404",
+    "name": "香甜的灵力瓜",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "spellSchool": "NATURE",
+    "text": "从你的牌库中抽取法力值消耗为（7），（8），（9）和（10）的随从牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 49621,
+    "flavor": "他试着教树人说话，可小家伙只学会了一句“I am Gloop”。",
+    "health": 3,
+    "id": "BOT_419",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "树木学家",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>如果你控制一个树人，<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Hogg",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48607,
+    "flavor": "在我的后园，可以看见墙外有两株树，一株是树人，还有一株也是树人。",
+    "id": "BOT_420",
+    "name": "植树造林",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "spellSchool": "NATURE",
+    "text": "召唤两个2/2的树人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48609,
+    "flavor": "牛头人的草药学种族天赋终于派上了用场。",
+    "health": 4,
+    "id": "BOT_422",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "牛头人园丁",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>抉择：</b>\n使你的所有其他随从获得+1/+1；或者召唤两个2/2的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 48612,
+    "flavor": "这些梦境花往往长得比栽种师还高。",
+    "health": 4,
+    "id": "BOT_423",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "梦境花栽种师",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "在你的回合结束时，随机使你手牌中一张随从牌的法力值消耗减少（7）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48757,
+    "elite": true,
+    "flavor": "实验室的所有科学家中，就数他的学问最深（可测情况下）。",
+    "health": 4,
+    "id": "BOT_434",
+    "name": "软泥教授弗洛普",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "此牌在你的手牌中时，会变成你使用的上一张随从牌的3/4复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48837,
+    "elite": true,
+    "flavor": "种子不让黏液黏在种子上，黏液偏要黏在种子上。",
+    "id": "BOT_444",
+    "name": "弗洛普的神奇黏液",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，每当一个随从死亡，复原一个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 48744,
+    "flavor": "“加多少？200金币？”“加满！”",
+    "health": 4,
+    "id": "BOT_507",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黏液喷射者",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>\n为相邻的随从各召唤一个复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 8,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 48831,
+    "flavor": "仿生科技的最新成果。",
+    "health": 8,
+    "id": "BOT_523",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "植被破碎机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>突袭</b>\n在本局对战中，每有一个友方树人死亡，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100540,
+    "flavor": "“我不该带蜡烛。”",
+    "id": "WW_348",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "误炸",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "对随机随从分别造成$3点，$2点和$1点伤害。<b>快枪：</b>可以选择目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100546,
+    "flavor": "注意注意注意——RKO登场了！",
+    "health": 4,
+    "id": "WW_349",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒芜之地乱斗打手",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>发起一场绝命乱斗！如果你已经<b>发掘</b>过两次，则本随从总会赢得胜利。",
+    "type": "MINION"
+  }
+]

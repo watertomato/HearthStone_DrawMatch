@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69975,
+    "elite": true,
+    "flavor": "肯瑞托的首席法师，达拉然最伟大的子民，安东尼达斯在被巫妖王阿尔萨斯杀死之前，曾是吉安娜的导师。",
+    "health": 7,
+    "id": "VAN_EX1_559",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "大法师安东尼达斯",
+    "rarity": "LEGENDARY",
+    "set": "VANILLA",
+    "text": "每当你施放一个法术，将一张“火球术”法术牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 10,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 108624,
+    "flavor": "你们不会想把这只也变成橙色吧！？",
+    "health": 10,
+    "id": "MIS_306",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "火箭跳蛙",
+    "overload": 4,
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>过载：</b>（4）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105500,
+    "flavor": "风潮不改旧传说，相看恍如昨。",
+    "id": "MIS_701",
+    "isMiniSet": true,
+    "name": "恋旧风潮",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "将所有随从变形成为来自过去的随机<b>传说</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102463,
+    "flavor": "立即抢购，无需过载！",
+    "id": "TOY_046",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "超值惊喜",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法力值消耗为（4）的随从牌，将其攻击力和生命值变为7。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103336,
+    "flavor": "什么是体书？",
+    "id": "TOY_508",
+    "name": "立体书",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "造成$2点伤害。召唤两只0/1并具有<b>嘲讽</b>的青蛙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103379,
+    "flavor": "这幅画好伤人！",
+    "health": 4,
+    "id": "TOY_513",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "沙画元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>在本回合中，使你的英雄获得+1攻击力和<b>风怒</b>。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 62550,
+    "flavor": "“没错，他是勇敢的牛头人武士，但他被刺扎伤的时候也会流泪。”",
+    "health": 8,
+    "id": "BAR_071",
+    "mechanics": [
+      "FRENZY"
+    ],
+    "name": "陶拉祖武士",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>暴怒：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 62581,
+    "flavor": "刀刃上竟然没有火，扫兴。",
+    "health": 1,
+    "howToEarnGolden": "完成成就“恶魔批发”后解锁。",
+    "id": "BAR_072",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "火刃侍僧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>亡语：</b>召唤一个5/8并具有<b>嘲讽</b>的恶魔生物。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 62585,
+    "flavor": "自从部落推进到了灰谷，这座哨所的存在感低了不少。",
+    "health": 5,
+    "howToEarnGolden": "完成成就“最高安全等级”后解锁。",
+    "id": "BAR_076",
+    "mechanics": [
+      "CANT_ATTACK",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫尔杉哨所",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "无法攻击。在你的对手使用一张随从牌后，召唤一个2/2的\n步兵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63726,
+    "flavor": "“我们都有秘密，不过你的秘密现在也是我的了。”",
+    "health": 4,
+    "howToEarnGolden": "完成成就“泄密特工”后解锁。",
+    "id": "BAR_430",
+    "name": "部落特工",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY",
+      "SECRET"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>复制你对手的<b>奥秘</b>并置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jeremy Cranford",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63252,
+    "flavor": "它咬你不是新闻，你咬它才是。",
+    "health": 4,
+    "id": "BAR_745",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乱齿土狼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>对你的英雄造成3点伤害。",
+    "type": "MINION"
+  }
+]

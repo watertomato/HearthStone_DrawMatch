@@ -1,0 +1,18 @@
+[
+  {
+    "artist": "Ryan Metcalf",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 2898,
+    "flavor": "淹没在鱼人大军的狂潮下吧！",
+    "howToEarn": "加入“探险者协会”冒险模式，在废墟之城中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在废墟之城中解锁制作。",
+    "id": "LOE_026",
+    "name": "亡者归来",
+    "rarity": "RARE",
+    "set": "LOE",
+    "text": "召唤七个在本局对战中死亡的\n鱼人。",
+    "type": "SPELL"
+  }
+]

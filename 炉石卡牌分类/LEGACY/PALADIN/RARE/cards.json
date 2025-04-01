@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54834,
+    "flavor": "就像披了件毛茸茸的毯子，倍感温暖与正义！",
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_184",
+    "name": "正义",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "LEGACY",
+    "spellSchool": "HOLY",
+    "text": "使你的所有随从获得<b>圣盾</b>。",
+    "type": "SPELL"
+  }
+]

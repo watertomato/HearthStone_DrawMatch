@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Den",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2095,
+    "flavor": "工欲善其事，必先利其器。",
+    "id": "GVG_022",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "修补匠的磨刀油",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "使你的武器获得+3攻击力。<b>连击：</b>随机使一个友方随从获得+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1988,
+    "flavor": "这项装置能够随意调整你的发型，或是敌人的身高。",
+    "health": 2,
+    "id": "GVG_023",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "地精自动理发装置",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>战吼：</b>使你的武器获得+1攻击力。",
+    "type": "MINION"
+  }
+]

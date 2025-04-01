@@ -1,0 +1,129 @@
+[
+  {
+    "artist": "Luca Zontini",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 107929,
+    "flavor": "有了88尺的高大身材，处处都是浅水区。",
+    "health": 8,
+    "howToEarnGolden": "购买<i>胜地历险记</i>炉石通行证后开放解锁。",
+    "id": "VAC_439",
+    "name": "海滨巨人",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "在本局对战中，你每使用过一次地标效果，本牌的法力值消耗便减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 108612,
+    "flavor": "“我……我要出去遛遛我的……呃，鱼。”",
+    "health": 6,
+    "id": "VAC_447",
+    "name": "恐惧的逃亡者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "如果本随从不在\n你的套牌中，则拥有<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106374,
+    "flavor": "如果只有3根手指，就不该举起小拇指。",
+    "health": 3,
+    "id": "VAC_523",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "混调师",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>制造一张法力值消耗为（1）的自定义药水牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106715,
+    "flavor": "早起的虫儿先登机。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_935",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "随行肉虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>获取一张法力值消耗为（1）的手提箱，将你牌库顶的2张牌装入其中。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 108950,
+    "flavor": "目前人类只探索了海洋的5%。所以说这东西真实存在的几率高达95%。",
+    "health": 2,
+    "id": "VAC_958",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "进化融合怪",
+    "race": "ALL",
+    "races": [
+      "ALL"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<i>本随从拥有全部随从类型。</i><b>亡语：</b>将本随从洗入你的牌库。保留所有附加效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110858,
+    "flavor": "不许在工位上吃东西！",
+    "health": 6,
+    "id": "WORK_042",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食肉格块",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从。在你的回合结束时，召唤一个它的复制。",
+    "type": "MINION"
+  }
+]

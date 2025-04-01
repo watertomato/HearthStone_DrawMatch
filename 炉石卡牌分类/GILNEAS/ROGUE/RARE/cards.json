@@ -1,0 +1,73 @@
+[
+  {
+    "artist": "Phil Saunders",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46908,
+    "flavor": "找呀找呀找朋友，找到一个……<b>什么鬼</b>。",
+    "health": 5,
+    "id": "GIL_510",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迷雾幽灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ECHO"
+    ],
+    "set": "GILNEAS",
+    "text": "每当你使用一张<b>回响</b>牌时，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47071,
+    "flavor": "她本是一名船难者……直到她找到一个被诅咒的排球。",
+    "health": 3,
+    "id": "GIL_557",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "被诅咒的海盗",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>突袭，亡语：</b>\n从你的牌库中抽一张<b>连击</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47799,
+    "flavor": "因为他的腰弯不下这么低，所以侏儒们的钱包幸免于难。",
+    "id": "GIL_696",
+    "mechanics": [
+      "ECHO"
+    ],
+    "name": "搜索",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>回响</b>\n随机将一张<i>（你对手职业的）</i>卡牌置入你的手牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Brom",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 69613,
+    "elite": true,
+    "flavor": "如果你还没听过《提里奥·弗丁主题曲》，那是因为它还没被谱写出来。",
+    "health": 8,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得500场对战后解锁。",
+    "id": "CORE_EX1_383",
+    "mechanics": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "提里奥·弗丁",
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>圣盾</b>，<b>嘲讽</b>，<b>亡语：</b>装备一把5/3的\n灰烬使者。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "countAsCopyOfDbfId": 84399,
+    "dbfId": 120427,
+    "elite": true,
+    "flavor": "“没错，现在你们都来了未来！”",
+    "health": 8,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得500场对战后解锁。",
+    "id": "CORE_RLK_919",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿纳克洛斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>战吼：</b>\n将所有其他随从送入2回合后的未来。",
+    "type": "MINION"
+  }
+]

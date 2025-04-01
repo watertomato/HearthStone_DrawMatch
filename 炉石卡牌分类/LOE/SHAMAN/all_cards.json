@@ -1,0 +1,70 @@
+[
+  {
+    "artist": "Cole Eastburn",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2888,
+    "flavor": "顽石元素也很顽皮，他通常会把受害者折磨得死去活来。",
+    "health": 6,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁制作。",
+    "id": "LOE_016",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "顽石元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "LOE",
+    "text": "在你使用一张具有\n<b>战吼</b>的随从牌后，随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2890,
+    "flavor": "穴居人的确很丑，因为他们常年生活在不见天日的坑道里。不信你进去住几天试试。",
+    "health": 3,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥达曼中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥达曼中解锁制作。",
+    "id": "LOE_018",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "坑道穴居人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "LOE",
+    "text": "每当你<b>过载</b>时，每一个被锁的法力水晶会使其获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrius Matijoshius",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 3007,
+    "flavor": "如果你们的文明是要我们卑躬屈膝，那我们就让你们见识鱼人的骄傲！",
+    "howToEarn": "加入“探险者协会”冒险模式，在废墟之城中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在废墟之城中解锁制作。",
+    "id": "LOE_113",
+    "name": "鱼人恩典",
+    "rarity": "RARE",
+    "set": "LOE",
+    "text": "使你的所有随从获得+2/+2。你每控制一个鱼人，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  }
+]

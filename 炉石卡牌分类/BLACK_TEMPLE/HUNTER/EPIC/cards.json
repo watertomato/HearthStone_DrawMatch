@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "MAR Studio",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56827,
+    "flavor": "这在纳格兰属于合理冲撞！",
+    "id": "BT_163",
+    "name": "纳格兰大冲撞",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "召唤四只3/5的裂蹄牛并使其攻击随机敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Charlene Le Scanff",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56398,
+    "flavor": "上吧，爆壳猛猪，扎透他们！",
+    "health": 4,
+    "id": "BT_201",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "强能箭猪",
+    "race": "BEAST",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>\n造成等同于本随从攻击力的伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  }
+]

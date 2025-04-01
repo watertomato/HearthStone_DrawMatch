@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56677,
+    "flavor": "弃牌时，没有一个随从是无菇的。",
+    "id": "BT_128",
+    "name": "真菌宝藏",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "NATURE",
+    "text": "抽三张牌。\n弃掉抽到的所有随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56678,
+    "flavor": "我开始后悔问孢子人是怎么来的了。",
+    "id": "BT_129",
+    "name": "萌芽分裂",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "NATURE",
+    "text": "召唤一个友方随从的复制。使复制获得<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56684,
+    "flavor": "“这是大事，年轻人，一定要保护好你的孢子！记住我的话！”",
+    "id": "BT_132",
+    "name": "铁木树皮",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "NATURE",
+    "text": "使一个随从获得+1/+3和<b>嘲讽</b>。如果你拥有至少七个法力水晶，则法力值消耗为（0）点。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 51781,
+    "flavor": "变形晶刚，出发！",
+    "id": "DAL_352",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "晶歌传送门",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张德鲁伊随从牌。如果你的手牌中没有随从牌，改为保留全部三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "collectionText": "<b>突袭</b>。<b>战吼：</b>在本局对战中，如果你累计恢复了5点生命值，则召唤一个本随从的复制。",
+    "cost": 5,
+    "dbfId": 53179,
+    "flavor": "孤身而来，携友而归。",
+    "health": 4,
+    "id": "DAL_799",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "晶角雄鹿",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "<b>突袭</b>。<b>战吼：</b>在本局对战中，如果你累计恢复了5点生命值，则召唤一个本随从的复制。@<i>（还剩下{0}点！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 58770,
+    "elite": true,
+    "flavor": "对待学生就像对待旗鼓相当的对手，所谓的决斗其实是单方面的碾压。",
+    "health": 8,
+    "id": "SCH_400",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "决斗大师莫扎奇",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你施放一个法术后，获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  }
+]

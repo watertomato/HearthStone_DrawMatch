@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Gustav Schmidt",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56411,
+    "flavor": "外域下水道的雅称。",
+    "id": "BT_100",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "毒蛇神殿传送门",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "NATURE",
+    "text": "造成$3点伤害。随机召唤一个法力值消耗为（3）的随从。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56470,
+    "flavor": "“根据映像的启示，我觉得你的对战面板上需要更多的我。”",
+    "id": "BT_113",
+    "name": "图腾映像",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "使一个随从获得+2/+2。如果该随从是图腾，召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56472,
+    "flavor": "没有了阳鳃的祈祷，赞加沼泽再无晴空。",
+    "health": 4,
+    "id": "BT_115",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "沼泽之子",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>如果你在上回合施放过法术，<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  }
+]

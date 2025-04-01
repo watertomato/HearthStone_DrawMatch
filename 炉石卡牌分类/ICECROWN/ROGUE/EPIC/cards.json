@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42801,
+    "flavor": "保证武器可直接回到你的手上！（注意佩戴手套，要加厚的。）",
+    "id": "ICC_233",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "末日回旋镖",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "对一个随从投掷你的武器。武器会造成伤害，然后移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45975,
+    "flavor": "你也可以把她和赃物一起带走。",
+    "health": 5,
+    "id": "ICC_910",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "鬼灵匪贼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "targetingArrowText": "在本回合中，你每使用一张其他牌，便造成2点伤害。",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便对一个随从造成2点伤害。",
+    "type": "MINION"
+  }
+]

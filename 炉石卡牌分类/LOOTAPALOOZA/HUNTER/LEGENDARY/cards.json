@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Trent Kaniuga & James Martin",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43369,
+    "durability": 0,
+    "elite": true,
+    "flavor": "迷人的西蒙妮，疯狂的克林弗兰，毁灭者阿特留斯和屠杀者索伦诺尔觉得这件武器很棒。",
+    "health": 2,
+    "id": "LOOT_085",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伦鲁迪洛尔",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>如果你的牌库里没有随从牌，则用随机猎人法术牌填满你的手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 46390,
+    "elite": true,
+    "flavor": "她不是那种喜欢抱着树的精灵，不过偶尔的拥抱还是很让人舒服的。",
+    "health": 6,
+    "id": "LOOT_511",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "卡瑟娜·冬灵",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼，亡语：</b><b>招募</b>一个野兽。",
+    "type": "MINION"
+  }
+]

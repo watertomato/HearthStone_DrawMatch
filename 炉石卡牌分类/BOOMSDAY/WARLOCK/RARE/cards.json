@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48298,
+    "flavor": "恶魔横渡溪流，所为何事？不过是为了回到另一个世界。",
+    "health": 5,
+    "id": "BOT_226",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚魂破坏者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>在本回合中，你的英雄每受到一点伤害，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48211,
+    "flavor": "以前大家嫌他魂淡，现在好了……",
+    "id": "BOT_263",
+    "name": "灵魂灌注",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "spellSchool": "SHADOW",
+    "text": "使你手牌中最左边的随从牌获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48835,
+    "flavor": "分析结论：一片虚空。",
+    "health": 2,
+    "id": "BOT_443",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "虚空分析师",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>使你手牌中的所有恶魔牌获得+1/+1。",
+    "type": "MINION"
+  }
+]

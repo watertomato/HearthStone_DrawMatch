@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45353,
+    "flavor": "“如果你得了复活综合症，请打1。”",
+    "id": "LOOT_187",
+    "name": "暮光召唤",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "SHADOW",
+    "text": "召唤两个在本局对战中死亡，并具有<b>亡语</b>的友方随从的1/1复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45899,
+    "flavor": "“它将在暮光散去时醒来。”——说的就像谁不是一样。",
+    "health": 3,
+    "id": "LOOT_410",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "破晓之龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，则对所有其他随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 46307,
+    "flavor": "“第八颗石头是洁白的钻石，珍贵的宝石激励纯粹的信仰。低声的祈祷可以让逝者苏生，但没人知道要付出怎样的代价。”——《魔石》",
+    "id": "LOOT_507",
+    "name": "小型法术钻石",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "HOLY",
+    "text": "复活两个不同的友方随从。<i>（施放四个法术后升级。）</i>",
+    "type": "SPELL"
+  }
+]

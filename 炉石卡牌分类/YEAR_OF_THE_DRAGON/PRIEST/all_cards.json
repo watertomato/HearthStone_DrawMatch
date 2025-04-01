@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56088,
+    "flavor": "手牌中没有龙牌的时候能把人急死。",
+    "health": 1,
+    "id": "YOD_013",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "龙鳞祭司",
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便<b>发现</b>你牌库中的一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 56089,
+    "flavor": "他会把永恒的时间撕成碎片，这样有助于管理繁忙的日程。",
+    "health": 4,
+    "id": "YOD_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒掠夺者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "targetingArrowText": "造成等同于随从攻击力的伤害。",
+    "text": "<b>战吼：</b>对一个随从造成等同于其攻击力的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56090,
+    "flavor": "拉祖尔的预言总是那么黑暗。那些欢快又可爱的预言都去哪了？！",
+    "id": "YOD_015",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗预兆",
+    "rarity": "RARE",
+    "set": "YEAR_OF_THE_DRAGON",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法力值消耗为（2）的随从牌。召唤该随从并使其获得+3生命值。",
+    "type": "SPELL"
+  }
+]

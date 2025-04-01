@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103494,
+    "elite": true,
+    "flavor": "经典传说爆款，10周年特别再版！",
+    "health": 5,
+    "id": "TOY_383",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "重封者拉兹",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>将本局对战中死亡的5个随机友方随从的复制洗入你的牌库，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>每局对战限一次。如果你使用过8张其他龙牌，获得一个额外回合。",
+    "cost": 5,
+    "dbfId": 103529,
+    "elite": true,
+    "flavor": "因为威兹班的退货政策非常宽松，扎里米忙得不得了。",
+    "health": 6,
+    "id": "TOY_385",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时空扭曲者扎里米",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>每局对战限一次。如果你使用过8张其他龙牌，获得一个额外回合。@<i>（还剩{0}张！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  }
+]

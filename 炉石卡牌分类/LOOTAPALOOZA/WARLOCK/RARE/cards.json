@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43133,
+    "flavor": "铁钩只是个装饰，实战中并不怎么需要。",
+    "health": 4,
+    "id": "LOOT_018",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "铁钩掠夺者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>如果你的生命值小于或等于15点，则获得+3/+3和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43272,
+    "flavor": "“阿扎里将紫色的石头送给黑暗之心，只有最渴求力量的人才能得到。第一个拥抱黑暗的是术士林恩，得到石头后她就杀死了同袍。”——《魔石》",
+    "id": "LOOT_043",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "小型法术紫水晶",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n对一个随从造成$3点伤害。<i>（受到来自你的卡牌的伤害后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 45820,
+    "flavor": "他曾经只是个男仆，但后来被拖欠了工资。",
+    "health": 2,
+    "id": "LOOT_306",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "着魔男仆",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>\n<b>招募</b>一个恶魔。",
+    "type": "MINION"
+  }
+]

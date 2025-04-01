@@ -1,0 +1,277 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102435,
+    "flavor": "这是基本元素，亲爱的华砷。",
+    "health": 1,
+    "id": "DEEP_030",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "源质晶簇",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>抽一张牌，并对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102443,
+    "flavor": "原来是它把大家染<b>绿</b>了！",
+    "id": "DEEP_031",
+    "isMiniSet": true,
+    "name": "混乱化形",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "造成$6点伤害。随机召唤一个法力值消耗为（6）的随从。摧毁你牌库底的6张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102724,
+    "flavor": "想冻住灵魂，先冻住身体。",
+    "id": "DEEP_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "灵魂冻结",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从及其相邻随从，对你的英雄造成等同于所<b>冻结</b>随从数量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101269,
+    "flavor": "亮绿色液体一般都对人体有害……可能是废弃物，也可能是什么新口味的软饮料。",
+    "health": 2,
+    "id": "WW_041",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "排污助理",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>将一张淤泥桶置于你的\n牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 7,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101270,
+    "flavor": "三“洁”原则：能源清洁！环境整洁！世界浩劫！",
+    "health": 7,
+    "id": "WW_042",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "废物清理工",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，摧毁你牌库底的\n三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101271,
+    "flavor": "走一路，洒一路。",
+    "health": 5,
+    "id": "WW_043",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "轮式淤泥怪",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。每当本随从受到伤害时，获取一张淤泥桶并将一张淤泥桶置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102144,
+    "elite": true,
+    "flavor": "坏蛋坏蛋追呼呼！杰里火车开嘟嘟！满车淤泥噗噗噗！",
+    "health": 6,
+    "id": "WW_091",
+    "mechanics": [
+      "AURA",
+      "BATTLECRY"
+    ],
+    "name": "腐臭淤泥波普加",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "text": "你的邪能法术法力值消耗减少（2）点且拥有<b>吸血</b>。<b>战吼：</b>获取两张淤泥桶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102148,
+    "flavor": "为了那些不知道该把什么牌抽出套牌的人准备的！",
+    "id": "WW_092",
+    "name": "液力压裂",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "检视你的牌库底的三张牌，抽其中一张，摧毁其余牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101464,
+    "flavor": "别怕，这列车烧的是绿色能源！",
+    "id": "WW_378",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "列车烟囱",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$1点伤害。如果该随从死亡，<b>发掘</b>一个\n宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103462,
+    "flavor": "我要是能预想到所有可能的情况那该有多好！",
+    "id": "WW_436",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "列车难题",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "弃掉你法力值最低的法术牌。召唤两节3/3并具有<b>突袭</b>的矿车。<b>快枪：</b>无需弃牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103463,
+    "elite": true,
+    "flavor": "其实应该读作“杰瑞”。",
+    "health": 4,
+    "id": "WW_437",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "列车司机杰里",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，召唤六节3/3并具有<b>突袭</b>的矿车。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102903,
+    "flavor": "还记得摩天龙吗？他现在变成这个了。有沧桑的感觉了吧？",
+    "id": "WW_441",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "锅炉燃料",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "当本牌被使用，弃掉或摧毁时，抽两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102904,
+    "flavor": "兼任镇上的牙医。",
+    "health": 5,
+    "id": "WW_442",
+    "mechanics": [
+      "DEATHRATTLE",
+      "EXCAVATE",
+      "TAUNT"
+    ],
+    "name": "钻拳莫尔葛",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b><b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  }
+]

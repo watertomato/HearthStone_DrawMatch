@@ -1,0 +1,265 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102623,
+    "flavor": "事实证明海象人对于图腾的样式一点都不挑剔。",
+    "health": 2,
+    "id": "WON_081",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海象人图腾师",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>随机召唤一个基础图腾。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102624,
+    "flavor": "你是电，你是光，你是唯一的传奇！",
+    "id": "WON_082",
+    "name": "青玉闪电",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "造成$3点伤害，召唤一个{0}的<b>青玉魔像</b>。0造成$3点伤害，召唤一个<b>青玉魔像</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102625,
+    "flavor": "对付女巫有两种办法：要么对她造成4点伤害，要么点燃她脚下的那堆柴火。",
+    "health": 4,
+    "id": "WON_083",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶的巫医",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "每当你施放一个法术，随机召唤一个基础图腾。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102626,
+    "flavor": "看着那些小家伙成长为身强体壮，仪表堂堂的青玉魔像时，他倍感骄傲。",
+    "health": 5,
+    "id": "WON_084",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "青玉酋长",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM",
+      "TAUNT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>召唤一个{0}的<b>青玉魔像</b>，使其获得<b>嘲讽</b>。0<b>战吼：</b>召唤一个<b>青玉魔像</b>，使其获得\n<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102627,
+    "flavor": "用图腾做武器并不算犯规。至少赛事规则里没提到过这点。",
+    "health": 6,
+    "id": "WON_085",
+    "mechanics": [
+      "BATTLECRY",
+      "INSPIRE"
+    ],
+    "name": "雷霆崖勇士",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>战吼，激励：</b>使你的图腾获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102628,
+    "flavor": "他们住在加基森的下水道，他们超爱吃披萨！",
+    "id": "WON_086",
+    "name": "神奇四鱼",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "召唤四个1/1的鱼人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102632,
+    "flavor": "好朋友可以帮你分担过载的压力。",
+    "health": 1,
+    "id": "WON_090",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "砾岩旅伴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>抽一张<b>过载</b>牌。在本回合中，你不会<b>过载</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102633,
+    "flavor": "哼。应该是风之优雅图腾。哼。",
+    "id": "WON_091",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "图腾团聚",
+    "overload": 1,
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "召唤全部五种<i>（？！）</i>基础图腾。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "armor": 8,
+    "artist": "Kevin Sidharta",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102634,
+    "elite": true,
+    "flavor": "姆诺兹多在对抗青铜龙军团之时，找上的盟友非比寻常。",
+    "health": 30,
+    "heroPowerDbfId": 102635,
+    "id": "WON_092h",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时光之风奥拉基尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE",
+      "DIVINE_SHIELD",
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>抽取具有<b>冲锋</b>，<b>圣盾</b>，<b>嘲讽</b>和\n<b>风怒</b>的随从牌\n各一张。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103223,
+    "flavor": "恢复系萨满最钟爱的技能之一。治疗效果出众，广受盟友好评。",
+    "id": "WON_320",
+    "name": "治疗波",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "恢复#8点生命值。揭示双方牌库里的一张随从牌。如果你的牌法力值\n消耗较大，改为恢复#16点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peet Cooper",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103224,
+    "durability": 0,
+    "flavor": "只有得到锤子认可的人，才能将其举起。",
+    "health": 3,
+    "id": "WON_321",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "灌魔之锤",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>你的英雄技能改为“造成\n2点伤害”。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103238,
+    "flavor": "这和出生时没什么两样，除了你生下来就是个成年人，除了你一秒钟之前还是个死人。",
+    "id": "WON_335",
+    "name": "转生",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "消灭一个随从，然后将其复活，并具有所有生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103239,
+    "elite": true,
+    "flavor": "根据能量守恒定律，你损失的生命值最终会转移到我身上。",
+    "health": 6,
+    "id": "WON_336",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "升腾者海纳泽尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WONDERS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n你的法术拥有<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

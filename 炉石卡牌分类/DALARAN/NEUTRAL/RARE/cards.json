@@ -1,0 +1,214 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 51733,
+    "flavor": "“打死我也不说！”",
+    "health": 8,
+    "id": "DAL_058",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "机械拷问者",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>嘲讽，战吼：</b>使你的对手从牌库中召唤一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52281,
+    "flavor": "有些人总是很容易被闪闪的东西所吸引。",
+    "health": 4,
+    "id": "DAL_081",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "破咒珠宝师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ELUSIVE"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>直到下个回合，你的英雄拥有<b>扰魔</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52654,
+    "flavor": "他的守望已然结束……除非你拥有法术伤害。",
+    "health": 6,
+    "id": "DAL_434",
+    "name": "奥术守望者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "DALARAN",
+    "text": "除非你拥有<b>法术伤害</b>，\n否则无法进行攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 52307,
+    "flavor": "怎么，夺日者还会是冰法不成？",
+    "health": 4,
+    "id": "DAL_539",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夺日者战斗法师",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，则造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Danny Dai",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 52417,
+    "flavor": "不断吸收着那些失败的冒险者。",
+    "health": 5,
+    "id": "DAL_550",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "下水道软泥怪",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "在本随从受到伤害并存活下来后，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52707,
+    "flavor": "大家都不让它来当“鬼”。",
+    "health": 2,
+    "id": "DAL_582",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "传送门守护者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>将三张传送门洗入你的牌库。当抽到传送门时，召唤一个2/2并具有<b>突袭</b>的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 52943,
+    "flavor": "哇哈哈哈！这次你永远也别想抓住他了！",
+    "health": 6,
+    "id": "DAL_749",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "再生大盗",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>如果本随从的攻击力大于或等于4，则再次召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 52950,
+    "faction": "ALLIANCE",
+    "flavor": "他是因为疯了才召唤小鬼，还是因为召唤出了小鬼才疯了的？",
+    "health": 4,
+    "id": "DAL_751",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂召唤师",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>用1/1的小鬼填满每个玩家的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 53218,
+    "flavor": "*拍了拍猛犸象的鞍袋*  “这能装下不少松鼠呢！”",
+    "health": 8,
+    "id": "DAL_774",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "特殊坐骑商人",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "每当你施放一个法术，随机召唤一个法力值消耗为（3）的\n野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 53249,
+    "flavor": "你以为他们顶着蜡烛只是为了好玩。",
+    "health": 7,
+    "id": "DAL_775",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "坑道爆破师",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>嘲讽，亡语：</b>对所有随从造成3点伤害。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48002,
+    "flavor": "“我梦到……我不小心合成了金色的米尔豪斯！这太可怕了！”",
+    "id": "GIL_813",
+    "name": "鲜活梦魇",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "spellSchool": "SHADOW",
+    "text": "选择一个友方随从，召唤一个该随从的复制，且剩余生命值为1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Bill Ruan",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48444,
+    "flavor": "扑火太险，不如跳舞。",
+    "health": 4,
+    "id": "GIL_837",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "闪光飞蛾",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>\n如果你的牌库中只有法力值消耗为奇数的牌，使你所有其他随从的生命值翻倍。",
+    "type": "MINION"
+  }
+]

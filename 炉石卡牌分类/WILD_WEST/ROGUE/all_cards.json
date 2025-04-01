@@ -1,0 +1,232 @@
+[
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "classes": [
+      "ROGUE",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102254,
+    "durability": 0,
+    "flavor": "疾速矿锄急速出，狂锄矿锄出极速。出矿锄，粗矿出，锄出粗矿铸矿锄。",
+    "health": 2,
+    "id": "DEEP_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "疾速矿锄",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的英雄攻击后，抽一张牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102421,
+    "flavor": "价值千斤。",
+    "id": "DEEP_022",
+    "isMiniSet": true,
+    "name": "愚人金",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "随机获取其他职业的金色海盗牌和元素牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 99129,
+    "flavor": "你知道吗？只有高端的玩家才能两次都扎在同一个目标上。这个就叫做“镖准”！",
+    "id": "WW_006",
+    "name": "飞镖投掷",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "随机向敌方随从投掷两枚造成$2点伤害的飞镖。<i>（如果两枚击中同一个随从，获取一张幸运币！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101133,
+    "flavor": "满手的钱，得意的笑，她太贪了。",
+    "health": 4,
+    "id": "WW_363",
+    "mechanics": [
+      "COMBO",
+      "QUICKDRAW"
+    ],
+    "name": "押注猎手",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>快枪或连击：</b>获取一张幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101134,
+    "elite": true,
+    "flavor": "他的伪装成功把血石公司骗入了无底深坑。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "WW_364",
+    "name": "威拉罗克·温布雷",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "当本牌在你手牌中时，使用一张另一职业的卡牌以揭示威拉罗克的真正形态！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100935,
+    "flavor": "如果算上卡牌名里的“七”字，那总共就有四个7，而不是三个。设计师的巨大失误。",
+    "id": "WW_410",
+    "name": "三条七",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "对一个随从造成$7点伤害。\n抽7张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100936,
+    "flavor": "威拉罗克，先让我把我的回合打完，都烧绳了！",
+    "id": "WW_411",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "持枪要挟",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "QUICKDRAW"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>发现</b>一张另一职业的<b>快枪</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100937,
+    "durability": 0,
+    "flavor": "舞铲者，联合起来！",
+    "health": 3,
+    "id": "WW_412",
+    "mechanics": [
+      "DEATHRATTLE",
+      "EXCAVATE"
+    ],
+    "name": "血石牌铁铲",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>\n<b>发掘</b>一个宝藏。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100938,
+    "flavor": "是谁的雕像，是谁的宝藏，又给谁带来了创伤。",
+    "health": 3,
+    "id": "WW_413",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "古董投手",
+    "rarity": "RARE",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "set": "WILD_WEST",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100942,
+    "flavor": "对着星星许愿？切，幼稚。稍等，等我把幸运币都投进这座井里。",
+    "health": 7,
+    "id": "WW_415",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "许愿井",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "在你使用一张幸运币后，随机获取一张另一职业的<b>传说</b>随从牌并将其法力值消耗变为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100943,
+    "flavor": "我觉得……三个下面都有！",
+    "id": "WW_416",
+    "name": "龟壳游戏",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "随机获取其他职业的史诗，稀有和普通卡牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100944,
+    "elite": true,
+    "flavor": "“我讨厌这个绰号。\n叫我钻先生！”",
+    "health": 3,
+    "id": "WW_417",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "EXCAVATE",
+      "QUICKDRAW"
+    ],
+    "name": "钻头小子",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，快枪，亡语：</b><b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  }
+]

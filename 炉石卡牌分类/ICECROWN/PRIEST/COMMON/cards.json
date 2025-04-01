@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Paul Kwon",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42574,
+    "flavor": "当你已经身处最底层时，只能往上升了。",
+    "health": 3,
+    "id": "ICC_210",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗影升腾者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "在你的回合结束时，随机使另一个友方随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brom",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42596,
+    "flavor": "只有经过长年累月的实践才能真正掌握这种痛苦的艺术。",
+    "health": 3,
+    "id": "ICC_212",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "酷虐侍僧",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42992,
+    "flavor": "你们的灵魂都是我的。",
+    "id": "ICC_802",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "灵魂鞭笞",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n对所有随从造成\n$1点伤害。",
+    "type": "SPELL"
+  }
+]

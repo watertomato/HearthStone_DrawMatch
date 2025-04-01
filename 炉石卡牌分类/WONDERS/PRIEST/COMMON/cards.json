@@ -1,0 +1,85 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102590,
+    "flavor": "馆长的脾气不太好，这都要归咎于那些攀爬书架的熊孩子和企图复活展品的疯子们。",
+    "health": 2,
+    "id": "WON_056",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "博物馆馆长",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：发现</b>一张<b>亡语</b>牌，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103216,
+    "flavor": "你见过不带兜帽的侍僧吗？反正我没见过……",
+    "health": 6,
+    "id": "WON_313",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "兜帽侍僧",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>。每当一个角色获得治疗时，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103217,
+    "flavor": "自从侏儒世界放大器被滥用之后，侏儒工程师们就对体型变化装置非常谨慎。",
+    "health": 2,
+    "id": "WON_314",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "缩小射线工程师",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "targetingArrowText": "在本回合中获得-3攻击力。",
+    "text": "<b>战吼：</b>在本回合中，使一个随从获得-3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Seaman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103218,
+    "flavor": "她最拿手的甜点就是巧克力熔岩漏斗蛋糕。",
+    "health": 5,
+    "id": "WON_315",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夜色镇炼金师",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "targetingArrowText": "恢复5点生命值。",
+    "text": "<b>战吼：</b>\n恢复#5点生命值。",
+    "type": "MINION"
+  }
+]

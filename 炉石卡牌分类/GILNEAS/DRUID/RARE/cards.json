@@ -1,0 +1,55 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46903,
+    "flavor": "丢了魂又怎样，至少我长得英明神武！",
+    "health": 1,
+    "id": "GIL_507",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "失魂的守卫",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽，战吼：</b>\n你每有一张手牌，便获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 47117,
+    "flavor": "千万要锁好吉尔尼斯宠物墓园的大门！",
+    "id": "GIL_571",
+    "name": "巫术时刻",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "随机召唤一个在本局对战中死亡的友方野兽。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48286,
+    "flavor": "“快签了这份弃权声明，我们就好上路了。”",
+    "health": 6,
+    "id": "GIL_833",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "森林向导",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "在你的回合结束时，双方玩家各抽\n一张牌。",
+    "type": "MINION"
+  }
+]

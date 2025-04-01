@@ -1,0 +1,455 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 68341,
+    "flavor": "黑暗中的威胁 —— 明枪易躲，暗箭难防。",
+    "id": "VAN_CS2_057",
+    "name": "暗影箭",
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "对一个随从造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Bernie Kang",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69751,
+    "flavor": "小鬼喜欢躲在暗处嘲讽附近的所有人，并且对此乐此不疲。",
+    "health": 1,
+    "id": "VAN_CS2_059",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲜血小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "VANILLA",
+    "text": "<b>潜行</b>\n在你的回合结束时，随机使另一个友方随从获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 68342,
+    "flavor": "“我只是减少了你一年的寿命而已。”",
+    "id": "VAN_CS2_061",
+    "name": "吸取生命",
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "造成$2点伤害，为你的英雄恢复#2点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chippy",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 68343,
+    "flavor": "鸟尽弓藏，兔死狗烹，术士才不需要什么忠心耿耿的随从。",
+    "id": "VAN_CS2_062",
+    "name": "地狱烈焰",
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "对所有角色造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 68344,
+    "flavor": "心灵的腐蚀来自于最初的一些小偷小摸，而在你意识到它之前...嘭！一切化为乌有！",
+    "id": "VAN_CS2_063",
+    "name": "腐蚀术",
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "选择一个敌方随从，在你的回合开始时，消灭该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 68346,
+    "flavor": "“地狱火！”——加拉克苏斯，燃烧军团的艾瑞达之王",
+    "health": 6,
+    "id": "VAN_CS2_064",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐惧地狱火",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "<b>战吼：</b>对所有其他角色造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 68347,
+    "flavor": "虽然他也拥有蓝色的，胖胖的身材，但他和某部动画片里的主角没关系。",
+    "health": 3,
+    "id": "VAN_CS2_065",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "虚空行者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Polidora",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69913,
+    "flavor": "没错，他会为你而战，但并非心甘情愿。",
+    "health": 5,
+    "id": "VAN_EX1_301",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "恶魔卫士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "<b>嘲讽，战吼：</b>摧毁你的一个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Gaser",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 68459,
+    "flavor": "很久以前，术士们发现只要在普通的法术中加入一点令人作呕的颜色，就能在伤害敌人的同时使其恐惧。真是一举两得。",
+    "id": "VAN_EX1_302",
+    "name": "死亡缠绕",
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "对一个随从造成$1点伤害。如果消灭该随从，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Kendall",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69914,
+    "flavor": "始于一个强大的随从，终于一场华丽的浩劫。多么有趣！",
+    "id": "VAN_EX1_303",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "暗影烈焰",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "消灭一个友方随从，对所有敌方随从造成等同于其攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69915,
+    "flavor": "如果你把这张牌放到你的套牌中，你就会失去其他随从对你的信任。",
+    "health": 3,
+    "id": "VAN_EX1_304",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚空恐魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "<b>战吼：</b>消灭两侧相邻的随从，并获得他们的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 68460,
+    "flavor": "这个小家伙不咬鞋改咬卡牌了。",
+    "health": 3,
+    "id": "VAN_EX1_306",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "<b>战吼：</b>\n随机弃一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 68461,
+    "flavor": "是把别人的灵魂点燃？还是用自己的灵魂把别人点燃？这似乎是有很大区别的。",
+    "id": "VAN_EX1_308",
+    "name": "灵魂之火",
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "造成$4点伤害，随机弃一\n张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69916,
+    "flavor": "你最好避免虹吸自己的灵魂，这样会造成一些很奇怪的死循环。",
+    "id": "VAN_EX1_309",
+    "name": "灵魂虹吸",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "消灭一个随从，为你的英雄恢复#3点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Lucas Graciano",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69917,
+    "flavor": "召唤末日守卫有很大的风险。总得有人付出生命的代价。",
+    "health": 7,
+    "id": "VAN_EX1_310",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "末日守卫",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "<b>冲锋</b>，<b>战吼：</b>随机弃两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 69918,
+    "flavor": "扭曲虚空浩渺无际，充满着魔法、幻象和被放逐的生命体。",
+    "id": "VAN_EX1_312",
+    "name": "扭曲虚空",
+    "rarity": "EPIC",
+    "set": "VANILLA",
+    "text": "消灭所有随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69919,
+    "flavor": "或许玛诺洛斯、玛瑟里顿和布鲁塔卢斯都已经死了，但其实深渊领主还有很多很多。",
+    "health": 6,
+    "id": "VAN_EX1_313",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深渊领主",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "VANILLA",
+    "text": "<b>战吼：</b>对你的英雄造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69920,
+    "flavor": "不能少于1点！你在想什么坏主意呢！",
+    "health": 4,
+    "id": "VAN_EX1_315",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "召唤传送门",
+    "rarity": "COMMON",
+    "set": "VANILLA",
+    "text": "你的随从牌的法力值消耗减少（2）点，但不能少于（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tom Baxa",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69921,
+    "flavor": "别让那个随从知道他死后的样子。那惨象无可言状。",
+    "id": "VAN_EX1_316",
+    "name": "力量的代价",
+    "rarity": "COMMON",
+    "set": "VANILLA",
+    "text": "使一个友方随从获得+4/+4，该随从会在回合结束时死亡。死得很惨。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raven Mimura",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69922,
+    "flavor": "一般说来，恶魔总是比较容易辨认的，不需要用一个法术来感知它们。",
+    "id": "VAN_EX1_317",
+    "name": "感知恶魔",
+    "rarity": "COMMON",
+    "set": "VANILLA",
+    "text": "从你的牌库中抽两张恶魔牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69923,
+    "flavor": "小鬼们喜欢引火上身。它们就是喜欢。",
+    "health": 2,
+    "id": "VAN_EX1_319",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "烈焰小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "VANILLA",
+    "text": "<b>战吼：</b>对你的英雄造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69924,
+    "flavor": "福无双至，祸不单行。",
+    "id": "VAN_EX1_320",
+    "name": "末日灾祸",
+    "rarity": "EPIC",
+    "set": "VANILLA",
+    "text": "对一个角色造成$2点伤害。如果消灭该角色，随机召唤一个恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 69925,
+    "elite": true,
+    "flavor": "“渺小的侏儒！你的傲慢会招致灭亡！”",
+    "health": 15,
+    "heroPowerDbfId": 1178,
+    "id": "VAN_EX1_323",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "加拉克苏斯大王",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "VANILLA",
+    "text": "<b>战吼：</b>消灭你的英雄，并用加拉克苏斯大王替换之。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Wootten",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 70042,
+    "flavor": "恶魔之火和普通火焰没什么区别，除了它从来不会熄灭...救命！",
+    "id": "VAN_EX1_596",
+    "name": "恶魔之火",
+    "rarity": "COMMON",
+    "set": "VANILLA",
+    "text": "对一个随从造成$2点伤害，如果该随从是友方恶魔，则改为使其获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 68526,
+    "flavor": "这就是恶魔不愿意和术士交朋友的原因。",
+    "id": "VAN_NEW1_003",
+    "name": "牺牲契约",
+    "rarity": "FREE",
+    "set": "VANILLA",
+    "text": "消灭一个恶魔，为你的英雄恢复#5点生命值。",
+    "type": "SPELL"
+  }
+]

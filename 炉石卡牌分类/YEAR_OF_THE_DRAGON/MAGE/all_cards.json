@@ -1,0 +1,69 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 7,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 56071,
+    "flavor": "每次都因为说话的时候手上动作太多而冲下山崖。",
+    "health": 6,
+    "id": "YOD_007",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活化雪崩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，召唤一个本随从的\n复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56072,
+    "flavor": "和术士的关系不太好。",
+    "health": 5,
+    "id": "YOD_008",
+    "mechanics": [
+      "HEROPOWER_DAMAGE"
+    ],
+    "name": "奥术增幅体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "你的英雄技能会额外造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56076,
+    "elite": true,
+    "flavor": "“雷诺！”“请用正确的方式称呼我。”“<叹气><i>神奇的</i>雷诺……”",
+    "health": 30,
+    "heroPowerDbfId": 56075,
+    "id": "YOD_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神奇的雷诺",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>使所有随从消失。<i>*咻！*</i>",
+    "type": "HERO"
+  }
+]

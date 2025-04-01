@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 70003,
+    "flavor": "吓坏了么，小朋友们，休叫敌人笑话我们，邪火爆弹骁勇无敌，下手要狠！",
+    "id": "AV_281",
+    "name": "邪火爆弹",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "抽一张法术牌，对所有敌人造成$2点伤害。如果抽到的是邪能法术牌，则再造成$1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 67756,
+    "flavor": "召唤的代价是你的一条手臂和你弟弟。",
+    "health": 3,
+    "id": "AV_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "献祭召唤者",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从。从你的牌库中召唤一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  }
+]

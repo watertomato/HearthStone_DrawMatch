@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43373,
+    "flavor": "只要喝上三碗，老虎又算什么。",
+    "id": "LOOT_088",
+    "name": "英勇药水",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得<b>圣盾</b>。抽\n一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46007,
+    "flavor": "检查牢房的时候别忘了把墙上的海报揭起来看看。",
+    "health": 1,
+    "id": "LOOT_363",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "旱谷狱卒",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>\n将三张“白银之手新兵”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ware Lee",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46258,
+    "flavor": "第一个愿望是漏斗蛋糕，第二个愿望是漏斗蛋糕，第三个愿望……才不是更多的漏斗蛋糕呢，是更多的愿望，这样就可以有更多的漏斗蛋糕了！",
+    "health": 4,
+    "id": "LOOT_398",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "和蔼的灯神",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合结束时，为你的英雄恢复#3点生命值。",
+    "type": "MINION"
+  }
+]

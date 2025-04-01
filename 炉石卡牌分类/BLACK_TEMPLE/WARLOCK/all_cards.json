@@ -1,0 +1,202 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 57326,
+    "elite": true,
+    "flavor": "只要给他一个回合，他就能冷静不少。",
+    "health": 3,
+    "id": "BT_196",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "击碎者克里丹",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>消灭一个随从。如果在本回合被抽到，则改为消灭除本随从外的所有随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57149,
+    "flavor": "警告！你的随从处于易受波及的危险区域。",
+    "id": "BT_199",
+    "name": "不稳定的邪能箭",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "对一个敌方随从和一个随机友方随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 56501,
+    "flavor": "古尔丹的脑袋也能抽三张牌。你想想，要是他用全身抽牌，那得抽多少！",
+    "id": "BT_300",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "古尔丹之手",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "SHADOW",
+    "text": "当你使用或弃掉这张牌时，抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56502,
+    "flavor": "总能给那些“高级”随从留下阴影。",
+    "health": 5,
+    "id": "BT_301",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "夜影主母",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>突袭，战吼：</b>\n弃掉你手牌中法力值消耗最高的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56511,
+    "flavor": "有人说它是艾泽拉斯最大的祸根——除了那些侏儒。",
+    "id": "BT_302",
+    "name": "黑暗之门",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "抽一张随从牌。如果你拥有至少八张手牌，则使其法力值消耗减少（5）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 56516,
+    "flavor": "这张照片拍摄的其实是街对面的球形门把手上反射出的形象。",
+    "health": 7,
+    "id": "BT_304",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "改进型恐惧魔王",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽，亡语：</b>召唤一个5/5并具有<b>吸血</b>的恐惧魔王。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56519,
+    "flavor": "铁鬼截铁轨，铁贵携铁归。",
+    "health": 3,
+    "id": "BT_305",
+    "name": "被禁锢的拾荒小鬼",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>2回合。唤醒时，使你手牌中的所有随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56520,
+    "flavor": "为什么外域的人都喜欢换手？！",
+    "id": "BT_306",
+    "name": "暗影议会",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "随机将你的手牌替换成恶魔牌，并使它们获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56523,
+    "flavor": "他的巨眼在黑暗中闪耀，视线却如同水晶一般清澈！",
+    "health": 4,
+    "id": "BT_307",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑眼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>如果你的英雄在本回合受到过伤害，复原3个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56534,
+    "elite": true,
+    "flavor": "伊利丹败落之后，坎雷萨德组建了黑暗收割议会来研究伊利丹的邪能魔法。据说他羡慕得……眼睛都绿了。",
+    "health": 2,
+    "id": "BT_309",
+    "mechanics": [
+      "AURA",
+      "DEATHRATTLE"
+    ],
+    "name": "坎雷萨德·埃伯洛克",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "你的恶魔牌法力值消耗减少（1）点。<b>亡语：</b>将“终极坎雷萨德”洗入你的牌库。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Evgeniy Zagumyennyy",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 49867,
+    "elite": true,
+    "flavor": "平静，祥和，仿佛看到……一群青蛙。",
+    "health": 3,
+    "id": "TRL_085",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "泽蒂摩",
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "每当你以一个随从为目标施放法术时，对该随从相邻的随从再次施放。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 50369,
+    "elite": true,
+    "flavor": "卡格瓦纪念朋友和吞噬敌人的方式是一样的，吃到肚里没人分得清。",
+    "health": 6,
+    "id": "TRL_345",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "卡格瓦，青蛙之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>将你上回合使用的所有法术牌移回你的手牌。",
+    "type": "MINION"
+  }
+]

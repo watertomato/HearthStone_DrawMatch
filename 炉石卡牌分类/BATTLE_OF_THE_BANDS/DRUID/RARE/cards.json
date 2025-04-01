@@ -1,0 +1,90 @@
+[
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 94201,
+    "flavor": "与其说是“圈”，它更像是个五边形，真的。",
+    "id": "ETC_373",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "集会鼓圈",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤五个2/2的树人；或者使你的所有随从获得+2/+4和<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 94205,
+    "flavor": "“那些老气横秋的成年人根本听不懂我们的音乐。”",
+    "health": 5,
+    "id": "ETC_376",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盛夏花童",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>抽两张法力值消耗大于或等于（6）点的牌。<b>压轴：</b>使其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 94249,
+    "flavor": "“想象一下，兄弟，我们都是卡牌，活在这个叫《炉石传说》的小盒子里。”",
+    "health": 1,
+    "id": "ETC_385",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "潮流猎豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼，亡语：</b>在本局对战中，你的英雄技能使你的英雄多获得1点攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98382,
+    "flavor": "这种德才叫缺德。",
+    "health": 5,
+    "id": "JAM_029",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "末日枭兽",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>夺取你对手的一个空的法力水晶。",
+    "type": "MINION"
+  }
+]

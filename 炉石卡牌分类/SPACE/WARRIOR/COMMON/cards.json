@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110896,
+    "flavor": "“还有我的斧头！”“还有我的斧头！”“还有我的斧头！”",
+    "health": 5,
+    "id": "GDB_226",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "SPELLBURST"
+    ],
+    "name": "凶恶的入侵者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼，<b>法术迸发</b>，\n亡语：</b>对所有其他随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110902,
+    "flavor": "航行越来越远，日志的厚度见长。",
+    "id": "GDB_228",
+    "name": "舰长日志",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "抽两张牌。你每控制一个德莱尼，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110914,
+    "flavor": "不断出击，不达目的决不休息。",
+    "health": 4,
+    "id": "GDB_232",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "不屈的守备官",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你使用的下一个德莱尼会使你的英雄在当回合获得该德莱尼的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 113212,
+    "flavor": "异虫病患一致认定这种武器的疼痛指数可达7级。",
+    "id": "SC_411",
+    "isMiniSet": true,
+    "name": "震荡弹",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "造成$2点伤害并获得2点护甲值。你的下一次<b>星舰</b>发射的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  }
+]

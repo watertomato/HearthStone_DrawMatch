@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 47982,
+    "elite": true,
+    "flavor": "她是砰砰博士的左右手。准确来讲，是右手。",
+    "health": 4,
+    "id": "BOT_103",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "观星者露娜",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "在你使用最右边的一张手牌后，抽\n一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 48198,
+    "elite": true,
+    "flavor": "在露娜的导师发明了口袋黑洞之后，露娜成了天文系的新主任。",
+    "id": "BOT_257",
+    "name": "露娜的口袋银河",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "spellSchool": "ARCANE",
+    "text": "使你牌库中所有随从牌的法力值消耗变为（1）点。",
+    "type": "SPELL"
+  }
+]

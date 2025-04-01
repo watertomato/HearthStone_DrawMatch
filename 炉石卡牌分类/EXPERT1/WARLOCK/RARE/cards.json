@@ -1,0 +1,125 @@
+[
+  {
+    "artist": "John Polidora",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 517,
+    "flavor": "没错，他会为你而战，但并非心甘情愿。",
+    "health": 5,
+    "id": "EX1_301",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "恶魔卫士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>嘲讽，战吼：</b>摧毁你的一个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Kendall",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 147,
+    "flavor": "始于一个强大的随从，终于一场华丽的浩劫。多么有趣！",
+    "id": "EX1_303",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "暗影烈焰",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个友方随从，对所有敌方随从造成等同于其攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1221,
+    "flavor": "如果你把这张牌放到你的套牌中，你就会失去其他随从对你的信任。",
+    "health": 4,
+    "id": "EX1_304",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚空恐魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>战吼：</b>消灭两侧相邻的随从，并获得他们的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 1100,
+    "flavor": "你最好避免虹吸自己的灵魂，这样会造成一些很奇怪的死循环。",
+    "id": "EX1_309",
+    "name": "灵魂虹吸",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从，为你的英雄恢复#3点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Lucas Graciano",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 631,
+    "flavor": "召唤末日守卫有很大的风险。总得有人付出生命的代价。",
+    "health": 7,
+    "id": "EX1_310",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "末日守卫",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>冲锋</b>，<b>战吼：</b>随机弃两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103664,
+    "flavor": "“这份礼物不会像上次那样……”——古尔丹",
+    "howToEarn": "打开<i>威兹班的工坊</i>卡牌包后可解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "GIFT_11",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "古尔丹的礼物",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>发现</b>一张<b>临时</b>的死亡缠绕，灵魂虹吸或扭曲虚空。",
+    "type": "SPELL"
+  }
+]

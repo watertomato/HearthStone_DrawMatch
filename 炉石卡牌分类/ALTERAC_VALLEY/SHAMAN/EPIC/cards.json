@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 67751,
+    "flavor": "嘿，咱们不是说好了不打队友吗！",
+    "id": "AV_250",
+    "name": "雪球大战",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FROST",
+    "text": "对一个随从造成$1点伤害并使其<b>冻结</b>。如果该随从依然存活，则对另一个随从重复此效果！",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 67761,
+    "flavor": "一球下去，人就凉了。",
+    "health": 4,
+    "id": "AV_251",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "作弊的雪地狗头人",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "在一个敌人被<b>冻结</b>后，对其造成3点\n伤害。",
+    "type": "MINION"
+  }
+]

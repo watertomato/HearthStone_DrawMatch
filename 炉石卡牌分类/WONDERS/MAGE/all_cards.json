@@ -1,0 +1,259 @@
+[
+  {
+    "artist": "Dan Scott",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102554,
+    "flavor": "达拉然的骑士身上也散发着魔法的气息。",
+    "health": 5,
+    "id": "WON_029",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "达拉然铁骑士",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "WONDERS",
+    "text": "<b>法术伤害+1</b>\n<b>激励：</b>获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Blizzard Cinematics",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102556,
+    "flavor": "这些法力浮龙以奥术能量为食。所以尽管这些捣蛋鬼不会成为真正的威胁，你也不应该让它们接近任何法术力源。",
+    "health": 3,
+    "id": "WON_031",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "法力浮龙",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "每当你施放一个法术，便获得\n+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102558,
+    "flavor": "地精发明家们从来不会考虑环保和安全这两个因素；而他们认为正是这一点使他们的发明更加出类拔萃。",
+    "health": 4,
+    "id": "WON_033",
+    "mechanics": [
+      "BATTLECRY",
+      "SPELLPOWER"
+    ],
+    "name": "煤烟喷吐装置",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "spellDamage": 1,
+    "targetingArrowText": "使其获得<b>法术伤害+2</b>。",
+    "text": "<b>法术伤害+1</b>\n<b>战吼：</b>如果你控制着其他机械，随机获取一张火焰法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102560,
+    "flavor": "如果你实在找不到炸弹了，那就随便找一个地精发明的东西，然后把它扔出去……",
+    "health": 4,
+    "id": "WON_035",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "地精炎术师",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>如果你控制任何机械，则造成6点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102561,
+    "flavor": "尤格-萨隆总是在抱怨自己的仆从太多，每天起床一想到还有那么多张嘴等着它喂就头疼。",
+    "health": 4,
+    "id": "WON_036",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尤格-萨隆的仆从",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>随机施放一个法力值消耗大于或等于（5）点的法术<i>（目标随机而定）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Milivoj Ceran",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102562,
+    "flavor": "秘法宝典？说不定里面有制作魔法点心的食谱……",
+    "id": "WON_037",
+    "name": "秘法宝典",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "spellSchool": "ARCANE",
+    "text": "随机获取3张法师法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Aleksi Briclot",
+    "attack": 7,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102563,
+    "elite": true,
+    "flavor": "米米尔隆最喜欢开着烈焰巨兽外出兜风。",
+    "health": 7,
+    "id": "WON_038",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "烈焰巨兽",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>突袭</b>。当你抽到该牌时，对所有除机械外的角色造成\n2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102564,
+    "flavor": "我是麦迪文的学徒，我学得不像吗？有什么问题？",
+    "health": 2,
+    "id": "WON_039",
+    "name": "黑色沼泽卧底",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "WONDERS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张法力值消耗为（2）并获得<b>法术伤害+1</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102567,
+    "flavor": "最后一舞，一定要留给这一支。",
+    "id": "WON_040",
+    "name": "时光之末迪斯科",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WONDERS",
+    "text": "随机施放5个来自过去的<b>奥秘</b>。在你的回合开始时，摧毁这些奥秘。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102568,
+    "elite": true,
+    "flavor": "“诺兹多姆！你是说，你造了台时光机……只用了一张炉石卡牌？”",
+    "health": 4,
+    "id": "WON_041",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时空跃迁者克罗米",
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>前往一个历史时期。将其他历史时期洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103203,
+    "flavor": "嗨，想要点私货吗？可千万别告诉我的老板！",
+    "health": 5,
+    "id": "WON_308",
+    "name": "暗金教水晶侍女",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WONDERS",
+    "text": "在本局对战中，你每使用一张<b>奥秘</b>牌，本牌的法力值消耗便减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nutthapon Petchthai",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105563,
+    "flavor": "炎枪术，冰枪术，酸枪术……招招克敌，枪枪致命。",
+    "id": "WON_341",
+    "name": "炎枪术",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$25点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105688,
+    "flavor": "沉溺于法术而无法自拔的人，都应该送去治疗。",
+    "health": 4,
+    "id": "WON_344",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "嗜法者",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>双方玩家各获取一张随机法术牌，你获取的那张法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

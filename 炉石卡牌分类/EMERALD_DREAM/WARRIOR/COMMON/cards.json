@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114219,
+    "flavor": "不入龙穴，焉得招惹守护者！",
+    "health": 3,
+    "id": "EDR_457",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙巢守护者",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，装备一把2/2的剑。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 116293,
+    "flavor": "可以半熟，也可以全熟。",
+    "health": 5,
+    "id": "EDR_468",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "捣蛋狂魔",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "targetingArrowText": "造成1点伤害。",
+    "text": "<b>战吼：</b>对一个随从造成1点伤害，并使其获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116660,
+    "flavor": "大家都在说梦魇，但我怎么没看到黑马呢？",
+    "id": "EDR_570",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "凶险梦魇",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
+    "text": "<b>抉择：</b>对所有随从造成$1点伤害；或者使一个受伤的随从获得+2/+2。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106582,
+    "flavor": "对着树丛跳？",
+    "id": "VAC_925",
+    "name": "伞降咒符",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，召唤两个1/1并具有<b>冲锋</b>的海盗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106584,
+    "flavor": "摩托车，就是驮着恶魔的车。",
+    "health": 2,
+    "id": "VAC_927",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂飙邪魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在一个友方海盗攻击后，使你的英雄在\n本回合中获得\n+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106615,
+    "flavor": "四爪驱动，独立关节悬架，还有7法力的保修？在哪签字付款？",
+    "health": 8,
+    "id": "VAC_930",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "全地形虚空猎犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "每当本随从攻击时，使你的英雄在本回合中获得+5攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110768,
+    "flavor": "*捂脸*我想要的插画本来是一个幽灵在推车叫卖……",
+    "health": 6,
+    "id": "WORK_015",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "精魂商贩",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>亡语：</b>随机使你手牌中的一张随从牌的法力值消耗减少（6）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110769,
+    "durability": 0,
+    "flavor": "打扰一下，是你把我的订书机拿走了吧……",
+    "health": 3,
+    "id": "WORK_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狱火订书器",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你的英雄攻击后，对你的英雄造成3点伤害。",
+    "type": "WEAPON"
+  }
+]

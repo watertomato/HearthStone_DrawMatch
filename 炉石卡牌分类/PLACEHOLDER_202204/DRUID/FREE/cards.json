@@ -1,0 +1,17 @@
+[
+  {
+    "artist": "Richard Wright",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 112918,
+    "flavor": "“把月火术拖到每一个技能栏位上。”——《如何成为一名德鲁伊》，第五章，第三节",
+    "id": "Core_CS2_008",
+    "name": "月火术",
+    "rarity": "FREE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "ARCANE",
+    "text": "造成$1点伤害。",
+    "type": "SPELL"
+  }
+]

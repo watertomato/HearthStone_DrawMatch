@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "J. Axer",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 51376,
+    "flavor": "“暗影的噩梦险象环绕！孱弱的凡人惊声尖叫！骇人的阴谋即将来到……”",
+    "id": "DAL_011",
+    "name": "拉祖尔的阴谋",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "spellSchool": "SHADOW",
+    "text": "直到你的下个回合，使一个敌方随从的攻击力降低1点。<i>（每回合都会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 51567,
+    "flavor": "让他来比手影简直是场灾难：“猜猜这是什么……一只触手！那这次呢……是两只触手！”",
+    "health": 2,
+    "id": "DAL_030",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阴暗的人影",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DALARAN",
+    "targetingArrowText": "变形成为2/2的复制。",
+    "text": "<b>战吼：</b>\n变形成为一个友方<b>亡语</b>随从的2/2复制。",
+    "type": "MINION"
+  }
+]

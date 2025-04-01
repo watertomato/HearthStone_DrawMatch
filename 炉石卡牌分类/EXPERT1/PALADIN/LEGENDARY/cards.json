@@ -1,0 +1,24 @@
+[
+  {
+    "artist": "Brom",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 890,
+    "elite": true,
+    "flavor": "如果你还没听过《提里奥·弗丁主题曲》，那是因为它还没被谱写出来。",
+    "health": 8,
+    "id": "EX1_383",
+    "mechanics": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "提里奥·弗丁",
+    "rarity": "LEGENDARY",
+    "set": "EXPERT1",
+    "text": "<b>圣盾</b>，<b>嘲讽</b>，<b>亡语：</b>装备一把5/3的\n灰烬使者。",
+    "type": "MINION"
+  }
+]

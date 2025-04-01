@@ -1,0 +1,303 @@
+[
+  {
+    "artist": "Bobby Chiu",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2279,
+    "flavor": "如果你喜欢自己脸被打肿的样子，就请来到黑铁酒吧！",
+    "health": 3,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁制作。",
+    "id": "BRM_019",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恐怖的奴隶主",
+    "rarity": "RARE",
+    "set": "BRM",
+    "text": "在本随从受到伤害并存活下来后，召唤另一个恐怖的奴隶主。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edouard Guiton & Stuido HIVE",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2306,
+    "flavor": "当龙人巫师向大家说道：“我来给大家变个戏法”的时候，大家都走开了，因为没人要看他从龙变成人的把戏。",
+    "health": 5,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁制作。",
+    "id": "BRM_020",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙人巫师",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "每当<b>你</b>以本随从为目标施放一个法术时，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2278,
+    "flavor": "究竟是先有龙，还是先有龙蛋？",
+    "health": 2,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁制作。",
+    "id": "BRM_022",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙蛋",
+    "rarity": "RARE",
+    "set": "BRM",
+    "text": "每当本随从受到\n伤害，召唤一条2/1的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2257,
+    "flavor": "不要问龙人任何问题。因为他们的答案肯定是：“就不告诉你，就不告诉你……”",
+    "health": 6,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁制作。",
+    "id": "BRM_024",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙人打击者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "<b>战吼：</b>如果你对手的生命值小于或等于15点，便获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lucas Graciano",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2258,
+    "flavor": "火山幼龙喷吐的是熔岩而不是火焰。瑟银哨塔的抗酸剂小贩靠这个赚了不少钱。",
+    "health": 4,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁制作。",
+    "id": "BRM_025",
+    "name": "火山幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "在本回合中每有一个随从死亡，本牌的\n法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Polidora",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2283,
+    "flavor": "它其实不太愿意吃1点法力值召唤出来的随从，那些肉都不够它塞牙缝的。",
+    "health": 6,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁制作。",
+    "id": "BRM_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "饥饿的巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "<b>战吼：</b>为你的对手随机召唤一个法力值消耗为（1）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 2281,
+    "elite": true,
+    "flavor": "你觉得是埃克索图斯把你变成了拉格纳罗斯，但其实，拉格纳罗斯就在你心中。",
+    "health": 7,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁制作。",
+    "id": "BRM_027",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "管理者埃克索图斯",
+    "rarity": "LEGENDARY",
+    "set": "BRM",
+    "text": "<b>亡语：</b>\n用炎魔之王拉格纳罗斯替换你的英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2262,
+    "elite": true,
+    "flavor": "把一个邪恶的炎魔之王召唤到这个世界上，然后看着这个家伙奴役了他所有的子民并非是他最为后悔的事情。",
+    "health": 4,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁制作。",
+    "id": "BRM_028",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "索瑞森大帝",
+    "rarity": "LEGENDARY",
+    "set": "BRM",
+    "text": "在你的回合结束时，你所有手牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2308,
+    "elite": true,
+    "flavor": "雷德坚持认为自己才是部落真正的领袖。于是他登录某百科网站，修改了“部落酋长”词条，加入了他自己的照片。",
+    "health": 4,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁制作。",
+    "id": "BRM_029",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷德·黑手",
+    "rarity": "LEGENDARY",
+    "set": "BRM",
+    "targetingArrowText": "消灭一个传说随从。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则消灭一个<b>传说</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ruan Jia",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 2261,
+    "elite": true,
+    "flavor": "据说他父亲的眼泪所凝结成的晶体具有提高法术命中的功效。",
+    "health": 8,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁制作。",
+    "id": "BRM_030",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奈法利安",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BRM",
+    "text": "<b>战吼：</b>随机将两张<i>（你对手职业的）</i>法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Lockwood",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 2280,
+    "elite": true,
+    "flavor": "当两个头都无法说服对方晚餐到底吃什么的时候，它通常都会去拉面店解决问题。",
+    "health": 8,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁制作。",
+    "id": "BRM_031",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "克洛玛古斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BRM",
+    "text": "每当你抽一张牌时，将该牌的另一张复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2408,
+    "flavor": "黑翼技师不仅承担所有黑翼之巢的机械维护工作，还会为成为会员的龙进行推拿和按摩。",
+    "health": 4,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁制作。",
+    "id": "BRM_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑翼技师",
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Greg Staples",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2409,
+    "flavor": "当他把几本漫画书和几张摇滚碟片带回黑石山的时候，他就获得了“腐蚀者”的称号。",
+    "health": 4,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在秘密实验室中解锁制作。",
+    "id": "BRM_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑翼腐蚀者",
+    "rarity": "COMMON",
+    "set": "BRM",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则造成5点伤害。",
+    "type": "MINION"
+  }
+]

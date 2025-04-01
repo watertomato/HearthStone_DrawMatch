@@ -1,0 +1,106 @@
+[
+  {
+    "artist": "Juan Calle",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110235,
+    "flavor": "自从它动了偷走冬幕节的心思之后，尺寸长大了3码。",
+    "health": 2,
+    "id": "GDB_109",
+    "mechanics": [
+      "LIFESTEAL",
+      "STARSHIP_PIECE"
+    ],
+    "name": "军团之心",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>吸血</b>\n<b>星舰组件</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111133,
+    "flavor": "“我是末日的使者！混乱将近，毁灭降临，你的灭亡近在咫尺，最可怕的事情就要发生——在闹钟响起之前15分钟醒来！”",
+    "health": 3,
+    "id": "GDB_121",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恶兆邪火",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>在本局对战中，你套牌之外的恶魔的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111169,
+    "flavor": "把我传送上去吧，贝西！",
+    "id": "GDB_123",
+    "name": "挟持射线",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "spellSchool": "SHADOW",
+    "text": "随机获取一张恶魔牌，其法力值消耗减少（2）点。在本回合可以重复使用。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113664,
+    "flavor": "注意别把你的雷兽卡在这段坡道上。",
+    "health": 3,
+    "id": "SC_019",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "雷兽窟",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SPACE",
+    "text": "对所有敌人造成1点伤害。<b>亡语：</b>召唤一只8/8并具有<b>突袭</b>的雷兽。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113673,
+    "flavor": "稍等，他正在往地里钻！……好吧，再等等，他就快钻进去了！",
+    "health": 6,
+    "id": "SC_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "CANT_ATTACK",
+      "TAUNT"
+    ],
+    "name": "脊针爬虫",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>嘲讽</b>。无法攻击。如果你控制着地标，则拥有+3攻击力。",
+    "type": "MINION"
+  }
+]

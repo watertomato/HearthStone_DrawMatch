@@ -1,0 +1,116 @@
+[
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 111324,
+    "durability": 0,
+    "flavor": "米奈希尔之力，夜战利器，圣光之敌，令人鄙弃。",
+    "health": 2,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得250场对战后解锁。",
+    "id": "CORE_RLK_740",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "米奈希尔之力",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>消耗最多3份<b>残骸</b>，<b>冻结</b>等量的敌方随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 111322,
+    "flavor": "死后继续按键，向同伴“借”一条魂。",
+    "health": 5,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得250场对战后解锁。",
+    "id": "CORE_RLK_741",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "窃魂者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n消灭所有其他随从。每消灭一个敌方随从，获得1份<b>残骸</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 80021,
+    "flavor": "“噫，恶心，呕——”“住口，你太让我伤心了！”",
+    "health": 6,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得250场对战后解锁。",
+    "id": "RLK_115",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "丑恶巨怪",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "PLACEHOLDER_202204",
+    "text": "敌方角色无法被治疗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 82088,
+    "flavor": "烟有害健康，湮灭也一样。",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得250场对战后解锁。",
+    "id": "RLK_125",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "湮灭",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "PLACEHOLDER_202204",
+    "text": "消灭一个随从。对你的英雄造成3点伤害。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100179,
+    "elite": true,
+    "flavor": "他始终保持着微笑……他也不想这样，但闭嘴时扎得太疼了。",
+    "health": 5,
+    "id": "WW_814",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "刺牙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>随机召唤一只法力值消耗等同于本随从攻击力的\n野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100180,
+    "elite": true,
+    "flavor": "人会迷路，拳头不会迷路。",
+    "health": 4,
+    "id": "WW_815",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迷失者塞尔杜林",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，在本回合中获得<b>免疫</b>并攻击所有敌人。",
+    "type": "MINION"
+  }
+]

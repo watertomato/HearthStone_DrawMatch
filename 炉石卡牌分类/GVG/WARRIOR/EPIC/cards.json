@@ -1,0 +1,30 @@
+[
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2018,
+    "flavor": "只有地精曾经认为这是一项很棒的发明；而现在，连他们也开始有点怀疑了。",
+    "id": "GVG_050",
+    "name": "弹射之刃",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "随机对一个随从造成$1点伤害。重复此效果，直到某个随从死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Michael Sutfin",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2020,
+    "flavor": "“使用这张卡牌时的感觉将令你毕生难忘。”许多野蛮人都会这么对你说。",
+    "id": "GVG_052",
+    "name": "重碾",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "消灭一个随从。如果你控制任何受伤的随从，该法术的法力值消耗减少（4）点。",
+    "type": "SPELL"
+  }
+]

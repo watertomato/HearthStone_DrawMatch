@@ -1,0 +1,256 @@
+[
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 65691,
+    "flavor": "这才叫溅射伤害！",
+    "id": "DED_518",
+    "isMiniSet": true,
+    "name": "操纵火炮",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "对一个随从造成$3点伤害，并对所有其他随从造成$1点\n伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65692,
+    "flavor": "“……三。”",
+    "health": 3,
+    "id": "DED_519",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迪菲亚炮手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "在你的英雄攻击后，随机对一个敌人造成2点伤害，触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64197,
+    "durability": 0,
+    "flavor": "历经无数代铁匠之手。以及无数代铁匠的仇人的头。",
+    "health": 1,
+    "id": "DED_527",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "铁匠锤",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n在你<b>交易</b>此牌后，获得+2耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Dave Greco",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64196,
+    "flavor": "这不是懦弱，这叫有勇有谋。",
+    "health": 2,
+    "id": "SW_021",
+    "name": "怯懦的步兵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>亡语：</b>从你的牌库中召唤一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 64198,
+    "flavor": "“嗬，你好。嗬，你好。嗬，你好。我要粉碎你！”",
+    "id": "SW_023",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "挑衅",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n选择一个友方随从，使所有敌方随从攻击该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64199,
+    "elite": true,
+    "flavor": "他出道的时候还没有圣骑士这个职业，更没有什么机械圣骑士。",
+    "health": 7,
+    "id": "SW_024",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "洛萨",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，随机攻击一个敌方随从。如果目标随从死亡，获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64279,
+    "flavor": "当时那把剑离我的喉咙只有0.01码……",
+    "id": "SW_027",
+    "name": "海上威胁",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "对一个随从造成$2点伤害。如果你控制一个海盗，则改为造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64280,
+    "elite": true,
+    "flavor": "赢得了一年一度的棘齿城帆船大赛，他们真的很开心。",
+    "id": "SW_028",
+    "name": "开进码头",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用三张海盗牌。<b>奖励：</b>抽一张武器牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64277,
+    "flavor": "这就叫鱼木混侏……",
+    "health": 2,
+    "id": "SW_029",
+    "name": "港口匪徒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张海盗牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jialuan Li & Junru Zhuo",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64278,
+    "flavor": "呜呼——甲！",
+    "health": 4,
+    "id": "SW_030",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "货物保镖",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64975,
+    "flavor": "“别伤了他的腿！那双靴子我要了！”",
+    "health": 4,
+    "id": "SW_093",
+    "name": "暴风城海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>在本回合中，使你的英雄获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65656,
+    "flavor": "“是你说的，要那种护住全身，不动如山的重甲——真搞不懂你有什么不满意的。”",
+    "id": "SW_094",
+    "name": "厚重板甲",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n获得8点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65693,
+    "flavor": "某人在发明开罐器的时候嗨过了头。",
+    "health": 6,
+    "id": "SW_097",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "遥控傀儡",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "在本随从受到伤害后，将两张傀儡部件洗入你的牌库。当抽到傀儡部件时，召唤一个2/1的机械。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "artist": "Todd Harris",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97397,
+    "flavor": "詹妮弗甩了我。",
+    "health": 2,
+    "id": "TTN_456",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "蔽刺触手",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>吸血</b>。<b>战吼：</b>随机对一个敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97530,
+    "flavor": "显然，这张牌对于任何生命值6点及以上的随从来说都不会致命，例如杂耍小鬼。为保证叙事严谨，我们会削弱杂耍小鬼。",
+    "id": "TTN_460",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "致命诛灭",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "造成$5点伤害，随机分配到所有敌方随从身上。每消灭一个随从，为你的英雄恢复#2点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 97614,
+    "flavor": "监狱生活彻底改变了杰夫。",
+    "health": 4,
+    "id": "TTN_462",
+    "name": "被禁锢的恐魔",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在本局对战中，你每在你的回合受到一点伤害，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97619,
+    "flavor": "驯龙高手绝不会这么做。",
+    "id": "TTN_463",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "飞翼焊装",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "弃掉你法力值消耗最高的牌，对所有随从造成等同于其法力值消耗的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97623,
+    "flavor": "身处意志熔炉之中，你会感受到决心的力量。",
+    "health": 2,
+    "id": "TTN_465",
+    "name": "意志熔炉",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "选择一个友方随从。召唤一个具有其属性值和<b>突袭</b>的\n巨人。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98278,
+    "flavor": "该随从会继续存活。活得很惨。",
+    "id": "TTN_486",
+    "name": "魔化形态",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "直到你的下个回合，使一个友方随从获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98280,
+    "elite": true,
+    "flavor": "完美胜任，满分好评！——尤格-萨隆",
+    "health": 3,
+    "id": "TTN_487",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "洛肯，尤格-萨隆的看守",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张随从牌，召唤一条具有其属性值和<b>嘲讽</b>的触手。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98394,
+    "flavor": "鬼斧神工的锻造技艺。",
+    "health": 3,
+    "id": "TTN_490",
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "萨格拉斯的信徒",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>弃掉一张法术牌以召唤两个3/2的小鬼。<b>锻造：</b>使其获得+2生命值和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98030,
+    "flavor": "缺少食物时，你就不是你了。",
+    "id": "TTN_932",
+    "name": "混乱吞噬",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "消灭一个友方随从以消灭一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 97702,
+    "elite": true,
+    "flavor": "他曾是万神殿的护卫者，在执行任务时心志幻灭，于是组建了燃烧军团，旨在扫平宇宙间的一切生命。",
+    "health": 12,
+    "id": "TTN_960",
+    "mechanics": [
+      "BATTLECRY",
+      "TITAN"
+    ],
+    "name": "灭世泰坦萨格拉斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>战吼：</b>打开一道传送门，每回合召唤两个3/2的小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101513,
+    "flavor": "图中描绘了洛肯连续20小时卡在钻石5的场景。",
+    "id": "YOG_301",
+    "isMiniSet": true,
+    "name": "狂乱侵蚀",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "双方英雄受到疲劳伤害，受到两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ryan Bowlin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100887,
+    "flavor": "不！我那坚如铁石的腹肌！",
+    "id": "YOG_503",
+    "isMiniSet": true,
+    "name": "血肉诅咒",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "下个回合，敌方随从牌消耗生命值，而非法力值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101045,
+    "flavor": "这是一份脏活，但总要有人干。呃，其实吧，这种事谁都不该干。",
+    "health": 5,
+    "id": "YOG_517",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "触须宠溺者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在你的回合结束时，获取一张1/1的\n混乱触须。",
+    "type": "MINION"
+  }
+]

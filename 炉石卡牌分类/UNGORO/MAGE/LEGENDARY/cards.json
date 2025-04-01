@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41162,
+    "elite": true,
+    "flavor": "如果你杀死她，她会变得更强，强到…变成6/6这样。",
+    "health": 2,
+    "id": "UNG_027",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "派烙斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将本随从移回你的手牌，并变为法力值消耗为（4）点的6/6随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41168,
+    "elite": true,
+    "flavor": "这个咒语看似复杂，但只要往左跳一小步，再往右跳一小步，就完成施法了。",
+    "id": "UNG_028",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "打开时空之门",
+    "questReward": "UNG_028t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>施放8个你的套牌之外的\n法术。\n <b>奖励：</b>时空扭曲。",
+    "type": "SPELL"
+  }
+]

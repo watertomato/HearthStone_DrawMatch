@@ -1,0 +1,91 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79548,
+    "flavor": "“大帝，这里是法庭。”",
+    "id": "MAW_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "异议",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COUNTER"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>当你的对手使用一张随从牌时，<b>反制</b>该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79596,
+    "flavor": "一键误终身。",
+    "id": "MAW_013",
+    "isMiniSet": true,
+    "name": "终身刑罚",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "将一个随从移出对战。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 75866,
+    "flavor": "副作用可能包括……感觉一切良好！完全不用担心。",
+    "health": 3,
+    "id": "REV_000",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "可疑的炼金师",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。你的对手如果猜中了你的选择，即可获取一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84356,
+    "flavor": "仅限骨干入内。",
+    "health": 3,
+    "id": "REV_602",
+    "name": "夜隐者圣所",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>冻结</b>一个随从。召唤一个2/2的不稳定的骷髅。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 79482,
+    "flavor": "其实只是普通的骷髅。克尔苏加德取这个名字只是为了气势。",
+    "id": "REV_840",
+    "name": "死神之躯",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "FROST",
+    "text": "对所有随从造成$2点伤害。每消灭一个随从，召唤一个2/2的不稳定的骷髅。",
+    "type": "SPELL"
+  }
+]

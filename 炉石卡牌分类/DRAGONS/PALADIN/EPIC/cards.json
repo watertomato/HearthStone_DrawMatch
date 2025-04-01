@@ -1,0 +1,45 @@
+[
+  {
+    "artist": "Adam Byrne",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 55067,
+    "flavor": "自封的“唯有圣骑”俱乐部会长。",
+    "health": 7,
+    "id": "DRG_231",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光铸远征军",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，随机将五张圣骑士卡牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55342,
+    "flavor": "缩在桌子底下就能完成的任务实在不多见。",
+    "id": "DRG_258",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "庇护",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n在一回合内不受伤害。<b>奖励：</b>召唤一个3/6并具有<b>嘲讽</b>的随从。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "Andrew Hou",
+    "attack": 10,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 61460,
+    "flavor": "爱悠悠，恨悠悠，碳酸饮料岂可休。",
+    "health": 10,
+    "id": "DMF_059",
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "泡沫元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61461,
+    "flavor": "猫头鹰生性警觉，睡觉时都睁着一只眼。",
+    "health": 4,
+    "id": "DMF_060",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "幽影猫头鹰",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n在本局对战中，你每施放一个法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61602,
+    "flavor": "被太阳触摸过的项链化掉了。",
+    "id": "DMF_730",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "月触项链",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在本回合中，使你的英雄获得+4攻击力。<b>腐蚀：</b>并获得6点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61964,
+    "flavor": "要是连大树都能超过你，那你真的不该来这里。",
+    "id": "YOP_026",
+    "isMiniSet": true,
+    "name": "树木生长",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "召唤两个2/2的树人。使你的随从获得+2/+1。",
+    "type": "SPELL"
+  }
+]

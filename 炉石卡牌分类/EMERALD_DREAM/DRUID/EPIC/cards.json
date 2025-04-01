@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 115809,
+    "flavor": "无限自然法术bug。",
+    "health": 6,
+    "id": "EDR_271",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "林地塑型者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "在你施放一个自然法术后，召唤一个2/2并具有“<b>亡语：</b>获取该法术的一张复制”的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114848,
+    "flavor": "为什么要选？",
+    "id": "EDR_843",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "森林再生",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>抽一张法术牌；或者抽一张随从牌。<i>（本牌在你手中3回合即可同时拥有两种效果！）</i>",
+    "type": "SPELL"
+  }
+]

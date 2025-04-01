@@ -1,0 +1,178 @@
+[
+  {
+    "artist": "Alex Konstad",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38279,
+    "durability": 0,
+    "flavor": "要是打不赢仗，加尔鲁什会用这条钢铁触须抽死你。",
+    "health": 2,
+    "id": "OG_033",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "钢铁触须",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>亡语：</b>将这把武器移回你的手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38530,
+    "flavor": "别看他个头不大，脾气倒不小。",
+    "health": 3,
+    "id": "OG_149",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴虐食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>对所有其他随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38738,
+    "flavor": "上古之神对他低语了很长时间他才回过神来，看来这位勇士真的该好好检查一下听力了。",
+    "health": 6,
+    "id": "OG_218",
+    "mechanics": [
+      "ENRAGED",
+      "TAUNT"
+    ],
+    "name": "血蹄勇士",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>\n受伤时拥有+3攻\n击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "E. Guiton & Nutchapol",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38739,
+    "elite": true,
+    "flavor": "马尔考罗克是加尔鲁什最好的兄弟！真的，不信你去查查。",
+    "health": 5,
+    "id": "OG_220",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "马尔考罗克",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>随机装备一把武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38848,
+    "flavor": "复制过程画面血腥，未成年人和心脏病患者禁止观看。",
+    "id": "OG_276",
+    "name": "苦战傀儡",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "将每个受伤的友方随从的各一张复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Konstad",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38897,
+    "flavor": "在过去，她一个胳膊就能举起4面2吨重的盾牌，所以现在这点份量根本不在话下！",
+    "health": 6,
+    "id": "OG_301",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "上古之神护卫",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n如果你的克苏恩至少有10点攻击力，则获得10点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38914,
+    "flavor": "作为副官成天被呼来喝去真是不胜其烦，可谁让恩佐斯是他的老板呢。",
+    "health": 1,
+    "id": "OG_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恩佐斯的副官",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>装备一把1/3的锈蚀铁钩。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38918,
+    "flavor": "第二招叫化脓为血，将之前的过程反向来一遍，受害者多半是被恶心死的……",
+    "id": "OG_314",
+    "name": "化血为脓",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "对一个随从造成$1点伤害，如果它依然存活，则召唤一个2/2的泥浆怪。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38920,
+    "flavor": "血帆海盗之所以干这行，是因为想要一只属于自己的血帆鹦鹉。",
+    "health": 4,
+    "id": "OG_315",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血帆教徒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>如果你控制着其他海盗，使你的武器获得+1/+1。",
+    "type": "MINION"
+  }
+]

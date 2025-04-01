@@ -1,0 +1,47 @@
+[
+  {
+    "armor": 5,
+    "artist": "Paul Mafayon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 66953,
+    "elite": true,
+    "flavor": "爱交朋友的古夫面临着有生以来最大的挑战：在战场上交朋友。",
+    "health": 30,
+    "heroPowerDbfId": 66954,
+    "id": "AV_205",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "野性之心古夫",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>将你的法力值上限变为20。获得一个空的法力水晶。抽一张牌。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 70292,
+    "elite": true,
+    "flavor": "“满场2血怪？笑得我遍地捡头。”",
+    "health": 5,
+    "id": "AV_293",
+    "mechanics": [
+      "AURA",
+      "RUSH"
+    ],
+    "name": "空军指挥官穆维里克",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "HONORABLE_KILL"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>突袭</b>。你的随从拥有“<b>荣誉消灭：</b>召唤一只2/2\n并具有<b>突袭</b>的双足飞龙。”",
+    "type": "MINION"
+  }
+]

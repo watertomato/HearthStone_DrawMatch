@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40957,
+    "flavor": "爆炸所产生的晶体碎片，会对十米范围内造成致命伤害。",
+    "id": "CFM_608",
+    "name": "爆晶药水",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从，和你的一个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 5,
+    "battlegroundsPremiumDbfId": 59504,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40391,
+    "flavor": "窍门就是将晶体泡在38度的热牛奶里一整夜。",
+    "health": 4,
+    "id": "CFM_610",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔瘾结晶者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "techLevel": 3,
+    "text": "<b>战吼：</b>使你的所有恶魔获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 40541,
+    "flavor": "渊狱惩击者不同于一般的地狱火，红水晶所蕴含的强大能量在卡扎库斯的调校下，发挥出惊人的威力！",
+    "health": 6,
+    "id": "CFM_751",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "渊狱惩击者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>对所有其他角色造成3点伤害。",
+    "type": "MINION"
+  }
+]

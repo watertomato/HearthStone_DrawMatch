@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 107764,
+    "elite": true,
+    "flavor": "带走我的面具，留下<i>你的</i>笑容。",
+    "health": 5,
+    "id": "VAC_336",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "面具变装大师",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>术士游客</b>\n<b><b>战吼：</b>发现</b>一张来自过去的<i>（另一职业的）</i>英雄牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 109463,
+    "elite": true,
+    "flavor": "追猎财宝能有多难？你打它一枪它都不会跑！",
+    "health": 5,
+    "id": "VAC_464",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "财宝猎人尤朵拉",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER",
+      "SIDE_QUEST"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>开启一项使用3张其他职业的牌即可完成的<b>支线任务</b>，<b>发现</b>神奇的战利品！",
+    "type": "MINION"
+  }
+]

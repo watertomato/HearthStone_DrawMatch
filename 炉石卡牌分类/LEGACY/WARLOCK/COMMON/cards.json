@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 89148,
+    "flavor": "他其实没被困住，戴着这副链子只是为了震慑太过粗野的小鬼。",
+    "health": 10,
+    "id": "CS3_021",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "被奴役的邪能领主",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "text": "<b>嘲讽</b>\n同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52263,
+    "flavor": "“长江长江，我是黄河！”\n“黄河黄河……”\n“谁敢召唤我？！”",
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_181",
+    "name": "虚空召唤",
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "spellSchool": "SHADOW",
+    "text": "随机将一张恶魔牌置入你的\n手牌。",
+    "type": "SPELL"
+  }
+]

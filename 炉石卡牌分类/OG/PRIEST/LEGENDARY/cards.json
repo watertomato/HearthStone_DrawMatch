@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38922,
+    "elite": true,
+    "flavor": "作为传令官他的工作其实很简单，就是整天吆喝：“尤格-萨隆要来啦！”",
+    "health": 5,
+    "id": "OG_316",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "传令官沃拉兹",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>召唤所有其他友方随从的复制，他们均为1/1。",
+    "type": "MINION"
+  }
+]

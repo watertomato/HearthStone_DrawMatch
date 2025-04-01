@@ -1,0 +1,268 @@
+[
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97475,
+    "flavor": "哈？谁把我的雕像染<b>绿</b>了？",
+    "health": 4,
+    "id": "TTN_840",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "晶石雕像",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。起始<b>休眠</b>状态。在你抽四张牌后唤醒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97477,
+    "flavor": "势如破竹：指姿势像破碎的竹子。",
+    "id": "TTN_841",
+    "name": "势如破竹",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在本回合中，使你的英雄获得+4攻击力。在本回合中你每抽一张牌，本牌的法力值消耗便\n减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97478,
+    "elite": true,
+    "flavor": "号称永恒，尤有竟时。",
+    "health": 5,
+    "id": "TTN_842",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒者尤顿",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，对敌人施放你每回合抽到的第一张法术牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97479,
+    "flavor": "其实他们都被骗了。因为还有一个艾瑞达欺诈者。",
+    "health": 5,
+    "id": "TTN_843",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "艾瑞达欺诈者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "每当你抽一张牌时，召唤一个1/1并具有<b>突袭</b>的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97526,
+    "flavor": "魔像装扮从未真正流行——在大地的裂变之后就碎了个一干二净。",
+    "health": 5,
+    "id": "TTN_844",
+    "name": "阿古尼特魔像",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在本回合中你每抽一张牌，便拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97527,
+    "flavor": "符文符文告诉我，谁是最绿的那一个？",
+    "id": "TTN_845",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "符文装饰",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>发现</b>一张法力值消耗小于或等于（3）点的法术牌，将2张具有<b>抽到时施放</b>的复制洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98330,
+    "flavor": "“坏了，我把两头都塞进了卷笔刀。”",
+    "health": 2,
+    "id": "TTN_861",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿古斯的信徒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>亡语：</b>召唤两个2/2并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98344,
+    "elite": true,
+    "flavor": "阿古斯曾是一位高傲的泰坦，命运却引他走向了黑暗的结局。萨格拉斯与麾下的恶魔腐蚀了阿古斯，将他的力量据为己有，星球也因此而破碎。",
+    "health": 9,
+    "id": "TTN_862",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "翠绿之星阿古斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n本随从左边的随从均拥有<b>突袭</b>，本随从右边的随从均拥有<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98468,
+    "flavor": "不幸的是，艾泽拉斯每两年左右就会再变大一点。",
+    "id": "TTN_865",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "举世之重",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "抽两张牌。<b>锻造：</b>先抽若干数量的牌，直到你的手牌数量等同于你对手的手牌数量。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98469,
+    "flavor": "游戏内禁止养恐魔。",
+    "health": 10,
+    "id": "TTN_866",
+    "mechanics": [
+      "LIFESTEAL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "神秘恐魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>吸血</b>。在你的回合结束时，迫使所有敌方随从攻击本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101660,
+    "flavor": "别名“→A↓→A↓”咒符。",
+    "id": "YOG_401",
+    "isMiniSet": true,
+    "name": "时间咒符",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，额外抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101661,
+    "flavor": "摧心可以，别摧脑子，谢谢。",
+    "health": 4,
+    "id": "YOG_402",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摧心魔",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "在本回合中你每抽一张牌，造成1点伤害。",
+    "text": "<b>战吼：</b>在本回合中你每抽一张牌，造成1点伤害。0<i>（造成0点）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，使你的英雄在本回合中获得+4攻击力。",
+    "cost": 2,
+    "dbfId": 101080,
+    "flavor": "音乐萨隆里最强的金属乐手。",
+    "health": 3,
+    "id": "YOG_521",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "萨隆铁矿蹒跚者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，使你的英雄在本回合中获得+4攻击力。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  }
+]

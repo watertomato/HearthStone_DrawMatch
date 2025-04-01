@@ -1,0 +1,119 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102210,
+    "elite": true,
+    "flavor": "敢于阅读这则卡牌趣文的读者啊，听说，它能直接看穿你的灵魂……",
+    "health": 4,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得500场对战后解锁。",
+    "id": "CORE_DMF_709",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨型图腾埃索尔",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，使你手牌，牌库和战场上的所有其他图腾获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95727,
+    "elite": true,
+    "flavor": "莫拉比究竟是怎么给那些冻结的随从涂上风味糖浆的，这是一个世纪谜题。",
+    "health": 4,
+    "id": "CORE_ICC_289",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫拉比",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "每当有其他随从被<b>冻结</b>，将一张被<b>冻结</b>随从的复制置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Jerry Mascho",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95766,
+    "elite": true,
+    "flavor": "“不要害怕。过来。亡者会沉睡……一段时间。”",
+    "health": 30,
+    "heroPowerDbfId": 42982,
+    "id": "CORE_ICC_481",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡先知萨尔",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机将你的所有随从变形成为法力值消耗增加（2）点的随从。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 76977,
+    "dbfId": 118147,
+    "elite": true,
+    "flavor": "她可是“石纹锻字”的匠人。",
+    "health": 4,
+    "id": "CORE_REV_921",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "锻石师",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，你的图腾拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 111381,
+    "elite": true,
+    "flavor": "炼金术师认为只要将土、气、水、火四种元素结合在一起，就能产生第五元素。",
+    "health": 7,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得500场对战后解锁。",
+    "id": "Core_UNG_211",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒蛮之主卡利莫斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则施放一个元素祈咒。",
+    "type": "MINION"
+  }
+]

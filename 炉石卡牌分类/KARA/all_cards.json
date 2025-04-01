@@ -1,0 +1,983 @@
+[
+  {
+    "artist": "Mike Sass",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39160,
+    "flavor": "我最近学了新的戏法，都是很棒的戏法，就连麦迪文也没有见识过。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_004",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "豹子戏法",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "KARA",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术后，召唤一只4/2并具有<b>潜行</b>的猎豹。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39481,
+    "flavor": "当这位“外婆”亮出她的尖牙和利爪时，就显得不那么慈祥了。",
+    "health": 1,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_005",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "慈祥的外婆",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>亡语：</b>召唤一只3/2的大灰狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39492,
+    "flavor": "她将自己包裹得密不透风，就连马也一样，只为增添那一份神秘感。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_006",
+    "name": "神秘女猎手",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "KARA",
+    "text": "你的<b>奥秘</b>牌法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39169,
+    "flavor": "它梦想有一天能像《荆棘谷的青山》一样，“永远”留在冒险者的任务日志里。",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "呓语魔典",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机将一张法师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39477,
+    "flavor": "她原本想要加入蓝龙骑士团的，可谁又能拒绝传送门的诱惑呢？",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_010",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夜魇骑士",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便召唤两条1/1的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39476,
+    "flavor": "曾经有人匿名送给他一本书，叫《演员的自我修养》。",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_011",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "自负的演员",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39468,
+    "flavor": "净化心灵的第一步，就是先把嘴闭上。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_013",
+    "name": "净化",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "KARA",
+    "spellSchool": "HOLY",
+    "text": "<b>沉默</b>一个友方随从，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39190,
+    "flavor": "对付女巫有两种办法：要么对她造成4点伤害，要么点燃她脚下的那堆柴火。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_021",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶的巫医",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "每当你施放一个法术，随机召唤一个基础图腾。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39197,
+    "flavor": "瞧见没，这就是让卡德加去布置餐桌的后果。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_025",
+    "name": "附灵术",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "召唤一个1/1的蜡烛，2/2的扫帚和3/3的茶壶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39495,
+    "flavor": "要想伤害国王，得先从我们的尸体上踏过去！",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_026",
+    "name": "保卫国王",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "KARA",
+    "text": "战场上每有一个敌方随从，便召唤一个1/1并具有<b>嘲讽</b>的\n禁卫。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39417,
+    "durability": 0,
+    "flavor": "傻人不一定有傻福。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_028",
+    "name": "愚者之灾",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "每个回合攻击次数不限，但无法攻击英雄。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39433,
+    "flavor": "符文蛋饼异常美味，鲜香嫩滑回味无穷！",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_029",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "符文蛋",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>亡语：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39207,
+    "flavor": "不得不说，它俩还挺有夫妻相的。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_030a",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "橱柜蜘蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>战吼：</b>召唤一只1/3的蜘蛛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 39210,
+    "flavor": "他最喜欢中古奇幻类的书籍，例如《戒指王》和《霜与火之歌》。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "书卷之龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "KARA",
+    "targetingArrowText": "消灭一个攻击力小于或等于3的敌方随从。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则消灭一个攻击力小于或等于3的敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39442,
+    "flavor": "宴会牧师最厉害的本领，就是圣言术：吃！",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_035",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "宴会牧师",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "每当你施放一个法术，为你的英雄恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39215,
+    "flavor": "他原本是一个时空畸体，在厌倦了两极颠倒的生活后变成了现在这个模样。",
+    "health": 1,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_036",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奥术畸体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "在你施放一个法术后，使本随从获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39489,
+    "flavor": "浪漫喜剧类节目是他的最爱。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_037",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鸟禽守护者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET",
+      "TAUNT"
+    ],
+    "set": "KARA",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便获得+1/+1和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 39465,
+    "flavor": "他最喜欢潜水了，只看看不说话的那种。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_041",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "沟渠潜伏者",
+    "rarity": "RARE",
+    "set": "KARA",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>消灭一个随从。<b>亡语：</b>再次召唤被消灭的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39453,
+    "elite": true,
+    "flavor": "虽然莫罗斯管理着卡拉赞众多的家仆，但给气球充气这种活还得他自己来干。",
+    "health": 1,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_044",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫罗斯",
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>潜行</b>\n在你的回合结束时，召唤一个1/1的\n家仆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39439,
+    "flavor": "如何骑上去，这是一个问题。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_057",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "象牙骑士",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wei Wang",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39225,
+    "elite": true,
+    "flavor": "年久失修的馆长，脾气也变得十分古怪。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_061",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "馆长",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>嘲讽，战吼：</b>从你的牌库中抽一张野兽牌、龙牌和鱼人牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39554,
+    "flavor": "她会告诉你当年那些没挡着绿光的人，现在都回家带孩子去了！",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_062",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "虚空幽龙史学家",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便<b>发现</b>一张龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39694,
+    "durability": 0,
+    "flavor": "比起那些钢爪骨爪，幽灵之爪伸出来时一点都不疼。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_063",
+    "name": "幽灵之爪",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "KARA",
+    "text": "当你拥有<b>法术伤害</b>时，拥有\n+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39696,
+    "flavor": "当太阳最后的光芒消失在地平线上后，展览馆的一切都活了过来，就如同被施了魔法般活灵活现地围绕在她身旁。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_065",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "展览馆守卫",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "targetingArrowText": "召唤一个复制。",
+    "text": "<b>战吼：</b>选择一个友方野兽，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39698,
+    "flavor": "只要两杯朗姆酒，他就能吹上一整天！",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吹嘘海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机将一张另一职业的卡牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39700,
+    "flavor": "虚灵以热衷收集和买卖各种魔法物品和神器而著称，比那些贪婪的地精靠谱多了。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_070",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚灵商人",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "<b>战吼：</b>如果你的手牌中有另一职业的卡牌，则其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39712,
+    "flavor": "坊间传闻这是当下最热门的一个度假胜地，旱鸭子和深海恐惧者谢绝前往！",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_073",
+    "name": "大漩涡传送门",
+    "rarity": "RARE",
+    "set": "KARA",
+    "spellSchool": "NATURE",
+    "text": "对所有敌方随从造成$1点伤害。随机召唤一个法力值消耗为（1）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Zaqumyennyy",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 39714,
+    "flavor": "没人想去月光林地开派对，因为那里有熊出没。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_075",
+    "name": "月光林地传送门",
+    "rarity": "RARE",
+    "set": "KARA",
+    "spellSchool": "NATURE",
+    "text": "恢复#6点生命值。随机召唤一个法力值消耗为（6）的\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gustav Schmidt",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 39715,
+    "flavor": "火焰之地是由泰坦所铸造的一个熔火领域，用来关押拉格纳罗斯和他那群无法无天的爪牙。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在序章中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在序章中\n解锁制作。",
+    "id": "KAR_076",
+    "name": "火焰之地传送门",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "spellSchool": "FIRE",
+    "text": "造成$6点伤害。随机召唤一个法力值消耗为（6）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jimmy Lo",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39716,
+    "flavor": "和部落粗犷且朴素的整体风格相比，银月城可谓是东部王国的时尚之都。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_077",
+    "name": "银月城传送门",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2/+2。随机召唤一个法力值消耗为（2）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39740,
+    "flavor": "玛克扎尔曾有个叫多比的手下，不过那是一个悲伤的故事了。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_089",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "玛克扎尔的小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "每当你弃掉一张牌时，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nate Bowden",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39747,
+    "flavor": "铁炉堡坐落在白雪皑皑的丹莫罗山顶，是艾泽拉斯联盟矮人和侏儒的主城。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_091",
+    "name": "铁炉堡传送门",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "spellSchool": "FIRE",
+    "text": "获得4点护甲值。随机召唤一个法力值消耗为（4）的\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39767,
+    "flavor": "常年伴随在麦迪文左右，就连男仆养的猴子都会七十二种戏法。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_092",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "麦迪文的男仆",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "KARA",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>\n如果你控制一个<b>奥秘</b>，则造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39822,
+    "flavor": "餐叉既可以用来吃饭，也可以用来……消灭对手。",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_094",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "致命餐叉",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "<b>亡语：</b>将一张3/2的武器牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "battlegroundsPremiumDbfId": 59489,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39839,
+    "flavor": "猜猜鱼人在哪里？<咔嚓>",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_095",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "机械动物管理员",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "techLevel": 2,
+    "text": "<b>战吼：</b>随机使一个友方野兽，龙和鱼人获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joe Madureira & Grace Liu",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39840,
+    "elite": true,
+    "flavor": "玛克扎尔在一次淘旧货时买到了血吼。但是当他发现这把传奇武器是赝品时，气得把整个旧货市场都送进了扭曲虚空。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_096",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "玛克扎尔王子",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>对战开始时：</b>额外将五张<b>传说</b>随从牌置入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 39841,
+    "elite": true,
+    "flavor": "麦迪文为了让自己的派对更热闹，便联络古尔丹，打开了黑暗之门……",
+    "health": 7,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_097",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "守护者麦迪文",
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>战吼：</b>\n装备埃提耶什，守护者的传说之杖。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39941,
+    "elite": true,
+    "flavor": "他之前能扮演任何角色，直到莫罗斯没收了他的欺诈宝珠。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_114",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巴内斯",
+    "rarity": "LEGENDARY",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机挑选你牌库里的一个随从，召唤一个1/1的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39374,
+    "flavor": "人生如棋，落子无悔。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_204",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛瑙主教",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机召唤一个在本局对战中死亡的友方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39380,
+    "flavor": "听说镀银魔像是由设计出侏儒军刀的神秘部门研发而成的。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_205",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "镀银魔像",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "如果你弃掉了这张随从牌，则会召唤它。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39350,
+    "flavor": "年轻的麦迪文喜欢到处旅行，并在卡拉赞留下了许多情。",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在序章中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在序章中\n解锁制作。",
+    "id": "KAR_300",
+    "name": "魔法乌鸦",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 4,
+    "battlegroundsPremiumDbfId": 59510,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39269,
+    "flavor": "每当他有新的戏法时，就会引来众多的围观及解密。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_702",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "展览馆法师",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "techLevel": 4,
+    "text": "<b>战吼：</b>随机使一个友方野兽，龙和鱼人获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39491,
+    "flavor": "除去这个花哨的头衔，他就是一名普通的铁匠。",
+    "health": 2,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_710",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥能铁匠",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "KARA",
+    "text": "<b>战吼：</b>召唤一个0/5并具有<b>嘲讽</b>的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 12,
+    "dbfId": 39426,
+    "flavor": "表面上他们是被卡拉赞的魔法吸引所至，但实际上他们的最爱是莫罗斯的厨艺。",
+    "health": 8,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_711",
+    "name": "奥术巨人",
+    "rarity": "EPIC",
+    "set": "KARA",
+    "text": "在本局对战中，你每施放一个法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39313,
+    "flavor": "自从加入到紫罗兰之眼后，困扰她多年的近视问题终于解决了。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_712",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "紫罗兰幻术师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "KARA",
+    "text": "在你的回合中，你的英雄<b>免疫</b>。",
+    "type": "MINION"
+  }
+]

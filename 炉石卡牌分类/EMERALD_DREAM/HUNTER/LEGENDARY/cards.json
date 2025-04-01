@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 9,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 114254,
+    "elite": true,
+    "flavor": "以勇猛果决而闻名于世，且拥有的名号众多，其中包括洛戈什，还有巨狼。",
+    "health": 9,
+    "id": "EDR_480",
+    "mechanics": [
+      "AURA",
+      "RUSH"
+    ],
+    "name": "戈德林",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>突袭</b>。友方野兽造成的伤害翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114857,
+    "elite": true,
+    "flavor": "只有名字叫部落。",
+    "health": 5,
+    "id": "EDR_853",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "布罗尔·熊皮",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "在你施放一个法术后，随机召唤一个动物伙伴。",
+    "type": "MINION"
+  }
+]

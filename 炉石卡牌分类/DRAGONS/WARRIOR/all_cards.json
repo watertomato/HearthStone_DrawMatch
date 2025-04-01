@@ -1,0 +1,221 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55000,
+    "flavor": "废了！全废了！",
+    "health": 2,
+    "id": "DRG_019",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "废墟之子",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>突袭</b>\n<b>战吼：</b>如果你已经<b>祈求</b>过两次，召唤本随从的两个复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55001,
+    "flavor": "治军之道，需则实之，实则需之。",
+    "health": 3,
+    "id": "DRG_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怪盗军需官",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将一张<b>跟班</b>牌置入你的手牌。获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lloyd Hoshide",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55002,
+    "durability": 0,
+    "flavor": "快砍！迦拉克隆显灵了！",
+    "health": 2,
+    "id": "DRG_021",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "仪式斩斧",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b><b>\n祈求</b>迦拉克隆。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55003,
+    "flavor": "她的保费不断上浮。",
+    "id": "DRG_022",
+    "name": "横冲直撞",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "迫使一个随从攻击相邻的一个\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55004,
+    "flavor": "与其说是空中炮艇，不如说是艇型火炮。",
+    "health": 5,
+    "id": "DRG_023",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "空中炮艇",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "在你召唤一个海盗后，随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55005,
+    "flavor": "或许他应该构思一个能把战利品也一块带回来的飞行方案。",
+    "health": 2,
+    "id": "DRG_024",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "空中悍匪",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机将一张海盗牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55006,
+    "durability": 0,
+    "elite": true,
+    "flavor": "用锚当武器有一个问题：经常在牌库中沉底。",
+    "health": 2,
+    "id": "DRG_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "海盗之锚",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "在你的英雄攻击后，从你的牌库中抽一张海盗牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 12,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 55007,
+    "elite": true,
+    "flavor": "咬住那个，再咬一口第二个，抓住这个，再把那个整个吞掉……",
+    "health": 12,
+    "id": "DRG_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂巨龙死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>攻击所有其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55250,
+    "flavor": "这就是一张关不掉的闹钟。",
+    "id": "DRG_249",
+    "name": "祈求觉醒",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "<b>祈求</b>迦拉克隆。对所有随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55935,
+    "flavor": "烫烫烫烫烫烫烫",
+    "id": "DRG_500",
+    "name": "熔火吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$5点伤害。如果你的手牌中有龙牌，便获得5点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57413,
+    "elite": true,
+    "flavor": "大地在巨龙脚下震颤之时，砰砰博士继续说道：“……共计使用了400余吨坚固的银制风暴板甲片。”而后他按响了一个小小的遥控器。“还有豪华的销钉！”",
+    "health": 30,
+    "heroPowerDbfId": 55805,
+    "id": "DRG_650",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无敌巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>抽一张随从牌，使其获得+4/+4。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

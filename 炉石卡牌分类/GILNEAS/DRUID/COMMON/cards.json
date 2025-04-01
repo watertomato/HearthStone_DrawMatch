@@ -1,0 +1,54 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46859,
+    "flavor": "你猜变身后镰刀去哪了？",
+    "health": 2,
+    "id": "GIL_188",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "镰刀德鲁伊",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>抉择：</b>变形成为4/2并具有<b>突袭</b>；或者变形成为2/4并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 47423,
+    "flavor": "爱会像头饿狼岂可抱着眠\n她必给我狠狠的伤疤做留念",
+    "id": "GIL_637",
+    "name": "凶猛咆哮",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "抽一张牌。你每有一张手牌，便获得1点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 47553,
+    "flavor": "一天一苹果，狼人远离我。",
+    "id": "GIL_663",
+    "name": "女巫森林苹果",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "spellSchool": "NATURE",
+    "text": "将两张2/2的树人置入你的手牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 67887,
+    "flavor": "我不能在外面浪得太久。得回家照顾那个大家伙了。",
+    "health": 6,
+    "id": "AV_262",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "锁链守望者",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的恶魔牌，便获得+1/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 68216,
+    "flavor": "“我们现在占优吗？我能悄悄地进攻吗？”",
+    "id": "AV_269",
+    "name": "侧翼合击",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "召唤一个4/2并具有<b>突袭</b>的恶魔。如果它在本回合中死亡，再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72549,
+    "flavor": "听说每年的这个时候，这里的景色都不错。",
+    "id": "AV_661",
+    "name": "征战平原",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "你的随从拥有+1攻击力。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 71239,
+    "flavor": "每到二月的某一天，它们会变成爱慕之翼。",
+    "id": "ONY_016",
+    "isMiniSet": true,
+    "name": "憎恨之翼（等级1）",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "召唤两只1/1的邪翼蝠。<i>（当你有5点法力值时升级。）</i>",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58202,
+    "elite": true,
+    "flavor": "“护甲与治疗或许能暂缓我的狂热，但邪能和战刃总能鞭策着我！”",
+    "health": 5,
+    "id": "BT_187",
+    "mechanics": [
+      "AURA",
+      "CHARGE"
+    ],
+    "name": "凯恩·日怒",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>冲锋</b>\n所有友方攻击无视\n<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56899,
+    "elite": true,
+    "flavor": "正如卑微的毛虫可以羽化成蝶，一个恶魔猎手也可以变成一尊散发着毁灭与混沌的庞然大物。",
+    "id": "BT_429",
+    "name": "恶魔变形",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "将你的英雄技能替换为“造成5点伤害。”使用两次后，换回原技能。",
+    "type": "SPELL"
+  }
+]

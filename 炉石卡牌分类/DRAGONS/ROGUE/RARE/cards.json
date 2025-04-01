@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55095,
+    "flavor": "其实藏宝巨龙只有两个幸运币。",
+    "id": "DRG_028",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "巨龙宝藏",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>发现</b>一张另一职业的<b>传说</b>\n随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55102,
+    "flavor": "理解理解他吧，这些天就连经济舱都贵得飞起。",
+    "health": 4,
+    "id": "DRG_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "偷渡者",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的牌库中有对战开始时不在牌库中的牌，则抽取其中的两张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55246,
+    "flavor": "命运需要密封保存，切不可露置在外。",
+    "id": "DRG_247",
+    "name": "封印命运",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "对一个未受伤的角色造成$3点伤害。<b>祈求</b>迦拉克隆。",
+    "type": "SPELL"
+  }
+]

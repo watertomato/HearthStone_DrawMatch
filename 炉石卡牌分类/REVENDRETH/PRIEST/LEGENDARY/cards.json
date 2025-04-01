@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78405,
+    "elite": true,
+    "flavor": "“什么同意？你可以在任何时间，借任何你想要的东西，只要在丢之前还回去就行了。大家都知道这个道理，不是吗？”",
+    "health": 3,
+    "id": "REV_011",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "嫉妒收割者",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "在你使用一张对手的卡牌的复制后，偷取本体。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77306,
+    "elite": true,
+    "flavor": "善于补足身材的短板。",
+    "health": 6,
+    "id": "REV_250",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "裴拉戈斯",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "在你对一个友方随从施放法术后，将其生命值和攻击力变为两者中的高值。",
+    "type": "MINION"
+  }
+]

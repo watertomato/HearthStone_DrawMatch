@@ -1,0 +1,79 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 0,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110867,
+    "flavor": "煎蛋的时候有虫那面朝上，谢谢。",
+    "health": 2,
+    "id": "GDB_840",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "异星虫卵",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>亡语：</b>召唤一只3/5的野兽并使其攻击生命值最低的敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110869,
+    "flavor": "总是把别人的发现据为己有。",
+    "health": 2,
+    "id": "GDB_841",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "游侠斥候",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "SPACE",
+    "text": "在你<b>发现</b>一张牌后，获取一张它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111071,
+    "flavor": "游侠斥候大多会将自己的精准记录视为骄傲。",
+    "id": "GDB_844",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "详尽笔记",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>发现</b>一张法力值消耗大于或等于（5）点的野兽牌，使其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113671,
+    "flavor": "“虫群存续至今，依靠进化，迭代。相信流程，相信序列。虫群不会失败。”——阿巴瑟",
+    "id": "SC_021",
+    "isMiniSet": true,
+    "name": "进化腔",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "使你的随从获得+1攻击力，使你的异虫额外获得+1/+1。",
+    "type": "SPELL"
+  }
+]

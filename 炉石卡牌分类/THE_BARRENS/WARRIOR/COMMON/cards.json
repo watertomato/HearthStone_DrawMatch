@@ -1,0 +1,83 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63126,
+    "flavor": "这就是卡波耶拉腿法！对，很危险！",
+    "health": 6,
+    "id": "BAR_840",
+    "mechanics": [
+      "BATTLECRY",
+      "FRENZY"
+    ],
+    "name": "旋风争斗者",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼，暴怒：</b>\n对所有其他随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63130,
+    "flavor": "“早餐我一般要吃两块科多肉排，五个平原陆行鸟蛋，再喝点冰凉的牛奶顺一顺……全都是生吃。”",
+    "id": "BAR_841",
+    "name": "重装上阵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_BARRENS",
+    "text": "随机使你手牌中的一张<b>嘲讽</b>随从牌获得+1/+1，复制该\n随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63701,
+    "flavor": "“无论你在这个羊皮纸框里写什么，随便写，布鲁格都会认真研读。”",
+    "health": 6,
+    "id": "BAR_896",
+    "mechanics": [
+      "FRENZY",
+      "RUSH"
+    ],
+    "name": "石槌掌锚手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>突袭</b>，<b>暴怒：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63373,
+    "flavor": "你的剑，就是我的剑。",
+    "health": 3,
+    "id": "WC_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "武装战士",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>如果你装备着武器，便获得+1/+1。",
+    "type": "MINION"
+  }
+]

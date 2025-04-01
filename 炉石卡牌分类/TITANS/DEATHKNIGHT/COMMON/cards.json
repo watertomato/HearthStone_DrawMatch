@@ -1,0 +1,134 @@
+[
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97455,
+    "flavor": "“愿你在排名对战中一路走好。”",
+    "health": 3,
+    "id": "TTN_457",
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "悼词宣诵者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>消耗3份<b>残骸</b>，造成3点伤害。<b>锻造：</b>改为获得残骸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98282,
+    "flavor": "导航直达冬天爷爷的工坊。",
+    "id": "TTN_735",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "北境导航",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "TITANS",
+    "spellSchool": "FROST",
+    "text": "从你的牌库中<b>发现</b>一张法术牌。如果选中的是冰霜法术牌，随机<b>冻结</b>一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98283,
+    "durability": 0,
+    "flavor": "兵主，玛卓克萨斯的统治者，战略大师。还是牙签杖的持有者！",
+    "health": 3,
+    "id": "TTN_736",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "兵主之杖",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "TITANS",
+    "text": "在你的英雄攻击后，随机将一张疫病牌洗入你对手的牌库。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101012,
+    "flavor": "“抱歉啦，小黝，我在工作呢。”",
+    "id": "YOG_511",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗符文",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张武器牌。消耗3份<b>残骸</b>，使其获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101015,
+    "flavor": "谁想吃——奶——酪？",
+    "health": 4,
+    "id": "YOG_512",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "秽病行尸",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "TITANS",
+    "text": "在你召唤一个亡灵后，使其获得<b>剧毒</b>。",
+    "type": "MINION"
+  }
+]

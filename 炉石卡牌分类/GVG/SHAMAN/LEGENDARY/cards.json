@@ -1,0 +1,28 @@
+[
+  {
+    "artist": "Ruan Jia",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2010,
+    "elite": true,
+    "flavor": "耐普图隆被称为“猎潮者”。他是四大元素领主之一。他和拉格纳罗斯能够联手为你提供最好的桑拿服务。",
+    "health": 7,
+    "id": "GVG_042",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD"
+    ],
+    "name": "耐普图隆",
+    "overload": 3,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "<b>战吼：</b>随机将四张鱼人牌置入你的手牌，<b>过载：</b>（3）",
+    "type": "MINION"
+  }
+]

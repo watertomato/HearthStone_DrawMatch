@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Caroline Gariba",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114514,
+    "flavor": "“抓到芬杰了吗？”“抽鱼抽到喽。”",
+    "health": 5,
+    "id": "EDR_524",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "影蔽袭击者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你的手牌中有一张与对手相同的牌，将对手的该牌洗入其牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114517,
+    "durability": 0,
+    "flavor": "附赠一包创可贴。",
+    "health": 3,
+    "id": "EDR_525",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "倒刺荆棘",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "POISONOUS"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>获得在本回合中的<b>剧毒</b>；或者获得“<b>亡语：</b>对所有敌人造成2点伤害。”",
+    "type": "WEAPON"
+  }
+]

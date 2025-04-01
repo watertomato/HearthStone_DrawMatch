@@ -1,0 +1,186 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59001,
+    "flavor": "“作为语言学专业的学生，我对聒噪怪颇有研究。我确信，它们说的话就是——怪话。”",
+    "health": 1,
+    "id": "SCH_242",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "聒噪怪",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>召唤一个聒噪怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59163,
+    "flavor": "“我有一本初版的！看看，看这上面的年轮。”",
+    "id": "SCH_333",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "自然研习",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张法术牌。你的下一张法术牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 60016,
+    "flavor": "神奇的是，这种花不会在同一个地方绽放两次。",
+    "id": "SCH_427",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "雷霆绽放",
+    "overload": 2,
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "复原两个法力水晶。<b>过载：</b>（2）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59456,
+    "flavor": "每个小组都要有几条大腿。",
+    "id": "SCH_606",
+    "name": "分配组员",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "随机将法力值消耗为（2）和（3）的野兽牌各一张置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 59450,
+    "flavor": "足够聪明的物种才能存续。看到七个6/6的树人就快跑吧。",
+    "id": "SCH_609",
+    "name": "优胜劣汰",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "使你手牌，牌库和战场上的所有随从获得+4/+4。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59542,
+    "flavor": "“多美的图腾，就这么被你刻毁了……真是符了！”",
+    "id": "SCH_612",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "OVERLOAD"
+    ],
+    "name": "雕琢符文",
+    "overload": 2,
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤四个2/2的树人图腾；或者<b>过载：</b>（2）召唤四个2/2并具有<b>突袭</b>的树人图腾。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59553,
+    "flavor": "想让树妖在不踩到花花草草的前提下管理园地，实在有点难。",
+    "health": 5,
+    "id": "SCH_613",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "园地管理员",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "targetingArrowText": "恢复5点生命值。",
+    "text": "<b>嘲讽，战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，恢复5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59555,
+    "elite": true,
+    "flavor": "她许愿所有的生命都能在通灵学园破土而出，永葆生机。要是她知道后来……",
+    "health": 4,
+    "id": "SCH_614",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "林地守护者欧穆",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>复原你的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59614,
+    "flavor": "每天早上你都会在家门前发现两张死掉的卡牌。",
+    "health": 4,
+    "id": "SCH_616",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜行虎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>潜行</b>\n每当本随从攻击，抽两张牌。",
+    "type": "MINION"
+  }
+]

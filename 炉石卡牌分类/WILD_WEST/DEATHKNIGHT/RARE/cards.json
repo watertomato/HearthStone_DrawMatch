@@ -1,0 +1,113 @@
+[
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104524,
+    "flavor": "声音尖利，有点锈迹。沾了点污泥，还有点神秘。",
+    "health": 1,
+    "id": "DEEP_015",
+    "isMiniSet": true,
+    "mechanics": [
+      "MAGNETIC",
+      "REBORN"
+    ],
+    "name": "义肢假手",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>磁力</b>。<b>复生</b>\n可以<b>磁力</b>吸附在机械或亡灵上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 99957,
+    "flavor": "这些工人不会流汗，不用呼吸，连蜡烛都省了……你还有什么不满意的呢？",
+    "health": 3,
+    "id": "WW_322",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "骷髅矿工",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b><b>发掘</b>一个宝藏，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 99959,
+    "flavor": "堆得不错，很整齐，很连贯。",
+    "health": 1,
+    "id": "WW_324",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨堆",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "EXCAVATE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>在你下次<b>发掘</b>时，再次\n召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101265,
+    "flavor": "“戴夫，我说了你肯定不信！这次植物变成了僵尸！”",
+    "id": "WW_368",
+    "name": "耕地轮作",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WILD_WEST",
+    "text": "召唤四个1/1并具有<b>突袭</b>且会在回合结束时死亡的亡灵。",
+    "type": "SPELL"
+  }
+]

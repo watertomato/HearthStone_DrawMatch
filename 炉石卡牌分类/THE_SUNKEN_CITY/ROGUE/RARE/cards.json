@@ -1,0 +1,119 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76259,
+    "faction": "HORDE",
+    "flavor": "有些人还不明白，“冰冷，黑心”的生物可能并不只是比喻……",
+    "health": 3,
+    "id": "TID_078",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "碎冰蹒跚者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>你的下一个<b>亡语</b>随从的法力值消耗减少（1）点，但会在使用后立即死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76261,
+    "flavor": "不是你想的那样。她放出墨汁，是因为<i>你</i>怕了。",
+    "health": 2,
+    "id": "TID_080",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "墨晕伏击者",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>潜行</b>。攻击时拥有+3攻击力和<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77210,
+    "durability": 0,
+    "flavor": "哪有什么天才，她是把别人开派对的工夫都用在练剑，不，练鱼上的。",
+    "health": 3,
+    "id": "TSC_086",
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "剑鱼",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。如果选中的是海盗牌，使这把武器和该海盗获得+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Steven Prescott",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72119,
+    "flavor": "潜行者好爱我\n小鱼儿好怕我",
+    "id": "TSC_916",
+    "mechanics": [
+      "COMBO",
+      "DREDGE"
+    ],
+    "name": "垂钓时光",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>探底</b>。<b>连击：</b>抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 72533,
+    "flavor": "如果你手速够快，法力值消耗还不是你说了算？",
+    "health": 2,
+    "id": "TSC_936",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迅鳞欺诈者",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>在本回合中，你的下一张法术牌法力值消耗为（0）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 97532,
+    "elite": true,
+    "flavor": "标志越抽象，乐队就越硬核。",
+    "id": "ETC_210",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "通灵最强音",
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>吸血</b>。造成${0}点伤害。召唤{1}个{2}/{3}的灵魂。<i>（随你消耗过的<b>残骸</b>数量随机提升）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 90497,
+    "elite": true,
+    "flavor": "脑袋卡进笼子一阵子，新绰号跟你一辈子。",
+    "health": 1,
+    "id": "ETC_526",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "凯吉·海德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE",
+      "TAUNT"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>召唤一只9/9并具有<b>冲锋</b>和<b>嘲讽</b>的凋零野猪。",
+    "type": "MINION"
+  }
+]

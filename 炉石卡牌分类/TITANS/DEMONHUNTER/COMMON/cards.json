@@ -1,0 +1,103 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97479,
+    "flavor": "其实他们都被骗了。因为还有一个艾瑞达欺诈者。",
+    "health": 5,
+    "id": "TTN_843",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "艾瑞达欺诈者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "每当你抽一张牌时，召唤一个1/1并具有<b>突袭</b>的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97526,
+    "flavor": "魔像装扮从未真正流行——在大地的裂变之后就碎了个一干二净。",
+    "health": 5,
+    "id": "TTN_844",
+    "name": "阿古尼特魔像",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在本回合中你每抽一张牌，便拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98330,
+    "flavor": "“坏了，我把两头都塞进了卷笔刀。”",
+    "health": 2,
+    "id": "TTN_861",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿古斯的信徒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>亡语：</b>召唤两个2/2并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101660,
+    "flavor": "别名“→A↓→A↓”咒符。",
+    "id": "YOG_401",
+    "isMiniSet": true,
+    "name": "时间咒符",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，额外抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101661,
+    "flavor": "摧心可以，别摧脑子，谢谢。",
+    "health": 4,
+    "id": "YOG_402",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摧心魔",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "在本回合中你每抽一张牌，造成1点伤害。",
+    "text": "<b>战吼：</b>在本回合中你每抽一张牌，造成1点伤害。0<i>（造成0点）</i>",
+    "type": "MINION"
+  }
+]

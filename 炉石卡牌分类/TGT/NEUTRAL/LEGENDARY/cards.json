@@ -1,0 +1,228 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2757,
+    "elite": true,
+    "flavor": "骑乘红色鹦鹉，装备颚骨护肩，手持弯钩长枪，头戴海盗船帽。还能有比他更拉风的首领吗？没有！",
+    "health": 6,
+    "id": "AT_070",
+    "mechanics": [
+      "CHARGE"
+    ],
+    "name": "天空上尉库拉格",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>冲冲冲冲锋</b>\n每有一个友方海盗，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nutthapon Petchthai",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2724,
+    "elite": true,
+    "flavor": "戈莫克在赛场外搭了个帐篷，专门教授刺枪技巧。想在本次大赛上拿个好名次吗？只要998（只收金币）！",
+    "health": 4,
+    "id": "AT_122",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "穿刺者戈莫克",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>如果你拥有至少四个其他随从，则造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2682,
+    "elite": true,
+    "flavor": "冰喉一心想要毁掉锦标赛。至于原因，都是因为那些吵闹个不停的熊孩子们！",
+    "health": 6,
+    "id": "AT_123",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "冰喉",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>嘲讽，亡语：</b>\n如果你的手牌中有龙牌，则对所有随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2595,
+    "elite": true,
+    "flavor": "博尔夫已经是第二次参加锦标赛了。今年他或许有希望，因为他的英雄没能通过预选赛。",
+    "health": 9,
+    "id": "AT_124",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "博尔夫·碎盾",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "每当你的英雄受到伤害，改为由本随从承担。",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Polidora",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 2725,
+    "elite": true,
+    "flavor": "这个巨型雪人只管闭着眼睛，向距离最近的目标发起冲锋。可距离最近的目标也远在几个街区之外，而且还是个滑板高手。",
+    "health": 10,
+    "id": "AT_125",
+    "mechanics": [
+      "CHARGE"
+    ],
+    "name": "冰吼",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>冲锋</b>\n无法攻击英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Marcelo Vignali",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2683,
+    "elite": true,
+    "flavor": "虚灵也有自己的枪术比赛，萨兰德是本届比赛的冠军，同时他还是虚灵吃热狗大赛的冠军。",
+    "health": 5,
+    "id": "AT_127",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "虚灵勇士萨兰德",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>激励：</b>随机将一张法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2681,
+    "elite": true,
+    "flavor": "别看没什么肌肉，挥起枪来劲还不小。",
+    "health": 4,
+    "id": "AT_128",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "骷髅骑士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>亡语：</b>揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，则将骷髅骑士移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mark Zug",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2748,
+    "elite": true,
+    "flavor": "她最爱被别人叫“邪使姐妹花”了。",
+    "health": 4,
+    "id": "AT_129",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光明邪使菲奥拉",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "TGT",
+    "text": "每当<b>你</b>以本随从为目标施放一个法术时，获得<b><b>圣盾</b>。</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Thompson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2519,
+    "elite": true,
+    "flavor": "她最恨被别人叫“邪使姐妹花”了。",
+    "health": 4,
+    "id": "AT_131",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑暗邪使艾蒂丝",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "每当<b>你</b>以本随从为目标施放一个法术时，随机对一个敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2736,
+    "elite": true,
+    "flavor": "英雄技能2.0升级版，面向所有职业。",
+    "health": 4,
+    "id": "AT_132",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "裁决者图哈特",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>战吼：</b>以更强的英雄技能来替换你的初始英雄技能。",
+    "type": "MINION"
+  }
+]

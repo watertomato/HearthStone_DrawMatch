@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Christopher Hayes",
+    "attack": 0,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 49944,
+    "flavor": "“罗缇！放下！这个不能咬，乖罗缇！真乖！”",
+    "health": 3,
+    "id": "TRL_223",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迅猛龙之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "<b>潜行</b>一回合。在你的英雄攻击并消灭一个随从后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Clint Langley",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 49994,
+    "flavor": "先来两个开胃菜。",
+    "id": "TRL_244",
+    "name": "掠食本能",
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "从你的牌库中抽一张野兽牌。将其生命值翻倍。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50042,
+    "flavor": "没错，最强的洛阿神灵，名字就叫印记。",
+    "id": "TRL_254",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "神灵印记",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TROLL",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>\n使一个随从获得+2/+4和<b>嘲讽</b>；或者召唤两个3/2的迅猛龙。",
+    "type": "SPELL"
+  }
+]

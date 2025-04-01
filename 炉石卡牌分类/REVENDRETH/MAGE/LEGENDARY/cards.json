@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 78394,
+    "elite": true,
+    "flavor": "克尔苏加德好像从比格沃斯先生的九条命里借了几条。",
+    "health": 8,
+    "id": "REV_514",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天定之灾克尔苏加德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>复活你的不稳定的骷髅。战场上放不下的骷髅会立即爆炸。0<i>（复活0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78397,
+    "elite": true,
+    "flavor": "宇宙的奥秘浩瀚无涯……终将在本局对战中的晚些时候揭示。",
+    "health": 5,
+    "id": "REV_515",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "豪宅管家俄里翁",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "在一个友方<b>奥秘</b>被揭示后，施放一个不同的法师<b>奥秘</b>并获得+2/+2。",
+    "type": "MINION"
+  }
+]

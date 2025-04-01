@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2889,
+    "flavor": "只有死人才能离开奥达曼！",
+    "health": 4,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥达曼中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥达曼中解锁制作。",
+    "id": "LOE_017",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥达曼守护者",
+    "rarity": "COMMON",
+    "set": "LOE",
+    "targetingArrowText": "变成3/3。",
+    "text": "<b>战吼：</b>\n将一个随从的攻击力和生命值变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ryan Metcalf",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 2898,
+    "flavor": "淹没在鱼人大军的狂潮下吧！",
+    "howToEarn": "加入“探险者协会”冒险模式，在废墟之城中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在废墟之城中解锁制作。",
+    "id": "LOE_026",
+    "name": "亡者归来",
+    "rarity": "RARE",
+    "set": "LOE",
+    "text": "召唤七个在本局对战中死亡的\n鱼人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2899,
+    "flavor": "你的选择…是错的。",
+    "howToEarn": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁制作。",
+    "id": "LOE_027",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "审判",
+    "rarity": "COMMON",
+    "set": "LOE",
+    "spellSchool": "HOLY",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，如果他控制至少三个其他随从，则将其消灭。",
+    "type": "SPELL"
+  }
+]

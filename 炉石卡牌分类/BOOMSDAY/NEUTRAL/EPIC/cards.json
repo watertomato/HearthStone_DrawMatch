@@ -1,0 +1,188 @@
+[
+  {
+    "artist": "J. Axer",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48415,
+    "flavor": "帮帮我，旗鼓相当的对手。你是我唯一的希望。",
+    "health": 3,
+    "id": "BOT_280",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "全息术士",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "在你的对手使用一张随从牌后，召唤一个它的1/1的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48508,
+    "flavor": "“投降吧，你有十个法力水晶的时间选择合作！”",
+    "health": 6,
+    "id": "BOT_296",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "欧米茄防御者",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "<b>嘲讽，战吼：</b>如果你有十个法力水晶，获得+10攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48518,
+    "flavor": "没关系，去砸吧。它们不会生气的。",
+    "health": 3,
+    "id": "BOT_401",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "武装皮纳塔",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>\n随机将一张<b>传说</b>随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 49018,
+    "flavor": "扳手腕时她总是能赢。",
+    "health": 3,
+    "id": "BOT_447",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "晶化师",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>对你的英雄造成5点伤害。获得5点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48753,
+    "flavor": "穿爱穿的衣服，炸爱炸的坏蛋。",
+    "health": 5,
+    "id": "BOT_511",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "爆盐投弹手",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>将一张“炸弹” 牌洗入你对手的牌库。当抽到“炸弹”时，便会受到5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49172,
+    "flavor": "我说这事非得我出马不行\n所有人都给我过来这里听\n因为我们需要一点E.M.P.\n因为它们只能由我来搞定",
+    "health": 3,
+    "id": "BOT_540",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "电磁脉冲特工",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "targetingArrowText": "消灭一个机械。",
+    "text": "<b>战吼：</b>\n消灭一个机械。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49176,
+    "flavor": "看看，这就是把死亡猎手雷克萨留在实验室的后果。",
+    "health": 6,
+    "id": "BOT_544",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "脱逃的样本",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>造成6点伤害，随机分配到所有其他友方随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 49195,
+    "flavor": "群星认为你还有所欠缺。",
+    "health": 7,
+    "id": "BOT_552",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "群星罗列者",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>如果你控制三个生命值为7的随从，对所有敌人造成7点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 49269,
+    "flavor": "她的朋友们叫她“洗羊羊”。",
+    "health": 4,
+    "id": "BOT_559",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "强能雷象",
+    "race": "BEAST",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "每当你将一张牌洗入牌库，额外洗入一张相同的牌。",
+    "type": "MINION"
+  }
+]

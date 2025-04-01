@@ -1,0 +1,110 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102435,
+    "flavor": "这是基本元素，亲爱的华砷。",
+    "health": 1,
+    "id": "DEEP_030",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "源质晶簇",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>抽一张牌，并对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102724,
+    "flavor": "想冻住灵魂，先冻住身体。",
+    "id": "DEEP_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "灵魂冻结",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从及其相邻随从，对你的英雄造成等同于所<b>冻结</b>随从数量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101271,
+    "flavor": "走一路，洒一路。",
+    "health": 5,
+    "id": "WW_043",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "轮式淤泥怪",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。每当本随从受到伤害时，获取一张淤泥桶并将一张淤泥桶置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102148,
+    "flavor": "为了那些不知道该把什么牌抽出套牌的人准备的！",
+    "id": "WW_092",
+    "name": "液力压裂",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "检视你的牌库底的三张牌，抽其中一张，摧毁其余牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102904,
+    "flavor": "兼任镇上的牙医。",
+    "health": 5,
+    "id": "WW_442",
+    "mechanics": [
+      "DEATHRATTLE",
+      "EXCAVATE",
+      "TAUNT"
+    ],
+    "name": "钻拳莫尔葛",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b><b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  }
+]

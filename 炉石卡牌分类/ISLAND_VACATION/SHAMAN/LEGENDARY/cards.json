@@ -1,0 +1,74 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "collectionText": "此牌在你的手牌中时，使用两种不同派系的法术牌即可变形。",
+    "cost": 5,
+    "dbfId": 108964,
+    "elite": true,
+    "flavor": "有些纳迦会用统御元素的天赋征服世界。而有些纳迦会用它来表演！",
+    "health": 5,
+    "id": "VAC_449",
+    "name": "歌唱明星卡瑞斯",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "此牌在你的手牌中时，使用两种不同派系的法术牌即可变形。@<i>（还剩{0}种）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108965,
+    "elite": true,
+    "flavor": "躲进汤中成一桶，管他冬夏与春秋。",
+    "health": 2,
+    "id": "VAC_450",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "悠闲的曲奇",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>恶魔猎手游客</b>\n在一个友方随从死亡后，随机召唤一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110765,
+    "elite": true,
+    "flavor": "“旅客朋友们，在飞往今后几个扩展包的旅途中，我们会遭遇小型湍流，请注意安全。”",
+    "health": 3,
+    "id": "WORK_013",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "湍流元素特布勒斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>猎人游客</b>\n<b>战吼：</b>使你手牌，牌库和战场上的所有其他<b>战吼</b>随从获得+1/+1。",
+    "type": "MINION"
+  }
+]

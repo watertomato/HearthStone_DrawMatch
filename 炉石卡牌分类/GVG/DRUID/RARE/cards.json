@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Efrem Palacios",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 1995,
+    "flavor": "请为环保事业尽一份力，把塑料垃圾放在一个垃圾箱内，把敌方随从的尸体放在另一个垃圾箱内。",
+    "id": "GVG_031",
+    "name": "回收",
+    "rarity": "RARE",
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "将一个敌方随从洗入你对手的\n牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2225,
+    "flavor": "喜好：徒步旅行，拥抱美丽的大自然。厌恶：地精伐木机和拖鞋。（讨厌拖鞋纯粹是因为找不到合脚的。）",
+    "health": 4,
+    "id": "GVG_032",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "林地树妖",
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>抉择：</b>使每个玩家获得一个法力水晶；或每个玩家抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 7,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2002,
+    "flavor": "这野兽的爪子和刀剑一样锋利，因为它本来就是由钢铁制成的。",
+    "health": 6,
+    "id": "GVG_034",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "机械熊豹",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPARE_PART"
+    ],
+    "set": "GVG",
+    "text": "每当本随从受到伤害，将一张<b>零件</b>牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

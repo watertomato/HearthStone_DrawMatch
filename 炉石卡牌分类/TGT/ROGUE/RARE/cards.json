@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2766,
+    "flavor": "他做窃贼可不是为了收集钱袋，而是里面的真金白银！",
+    "health": 2,
+    "id": "AT_031",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "窃贼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "每当本随从攻击英雄时，将幸运币置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2768,
+    "flavor": "我这里有笔好买卖……那就是对你的脸造成4点伤害！",
+    "health": 3,
+    "id": "AT_032",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "走私商贩",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你控制任何海盗，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2770,
+    "flavor": "妙手空空！",
+    "id": "AT_033",
+    "name": "剽窃",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "随机获取3张<i>（你对手职业的）</i>卡牌。",
+    "type": "SPELL"
+  }
+]

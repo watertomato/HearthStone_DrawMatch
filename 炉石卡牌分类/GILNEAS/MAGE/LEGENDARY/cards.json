@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Adam Byrne",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47055,
+    "elite": true,
+    "flavor": "往左转一点，再往右转小半圈，然后……哎呀！好吧，反正我们也不需要那条时间线。",
+    "health": 5,
+    "id": "GIL_549",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时光修补匠托奇",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>随机将一张来自过去的<b>传说</b>随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47692,
+    "elite": true,
+    "flavor": "他的孩子们都管他叫啊呜高。",
+    "health": 2,
+    "id": "GIL_691",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "大法师阿鲁高",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "每当你抽到一张随从牌，将一张它的复制置入你的手牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38722,
+    "elite": true,
+    "flavor": "根据能量守恒定律，你损失的生命值最终会转移到我身上。",
+    "health": 6,
+    "id": "OG_209",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "升腾者海纳泽尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "OG",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n你的法术拥有<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

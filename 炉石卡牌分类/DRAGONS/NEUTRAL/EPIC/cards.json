@@ -1,0 +1,188 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55407,
+    "flavor": "她能让你的牌库保持专业水准。",
+    "health": 2,
+    "id": "DRG_062",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙眠净化者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n将你牌库中的所有中立卡牌随机变形成为你的职业的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55422,
+    "flavor": "“你是想当鱼人还是巨龙？”\n“我都行。”",
+    "health": 3,
+    "id": "DRG_072",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "飞天鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，随机召唤两个鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55432,
+    "flavor": "他不要蜡烛。他只想宝剑。",
+    "health": 4,
+    "id": "DRG_082",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黏指狗头人",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n偷取对手的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55466,
+    "flavor": "取无面者触手备用，与两张卡牌共同翻炒。",
+    "health": 5,
+    "id": "DRG_084",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "触手恐吓者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>每个玩家抽一张牌，交换其法力值消耗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55454,
+    "flavor": "奈法利安的造物中有两种最为知名：凶猛恐怖的怪物和花样繁多的早餐。",
+    "health": 3,
+    "id": "DRG_086",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "DISCOVER"
+    ],
+    "name": "多彩龙卵",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>秘密<b>发现</b>一条龙作为孵化对象。\n<b>亡语：</b>破壳而出！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55446,
+    "flavor": "趣味小知识：三只恐惧渡鸦表示凶恶之兆。而四只就够斩杀了！",
+    "health": 4,
+    "id": "DRG_088",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "恐惧渡鸦",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "你每控制一只其他恐惧渡鸦，便拥有+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55436,
+    "flavor": "只要一点纸板再加上想象力，你也能完成传说级的幻化。",
+    "health": 3,
+    "id": "DRG_092",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "幻化师",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "每当你抽到一张牌时，随机将其变形成为一张<b>传说</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55975,
+    "flavor": "灰发巫师失误发挥。",
+    "health": 2,
+    "id": "DRG_401",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灰发巫师",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>直到你的下个回合，和你的对手交换英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ekaterina Shapovalova",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56226,
+    "flavor": "在他加入团队之前，我们一直用的是胶带。",
+    "health": 3,
+    "id": "DRG_403",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "喷灯破坏者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>你对手的下一个英雄技能的法力值消耗增加（2）点。",
+    "type": "MINION"
+  }
+]

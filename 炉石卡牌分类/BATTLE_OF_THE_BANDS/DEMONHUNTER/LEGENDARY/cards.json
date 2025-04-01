@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 96999,
+    "elite": true,
+    "flavor": "这个名字听起来就像个字体，酷。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "ETC_399",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "哈维利亚·墨鸦",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。在一个友方<b>突袭</b>随从攻击后，使你的随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90615,
+    "elite": true,
+    "flavor": "哈维利亚曾因过于前卫而被吉尔尼斯流放。而她把这件事当成一项成就。",
+    "id": "ETC_413",
+    "name": "低沉摇摆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在本回合中，使你的英雄获得+2攻击力和<b>免疫</b>，然后攻击每个敌方随从。",
+    "type": "SPELL"
+  }
+]

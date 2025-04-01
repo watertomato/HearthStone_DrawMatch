@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 12,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110870,
+    "elite": true,
+    "flavor": "整个世界都是他的食物！但卫星不对他的胃口。",
+    "health": 12,
+    "id": "GDB_842",
+    "name": "吞世巨虫戈姆",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SPACE",
+    "text": "<b>休眠</b>5回合。在你的回合结束时，消灭本随从右边的随从以提前1回合唤醒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111074,
+    "elite": true,
+    "flavor": "深暗领域广阔无垠，每一个世界中都存在着未知的奇景与险境。为了趋吉避凶，奈丽率领着斥候队伍探查了德莱尼踏足过的每一颗星球。",
+    "health": 4,
+    "id": "GDB_846",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大主教奈丽",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>将你的\n英雄技能替换为追踪术<i>（从你的牌库中<b>\n发现</b>一张牌）</i>。",
+    "type": "MINION"
+  }
+]

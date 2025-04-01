@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47016,
+    "flavor": "哇喔，血吼！",
+    "id": "GIL_537",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "致命武装",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "揭示你牌库中的一张武器牌。对所有随从造成等同于其攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 47133,
+    "flavor": "他小时候是镇子里出了名的爱哭鬼。",
+    "health": 2,
+    "id": "GIL_580",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "城镇公告员",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>从你的牌库中抽一张具有<b>突袭</b>的随从牌。",
+    "type": "MINION"
+  }
+]

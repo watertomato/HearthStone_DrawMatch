@@ -1,0 +1,83 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102443,
+    "flavor": "原来是它把大家染<b>绿</b>了！",
+    "id": "DEEP_031",
+    "isMiniSet": true,
+    "name": "混乱化形",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "造成$6点伤害。随机召唤一个法力值消耗为（6）的随从。摧毁你牌库底的6张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101269,
+    "flavor": "亮绿色液体一般都对人体有害……可能是废弃物，也可能是什么新口味的软饮料。",
+    "health": 2,
+    "id": "WW_041",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "排污助理",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼，亡语：</b>将一张淤泥桶置于你的\n牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 7,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101270,
+    "flavor": "三“洁”原则：能源清洁！环境整洁！世界浩劫！",
+    "health": 7,
+    "id": "WW_042",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "废物清理工",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "在你的回合结束时，摧毁你牌库底的\n三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102903,
+    "flavor": "还记得摩天龙吗？他现在变成这个了。有沧桑的感觉了吧？",
+    "id": "WW_441",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "锅炉燃料",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "当本牌被使用，弃掉或摧毁时，抽两张牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 7,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55640,
+    "elite": true,
+    "flavor": "作为空巢老龙，她这么做只是因为怀念她的“小”家伙们。",
+    "health": 6,
+    "id": "DRG_095",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "维拉努斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将所有敌方随从的生命值变为1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55303,
+    "elite": true,
+    "flavor": "*砰！*“那个不是龙！”\n*砰！*“那个也不是龙！”",
+    "health": 5,
+    "id": "DRG_256",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "灭龙弩炮",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "在你使用你的英雄技能后，随机对一个敌人造成5点伤害。",
+    "type": "MINION"
+  }
+]

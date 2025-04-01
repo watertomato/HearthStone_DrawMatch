@@ -1,0 +1,106 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77033,
+    "flavor": "“是谁把这口锅藏在了我的背包里？！”——背锅人",
+    "health": 3,
+    "id": "MAW_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "栽赃者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>将3张栽赃牌洗入你对手的牌库。当抽到栽赃牌时，使其<b>过载</b>（2）。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 79774,
+    "flavor": "为什么它只能是张普通卡牌？因为它的地位比脚低！",
+    "health": 10,
+    "id": "MAW_030",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "托加斯特管理员",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH",
+      "WINDFURY"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>\n每有一个敌方随从，随机从<b>突袭</b>，<b>圣盾</b>或<b>风怒</b>中获得一项。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76975,
+    "flavor": "好了，朋友们，看看面具后面是谁……*啊*是老布鲁坎！？",
+    "id": "REV_920",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "可信的伪装",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "将一个友方随从变形成为法力值消耗增加（2）点的随从。<b>注能（4）：</b>改为变形所有友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76981,
+    "flavor": "制作泥仆比你想象的简单，搞砸了都不怕！",
+    "health": 3,
+    "id": "REV_923",
+    "name": "淤泥之池",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "将一个友方随从变形成为法力值消耗增加（1）点的随从。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77366,
+    "flavor": "可以升值（图腾）的装饰品（图腾）！",
+    "health": 3,
+    "id": "REV_935",
+    "mechanics": [
+      "INFUSE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "派对图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "在你的回合结束时，随机召唤一个基础图腾。<b>注能（2）：</b>改为召唤两个。",
+    "type": "MINION"
+  }
+]

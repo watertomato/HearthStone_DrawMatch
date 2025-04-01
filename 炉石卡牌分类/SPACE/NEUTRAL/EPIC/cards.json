@@ -1,0 +1,117 @@
+[
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 111303,
+    "flavor": "驾驭末日的武神将末日加于吾身。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>深暗领域</i>奖励路线中获得该奖励。",
+    "id": "GDB_129",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "末日女武神",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>从你对手的牌库中抽一张牌。如果你未在本回合中使用该牌，将其置回。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111982,
+    "flavor": "天知道我们能发现什么奇妙的生物！……这，算了，我要回家了。",
+    "health": 8,
+    "id": "GDB_321",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "变异生命体",
+    "race": "ALL",
+    "races": [
+      "ALL"
+    ],
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "在本随从受到伤害并存活下来后，获得一项随机<b>额外效果</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 112060,
+    "flavor": "早在飞上太空之前他就已经是明星了。",
+    "health": 5,
+    "id": "GDB_340",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "星际狐人",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "targetingArrowText": "消灭一个敌方<b>星舰</b>或<b>星舰组件</b>。",
+    "text": "<b>可交易</b>\n<b>战吼：</b>消灭一个敌方<b>星舰</b>或<b>星舰组件</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 112062,
+    "flavor": "相邻的卡牌来来往往换了又换，只有这位才是屹立不倒的真正巨星。",
+    "health": 8,
+    "id": "GDB_341",
+    "name": "红巨星巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "本牌在手牌中时，每有一张相邻的牌被使用，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110947,
+    "flavor": "她是太空中的王牌。",
+    "health": 4,
+    "howToEarnGolden": "购买<i>深暗领域</i>炉石通行证后开放解锁。",
+    "id": "GDB_450",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "王牌探路者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>随机获得两项\n<b>额外效果</b>。你使用的下一个德莱尼也会获得这些效果。",
+    "type": "MINION"
+  }
+]

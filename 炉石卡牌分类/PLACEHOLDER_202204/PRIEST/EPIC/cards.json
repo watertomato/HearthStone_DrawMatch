@@ -1,0 +1,98 @@
+[
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97608,
+    "flavor": "他真的会气炸，而你也真的会受伤。",
+    "health": 3,
+    "howToEarn": "与牧师职业一同解锁。",
+    "howToEarnGolden": "使用牧师赢得250场对战后解锁。",
+    "id": "CORE_CFM_606",
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "法力晶簇",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>过量治疗：</b>召唤一个2/2的水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69991,
+    "flavor": "当一道光亮照射在暗影牧师身上...他们的影子会投射在哪里？",
+    "howToEarn": "与牧师职业一同解锁。",
+    "howToEarnGolden": "使用牧师赢得250场对战后解锁。",
+    "id": "CORE_EX1_625",
+    "name": "暗影形态",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "SHADOW",
+    "text": "你的英雄技能变为“造成2点伤害”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95698,
+    "flavor": "拥抱黑暗，主宰命运！",
+    "id": "CORE_ICC_849",
+    "name": "黑暗之拥",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "SHADOW",
+    "text": "选择一个敌方随从。在你的回合开始时，获得该随从的\n控制权。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 77298,
+    "dbfId": 118066,
+    "flavor": "我们一眼就看出信是假的了，戴夫——这是你的笔迹。还有，把兜帽摘了吧。我们都替你尴尬。",
+    "health": 3,
+    "id": "CORE_REV_246",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘访客",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>使你从对手处复制的卡牌的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 77300,
+    "dbfId": 118068,
+    "flavor": "所谓晋升之赐，并不是施加在你身上的外力。这是你从自己身上找到的力量。",
+    "id": "CORE_REV_248",
+    "name": "晋升者之赐",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2生命值。召唤一个具有该随从属性值和<b>嘲讽</b>的格里恩。",
+    "type": "SPELL"
+  }
+]

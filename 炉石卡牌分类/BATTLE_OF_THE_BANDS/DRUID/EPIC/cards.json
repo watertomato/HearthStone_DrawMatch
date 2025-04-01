@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 94218,
+    "flavor": "他的灵魂本该去往炽蓝仙野，但自由的灵魂注定不受拘束。",
+    "health": 2,
+    "id": "ETC_382",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "自由之魂",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼，亡语：</b>在本局对战中，你的英雄技能多获得1点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cynthia  Garcia",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94381,
+    "durability": 0,
+    "flavor": "有事就请摇摇铃！",
+    "health": 3,
+    "id": "ETC_388",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "实木手鼓",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>召唤1棵5/5的古树。<i>（装备期间，使用法力值消耗5点或以上的卡牌以提升此效果！）</i>",
+    "type": "WEAPON"
+  }
+]

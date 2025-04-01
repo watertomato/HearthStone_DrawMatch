@@ -1,0 +1,96 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76117,
+    "flavor": "大分裂之后，月亮的光芒在辛艾萨莉的废墟中消散，可它的威力依然如故。",
+    "id": "TID_001",
+    "isMiniSet": true,
+    "name": "月光射线",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "ARCANE",
+    "text": "对一个敌人造成$1点伤害两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 75560,
+    "flavor": "站在珍珠母中间的这位是植物之母。",
+    "health": 3,
+    "id": "TID_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "自然使徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过自然法术，使你的其他随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 73462,
+    "flavor": "尽管海底条件恶劣，但还是能找到好朋友。",
+    "id": "TSC_650",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "划水好友",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤一只6/6并具有<b>嘲讽</b>的虎鲸；或者六只1/1并具有<b>突袭</b>的海獭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejiarasaes",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 73471,
+    "flavor": "我也不知道那一滩里面都有什么。",
+    "id": "TSC_656",
+    "name": "奇迹生长",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "NATURE",
+    "text": "抽三张牌。召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的植物。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72336,
+    "flavor": "“给花园浇水”可不是这个意思。",
+    "id": "TSC_927",
+    "name": "艾萨拉的花园",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "使你手牌中的所有随从牌获得+1/+1。将一张沉没的花园置于你的牌库底。",
+    "type": "SPELL"
+  }
+]

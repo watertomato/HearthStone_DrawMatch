@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 79556,
+    "elite": true,
+    "flavor": "“法官大人，我的委托人不过是在尝试一种最新的树木修剪技术！”",
+    "health": 4,
+    "id": "MAW_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "辩护律师纳萨诺斯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b><b>发现</b>一个在本局对战中死亡的友方<b>亡语</b>随从，获得其<b>亡语</b>，然后触发。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 78270,
+    "elite": true,
+    "flavor": "他对所有加尔贡的爱都是均等的。（偏爱赫库提斯，偏得不止一点。）",
+    "health": 4,
+    "id": "REV_353",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "猎手阿尔迪莫",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>召唤一个加尔贡伙伴。<b>注能（{0}）：</b>再召唤一个。<b>注能（{1}）：</b>再召唤一个！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78419,
+    "elite": true,
+    "flavor": "如果每当纳斯利亚堡的猎人传说随从召唤出三个不同的伙伴我都能拿到五美分，那我就能拿到十美分。钱算不多，但这种事发生两次就很奇怪。",
+    "health": 5,
+    "id": "REV_363",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾拉隆",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>召唤每种<b>休眠</b>灵种各一个。",
+    "type": "MINION"
+  }
+]

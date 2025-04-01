@@ -1,0 +1,142 @@
+[
+  {
+    "artist": "Luca Zontini",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 109150,
+    "flavor": "祝你踩到1费随从！",
+    "health": 3,
+    "id": "MIS_314",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "积木魔像",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>亡语：</b>随机召唤三个法力值消耗为（1）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102799,
+    "flavor": "她仍然记得奥特兰克山谷的经历，仿佛那仅仅发生在……833天前。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_312",
+    "mechanics": [
+      "MINIATURIZE",
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恋旧的侏儒",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>突袭</b>。在本随从在你的回合中造成了刚好消灭目标的伤害后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103340,
+    "flavor": "可以帮你把对手奏一顿。",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_509",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "发条演奏家",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "造成@点伤害。",
+    "text": "<b>可交易</b>\n<b>战吼：</b>对所有敌方随从造成1点伤害。<i>（<b>交易</b>后升级！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103549,
+    "flavor": "他的奥秘尚处于试玩模式：试，就完了。",
+    "health": 2,
+    "id": "TOY_520",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "秘迹观测者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>\n随机施放2个<b>奥秘</b>。在你的回合开始时，摧毁这些奥秘。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105493,
+    "flavor": "命薄如纸，悬于1线。",
+    "health": 1,
+    "id": "TOY_895",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "折纸仙鹤",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "与另一个随从交换生命值。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>与另一个随从交换生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105495,
+    "flavor": "砍掉一个头，还会长出一个双倍可爱的头！",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_897",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "软软多头蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>将本随从的一张永久具有翻倍攻击力和生命值的复制洗入你的牌库。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "artist": "Tooth",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2031,
+    "elite": true,
+    "flavor": "在伯瓦尔身上的冰融化之后，他受邀接受了采访。在采访中他对艾泽拉斯全球气候变暖现象表达了深深的忧虑。",
+    "health": 7,
+    "id": "GVG_063",
+    "name": "伯瓦尔·弗塔根",
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "如果这张牌在你的手牌中，每当一个友方随从死亡，便获得+1攻击力。",
+    "type": "MINION"
+  }
+]

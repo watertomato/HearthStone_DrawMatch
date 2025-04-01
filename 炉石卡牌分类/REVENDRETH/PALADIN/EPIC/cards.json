@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 79741,
+    "flavor": "有了新职称“黄金之手新兵”，你的薪金也提升了！",
+    "id": "REV_842",
+    "name": "晋升",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "REVENDRETH",
+    "text": "使一个白银之手新兵获得+3/+3和<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78393,
+    "flavor": "“听说大帝邀请了鱼人！太可怕了！”",
+    "health": 4,
+    "id": "REV_961",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "势利精英",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>你手牌中每有一张圣骑士牌，便从<b>圣盾</b>，<b>吸血</b>，<b>突袭</b>或<b>嘲讽</b>中获得一项。",
+    "type": "MINION"
+  }
+]

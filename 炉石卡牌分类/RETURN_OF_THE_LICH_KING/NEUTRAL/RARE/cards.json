@@ -1,0 +1,173 @@
+[
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90325,
+    "flavor": "她拒绝了燃烧军团的诱惑，却沉沦在了天灾大潮之中。",
+    "health": 4,
+    "id": "NX2_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "沉沦的大主教",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>消耗你所有的法力值，召唤相同数量的2/2的并具有<b>突袭</b>的僵尸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 86572,
+    "flavor": "一朝被咬，双重治疗。",
+    "health": 6,
+    "id": "RLK_220",
+    "mechanics": [
+      "LIFESTEAL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "顽强的萨莱因",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>吸血</b>。每当本随从进行攻击，对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 85048,
+    "flavor": "他的笑声比他的病更有感染力。",
+    "health": 4,
+    "id": "RLK_653",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "感染的食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>随机使一个友方随从获得“<b>亡语：</b>召唤一个感染的食尸鬼。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 84692,
+    "flavor": "有血有肉，能让你的亡灵套牌鲜活起来。",
+    "health": 8,
+    "id": "RLK_830",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "血肉巨兽",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>抽取另一张亡灵牌并召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 85597,
+    "flavor": "*传送到你身后*嘘……绝非私人恩怨，孩子。",
+    "health": 4,
+    "howToEarnGolden": "完成成就“不许换回”后解锁。",
+    "id": "RLK_950",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "传送导师",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "选择一个敌方随从，与敌方牌库中的随机一个随从交换。",
+    "text": "<b>战吼：</b>选择一个敌方随从，与敌方牌库中的随机一个随从交换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 85604,
+    "flavor": "就是在这一刻，验尸官决定改行去当农民。",
+    "health": 2,
+    "howToEarnGolden": "完成成就“水晶泉涌”后解锁。",
+    "id": "RLK_951",
+    "mechanics": [
+      "BATTLECRY",
+      "MANATHIRST"
+    ],
+    "name": "验尸官",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE",
+      "SILENCE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "冻结一个敌方随从。",
+    "text": "<b>战吼：</b><b>冻结</b>一个敌方随从。<b>法力渴求（6）：</b>先将其<b>沉默</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 85651,
+    "flavor": ":O",
+    "health": 1,
+    "howToEarnGolden": "完成成就“天灾凋零”后解锁。",
+    "id": "RLK_957",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "哀嚎的女妖",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "techLevel": 1,
+    "text": "<b>亡语：</b>随机使一个友方亡灵获得+2/+1。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41872,
+    "flavor": "你还在用法力施法？早就过时啦！",
+    "id": "UNG_832",
+    "name": "血色绽放",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "SHADOW",
+    "text": "在本回合中，你施放的下一个法术不再消耗法力值，转而消耗生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41875,
+    "flavor": "幸好到目前为止，还没有法力值过大的法术…",
+    "health": 2,
+    "id": "UNG_835",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "聒噪的挖掘者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张法术牌。对你的英雄造成等同于其法力值消耗的伤害。",
+    "type": "MINION"
+  }
+]

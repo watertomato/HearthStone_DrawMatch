@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Raymond Swanland",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1931,
+    "elite": true,
+    "flavor": "所谓暗影猎手，无非就是精通巫毒妖术的暗影牧师。",
+    "health": 2,
+    "id": "GVG_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "沃金",
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "targetingArrowText": "交换生命值。",
+    "text": "<b>战吼：</b>与另一个随从交换生命值。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48099,
+    "flavor": "她认为等久一点你才会更感激她的治疗。",
+    "health": 4,
+    "id": "BOT_216",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "欧米茄医护兵",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>如果你有十个法力水晶，为你的英雄恢复#10点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48101,
+    "flavor": "让我好好抱抱你！",
+    "id": "BOT_219",
+    "name": "增生手臂",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "使一个随从获得+2/+2。将一张可使一个随从获得+2/+2的“更多手臂”置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 49265,
+    "flavor": "“我感觉……真的很难受。”",
+    "health": 2,
+    "id": "BOT_558",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "实验体",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>将你施放在本随从身上的所有法术洗入你的牌库。",
+    "type": "MINION"
+  }
+]

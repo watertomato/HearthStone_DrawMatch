@@ -1,0 +1,325 @@
+[
+  {
+    "artist": "Jialuan Li",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102192,
+    "flavor": "专供艾德温最爱的狗：走狗。",
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CORE_DED_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "狗狗饼干",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>可交易</b>\n使一个随从获得+2/+3。在你<b>交易</b>此牌后，使一个友方随从获得<b>突袭</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Milivoj Ceran",
+    "attack": 7,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69600,
+    "flavor": "在偌大丛林的生存游戏中，即使是狮子也会被成群的土狼拖垮。",
+    "health": 5,
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CORE_EX1_534",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "长鬃草原狮",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>召唤两只2/2的土狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabe from Penny Arcade",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111361,
+    "flavor": "“咬死他！”，他下达了命令。",
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CORE_EX1_539",
+    "name": "杀戮命令",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "造成$3点伤害。如果你控制一个野兽，则改为造成\n$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Joe Wilson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111360,
+    "flavor": "“牛头人得到了这块绿色的石头，想要用它的力量拯救自己的土地。他们释放了心中的怒火，族群却从此失落。究竟谁是猎手，谁又是野兽？”——《魔石》",
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CORE_FB_Champs_LOOT_080",
+    "name": "小型法术翡翠",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "召唤两只3/3的狼。<i>（使用一个<b>奥秘</b>后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110084,
+    "flavor": "“我亲自去买的。”——雷克萨",
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_03",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "雷克萨的礼物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>发现</b>一张<b>临时</b>的快速射击，致命射击或爆炸射击。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95700,
+    "flavor": "祸兮蝠之所倚，蝠兮祸之所伏。",
+    "health": 1,
+    "id": "CORE_ICC_021",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "自爆肿胀蝠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>对所有敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95778,
+    "flavor": "注意，有蛇出没。",
+    "id": "CORE_ICC_200",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "眼镜蛇陷阱",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>当你的随从受到攻击时，召唤一条2/3并具有<b>剧毒</b>的眼镜蛇。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95677,
+    "flavor": "虽然她的身体经受了死亡的考验，但她的婚姻呢？",
+    "health": 6,
+    "id": "CORE_ICC_243",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "巨型尸蛛",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你的<b>亡语</b>牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102190,
+    "flavor": "我最近学了新的戏法，都是很棒的戏法，就连麦迪文也没有见识过。",
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CORE_KAR_004",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "豹子戏法",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术后，召唤一只4/2并具有<b>潜行</b>的猎豹。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga & James Martin",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102189,
+    "flavor": "并非所有游荡者都迷失了自我。然而这个肯定是迷失了。",
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CORE_LOOT_079",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "游荡怪物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>\n当一个敌人攻击你的英雄时，随机召唤一个法力值消耗为（3）的随从，并使其成为攻击的目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrick Bjorkstrom",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 79552,
+    "dbfId": 118019,
+    "flavor": "影犬可不是一般的乖狗狗。他是最乖的狗狗。",
+    "health": 5,
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CORE_MAW_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "INFUSE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "影犬",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "每当本随从攻击时，使你的其他野兽获得+2/+2。\n<b>注能（3只野兽）：</b>\n获得<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 78412,
+    "dbfId": 118095,
+    "flavor": "总是在当地的灵种庇护园里偷偷摸摸。",
+    "health": 2,
+    "id": "CORE_REV_360",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灵体偷猎者",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机召唤一个<b>休眠</b>的灵种。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 78418,
+    "dbfId": 118097,
+    "flavor": "快，装死！哦……",
+    "health": 3,
+    "id": "CORE_REV_362",
+    "name": "城堡狗舍",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "使一个友方随从获得+2攻击力。如果是野兽，还会使其获得<b>突袭</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 84345,
+    "dbfId": 118101,
+    "flavor": "1 + 2 + 2 + 1",
+    "id": "CORE_REV_369",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "间接伤害",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "随机对三个敌方随从造成$6点伤害。超过目标生命值的伤害会命中敌方英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62698,
+    "flavor": "他选的都是最好的，看看这只会笑的大猫就知道了！",
+    "health": 3,
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得100场对战后解锁。",
+    "id": "CS3_015",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "选种饲养员",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n从你的牌库中<b>发现</b>一张野兽牌的复制。",
+    "type": "MINION"
+  }
+]

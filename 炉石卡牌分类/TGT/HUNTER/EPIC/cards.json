@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Tyson Murphy",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2639,
+    "flavor": "比起那些五大三粗的男人而言，她在照顾宠物方面显然用心多了。",
+    "health": 2,
+    "id": "AT_057",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "兽栏大师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "TGT",
+    "targetingArrowText": "在本回合中，获得<b>免疫</b>。",
+    "text": "<b>战吼：</b>在本回合中，使一个友方野兽获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 2484,
+    "flavor": "雷克萨唤醒米莎，拿起墙角的机关枪，眯着眼睛说道：“子弹上膛！是时候找点乐子了！”",
+    "id": "AT_061",
+    "name": "子弹上膛",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "在本回合中，每当你施放一个法术，随机获取一张\n猎人卡牌。",
+    "type": "SPELL"
+  }
+]

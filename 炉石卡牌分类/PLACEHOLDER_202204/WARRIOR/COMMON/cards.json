@@ -1,0 +1,364 @@
+[
+  {
+    "artist": "Vika Yarova",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 62462,
+    "flavor": "海盗打劫其实也算“打折”。",
+    "health": 1,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_CS3_008",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血帆桨手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>你的下一张武器牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 66863,
+    "flavor": "战歌氏族的侦察骑兵不是外人，都是氏族成员的内人。",
+    "health": 4,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_CS3_030",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "战歌侦察骑兵",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102214,
+    "flavor": "这家伙有多狠？他每天的早餐就是一把剑！连牛奶都不喝。",
+    "health": 5,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_DMF_521",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "吞剑艺人",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽，战吼：</b>装备一把3/2的剑。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 108360,
+    "flavor": "就像玩扫雷加上坦克大战一样躲开炸弹！",
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_DMF_522",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "雷区挑战",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "造成$5点伤害，随机分配到所有随从身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wei Wang",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69549,
+    "flavor": "战歌氏族中闹剧不断，什么三教九流的人都能当上他们的指挥官。",
+    "health": 3,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_EX1_084",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "战歌指挥官",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你召唤一个攻击力小于或等于3的随从，使其获得<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jonboy Meyers",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69556,
+    "flavor": "分辨资深战士和新手战士的最好办法：新手在用旋风斩时会喊“哇哇哇”。",
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_EX1_400",
+    "name": "旋风斩",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "对所有随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69644,
+    "flavor": "“这个周末你们必须来加班。”——严酷的监工",
+    "health": 3,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_EX1_603",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "严酷的监工",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "造成1点伤害并使其获得+2攻击力。",
+    "text": "<b>战吼：</b>对一个随从造成1点伤害，并使其获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102215,
+    "durability": 0,
+    "flavor": "金斧银斧不如自己的铁斧。",
+    "health": 2,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_GIL_653",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "樵夫之斧",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机使一个友方随从获得+2/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Joe Wilson",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95642,
+    "durability": 0,
+    "flavor": "实在是居家旅行，杀人灭口之必备佳品。刀刃锋利，请注意安全。",
+    "health": 2,
+    "id": "CORE_ICC_064",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "血刃剃刀",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼，亡语：</b>\n对所有随从造成1点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95636,
+    "flavor": "如果他能安静一点，活化起来就容易多了。",
+    "health": 3,
+    "id": "CORE_ICC_238",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "活化狂战士",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你使用一张随从牌后，对其造成1点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95703,
+    "flavor": "由千魂之父布隆亚姆打造的强大武器库。",
+    "id": "CORE_ICC_281",
+    "name": "灵魂洪炉",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "从你的牌库中抽两张武器牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 79770,
+    "dbfId": 118037,
+    "flavor": "别走啊，出庭的意思是让你进去。这词确实容易误会。",
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_MAW_027",
+    "isMiniSet": true,
+    "name": "传唤出庭",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "使你的对手随机从手牌中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108359,
+    "flavor": "最好的进攻就是严防死守。",
+    "health": 5,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_ONY_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "奥妮克希亚幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "对一个敌方随从造成等同于你护甲值的伤害。",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>对一个敌方随从造成等同于你的护甲值的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 78142,
+    "dbfId": 118084,
+    "flavor": "在我们抽取完成后，您可以自行取用饼干和苹果汁。感谢您的捐献！",
+    "health": 4,
+    "id": "CORE_REV_332",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "心能提取者",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当一个友方随从受到伤害，随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 77244,
+    "dbfId": 118150,
+    "flavor": "激怒就是持续的暴怒。",
+    "health": 4,
+    "id": "CORE_REV_930",
+    "mechanics": [
+      "ENRAGED"
+    ],
+    "name": "疯狂的可怜鬼",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "受伤时拥有+2攻击力和<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 77311,
+    "dbfId": 118152,
+    "durability": 3,
+    "flavor": "严格地说，这是一把待灌能战斧。",
+    "id": "CORE_REV_933",
+    "mechanics": [
+      "INFUSE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "灌能战斧",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的英雄攻击后，使你受伤的随从获得+1/+2。<b>注能（2）：</b>改为+2/+2。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102719,
+    "flavor": "“硕铠鼠……你在哪啊？！”",
+    "health": 3,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得50场对战后解锁。",
+    "id": "CORE_ULD_195",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "TAUNT"
+    ],
+    "name": "惊恐的仆从",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽，战吼：</b>\n<b>发现</b>一张具有<b>嘲讽</b>的随从牌。",
+    "type": "MINION"
+  }
+]

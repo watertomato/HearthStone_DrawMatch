@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Rudy Siswanto",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41116,
+    "flavor": "他只是想和他的小伙伴们一起摇摆。",
+    "health": 4,
+    "id": "UNG_208",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "岩石哨兵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则召唤两个2/3并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41879,
+    "flavor": "死亡不是终点，而是新的开始。",
+    "id": "UNG_956",
+    "name": "灵魂回响",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得“<b>亡语：</b>将本随从移回你的手牌”。",
+    "type": "SPELL"
+  }
+]

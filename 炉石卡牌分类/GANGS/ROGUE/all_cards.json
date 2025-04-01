@@ -1,0 +1,192 @@
+[
+  {
+    "artist": "Mark Gibbons",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 40791,
+    "flavor": "记得要把幸运符带在身上，尤其是在加基森！",
+    "health": 5,
+    "id": "CFM_342",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "土地精海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>\n如果你的武器至少有3点攻击力，便获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joe Wilson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 40437,
+    "flavor": "这些伪造的幸运币…似乎是玉莲帮的杰作。",
+    "id": "CFM_630",
+    "name": "伪造的幸运币",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "text": "在本回合中，获得一个法力\n水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40441,
+    "flavor": "只要5000金币和一个名字，玉莲帮就能为你解决掉他！岁末酬宾，买二赠一哟…",
+    "health": 5,
+    "id": "CFM_634",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "玉莲帮刺客",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "GANGS",
+    "text": "<b>潜行</b>。每当本随从攻击并消灭一个随从时，便获得<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jon Neimeister",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40464,
+    "flavor": "你看不见我！",
+    "health": 1,
+    "id": "CFM_636",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "暗影暴怒者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "<b>潜行</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40698,
+    "flavor": "好消息是，你可以卖了这枚飞镖来付医药费。",
+    "id": "CFM_690",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "青玉飞镖",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHOOSE_ONE",
+      "JADE_GOLEM"
+    ],
+    "set": "GANGS",
+    "text": "造成$3点伤害。\n<b>连击：</b>召唤一个{0}的<b>青玉魔像</b>。0造成$3点伤害。\n<b>连击：</b>召唤一个<b>青玉魔像</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40697,
+    "flavor": "所到之处，寸草不生。",
+    "health": 1,
+    "id": "CFM_691",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STEALTH"
+    ],
+    "name": "青玉游荡者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "GANGS",
+    "text": "<b>潜行，亡语：</b>召唤一个{0}的<b>青玉魔像</b>。0<b>潜行，亡语：</b>召唤一个<b>青玉魔像</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40696,
+    "flavor": "要是船发生了侧翻，他还能兼职做救生员。",
+    "health": 3,
+    "id": "CFM_693",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "加基森摆渡人",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "targetingArrowText": "移回你的手牌。",
+    "text": "<b>连击：</b>将一个友方随从移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40695,
+    "flavor": "他曾是艾雅的导师。但他多次指出艾雅的问题，结果被炒了鱿鱼。",
+    "health": 4,
+    "id": "CFM_694",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影大师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "GANGS",
+    "targetingArrowText": "获得+2/+2。",
+    "text": "<b>战吼：</b>使一个<b>潜行</b>的随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40905,
+    "elite": true,
+    "flavor": "艾雅曾调查过沙库尔，看看他有没有私藏什么好东西。",
+    "health": 4,
+    "id": "CFM_781",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "收集者沙库尔",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>潜行</b>。每当本随从攻击时，随机将一张<i>（你对手职业的）</i>牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

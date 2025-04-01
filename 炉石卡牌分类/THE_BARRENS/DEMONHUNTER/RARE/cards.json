@@ -1,0 +1,107 @@
+[
+  {
+    "artist": "Akkapoj T.",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63164,
+    "flavor": "跑团的时候，这是我最喜欢的进阶职业。",
+    "health": 3,
+    "id": "BAR_326",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "剃刀沼泽兽王",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>亡语：</b>从你的手牌中召唤一个法力值消耗小于或等于（4）点的<b>亡语</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63229,
+    "durability": 0,
+    "flavor": "在贫瘠之地，万物皆有獠牙！野猪人长着獠牙，野猪长着獠牙，獠牙也长着獠牙。",
+    "health": 2,
+    "id": "BAR_330",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "獠牙锥刃",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>亡语：</b>抽一张<b>亡语</b>随从牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 63467,
+    "flavor": "其他咒符的量词是个，这个要用“听”。",
+    "id": "BAR_705",
+    "name": "沉默咒符",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "THE_BARRENS",
+    "spellSchool": "SHADOW",
+    "text": "在你的下个回合开始时，<b>沉默</b>所有敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63264,
+    "flavor": "你看，召唤恶魔这种事其实不算很科学。有时召唤的延迟长达一个回合。",
+    "id": "WC_003",
+    "isMiniSet": true,
+    "name": "召唤咒符",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_BARRENS",
+    "spellSchool": "SHADOW",
+    "text": "在你的下个回合开始时，召唤两个2/2并具有<b>嘲讽</b>的恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 8,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 63230,
+    "flavor": "哎呀呀，听说有人的世界之树被烧了？",
+    "health": 8,
+    "id": "WC_040",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA",
+      "TAUNT"
+    ],
+    "name": "污心拷问者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>\n你对手的法术的法力值消耗增加（2）点。",
+    "type": "MINION"
+  }
+]

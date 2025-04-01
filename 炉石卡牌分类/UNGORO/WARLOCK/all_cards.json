@@ -1,0 +1,209 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41191,
+    "flavor": "想让你的翼手龙变得更强壮吗？那就多喂一点低脂高纤维的随从。",
+    "health": 3,
+    "id": "UNG_047",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "饥饿的翼手龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>\n消灭一个友方随从，并连续<b>进化</b>两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41194,
+    "flavor": "潜了这么久，终于能上来冒个泡了…",
+    "health": 7,
+    "id": "UNG_049",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "焦油潜伏者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>\n在你对手的回合拥有+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41856,
+    "elite": true,
+    "flavor": "探险者：“但是，古尔丹，代价是什么呢？”\n古尔丹：“弃掉…六张牌…”",
+    "id": "UNG_829",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "拉卡利献祭",
+    "questReward": "UNG_829t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>弃掉六张牌。\n<b>奖励：</b>虚空传送门。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41869,
+    "flavor": "一旦你选择了这个行当，就别指望交什么朋友了。",
+    "health": 5,
+    "id": "UNG_830",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "残暴的恐龙统领",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>随机召唤一个你在本局对战中弃掉的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41871,
+    "flavor": "寂静的山岭荒无人烟，恐怖的阴霾无处不在。",
+    "id": "UNG_831",
+    "name": "腐化迷雾",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "SHADOW",
+    "text": "诅咒所有随从，在你的下个回合开始时将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41872,
+    "flavor": "你还在用法力施法？早就过时啦！",
+    "id": "UNG_832",
+    "name": "血色绽放",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "SHADOW",
+    "text": "在本回合中，你施放的下一个法术不再消耗法力值，转而消耗生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41873,
+    "flavor": "它这一头时髦的脏辫秘诀在于焦油。",
+    "health": 8,
+    "id": "UNG_833",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "拉卡利地狱犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>弃掉你手牌中法力值消耗最低的两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41874,
+    "flavor": "这帮小家伙只有1/1的身材，却有着4/4的食量！",
+    "id": "UNG_834",
+    "name": "喂食时间",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "对一个随从造成$3点伤害。召唤三只1/1的翼手龙并使其<b>进化</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41875,
+    "flavor": "幸好到目前为止，还没有法力值过大的法术…",
+    "health": 2,
+    "id": "UNG_835",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "聒噪的挖掘者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张法术牌。对你的英雄造成等同于其法力值消耗的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41876,
+    "elite": true,
+    "flavor": "主人弃我千百遍，我待主人如初恋。",
+    "health": 2,
+    "id": "UNG_836",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "萨瓦丝女王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "每当你弃掉这张牌时，使其获得+2/+2，并将其移回你的手牌。",
+    "type": "MINION"
+  }
+]

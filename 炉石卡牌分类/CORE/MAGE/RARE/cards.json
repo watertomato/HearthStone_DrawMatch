@@ -1,0 +1,87 @@
+[
+  {
+    "artist": "Chris Seaman",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 76273,
+    "flavor": "这不只是一张卡牌，更是一张招牌。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_CS2_028",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "暴风雪",
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "FROST",
+    "text": "对所有敌方随从造成$2点伤害，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 117307,
+    "flavor": "呓语魔橱现在就是我心目当中的第一卡。阳光，积极，又大方。只需三点法力值拍到场上去，他就能给你两张实用法术牌，太棒了。",
+    "health": 4,
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_EDR_001",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "呓语魔橱",
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "<b>战吼：</b>随机\n将2张法师法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Chan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69607,
+    "flavor": "一个会法术反制的法师和一个不会法术反制的法师之间有什么区别？那个不会的法师被炎爆术炸了一脸。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_EX1_287",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "法术反制",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COUNTER"
+    ],
+    "set": "CORE",
+    "spellSchool": "ARCANE",
+    "text": "<b>奥秘：</b>当你的对手施放一个法术时，<b>反制</b>该法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86235,
+    "flavor": "有时候去读警告标识可能更加危险。",
+    "howToEarn": "与法师职业一同解锁。",
+    "howToEarnGolden": "使用法师赢得100场对战后解锁。",
+    "id": "CORE_LOOT_101",
+    "mechanics": [
+      "SECRET",
+      "ImmuneToSpellpower"
+    ],
+    "name": "爆炸符文",
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "FIRE",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，对该随从造成$6点伤害，超过其生命值的伤害将由对方英雄\n承受。",
+    "type": "SPELL"
+  }
+]

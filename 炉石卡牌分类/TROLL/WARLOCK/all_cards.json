@@ -1,0 +1,191 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50002,
+    "flavor": "一哭二闹三尖啸。",
+    "id": "TRL_245",
+    "name": "尖啸",
+    "rarity": "RARE",
+    "set": "TROLL",
+    "spellSchool": "SHADOW",
+    "text": "弃掉你手牌中法力值消耗最低的牌。对所有随从造成$2点\n伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 50004,
+    "flavor": "“你签的什么？玛拉基斯？！”",
+    "id": "TRL_246",
+    "name": "虚空契约",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "spellSchool": "SHADOW",
+    "text": "摧毁双方牌库中一半的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Garner",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 50006,
+    "flavor": "弃牌不是无情术，化作手牌更护魂。",
+    "health": 6,
+    "id": "TRL_247",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "护魂者",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>随机将三张你在本局对战中弃掉的牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Skan Srisuwan",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50012,
+    "flavor": "“我们的团队”中没有“我”。",
+    "id": "TRL_249",
+    "name": "残酷集结",
+    "rarity": "RARE",
+    "set": "TROLL",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个友方随从。使你的所有随从获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50025,
+    "flavor": "本身没有任何超能力，就是特有钱。",
+    "health": 3,
+    "id": "TRL_251",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "蝙蝠之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "<b>潜行</b>一回合。在一个友方随从死亡后，使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50032,
+    "elite": true,
+    "flavor": "如果你爱她，就给她自由。反正你也摆脱不了她。",
+    "health": 5,
+    "id": "TRL_252",
+    "mechanics": [
+      "LIFESTEAL",
+      "TAUNT",
+      "InvisibleDeathrattle"
+    ],
+    "name": "高阶祭司耶克里克",
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>嘲讽，吸血</b>\n当你弃掉这张牌时，将这张牌的两张复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 50034,
+    "elite": true,
+    "flavor": "除虫喷雾的效果消失了。",
+    "health": 1,
+    "id": "TRL_253",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "希里克，蝙蝠之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>用本随从的复制填满你的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 50070,
+    "flavor": "纳兹米尔有名的血豆腐西施。",
+    "health": 8,
+    "id": "TRL_257",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲜血巨魔工兵",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "在一个友方随从\n死亡后，对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50863,
+    "flavor": "“随地弃牌怎么了，因为我没素质啊！”",
+    "health": 6,
+    "id": "TRL_551",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "粗暴的恐怖巨魔",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>嘲讽，战吼：</b>弃掉你手牌中法力值消耗最低的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 50991,
+    "flavor": "“我不管，反正我人多！”",
+    "id": "TRL_555",
+    "name": "恶魔之箭",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从。你每控制一个随从，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55643,
+    "elite": true,
+    "flavor": "他最拿手的还是模仿沙德沃克。",
+    "health": 5,
+    "id": "DRG_096",
+    "name": "班德斯莫什",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张<b>传说</b>随从牌的5/5的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peet Cooper",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55024,
+    "elite": true,
+    "flavor": "“你是霍格”读快了就成了尼索格。",
+    "health": 5,
+    "id": "DRG_224",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尼索格",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤两个0/3的龙卵。下个回合它们将孵化为4/4并具有<b>突袭</b>的幼龙。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57427,
+    "elite": true,
+    "flavor": "哈加莎在风中呼喊：“诚然，您的威力可以与大漩涡相匹敌！”而风暴向她回答：“我就是大漩涡。”",
+    "health": 30,
+    "heroPowerDbfId": 55808,
+    "id": "DRG_620",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风暴巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤两个2/2并具有<b>突袭</b>的风暴。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

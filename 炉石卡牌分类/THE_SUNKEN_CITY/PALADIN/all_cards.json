@@ -1,0 +1,281 @@
+[
+  {
+    "artist": "Tanamaes Leejiarasaes",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 76258,
+    "flavor": "浮潜海蝠浅伏海，摇曳光鳐夜瑶光。",
+    "health": 5,
+    "id": "TID_077",
+    "isMiniSet": true,
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "光鳐",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>嘲讽</b>\n在本局对战中，你每使用过一张圣骑士牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 73427,
+    "flavor": "开战前没时间帮自己把另半身护甲穿好。",
+    "health": 4,
+    "id": "TID_098",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "纳迦侍从",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你对本随从施放一个法术后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 80117,
+    "flavor": "海底沙滩上划好了线，潮汐王座之战开始了。",
+    "id": "TID_949",
+    "isMiniSet": true,
+    "name": "战争前线",
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "text": "从每个玩家的牌库中各召唤一个随从。重复，直到任意一方的随从数量达到上限。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 71984,
+    "elite": true,
+    "flavor": "由伊妮·积雷亲手建造。这艘巨舰可以陪你闯过几乎任何恶劣环境……但她真心希望你别去那么险恶的地方！",
+    "health": 5,
+    "id": "TSC_030",
+    "mechanics": [
+      "COLOSSAL",
+      "DIVINE_SHIELD",
+      "DREDGE",
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "海兽号",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>巨型+1</b>\n<b>突袭</b>，<b>圣盾</b>。在本随从攻击后，<b>探底</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 73428,
+    "flavor": "泡泡机器人，泡泡泡泡泡泡机器人。",
+    "health": 4,
+    "id": "TSC_059",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泡泡机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>\n使你的所有其他机械获得<b>圣盾</b>和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 73431,
+    "flavor": "时刻保持闪亮就好。",
+    "health": 5,
+    "id": "TSC_060",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "闪光翻车鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你的手牌中有神圣法术牌，则获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 73434,
+    "flavor": "蓓蕾在此绝迹，贝类在此崛起。",
+    "id": "TSC_061",
+    "name": "花园惠景",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+4/+4和<b>圣盾</b>。在本局对战中，你每消耗1点法力值用于神圣法术牌上，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78113,
+    "elite": true,
+    "flavor": "你需要治疗。",
+    "health": 3,
+    "id": "TSC_074",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "克托里·光刃",
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你对本随从施放一个神圣法术后，再次对另一个友方随从施放该法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 80112,
+    "flavor": "石像背后写着<b>亡语：</b>“我裂开了。”",
+    "id": "TSC_076",
+    "name": "永存石中",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "召唤具有<b>嘲讽</b>的4/8，2/4，1/2的元素各一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76250,
+    "flavor": "“嗯，我完全不会用雷达。”",
+    "id": "TSC_079",
+    "name": "雷达探测",
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "text": "扫描你牌库底的5张牌。抽取探测到的机械牌，然后洗混你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77018,
+    "flavor": "“龟龟已找到。正在执行绷带贴贴与亲亲。痛痛即将清除。”",
+    "health": 2,
+    "id": "TSC_083",
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "海床救生员",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。如果选中的是随从牌，使其获得本随从的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72926,
+    "flavor": "艾露恩的光芒在辛艾萨莉的废墟中消散，可宝藏依然如故。",
+    "health": 2,
+    "id": "TSC_644",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD"
+    ],
+    "name": "艾萨拉的观月仪",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>圣盾</b>，<b>战吼：</b>将一张沉没的观月仪置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 73424,
+    "flavor": "如果你把10点法力值都用了，这就叫“午市特惠”。",
+    "id": "TSC_952",
+    "name": "神圣寿司卷",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "恢复#2点生命值。在本回合可以重复使用。",
+    "type": "SPELL"
+  }
+]

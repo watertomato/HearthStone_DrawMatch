@@ -1,0 +1,218 @@
+[
+  {
+    "artist": "Grace Liu",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 51943,
+    "flavor": "支持到付！",
+    "health": 2,
+    "id": "DAL_163",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "渡鸦信使",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b><b>发现</b>一张法师随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 51971,
+    "flavor": "不要回答！不要回答！不要回答！",
+    "id": "DAL_177",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "咒术师的召唤",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "spellSchool": "ARCANE",
+    "text": "<b>双生法术</b>\n消灭一个随从。召唤两个法力值消耗相同的随从来替换它。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 51977,
+    "flavor": "这只蛙的嗓门特别大。",
+    "health": 3,
+    "id": "DAL_182",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "魔法蓝蛙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "在你施放一个法术后，随机对一个敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Zagumennyy",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52502,
+    "elite": true,
+    "flavor": "“一次召唤两个的随从叫什么呢？双生随从，哈哈！等等……你别走啊！”",
+    "health": 2,
+    "id": "DAL_575",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "卡德加",
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "你的召唤随从的卡牌召唤数量翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52638,
+    "flavor": "数字全都对上了！",
+    "health": 3,
+    "id": "DAL_576",
+    "mechanics": [
+      "AURA",
+      "SPELLPOWER"
+    ],
+    "name": "肯瑞托三修法师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+3</b>\n你的法术牌法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Garner",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52639,
+    "flavor": "如果你失去了理智，就用这个冷静一下吧。",
+    "id": "DAL_577",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "霜冻射线",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "DALARAN",
+    "spellSchool": "FROST",
+    "text": "<b>双生法术</b>\n<b>冻结</b>一个随从。如果该随从已被<b>冻结</b>，则对其造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 52640,
+    "flavor": "通常用于晚会表演，真的。",
+    "id": "DAL_578",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "创世之力",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>一张法力值消耗为（6）的随从牌。召唤两个它的\n复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ware Li",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52706,
+    "flavor": "让你的法术转起来！",
+    "health": 2,
+    "id": "DAL_603",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "法力飓风",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>你在本回合中每施放过一个法术，便随机将一张法师法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52991,
+    "flavor": "我发明了一个深奥复杂的魔术，可惜这里地方太小，施展不出来！",
+    "id": "DAL_608",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "魔术戏法",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>一张法力值消耗小于或等于（3）点的法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 53002,
+    "elite": true,
+    "flavor": "他曾是魔法的守护者，但最终放弃了这一身份，转而潜心研究魔法。",
+    "health": 12,
+    "id": "DAL_609",
+    "mechanics": [
+      "AURA",
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "卡雷苟斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "你每个回合使用的第一张法术牌的法力值消耗为（0）点。<b>战吼：</b><b>发现</b>一张法术牌。",
+    "type": "MINION"
+  }
+]

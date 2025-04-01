@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Bobby Chiu",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2279,
+    "flavor": "如果你喜欢自己脸被打肿的样子，就请来到黑铁酒吧！",
+    "health": 3,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁制作。",
+    "id": "BRM_019",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恐怖的奴隶主",
+    "rarity": "RARE",
+    "set": "BRM",
+    "text": "在本随从受到伤害并存活下来后，召唤另一个恐怖的奴隶主。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2278,
+    "flavor": "究竟是先有龙，还是先有龙蛋？",
+    "health": 2,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁制作。",
+    "id": "BRM_022",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙蛋",
+    "rarity": "RARE",
+    "set": "BRM",
+    "text": "每当本随从受到\n伤害，召唤一条2/1的雏龙。",
+    "type": "MINION"
+  }
+]

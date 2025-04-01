@@ -1,0 +1,103 @@
+[
+  {
+    "artist": "Justin Thavirat",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1786,
+    "flavor": "蛛魔产的卵和鸡生的蛋都含有丰富的蛋白质。",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁制作。",
+    "id": "FP1_007",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "蛛魔之卵",
+    "rarity": "RARE",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>召唤一个4/4的蛛魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Olson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1790,
+    "flavor": "“从你的坟墓中醒来吧！”——克尔苏加德",
+    "health": 8,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁制作。",
+    "id": "FP1_009",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "死亡领主",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "NAXX",
+    "text": "<b>嘲讽，亡语：</b>你的对手将一个随从从其牌库置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nate Bowden",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1793,
+    "flavor": "千万别让他喝碳酸饮料！",
+    "health": 6,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁制作。",
+    "id": "FP1_012",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "淤泥喷射者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "NAXX",
+    "text": "<b>嘲讽，亡语：</b>召唤一个1/2并具有<b>嘲讽</b>的泥浆怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 1799,
+    "flavor": "只要他拿起麦克风，别人的声音都听不见了。",
+    "health": 5,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_016",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哀嚎的灵魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "NAXX",
+    "text": "<b>战吼：沉默</b>你的其他随从。",
+    "type": "MINION"
+  }
+]

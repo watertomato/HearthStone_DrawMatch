@@ -1,0 +1,248 @@
+[
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 65682,
+    "flavor": "最可怕的场景——鹦鹉大叫一声：“炎爆！”",
+    "health": 5,
+    "id": "DED_515",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灰贤鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n重复你施放的上一个法力值消耗大于或等于（6）点的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65683,
+    "flavor": "“船长！我们撞上冰山了！……不，不怪我！”",
+    "health": 4,
+    "id": "DED_516",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深水唤醒师",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张法术牌，并获得等同于其法力值消耗的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65684,
+    "flavor": "在这艘船上，如果随从不能保持完整形体，就只能被扔到海里。变成浮点型随从。",
+    "id": "DED_517",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "奥术溢爆",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "ARCANE",
+    "text": "对一个敌方随从造成$8点伤害。召唤一滩残渣，属性值等同于超过目标生命值的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63673,
+    "durability": 0,
+    "flavor": "“亲爱的妈妈，\n我手上的法术和爆发已经够多啦，下次还是寄一点护甲和治疗过来吧。\n爱你的孩子”",
+    "health": 2,
+    "id": "SW_001",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "星空墨水套装",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你消耗5点法力值用于法术牌上后，使你手牌中的一张法术牌法力值消耗减少（5）点。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64423,
+    "flavor": "库房失火，五折甩卖，全场商品一律五折。",
+    "id": "SW_107",
+    "name": "火热促销",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "<b>可交易</b>\n对所有随从造成\n$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64430,
+    "flavor": "你还是那么喜欢火。",
+    "id": "SW_108",
+    "name": "初始之火",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$2点伤害。将“传承之火”置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64433,
+    "flavor": "不！我的奶酪火锅！",
+    "health": 5,
+    "id": "SW_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "笨拙的信使",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>从你的手牌中施放法力值消耗最高的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64434,
+    "flavor": "“当年下死亡矿井的时候，我一把掐住了范克里夫的脖子，正要给他个痛快……*嗅*什么味？”",
+    "id": "SW_110",
+    "name": "点燃",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。将一张伤害提高一点的“点燃”洗入\n你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64435,
+    "flavor": "为了保证圣殿的照明，他忙得一根蜡烛两头烧。",
+    "health": 5,
+    "id": "SW_111",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣殿蜡烛商",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你施放一个火焰法术后，抽一张\n法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64436,
+    "flavor": "哈，这家伙，他肯定也不是伪装起来的恶龙。",
+    "health": 3,
+    "id": "SW_112",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "普瑞斯托的炎术师",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>你的下一个火焰法术拥有<b>法术伤害+2</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64438,
+    "elite": true,
+    "flavor": "吉安娜成了冰法，他真的很失望。",
+    "health": 6,
+    "id": "SW_113",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "首席法师安东尼达斯",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>如果你在上三个回合中都施放过火焰法术，随机对敌人施放三个火球术。0<i>（0/3）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64488,
+    "elite": true,
+    "flavor": "在“那次事故”之后，暴风城监狱真的应该重新评估一下《反法师条例》了。",
+    "id": "SW_450",
+    "name": "巫师的计策",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>施放火焰，冰霜和奥术法术各一个。<b>奖励：</b>抽一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 65140,
+    "flavor": "容易在上火的时候触发。",
+    "id": "SW_462",
+    "name": "炽热连击",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "在本回合中，你的下一张火焰法术牌法力值消耗减少\n（2）点。",
+    "type": "SPELL"
+  }
+]

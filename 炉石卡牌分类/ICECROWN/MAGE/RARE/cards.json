@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42716,
+    "flavor": "你管他叫行者？他连个脚都没有！",
+    "health": 3,
+    "id": "ICC_068",
+    "name": "寒冰行者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "你的英雄技能还会\n<b>冻结</b>目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42718,
+    "flavor": "听说，万圣节，紫色和鬼影更配哦！",
+    "health": 6,
+    "id": "ICC_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鬼影巫师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>将一张“镜像”法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42756,
+    "flavor": "吉安娜在学徒保护方面一直备受争议。",
+    "health": 2,
+    "id": "ICC_083",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "末日学徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "你对手法术的法力值消耗增加（1）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61191,
+    "elite": true,
+    "flavor": "体内灌注的圣光过于耀眼，晚上睡觉的时候不得不戴上双层眼罩。",
+    "health": 5,
+    "id": "DMF_240",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "救赎者洛萨克森",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你召唤一个白银之手新兵后，使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61192,
+    "elite": true,
+    "flavor": "对抗黑暗的战斗中，容不得中立的存在。",
+    "health": 5,
+    "id": "DMF_241",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大主教伊瑞尔",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，获得<b>突袭</b>，<b>吸血</b>，<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  }
+]

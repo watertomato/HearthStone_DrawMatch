@@ -1,0 +1,303 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76285,
+    "flavor": "当海盗最棒的一点就是可以穿灯笼裤。",
+    "health": 1,
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_AT_029",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "锈水海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你装备一把武器，使武器获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69620,
+    "flavor": "静如冰封，动如激瀑。",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_CS2_073",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "冷血",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "使一个随从获得+2攻击力；<b>连击：</b>改为获得+4攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95647,
+    "flavor": "不论是石油大亨、铁路大亨还是黑金大亨，最后都会变成白骨大亨。",
+    "health": 5,
+    "id": "CORE_ICC_065",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨大亨",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>\n将两张1/1的“骷髅”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Thompson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95721,
+    "flavor": "本品为纯天然制剂，未添加任何有毒有害物质。",
+    "id": "CORE_ICC_221",
+    "name": "吸血药膏",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，你的武器获得\n<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69708,
+    "flavor": "如果很痛，就说明起效了。",
+    "health": 3,
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_ICC_809",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "瘟疫科学家",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "获得<b>剧毒</b>。",
+    "text": "<b>连击：</b>使一个友方随从获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69738,
+    "flavor": "自从公会解散后，他只能自己单刷了。",
+    "health": 4,
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_LOE_012",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "盗墓匪贼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>获取一张\n幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102203,
+    "flavor": "已举报。",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_LOOT_204",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "诈死",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>当一个友方随从死亡时，将其移回你的手牌，它的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 79607,
+    "dbfId": 118028,
+    "flavor": "骗子做的伪证，还是伪证。",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_MAW_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER",
+      "SECRET"
+    ],
+    "name": "伪证",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>当你的回合开始时，<b>发现</b>并施放另一职业的一个<b>奥秘</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 79608,
+    "dbfId": 118029,
+    "flavor": "被害人：“你要干嘛？杀了我？”",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_MAW_019",
+    "isMiniSet": true,
+    "name": "谋杀指控",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "选择一个随从，在另一个敌方随从死亡后将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69743,
+    "flavor": "别以为普通教徒没什么战斗力，尝尝我手中的利刃吧！",
+    "health": 2,
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_OG_070",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "执刃教徒",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>连击：</b>获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 77148,
+    "dbfId": 118126,
+    "flavor": "瓦莉拉公布了自己是个双面间谍。于是玛维承认了自己也是双面间谍。然后斯卡布斯宣布了个事：他也是双面间谍。",
+    "id": "CORE_REV_825",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "双面生意",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>当你的对手消耗了其所有法力值时，抽两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 77149,
+    "dbfId": 118127,
+    "flavor": "你刚才做的事情他也看见了。",
+    "health": 4,
+    "id": "CORE_REV_826",
+    "mechanics": [
+      "BATTLECRY",
+      "COMBO"
+    ],
+    "name": "私家眼线",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>从你的牌库中施放一个<b>奥秘</b>。<b>连击：</b>改为施放2个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 77150,
+    "dbfId": 118128,
+    "flavor": "“这就是我所说的……”“……闭嘴吧你。”",
+    "id": "CORE_REV_827",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "缠人处境",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术后，召唤一只3/4并具有<b>潜行</b>的蜘蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102204,
+    "flavor": "所谓抄袭，不过是“合理”地利用了你的资源。",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得50场对战后解锁。",
+    "id": "CORE_SCH_706",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "抄袭",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>在你对手的回合结束时，将其使用的卡牌的复制置入你的手牌。",
+    "type": "SPELL"
+  }
+]

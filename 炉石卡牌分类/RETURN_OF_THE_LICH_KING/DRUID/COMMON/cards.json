@@ -1,0 +1,114 @@
+[
+  {
+    "artist": "Brian Despain",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 86507,
+    "flavor": "下个扩展包就没用啦。*眨眼示意*",
+    "health": 6,
+    "id": "NX2_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "MANATHIRST",
+      "TAUNT"
+    ],
+    "name": "死亡甲虫",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>法力渴求（11）：</b>获得+4/+4和<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 85041,
+    "flavor": "1/1/1/1/1/1",
+    "health": 1,
+    "id": "RLK_650",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "盘桓僵尸",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>召唤一个1/1并具有“<b>亡语：</b>召唤一个1/1的僵尸”的徒手僵尸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 85046,
+    "flavor": "就算有了地穴看守，又有多少地穴堪守？",
+    "health": 6,
+    "id": "RLK_651",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "地穴看守者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。你每有1点护甲值，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "C. Hayes & R. Kamen",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 85047,
+    "flavor": "虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫虫",
+    "id": "RLK_652",
+    "name": "无尽虫群",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "复活所有法力值消耗小于或等于（2）点的友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 85649,
+    "flavor": "亡灵航空业务范围仅限诺森德及周边海域。",
+    "health": 3,
+    "id": "RLK_956",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蛛魔飞虫",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果在你的上回合之后有友方亡灵死亡，召唤一个2/2的蛛魔。",
+    "type": "MINION"
+  }
+]

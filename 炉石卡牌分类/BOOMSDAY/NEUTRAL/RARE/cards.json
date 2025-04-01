@@ -1,0 +1,210 @@
+[
+  {
+    "artist": "Jiajun Tian",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47924,
+    "flavor": "既然它不是你造的，也不是我造的，那它妈是从哪里来的？",
+    "health": 2,
+    "id": "BOT_066",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "机械雏龙",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>召唤一个7/7的机械巨龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48060,
+    "flavor": "经过了一天的辛苦劳作，它想逛大卖场放松一下。",
+    "health": 4,
+    "id": "BOT_098",
+    "name": "没电的铁皮人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "在本回合中，除非你施放过法术，否则无法进行攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47979,
+    "flavor": "砰砰博士的牙医最喜欢的武器。",
+    "health": 1,
+    "id": "BOT_102",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "火花钻机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>突袭，亡语：</b>将两张1/1并具有<b>突袭</b>的“火花”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48552,
+    "flavor": "因其在发射时会有撕裂空气般的尖啸声，故而又被称作“砰砰博士的管风琴”。",
+    "health": 4,
+    "id": "BOT_107",
+    "mechanics": [
+      "MAGNETIC",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "飞弹机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>磁力</b>\n在你的回合结束时，对所有其他角色造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48226,
+    "flavor": "“我要发明一个金光闪闪的圣骑士！一个总爱向全世界问好的圣骑士！”",
+    "health": 1,
+    "id": "BOT_270",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "欢乐的发明家",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48536,
+    "flavor": "我来组成头部！\n我来组成躯干！\n我来组成……",
+    "health": 2,
+    "id": "BOT_312",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MAGNETIC"
+    ],
+    "name": "量产型恐吓机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>磁力</b>\n<b>亡语：</b>召唤三个1/1的微型机器人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L Chanchai",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 49170,
+    "flavor": "它要追随巴基·奥尔德林的脚步。",
+    "health": 1,
+    "id": "BOT_538",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火花引擎",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>将一张1/1并具有<b>突袭</b>的“火花”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 49171,
+    "flavor": "外表美丽却异常凶猛。触手能释放出电流，迅速将猎物麻痹致死。",
+    "health": 4,
+    "id": "BOT_539",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "奥能水母",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b><b>发现</b>一张法力值消耗大于或等于（5）点的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48983,
+    "flavor": "补锌补脑，健康到老。",
+    "health": 2,
+    "id": "BOT_907",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "通电机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>使你手牌中所有机械牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79548,
+    "flavor": "“大帝，这里是法庭。”",
+    "id": "MAW_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "异议",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COUNTER"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>当你的对手使用一张随从牌时，<b>反制</b>该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79596,
+    "flavor": "一键误终身。",
+    "id": "MAW_013",
+    "isMiniSet": true,
+    "name": "终身刑罚",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "将一个随从移出对战。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 84351,
+    "flavor": "这份文书具有非法效力。",
+    "health": 6,
+    "id": "MAW_101",
+    "isMiniSet": true,
+    "name": "契约咒术师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "你每控制一个<b>奥秘</b>，本牌的法力值消耗便减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 75866,
+    "flavor": "副作用可能包括……感觉一切良好！完全不用担心。",
+    "health": 3,
+    "id": "REV_000",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "可疑的炼金师",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。你的对手如果猜中了你的选择，即可获取一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77642,
+    "flavor": "那个靠枕知道的太多了……",
+    "id": "REV_504",
+    "name": "脱罪力证",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "spellSchool": "FROST",
+    "text": "直到你的下个回合，你的英雄每次只会受到1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77659,
+    "flavor": "你看，骷髅就该藏在衣橱里，不能冷藏。",
+    "id": "REV_505",
+    "name": "冰冷案例",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "spellSchool": "FROST",
+    "text": "召唤两个2/2的不稳定的骷髅。获得4点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78371,
+    "flavor": "“一个温西尔，一个上古之神还有一个牛头人走进了酒吧……”",
+    "health": 4,
+    "id": "REV_513",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "健谈的调酒师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "在你的回合结束时，如果你控制一个<b>奥秘</b>，对所有敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 78394,
+    "elite": true,
+    "flavor": "克尔苏加德好像从比格沃斯先生的九条命里借了几条。",
+    "health": 8,
+    "id": "REV_514",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天定之灾克尔苏加德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>复活你的不稳定的骷髅。战场上放不下的骷髅会立即爆炸。0<i>（复活0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78397,
+    "elite": true,
+    "flavor": "宇宙的奥秘浩瀚无涯……终将在本局对战中的晚些时候揭示。",
+    "health": 5,
+    "id": "REV_515",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "豪宅管家俄里翁",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "在一个友方<b>奥秘</b>被揭示后，施放一个不同的法师<b>奥秘</b>并获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78508,
+    "flavor": "这面镜子向我们展示的正是内心中最深沉，最黑暗的欲望：打脸。",
+    "id": "REV_516",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "复仇之像",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>在一个敌方随从攻击你的英雄后，召唤一个它的复制并使其攻击敌方英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84354,
+    "flavor": "这难道就是鲍勃讲的，他给死亡骑士倒酒时的情形？",
+    "id": "REV_601",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "冰冻之触",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "spellSchool": "FROST",
+    "text": "造成$3点伤害。<b>注能（3）：</b>将一张冰冻之触置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84356,
+    "flavor": "仅限骨干入内。",
+    "health": 3,
+    "id": "REV_602",
+    "name": "夜隐者圣所",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>冻结</b>一个随从。召唤一个2/2的不稳定的骷髅。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 79482,
+    "flavor": "其实只是普通的骷髅。克尔苏加德取这个名字只是为了气势。",
+    "id": "REV_840",
+    "name": "死神之躯",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "FROST",
+    "text": "对所有随从造成$2点伤害。每消灭一个随从，召唤一个2/2的不稳定的骷髅。",
+    "type": "SPELL"
+  }
+]

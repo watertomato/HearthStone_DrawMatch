@@ -1,0 +1,57 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 51769,
+    "flavor": "谁说中看不中用来着，丢你一下试试……",
+    "id": "DAL_350",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "水晶之力",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>对一个随从造成$2点伤害；或者恢复#5点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steven Prescott",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 51779,
+    "flavor": "可以说是最可爱的祝福了。",
+    "id": "DAL_351",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "远古祝福",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "spellSchool": "NATURE",
+    "text": "<b>双生法术</b>\n使你的所有随从获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steven Prescott",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 51790,
+    "flavor": "橡树果实能力者。",
+    "health": 1,
+    "id": "DAL_354",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "橡果人",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>将两张1/1的“松鼠”置入你的手牌。",
+    "type": "MINION"
+  }
+]

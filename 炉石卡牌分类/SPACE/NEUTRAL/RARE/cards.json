@@ -1,0 +1,213 @@
+[
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110091,
+    "flavor": "我单纯只想问问你是不是真的喜欢这种星舰造型，没必要这么叠甲吧。",
+    "health": 4,
+    "id": "GDB_100",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STARSHIP_PIECE",
+      "TAUNT"
+    ],
+    "name": "阿肯尼特防护水晶",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>获得4点护甲值。\n<b>星舰组件</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & I. Campelo da Silva",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111330,
+    "flavor": "啊……他们能不能派个淡定的微笑卫士来啊！？",
+    "health": 2,
+    "howToEarnGolden": "可以在<i>深暗领域</i>奖励路线中获得该奖励。",
+    "id": "GDB_132",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "躁动的愤怒卫士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "SPACE",
+    "targetingArrowText": "对一个敌方随从造成2点伤害。",
+    "text": "<b>战吼：</b>对一个敌方随从造成2点伤害。如果该随从死亡，<b>发现</b>一张恶魔牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 112029,
+    "flavor": "星岩。*咻*星石。*咻*石。",
+    "health": 8,
+    "howToEarnGolden": "可以在<i>深暗领域</i>奖励路线中获得该奖励。",
+    "id": "GDB_331",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "分裂星岩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>亡语：</b>召唤两个4/4的分裂块岩。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 112084,
+    "flavor": "我真的有点蒙……太让人挠头了……这说不通啊……它为什么消耗3点法力值？",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>深暗领域</i>奖励路线中获得该奖励。",
+    "id": "GDB_343",
+    "mechanics": [
+      "RUSH",
+      "STEALTH",
+      "TAUNT"
+    ],
+    "name": "混蒙畸体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>突袭</b>。<b>嘲讽</b>\n<b>……<b>潜行</b>？</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 111182,
+    "flavor": "远征军在遗嘱中给你留了这些随机的法术牌。确实很奇怪。",
+    "health": 9,
+    "id": "GDB_862",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "星系远征军",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>随机获取两张神圣法术牌，其法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 1,
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER",
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 112867,
+    "flavor": "本来玩得好好的，2分钟一到，8只这东西冲到了你家门口。",
+    "health": 1,
+    "id": "SC_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "跳虫",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>召唤一个1/1的跳虫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 1,
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 112820,
+    "flavor": "SCV，就是社畜（Very）。",
+    "health": 3,
+    "id": "SC_401",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "SCV",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你的下一次\n<b>星舰</b>发射的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Drew Hill",
+    "attack": 3,
+    "classes": [
+      "DRUID",
+      "MAGE",
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113733,
+    "flavor": "辉光舰感到一阵空虚。",
+    "health": 2,
+    "id": "SC_783",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD",
+      "RUSH"
+    ],
+    "name": "虚空辉光舰",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>突袭</b>。<b>圣盾</b>\n<b>战吼：</b>如果本牌的法力值消耗为（0）点，获得+2/+2。",
+    "type": "MINION"
+  }
+]

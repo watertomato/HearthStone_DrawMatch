@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38318,
+    "elite": true,
+    "flavor": "每当范达尔·鹿盔举起酒杯，并以“想当年我在种世界之树的时候……”为开场白在那老调重弹时，众酒客便会作鸟兽散。",
+    "health": 6,
+    "id": "OG_044",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "范达尔·鹿盔",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "你的<b>抉择</b>牌和英雄技能可以同时拥有两种效果。",
+    "type": "MINION"
+  }
+]

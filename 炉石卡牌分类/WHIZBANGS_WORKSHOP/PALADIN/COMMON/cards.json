@@ -1,0 +1,102 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105499,
+    "flavor": "想替你那个死在西部荒野的魔兽世界专家模式角色报仇吗？那就来吧！",
+    "id": "MIS_700",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "痛打豺狼人",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>一张来自过去的圣骑士武器牌，使其获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105556,
+    "flavor": "在不知名的某处，有个纳鲁失去了两块碎片。",
+    "id": "MIS_709",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "圣光荧光棒",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "HOLY",
+    "text": "<b>吸血</b>。对一个随从造成$4点伤害。如果你在本回合中施放过神圣法术，则法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103632,
+    "durability": 0,
+    "flavor": "用这支笔能把圣光以特定角度打在作品上。",
+    "health": 3,
+    "id": "TOY_810",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "画师的美德",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的英雄攻击后，使你手牌中的随从牌获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103633,
+    "flavor": "新一代的萌虎之神。",
+    "health": 2,
+    "id": "TOY_811",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "MINIATURIZE",
+      "RUSH"
+    ],
+    "name": "绒绒虎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>突袭</b>，<b>吸血</b>，<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 104869,
+    "flavor": "哇哦，这张牌价值极高！但前提是不要拆包。",
+    "id": "TOY_881",
+    "name": "光鲜包装",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "使一个具有<b>圣盾</b>的随从获得+2/+3。",
+    "type": "SPELL"
+  }
+]

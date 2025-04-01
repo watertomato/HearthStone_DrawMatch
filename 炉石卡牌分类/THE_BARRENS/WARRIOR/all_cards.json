@@ -1,0 +1,261 @@
+[
+  {
+    "artist": "Glenn Rane",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 63274,
+    "elite": true,
+    "flavor": "部落绝不屈服！部落永远顽强！",
+    "health": 4,
+    "id": "BAR_334",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "萨鲁法尔大王",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FRENZY"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>复活两个友方<b>暴怒</b>随从。对所有其他随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63126,
+    "flavor": "这就是卡波耶拉腿法！对，很危险！",
+    "health": 6,
+    "id": "BAR_840",
+    "mechanics": [
+      "BATTLECRY",
+      "FRENZY"
+    ],
+    "name": "旋风争斗者",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼，暴怒：</b>\n对所有其他随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63130,
+    "flavor": "“早餐我一般要吃两块科多肉排，五个平原陆行鸟蛋，再喝点冰凉的牛奶顺一顺……全都是生吃。”",
+    "id": "BAR_841",
+    "name": "重装上阵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_BARRENS",
+    "text": "随机使你手牌中的一张<b>嘲讽</b>随从牌获得+1/+1，复制该\n随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63128,
+    "flavor": "一直练，练到5点法力值。",
+    "id": "BAR_842",
+    "name": "体格训练（等级1）",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "使你手牌中的随从牌获得+1/+1。<i>（当你有5点法力值时升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63117,
+    "flavor": "“不让小德扛旗是什么意思？”",
+    "health": 3,
+    "id": "BAR_843",
+    "mechanics": [
+      "FRENZY"
+    ],
+    "name": "战歌大使",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>暴怒：</b>每有一个受伤的角色，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63118,
+    "durability": 0,
+    "flavor": "“我只需要交四只斑马蹄子？那能有多难？”",
+    "health": 3,
+    "id": "BAR_844",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "前锋战斧",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "在你的英雄攻击并消灭一个随从后，抽一张牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63119,
+    "flavor": "人类智者说：“只有愚者才会向前猛突，忘乎所以。”而兽人智者的说法完全相反。",
+    "id": "BAR_845",
+    "name": "仇怨累积",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "text": "对所有随从造成$2点伤害。每消灭一个随从，获得2点\n护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63124,
+    "flavor": "“不管刷过多少木桩，兽人都算不上可怕；蹲尸体的兽人才是真的可怕！”",
+    "health": 4,
+    "id": "BAR_846",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "莫尔杉精锐",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>在本回合中，如果你的英雄进行过攻击，则召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63125,
+    "elite": true,
+    "flavor": "“小心前进，穿好重装，集中队形。为了力量与荣耀！”——洛卡拉",
+    "health": 3,
+    "id": "BAR_847",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "洛卡拉",
+    "rarity": "LEGENDARY",
+    "set": "THE_BARRENS",
+    "text": "<b>突袭</b>\n在一个友方随从攻击并存活下来后，使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63701,
+    "flavor": "“无论你在这个羊皮纸框里写什么，随便写，布鲁格都会认真研读。”",
+    "health": 6,
+    "id": "BAR_896",
+    "mechanics": [
+      "FRENZY",
+      "RUSH"
+    ],
+    "name": "石槌掌锚手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>突袭</b>，<b>暴怒：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63373,
+    "flavor": "你的剑，就是我的剑。",
+    "health": 3,
+    "id": "WC_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "武装战士",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>如果你装备着武器，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63374,
+    "durability": 0,
+    "flavor": "打架它不行，磨刀第一名。",
+    "health": 4,
+    "id": "WC_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "砥石战斧",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "在你的英雄攻击后，使你手牌中的一张随从牌获得+1攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 63375,
+    "elite": true,
+    "flavor": "永远不要惹他生气。",
+    "health": 9,
+    "id": "WC_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "FRENZY"
+    ],
+    "name": "克雷什，群龟之王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_BARRENS",
+    "text": "<b>暴怒：</b>获得8点护甲值。<b>亡语：</b>装备一把2/5的龟甲尖刺。",
+    "type": "MINION"
+  }
+]

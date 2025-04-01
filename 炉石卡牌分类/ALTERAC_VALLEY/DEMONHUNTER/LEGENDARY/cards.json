@@ -1,0 +1,46 @@
+[
+  {
+    "armor": 5,
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 66951,
+    "elite": true,
+    "flavor": "“我发誓用一生来消灭恶魔，但我却不知道如何面对心中的恶魔。也许有一天，我能帮你驱逐心中的恶魔。”\n——库尔特鲁斯，致凯瑞尔",
+    "health": 30,
+    "heroPowerDbfId": 66952,
+    "id": "AV_204",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "裂魔者库尔特鲁斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>召唤两个1/4并具有<b>突袭</b>的恶魔。<i>（在本局对战中，你的英雄每攻击一次都会提升。）</i>",
+    "type": "HERO"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 68061,
+    "elite": true,
+    "flavor": "一直选肩膀上那个小恶魔的建议，就会有这种下场。",
+    "health": 6,
+    "id": "AV_267",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凯丽娅·邪魂",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>\n变形成为你牌库中一个恶魔的6/6复制。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48099,
+    "flavor": "她认为等久一点你才会更感激她的治疗。",
+    "health": 4,
+    "id": "BOT_216",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "欧米茄医护兵",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>如果你有十个法力水晶，为你的英雄恢复#10点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48101,
+    "flavor": "让我好好抱抱你！",
+    "id": "BOT_219",
+    "name": "增生手臂",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "使一个随从获得+2/+2。将一张可使一个随从获得+2/+2的“更多手臂”置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48203,
+    "elite": true,
+    "flavor": "他的本体名叫泽里克1.0，第一个扩展体叫泽里克2.0，现在叫泽里克12.0。",
+    "health": 5,
+    "id": "BOT_258",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "克隆大师泽里克",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>如果你对本随从施放过任意法术，再次召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48759,
+    "flavor": "这下泽里克不用再跟自己抢遥控器了。",
+    "id": "BOT_435",
+    "mechanics": [
+      "DISCOVER",
+      "GEARS"
+    ],
+    "name": "克隆装置",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "从你对手的牌库中<b>发现</b>一张随从牌的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48929,
+    "flavor": "砰砰博士的得力助手。精通枪术剑术，拥有惊人的恢复能力。",
+    "health": 1,
+    "id": "BOT_509",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "丧钟机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "UNDEAD",
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>从你的牌库中抽一张具有<b>亡语</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 48976,
+    "flavor": "“救命！我掉……上去了！”",
+    "id": "BOT_517",
+    "name": "引力翻转",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "使一个随从的攻击力和生命值\n互换。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49013,
+    "flavor": "现已加入真言术合集。同系列还有：爆炸、复生和歼灭。",
+    "id": "BOT_529",
+    "name": "真言术：仿",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "选择一个友方随从，召唤一个该随从的5/5复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 49265,
+    "flavor": "“我感觉……真的很难受。”",
+    "health": 2,
+    "id": "BOT_558",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "实验体",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>将你施放在本随从身上的所有法术洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49416,
+    "flavor": "虽说鲁莽，但她倒是很清楚自己想要什么。",
+    "health": 6,
+    "id": "BOT_566",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲁莽的实验者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 49421,
+    "elite": true,
+    "flavor": "挤在罐头里的感觉真是太糟糕了。",
+    "id": "BOT_567",
+    "name": "泽里克的克隆展",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "召唤你的牌库中每一个随从的1/1复制。",
+    "type": "SPELL"
+  }
+]

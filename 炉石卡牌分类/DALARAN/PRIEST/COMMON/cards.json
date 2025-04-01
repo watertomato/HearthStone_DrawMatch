@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Paul Mafayon",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 51715,
+    "flavor": "不怕神一样的对手……",
+    "health": 7,
+    "id": "DAL_040",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "荆棘帮箭猪",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>为敌方英雄恢复5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 51847,
+    "flavor": "凌晨三点，你还知道你的魂在哪里吗？",
+    "id": "DAL_065",
+    "name": "不眠之魂",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "DALARAN",
+    "spellSchool": "SHADOW",
+    "text": "<b>沉默</b>一个友方随从，然后召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52109,
+    "flavor": "狗头人！当你遇到困难——狗头人！当你蜡烛用完——就请来加入，怪！盗！军！团！",
+    "health": 2,
+    "id": "DAL_413",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "怪盗征募员",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

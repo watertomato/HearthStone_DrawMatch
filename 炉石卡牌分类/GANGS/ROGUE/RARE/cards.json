@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Joe Wilson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 40437,
+    "flavor": "这些伪造的幸运币…似乎是玉莲帮的杰作。",
+    "id": "CFM_630",
+    "name": "伪造的幸运币",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "text": "在本回合中，获得一个法力\n水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40696,
+    "flavor": "要是船发生了侧翻，他还能兼职做救生员。",
+    "health": 3,
+    "id": "CFM_693",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "加基森摆渡人",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "targetingArrowText": "移回你的手牌。",
+    "text": "<b>连击：</b>将一个友方随从移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40695,
+    "flavor": "他曾是艾雅的导师。但他多次指出艾雅的问题，结果被炒了鱿鱼。",
+    "health": 4,
+    "id": "CFM_694",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影大师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "GANGS",
+    "targetingArrowText": "获得+2/+2。",
+    "text": "<b>战吼：</b>使一个<b>潜行</b>的随从获得+2/+2。",
+    "type": "MINION"
+  }
+]

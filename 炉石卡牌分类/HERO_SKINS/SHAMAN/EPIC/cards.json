@@ -1,0 +1,15 @@
+[
+  {
+    "artist": "Tyson Murphy",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "dbfId": 40183,
+    "health": 30,
+    "heroPowerDbfId": 40247,
+    "id": "HERO_02a",
+    "name": "神谕者摩戈尔",
+    "rarity": "EPIC",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  }
+]

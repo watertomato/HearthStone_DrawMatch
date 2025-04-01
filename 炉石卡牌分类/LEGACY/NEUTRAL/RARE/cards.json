@@ -1,0 +1,74 @@
+[
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54836,
+    "flavor": "这次渗透要破坏的目标是什么？是个秘密！",
+    "health": 4,
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_186",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "军情七处渗透者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>随机摧毁一个敌方<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 54837,
+    "flavor": "她喜欢在吞之前以优美的姿态撒上一撮盐。",
+    "health": 8,
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_187",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奥术吞噬者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "LEGACY",
+    "text": "每当你施放一个法术，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 109166,
+    "flavor": "哈！哈！呼！哈！",
+    "health": 5,
+    "id": "TOY_102",
+    "mechanics": [
+      "AURA",
+      "TAUNT"
+    ],
+    "name": "人类步兵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "LEGACY",
+    "text": "<b>嘲讽</b>。相邻随从在攻击时<b>免疫</b>。",
+    "type": "MINION"
+  }
+]

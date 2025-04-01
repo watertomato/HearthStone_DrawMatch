@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Milivoj Ceran",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46713,
+    "flavor": "有趣的是，下午6点后你就听不到钟声了。",
+    "id": "GIL_145",
+    "mechanics": [
+      "ECHO"
+    ],
+    "name": "敲响警钟",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>回响</b>\n使一个随从获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46621,
+    "flavor": "爱之深，责之切\n恨之深，难施法。",
+    "id": "GIL_203",
+    "name": "责难",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "下个回合敌方法术的法力值消耗增加（5）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47051,
+    "flavor": "前任恶灵骑士的坐骑。",
+    "health": 4,
+    "id": "GIL_545",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "RUSH"
+    ],
+    "name": "幽灵战马",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>圣盾，突袭</b>",
+    "type": "MINION"
+  }
+]

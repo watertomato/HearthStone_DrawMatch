@@ -1,0 +1,279 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62845,
+    "flavor": "“这个符号的意思是火。那你想知道火是什么意思吗？”",
+    "id": "BAR_306",
+    "name": "烈焰咒符",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，对所有随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63163,
+    "flavor": "第四只小猪的房子是用<b>复仇的意志</b>盖成的。",
+    "health": 2,
+    "id": "BAR_325",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "剃刀野猪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>亡语：</b>从你的手牌中召唤一个法力值消耗小于或等于（3）点的<b>亡语</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63164,
+    "flavor": "跑团的时候，这是我最喜欢的进阶职业。",
+    "health": 3,
+    "id": "BAR_326",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "剃刀沼泽兽王",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>亡语：</b>从你的手牌中召唤一个法力值消耗小于或等于（4）点的<b>亡语</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63165,
+    "flavor": "“召唤你们前来就是要通知你们，你们的保险快过期了。”",
+    "id": "BAR_327",
+    "name": "邪恶召唤",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "THE_BARRENS",
+    "text": "召唤两个2/2并具有<b>吸血</b>的\n恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Wu",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63166,
+    "flavor": "嘘，恶魔猎手就算变成了灵魂，也忘不了复仇。",
+    "health": 4,
+    "id": "BAR_328",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "复仇之魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>流放：</b>抽两张<b>亡语</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise Didier",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 63167,
+    "elite": true,
+    "flavor": "号称亡语者，却不认得“死”字。",
+    "health": 6,
+    "id": "BAR_329",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亡语者布莱克松",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>从你的牌库中召唤三个法力值消耗小于或等于（5）点的<b>亡语</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63229,
+    "durability": 0,
+    "flavor": "在贫瘠之地，万物皆有獠牙！野猪人长着獠牙，野猪长着獠牙，獠牙也长着獠牙。",
+    "health": 2,
+    "id": "BAR_330",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "獠牙锥刃",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>亡语：</b>抽一张<b>亡语</b>随从牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63260,
+    "elite": true,
+    "flavor": "库尔特鲁斯逃出了黑暗神殿，放弃了伊利丹的大业，一心只想找恐惧魔王安纳塞隆复仇。",
+    "health": 4,
+    "id": "BAR_333",
+    "mechanics": [
+      "BATTLECRY",
+      "OUTCAST"
+    ],
+    "name": "库尔特鲁斯·陨烬",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>攻击最左边和最右边的敌方随从。\n<b>流放：</b>在本回合中<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 63467,
+    "flavor": "其他咒符的量词是个，这个要用“听”。",
+    "id": "BAR_705",
+    "name": "沉默咒符",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "THE_BARRENS",
+    "spellSchool": "SHADOW",
+    "text": "在你的下个回合开始时，<b>沉默</b>所有敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63682,
+    "flavor": "等级3就是你妈妈叫你全名的时候。",
+    "id": "BAR_891",
+    "name": "怒火（等级1）",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "spellSchool": "FEL",
+    "text": "在本回合中，使你的英雄获得+2攻击力。<i>（当你有5点法力值时升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63264,
+    "flavor": "你看，召唤恶魔这种事其实不算很科学。有时召唤的延迟长达一个回合。",
+    "id": "WC_003",
+    "isMiniSet": true,
+    "name": "召唤咒符",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_BARRENS",
+    "spellSchool": "SHADOW",
+    "text": "在你的下个回合开始时，召唤两个2/2并具有<b>嘲讽</b>的恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 8,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 63230,
+    "flavor": "哎呀呀，听说有人的世界之树被烧了？",
+    "health": 8,
+    "id": "WC_040",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA",
+      "TAUNT"
+    ],
+    "name": "污心拷问者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>\n你对手的法术的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63407,
+    "flavor": "亡语响起，陷入危险的却是<b>你</b>。",
+    "health": 2,
+    "id": "WC_701",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "邪能响尾蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>突袭</b>，<b>亡语：</b>对所有敌方随从造成\n1点伤害。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 8,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 55438,
+    "elite": true,
+    "flavor": "“好吧，我很欣慰，你知道我在这回合要做什么。”",
+    "health": 8,
+    "id": "DRG_090",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒巨龙姆诺兹多",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>使用你的对手上个回合使用的所有卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55245,
+    "flavor": "你的时间在此终结。",
+    "id": "DRG_246",
+    "name": "时空裂痕",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "消灭一个随从。<b>祈求</b>迦拉克隆。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54871,
+    "flavor": "别被命运编织者发现，不然它会一直在你的命运里纠缠不清。",
+    "health": 6,
+    "id": "DRG_300",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "命运编织者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你已经<b>祈求</b>过两次，则使你的手牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 54872,
+    "flavor": "拉祖尔女士的低语助眠频道就要开播啦！",
+    "id": "DRG_301",
+    "name": "怪盗低语",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54873,
+    "flavor": "墓然回首，那牛却在符文阑珊处。",
+    "id": "DRG_302",
+    "name": "墓地符文",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得“<b>亡语：</b>召唤该随从的两个复制。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54874,
+    "flavor": "复活迦拉克隆会导致成吨、成吨的伤害。",
+    "health": 2,
+    "id": "DRG_303",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迦拉克隆的信徒",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n<b>祈求</b>迦拉克隆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54876,
+    "flavor": "如果他要借用你的手表，千万要说不。",
+    "health": 5,
+    "id": "DRG_304",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "时空破坏者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>如果你的手牌中有龙牌，则对所有敌方随从造成3点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54887,
+    "flavor": "“提醒自己：下次要附在一个认路的本地人身上。”",
+    "health": 2,
+    "id": "DRG_306",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "拉祖尔的信使",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>检视三张卡牌。猜中来自你对手手牌中的卡牌，则获取该牌的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54898,
+    "flavor": "又名“循环换气法”。",
+    "id": "DRG_307",
+    "name": "永恒吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "对所有随从造成$2点伤害。如果你的手牌中有龙牌，则只对敌方随从造成伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54917,
+    "elite": true,
+    "flavor": "亲爱的朋友们，其实我并不是要偷走你们的心……",
+    "health": 3,
+    "id": "DRG_308",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "夺心者卡什",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "targetingArrowText": "选择一个随从。",
+    "text": "<b>战吼：</b>选择一个敌方随从。<b>亡语：</b>召唤一个所选随从的新的\n复制。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57416,
+    "elite": true,
+    "flavor": "拉祖尔呼唤着迦拉克隆的名字，地底深渊的声音回响应和。迦拉克隆的双眼缓缓开启……随后其余的眼睛也一并睁开。",
+    "health": 30,
+    "heroPowerDbfId": 55810,
+    "id": "DRG_660",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "讳言巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机消灭一个敌方随从。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

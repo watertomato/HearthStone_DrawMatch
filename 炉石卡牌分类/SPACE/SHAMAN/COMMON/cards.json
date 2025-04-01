@@ -1,0 +1,114 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 110852,
+    "flavor": "看起来是在水下，实则是在天上。",
+    "health": 5,
+    "id": "GDB_443",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "宇航员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>从你的牌库中\n<b>发现</b>一张法术牌，其法力值消耗减少（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111185,
+    "flavor": "绿色小鱿鱼要和家里通话。",
+    "id": "GDB_864",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "第一次接触",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "随机召唤两个法力值消耗为（1）的随从。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113677,
+    "flavor": "你应该多涂点防晒霜。好在上个版本的防晒霜还剩了不少。",
+    "health": 2,
+    "id": "GDB_901",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "极紫外破坏者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "targetingArrowText": "对一个敌方随从造成3点伤害。",
+    "text": "<b>战吼：</b>对一个\n敌方随从造成3点伤害。将3张小行星洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 112876,
+    "flavor": "开了未必是锁了，但锁了一定是开了。",
+    "id": "SC_407",
+    "isMiniSet": true,
+    "name": "锁定",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "将一个随从的生命值变为1。你的下一次<b>星舰</b>发射的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113209,
+    "flavor": "欢迎来到飞弹舱，所有飞弹需求，全部一站购齐。请持续关注我们，收获最新飞弹资讯。",
+    "health": 3,
+    "id": "SC_409",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "STARSHIP_PIECE"
+    ],
+    "name": "飞弹舱",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>星舰组件</b>\n<b>战吼：</b>对所有敌人造成1点伤害。发射时也会触发。",
+    "type": "MINION"
+  }
+]

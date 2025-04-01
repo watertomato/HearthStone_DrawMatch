@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98280,
+    "elite": true,
+    "flavor": "完美胜任，满分好评！——尤格-萨隆",
+    "health": 3,
+    "id": "TTN_487",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "洛肯，尤格-萨隆的看守",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张随从牌，召唤一条具有其属性值和<b>嘲讽</b>的触手。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 97702,
+    "elite": true,
+    "flavor": "他曾是万神殿的护卫者，在执行任务时心志幻灭，于是组建了燃烧军团，旨在扫平宇宙间的一切生命。",
+    "health": 12,
+    "id": "TTN_960",
+    "mechanics": [
+      "BATTLECRY",
+      "TITAN"
+    ],
+    "name": "灭世泰坦萨格拉斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>战吼：</b>打开一道传送门，每回合召唤两个3/2的小鬼。",
+    "type": "MINION"
+  }
+]

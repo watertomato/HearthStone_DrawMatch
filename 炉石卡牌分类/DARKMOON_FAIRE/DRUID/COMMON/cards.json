@@ -1,0 +1,77 @@
+[
+  {
+    "artist": "Jun Yan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61449,
+    "flavor": "当艾泽拉斯运行到太阳和月亮之间时发生的现象。",
+    "id": "DMF_057",
+    "name": "月蚀",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从造成$3点伤害。在本回合中，你施放的下一个法术的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jun Yan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61450,
+    "flavor": "当月亮运行到太阳和艾泽拉斯之间时发生的现象。",
+    "id": "DMF_058",
+    "name": "日蚀",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，你施放的下一个法术将施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61462,
+    "flavor": "腐树之下，岂有完果。",
+    "health": 2,
+    "id": "DMF_061",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "CORRUPT"
+    ],
+    "name": "马戏团树艺师",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>抉择：</b>抽一张牌；或者召唤一个2/2的树人。<b>腐蚀：</b>同时拥有两种效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61963,
+    "flavor": "有些龙的梦想是征服艾泽拉斯，有些龙的梦想只是成为5/6。",
+    "health": 4,
+    "id": "YOP_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "CORRUPT",
+      "TAUNT"
+    ],
+    "name": "迷梦幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>，<b>腐蚀：</b>获得+2/+2。",
+    "type": "MINION"
+  }
+]

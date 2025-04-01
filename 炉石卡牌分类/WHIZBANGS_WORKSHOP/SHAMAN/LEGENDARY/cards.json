@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103080,
+    "elite": true,
+    "flavor": "我，芽尖笊利！",
+    "health": 5,
+    "id": "TOY_501",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "沙德木刻",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>你的下一个<b>战吼</b>会触发3次，但无法伤害敌方英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103124,
+    "elite": true,
+    "flavor": "汤来喽！",
+    "health": 3,
+    "id": "TOY_504",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘女巫哈加莎",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽两张法力值消耗大于或等于（5）点的法术牌，并将其变形成为会施放对应法术的泥浆怪。",
+    "type": "MINION"
+  }
+]

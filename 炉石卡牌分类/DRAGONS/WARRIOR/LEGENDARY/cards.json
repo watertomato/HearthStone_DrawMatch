@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Grace Liu",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55006,
+    "durability": 0,
+    "elite": true,
+    "flavor": "用锚当武器有一个问题：经常在牌库中沉底。",
+    "health": 2,
+    "id": "DRG_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "海盗之锚",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "在你的英雄攻击后，从你的牌库中抽一张海盗牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 12,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 55007,
+    "elite": true,
+    "flavor": "咬住那个，再咬一口第二个，抓住这个，再把那个整个吞掉……",
+    "health": 12,
+    "id": "DRG_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂巨龙死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>攻击所有其他随从。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57413,
+    "elite": true,
+    "flavor": "大地在巨龙脚下震颤之时，砰砰博士继续说道：“……共计使用了400余吨坚固的银制风暴板甲片。”而后他按响了一个小小的遥控器。“还有豪华的销钉！”",
+    "health": 30,
+    "heroPowerDbfId": 55805,
+    "id": "DRG_650",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无敌巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>抽一张随从牌，使其获得+4/+4。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "artist": "Juan Calle",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103657,
+    "flavor": "“戴上试试吧。”——阿尔萨斯",
+    "howToEarn": "打开<i>威兹班的工坊</i>卡牌包后可解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "GIFT_04",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "阿尔萨斯的礼物",
+    "rarity": "RARE",
+    "set": "EXPERT1",
+    "text": "<b>发现</b>一张<b>临时</b>的黑暗突变，凛风冲击或灵界打击。",
+    "type": "SPELL"
+  }
+]

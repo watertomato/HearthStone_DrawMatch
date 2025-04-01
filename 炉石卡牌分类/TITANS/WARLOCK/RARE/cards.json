@@ -1,0 +1,93 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97530,
+    "flavor": "显然，这张牌对于任何生命值6点及以上的随从来说都不会致命，例如杂耍小鬼。为保证叙事严谨，我们会削弱杂耍小鬼。",
+    "id": "TTN_460",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "致命诛灭",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "造成$5点伤害，随机分配到所有敌方随从身上。每消灭一个随从，为你的英雄恢复#2点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97623,
+    "flavor": "身处意志熔炉之中，你会感受到决心的力量。",
+    "health": 2,
+    "id": "TTN_465",
+    "name": "意志熔炉",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "选择一个友方随从。召唤一个具有其属性值和<b>突袭</b>的\n巨人。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98394,
+    "flavor": "鬼斧神工的锻造技艺。",
+    "health": 3,
+    "id": "TTN_490",
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "萨格拉斯的信徒",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>弃掉一张法术牌以召唤两个3/2的小鬼。<b>锻造：</b>使其获得+2生命值和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101513,
+    "flavor": "图中描绘了洛肯连续20小时卡在钻石5的场景。",
+    "id": "YOG_301",
+    "isMiniSet": true,
+    "name": "狂乱侵蚀",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "双方英雄受到疲劳伤害，受到两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ryan Bowlin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100887,
+    "flavor": "不！我那坚如铁石的腹肌！",
+    "id": "YOG_503",
+    "isMiniSet": true,
+    "name": "血肉诅咒",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "下个回合，敌方随从牌消耗生命值，而非法力值。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "artist": "Ian Ameling",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86483,
+    "flavor": "为了抵御冒险者，保卫纳克萨玛斯，天灾军团创造出了前所未有的怪物：会穿衣服的憎恶！",
+    "health": 1,
+    "id": "NX2_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO",
+      "INFUSE",
+      "MANATHIRST"
+    ],
+    "name": "缝合造物",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>连击：</b>获得+2/+2。<b>注能（{0}）：</b>获得+3/+3。<b>法力渴求（{1}）：</b>获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 83942,
+    "flavor": "淬毒而不恶毒。他看起来好有礼貌！",
+    "health": 5,
+    "id": "RLK_529",
+    "mechanics": [
+      "BATTLECRY",
+      "POISONOUS"
+    ],
+    "name": "淬毒渗透者",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "对一个随从造成1点伤害。",
+    "text": "<b>剧毒</b>。<b>战吼：</b>如果在你的上回合之后有友方亡灵死亡，对一个随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86111,
+    "flavor": "挑瓶毒药吧。",
+    "id": "RLK_569",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "药水腰带",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>发现</b>2份药剂。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86109,
+    "flavor": "然后我就往地上这么一摔！",
+    "health": 2,
+    "id": "RLK_570",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食尸鬼炼金师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>你的下一份药剂的法力值消耗为（0）点。",
+    "type": "MINION"
+  }
+]

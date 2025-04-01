@@ -1,0 +1,92 @@
+[
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 75556,
+    "flavor": "伊妮因为使用了自原性凝胶变形器而被取消了侏儒厨艺大赛的参赛资格，但她仍不会抛弃任何一项新发明。",
+    "id": "TID_708",
+    "isMiniSet": true,
+    "name": "变形术：水母",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "ARCANE",
+    "text": "将一个随从变形成为一只4/1并具有<b>法术伤害+2</b>的水母。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72649,
+    "flavor": "“你为什么不造一艘正常的潜艇呢，自己坐的那种。”“你为什么不造一艘正常的——你在想什么！要是你能造机械大鲨鱼，那当然要造机械大鲨鱼！”",
+    "health": 3,
+    "id": "TSC_054",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "机械鲨鱼",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你召唤一个机械后，造成3点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72924,
+    "flavor": "“我会的法术其实不少，我只是需要一个法术启发。”",
+    "health": 3,
+    "id": "TSC_643",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "法术卷积者",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过法术，<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77016,
+    "flavor": "辛艾萨莉的附魔物品保质期极长。",
+    "health": 4,
+    "id": "TSC_776",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾萨拉的清道夫",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>将一张沉没的清道夫置于你的牌库底。",
+    "type": "MINION"
+  }
+]

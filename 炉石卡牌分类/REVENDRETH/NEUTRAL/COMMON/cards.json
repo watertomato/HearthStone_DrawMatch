@@ -1,0 +1,451 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79546,
+    "flavor": "搜魂者的职责就是揪出内鬼。",
+    "health": 3,
+    "id": "MAW_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "搜魂者",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>将本随从与你对手牌库中的一个随机随从互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 79557,
+    "flavor": "我确信，这里面至少有一根是真正的兽骨。",
+    "health": 6,
+    "id": "REV_012",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "沼泽兽",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>召唤一滩2/4并具有<b>嘲讽</b>的泥浆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79559,
+    "flavor": "“我一进来就看见他在打他！”",
+    "health": 5,
+    "id": "REV_013",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "石裔指控者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>注能（5）：</b>获得“<b>战吼：</b>造成5点伤害。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 79562,
+    "flavor": "他的体内鳃满了罪恶！",
+    "health": 12,
+    "id": "REV_014",
+    "mechanics": [
+      "AURA",
+      "TAUNT"
+    ],
+    "name": "红鲱鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>嘲讽</b>。你的非红鲱鱼随从拥有<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 79563,
+    "flavor": "“开启派对！派……对，对吗？对的对的！”",
+    "health": 4,
+    "id": "REV_015",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "假面狂欢者",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>突袭</b>，<b>亡语：</b>召唤你牌库中另一个随从的2/2的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79992,
+    "flavor": "砰！",
+    "health": 3,
+    "id": "REV_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "晚宴表演者",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>随机从你的牌库中召唤一个你有足够的法力值使用的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 77308,
+    "flavor": "据说布兰契生前是一匹又乖巧又听话的好马。她怎么会来雷文德斯？我们也不敢问。",
+    "health": 5,
+    "id": "REV_251",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "罪奔者",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>亡语：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ishmael Hoover",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77491,
+    "flavor": "“那么在您的左手边呢，您还可以看到一尊更大的德纳修斯大帝雕像！”",
+    "health": 1,
+    "howToEarnGolden": "完成成就“需要地图吗？”后解锁。",
+    "id": "REV_308",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迷宫向导",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>随机召唤一个法力值消耗为（2）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 78373,
+    "flavor": "泥仆员工手执泥仆的刀，说道：“泥仆向大帝敬礼！”",
+    "health": 2,
+    "id": "REV_338",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泥仆员工",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>使你手牌中的随从牌获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78267,
+    "flavor": "三分像石，七分像鬼。",
+    "health": 3,
+    "id": "REV_351",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "栖巢石像鬼",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "targetingArrowText": "使一只友方野兽获得+2攻击力。",
+    "text": "<b>战吼：</b>使一只友方野兽获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 79532,
+    "flavor": "铁腕治军，铁石心肠。",
+    "health": 8,
+    "howToEarnGolden": "完成成就“顽石军团，集合！”后解锁。",
+    "id": "REV_375",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "石裔干将",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>突袭</b>，<b>亡语：</b>召唤一只8/8并具有<b>突袭</b>的墓翼蝠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79784,
+    "flavor": "他在当管家时就常与粉尘打交道。悬案发生之际，正是他换行的好机会！",
+    "health": 4,
+    "id": "REV_378",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "涂粉取证师",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>下个回合你的对手随从牌的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78133,
+    "flavor": "喝了泥浆的感觉，就像在活着的时候进入噬渊。",
+    "health": 5,
+    "id": "REV_837",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "淤泥水管工",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "所有随从牌的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 78532,
+    "flavor": "比木质的图腾重。主要是因为罪孽太重了。",
+    "health": 3,
+    "id": "REV_839",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "罪碑图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "在你的回合结束时，获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79486,
+    "flavor": "事实证明，她的手上好像存不住秘密。",
+    "health": 3,
+    "id": "REV_841",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "匿名线人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>你使用的下一张<b>奥秘</b>牌的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84169,
+    "flavor": "这些冰雕看起来好像真的！",
+    "health": 2,
+    "id": "REV_845",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "不稳定的骷髅",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>亡语：</b>随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 75868,
+    "flavor": "“食尸”过的谣言，还算不算谣言？",
+    "health": 5,
+    "id": "REV_900",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "谣言食尸鬼",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你控制一个<b>奥秘</b>，便召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76968,
+    "flavor": "我不喜欢这幅画，哈斯老板。它学我。",
+    "health": 6,
+    "id": "REV_916",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "诡异的画像",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "在另一个随从死亡后，成为它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77714,
+    "flavor": "资源全部加载完毕后，我觉得更像是“清晰的陌生人”。",
+    "health": 2,
+    "id": "REV_945",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "模糊的陌生人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b><b>发现</b>一张另一职业的<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78153,
+    "flavor": "“美味的漏斗蛋糕？我好多年没尝过了……”",
+    "health": 3,
+    "id": "REV_956",
+    "mechanics": [
+      "INFUSE",
+      "TAUNT"
+    ],
+    "name": "亡者牧师",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>嘲讽</b>，<b>注能（3）：</b>获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78155,
+    "flavor": "鱼人吸血鬼的高光时刻：高喊“现在是鱼人时间”，然后把所有人都吸掉。",
+    "health": 4,
+    "howToEarnGolden": "完成成就“七宗死罪”后解锁。",
+    "id": "REV_957",
+    "mechanics": [
+      "INFUSE",
+      "LIFESTEAL"
+    ],
+    "name": "鱼人吸血鬼",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>吸血</b>，<b>注能（4）：</b>法力值消耗为（0）点。",
+    "type": "MINION"
+  }
+]

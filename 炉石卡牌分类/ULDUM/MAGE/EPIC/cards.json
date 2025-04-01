@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Kagi",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 53442,
+    "flavor": "“快把它放下，雷诺！”",
+    "id": "ULD_216",
+    "name": "尤格-萨隆的谜之匣",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "spellSchool": "SHADOW",
+    "text": "随机施放10个法术<i>（目标随机而定）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 53771,
+    "flavor": "一只海龟成功入……沙漠！",
+    "health": 5,
+    "id": "ULD_236",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "始祖龟朝圣者",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>从你的牌库中\n<b>发现</b>一张法术牌，并对随机目标施放。",
+    "type": "MINION"
+  }
+]

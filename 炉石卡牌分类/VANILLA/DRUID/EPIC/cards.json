@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Sean O’Daniels",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69875,
+    "flavor": "年轻的暗夜精灵们喜欢一种叫做“谁能让战争古树站起来”的游戏。如果在它起身的时候你被踩死了，你还是输了。",
+    "health": 5,
+    "id": "VAN_EX1_178",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "战争古树",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "VANILLA",
+    "text": "<b>抉择：</b>\n+5攻击力；或者+5生命值并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trevor Jacobs",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 70981,
+    "flavor": "“我想我可以在这片树荫下打个盹儿。等等...啊啊啊啊啊！”——不幸的侏儒布林克菲兹",
+    "id": "VAN_EX1_571",
+    "name": "自然之力",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "VANILLA",
+    "text": "召唤三个2/2并具有<b>冲锋</b>的树人，在回合结束时，消灭这些树人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Hjelm",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 70077,
+    "flavor": "去吧，把你的名字刻在树皮上。",
+    "health": 5,
+    "id": "VAN_NEW1_008",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "知识古树",
+    "rarity": "EPIC",
+    "set": "VANILLA",
+    "text": "<b>抉择：</b>抽两张牌；或者恢复#5点生命值。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 49819,
+    "elite": true,
+    "flavor": "你要连斧头都能躲，还躲不过一个球吗？",
+    "health": 30,
+    "heroPowerDbfId": 50579,
+    "id": "TRL_065",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "祖尔金",
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>\n施放你在本局对战中使用过的所有法术<i>（目标随机而定）</i>。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50659,
+    "elite": true,
+    "flavor": "山猫种群的强度取决于最弱的那一只。",
+    "health": 2,
+    "id": "TRL_900",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哈尔拉兹，山猫之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TROLL",
+    "text": "<b>战吼：</b>用1/1并具有\n<b>突袭</b>的山猫填满你的手牌。",
+    "type": "MINION"
+  }
+]

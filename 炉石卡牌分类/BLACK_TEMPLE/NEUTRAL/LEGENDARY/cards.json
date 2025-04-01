@@ -1,0 +1,119 @@
+[
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56660,
+    "elite": true,
+    "flavor": "“没事，友方随从们！你们没事的！别去老大那儿告状！”",
+    "health": 4,
+    "id": "BT_126",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "塔隆·血魔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>消灭所有其他友方随从。<b>亡语：</b>再次召唤被消灭的随从并使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 56622,
+    "elite": true,
+    "flavor": "“但巨龙降临的时代早就过去了！”",
+    "health": 7,
+    "howToEarn": "打开<i>外域的灰烬</i>卡牌包后可解锁。",
+    "howToEarnGolden": "可通过邪火试炼挑战模式获得。",
+    "id": "BT_255",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "凯尔萨斯·逐日者",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "在每回合中，你每施放三个法术，第三个法术的法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 57195,
+    "elite": true,
+    "flavor": "#679周：依然没出坐骑……",
+    "health": 3,
+    "id": "BT_735",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "奥",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>召唤一个0/3的可以在你的下个回合\n复活本随从的“奥的灰烬”。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 57197,
+    "elite": true,
+    "flavor": "直接投入恶魔监狱。无法攻击随从，无法收取法力水晶。",
+    "health": 3,
+    "id": "BT_737",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛维·影歌",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "选择一个随从。",
+    "text": "<b>战吼：</b>\n选择一个随从。使其<b>休眠</b>2回合。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58549,
+    "elite": true,
+    "flavor": "外域的入侵者，自异世而来，企图征服世界……却被另一个外域的入侵者，自异世而来的精灵所征服。",
+    "health": 12,
+    "id": "BT_850",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛瑟里顿",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>。\n<b>战吼：</b>为你的对手召唤三个1/3的典狱官。当她们死亡时，消灭所有随从并唤醒。",
+    "type": "MINION"
+  }
+]

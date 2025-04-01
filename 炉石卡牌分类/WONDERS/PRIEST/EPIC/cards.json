@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Warren Mahy",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102595,
+    "flavor": "野百合也会有春天，暗影魔也想要朋友。",
+    "health": 3,
+    "id": "WON_061",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗影魔",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "每当你抽一张牌时，使其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102596,
+    "flavor": "作为一个投弹手，她干活的时候总是有点敷衍了事。",
+    "health": 1,
+    "id": "WON_062",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影投弹手",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>对每个英雄造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102600,
+    "flavor": "可以妥善处理各种医学问题，唯独处理不好头衔里的平卷舌。",
+    "health": 2,
+    "id": "WON_065",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "随船外科医师",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON",
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "在你召唤一个随从后，使其获\n得+1生命值。",
+    "type": "MINION"
+  }
+]

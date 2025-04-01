@@ -1,0 +1,158 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 60443,
+    "elite": true,
+    "flavor": "它真的只是想抱一抱艾泽拉斯的各种小生物。",
+    "health": 7,
+    "id": "DMF_002",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恩佐斯，深渊之神",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>随机复活每个随从类型的各一个友方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过10个法术，转动尤格-萨隆的命运之轮。",
+    "cost": 10,
+    "dbfId": 60445,
+    "elite": true,
+    "flavor": "大转轮吱呀吱尤尤地转……",
+    "health": 5,
+    "id": "DMF_004",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尤格-萨隆，命运主宰",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过10个法术，转动尤格-萨隆的命运之轮。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61640,
+    "elite": true,
+    "flavor": "“你对我的印象大概来自这些游览经历，像什么‘被装在大炮里打出去’啊，或者‘旋转木马把我的朋友吃了’这种回忆。”",
+    "health": 4,
+    "id": "DMF_074",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "希拉斯·暗月",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>选择一个方向，让所有随从转\n起来。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 61308,
+    "elite": true,
+    "flavor": "亚煞极，典型的职场实习生：复制粘贴，污染一切。",
+    "health": 10,
+    "id": "DMF_188",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亚煞极，污染之源",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>将你在本局对战中使用过的每张<b>已腐蚀</b>牌的复制置入你的手牌。在本回合中，这些<b>已腐蚀</b>牌的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 61503,
+    "elite": true,
+    "flavor": "我抽到的是，被封印的黑暗大古神！",
+    "health": 6,
+    "id": "DMF_254",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩，破碎之劫",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>对战开始时：</b>破碎成片。<b>战吼：</b>造成30点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61956,
+    "elite": true,
+    "flavor": "她从她父亲那里只学到一件事：复制。",
+    "health": 5,
+    "id": "YOP_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "SPELLBURST"
+    ],
+    "name": "钥匙守护者艾芙瑞",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b><b>发现</b>一张任意职业的双职业法术牌。<b>法术迸发：</b>获取发现的法术牌的另一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61973,
+    "elite": true,
+    "flavor": "“月额”这个名字听起来就不行。",
+    "health": 3,
+    "id": "YOP_035",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "月牙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "每次只能受到1点伤害。",
+    "type": "MINION"
+  }
+]

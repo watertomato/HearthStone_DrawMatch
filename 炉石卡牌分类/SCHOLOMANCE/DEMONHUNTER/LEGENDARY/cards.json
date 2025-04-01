@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 60003,
+    "elite": true,
+    "flavor": "大师级猎手，喜好赢得比赛和吃冰淇淋。",
+    "health": 4,
+    "id": "SCH_538",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "金牌猎手克里",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "你的其他角色在攻击时<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59395,
+    "elite": true,
+    "flavor": "所谓作弊，不过是“合理”地利用了你的资源。",
+    "health": 3,
+    "id": "SCH_603",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "明星学员斯特里娜",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>流放：</b>检视你对手的三张手牌。将其中一张洗入对手的牌库。",
+    "type": "MINION"
+  }
+]

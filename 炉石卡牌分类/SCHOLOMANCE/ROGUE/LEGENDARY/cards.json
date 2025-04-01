@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59691,
+    "elite": true,
+    "flavor": "她决心彻查此地，哪怕要付出生命的代价，付两次！",
+    "health": 2,
+    "id": "SCH_426",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STEALTH"
+    ],
+    "name": "渗透者莉莉安",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>潜行，亡语：</b>召唤一个4/2的被遗忘者莉莉安，并使其随机攻击一个敌人。",
+    "type": "MINION"
+  }
+]

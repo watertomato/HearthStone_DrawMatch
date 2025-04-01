@@ -1,0 +1,77 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 84351,
+    "flavor": "这份文书具有非法效力。",
+    "health": 6,
+    "id": "MAW_101",
+    "isMiniSet": true,
+    "name": "契约咒术师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "你每控制一个<b>奥秘</b>，本牌的法力值消耗便减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77659,
+    "flavor": "你看，骷髅就该藏在衣橱里，不能冷藏。",
+    "id": "REV_505",
+    "name": "冰冷案例",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "spellSchool": "FROST",
+    "text": "召唤两个2/2的不稳定的骷髅。获得4点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78371,
+    "flavor": "“一个温西尔，一个上古之神还有一个牛头人走进了酒吧……”",
+    "health": 4,
+    "id": "REV_513",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "健谈的调酒师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "在你的回合结束时，如果你控制一个<b>奥秘</b>，对所有敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84354,
+    "flavor": "这难道就是鲍勃讲的，他给死亡骑士倒酒时的情形？",
+    "id": "REV_601",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "冰冻之触",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "spellSchool": "FROST",
+    "text": "造成$3点伤害。<b>注能（3）：</b>将一张冰冻之触置入你的手牌。",
+    "type": "SPELL"
+  }
+]

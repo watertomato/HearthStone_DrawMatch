@@ -1,0 +1,100 @@
+[
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 79770,
+    "flavor": "别走啊，出庭的意思是让你进去。这词确实容易误会。",
+    "id": "MAW_027",
+    "isMiniSet": true,
+    "name": "传唤出庭",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "使你的对手随机从手牌中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79771,
+    "flavor": "法警！把跳舞的龙虾带上来！",
+    "health": 4,
+    "id": "MAW_028",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "渊誓者法警",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b><b>嘲讽</b>。</b><b>战吼：</b>如果你的护甲值大于或等于4点，获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78142,
+    "flavor": "在我们抽取完成后，您可以自行取用饼干和苹果汁。感谢您的捐献！",
+    "health": 4,
+    "id": "REV_332",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "心能提取者",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "每当一个友方随从受到伤害，随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77244,
+    "flavor": "激怒就是持续的暴怒。",
+    "health": 4,
+    "id": "REV_930",
+    "mechanics": [
+      "ENRAGED"
+    ],
+    "name": "疯狂的可怜鬼",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "REVENDRETH",
+    "text": "受伤时拥有+2攻击力和<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77311,
+    "durability": 0,
+    "flavor": "严格地说，这是一把待灌能战斧。",
+    "health": 3,
+    "id": "REV_933",
+    "mechanics": [
+      "INFUSE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "灌能战斧",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "在你的英雄攻击后，使你受伤的随从获得+1/+2。<b>注能（2）：</b>改为+2/+2。",
+    "type": "WEAPON"
+  }
+]

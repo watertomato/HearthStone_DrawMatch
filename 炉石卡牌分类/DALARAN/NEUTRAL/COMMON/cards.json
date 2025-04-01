@@ -1,0 +1,475 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52277,
+    "flavor": "你好毒，你好毒，你好毒毒毒毒毒！",
+    "health": 2,
+    "id": "DAL_077",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "毒鳍鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "DALARAN",
+    "targetingArrowText": "使一个友方鱼人获得剧毒。",
+    "text": "<b>战吼：</b>使一个友方鱼人获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tod Harris",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52278,
+    "flavor": "某些英雄的坚硬外壳之下有一颗柔软的心。",
+    "health": 2,
+    "id": "DAL_078",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD"
+    ],
+    "name": "旅行医者",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "targetingArrowText": "恢复3点生命值。",
+    "text": "<b>圣盾，战吼：</b>恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 52285,
+    "flavor": "唯有甜甜圈可以让这位达拉然的执法者放慢脚步。",
+    "health": 4,
+    "id": "DAL_085",
+    "mechanics": [
+      "DIVINE_SHIELD"
+    ],
+    "name": "达拉然圣剑士",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52286,
+    "flavor": "她看着你呢。一直看着你。",
+    "health": 3,
+    "id": "DAL_086",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夺日者间谍",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 52288,
+    "flavor": "注意保密，注意保险！",
+    "health": 5,
+    "id": "DAL_088",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "机械保险箱",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>嘲讽，亡语：</b>召唤一个0/5并具有<b>嘲讽</b>的保险柜。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52289,
+    "flavor": "你一订会爱上他的书！",
+    "health": 2,
+    "id": "DAL_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔法订书匠",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>如果你拥有<b>法术伤害</b>，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52290,
+    "flavor": "光缆无铜，偷盗无用。",
+    "health": 3,
+    "id": "DAL_090",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "荆棘帮小偷",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>潜行</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52292,
+    "flavor": "“先生，需要我提供殴打服务吗？”",
+    "health": 3,
+    "id": "DAL_092",
+    "name": "奥术仆从",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52295,
+    "flavor": "需要用到魔法的剑士，一般剑法也不怎么样。",
+    "health": 6,
+    "id": "DAL_095",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "紫罗兰魔剑士",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>你手牌中每有一张法术牌，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 52296,
+    "flavor": "他的盾是紫色的，他的魔法是紫色的，就连他的一片痴心，也是紫色的。",
+    "health": 7,
+    "id": "DAL_096",
+    "mechanics": [
+      "SPELLPOWER",
+      "TAUNT"
+    ],
+    "name": "紫罗兰典狱官",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "spellDamage": 1,
+    "text": "<b>嘲讽</b>\n<b>法术伤害+1</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 51380,
+    "flavor": "被触不可及的空头奶酪一步步引入黑暗的深渊。",
+    "health": 1,
+    "id": "DAL_400",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怪盗布缆鼠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52312,
+    "flavor": "每人只能恢复2点，因为她只能抱住这么多。",
+    "health": 1,
+    "id": "DAL_544",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "药水商人",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>为所有友方角色恢复#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52418,
+    "flavor": "我们找个谦虚的进攻者来针对他。",
+    "health": 6,
+    "id": "DAL_551",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "骄傲的防御者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>嘲讽</b>\n如果你没有其他随从，则拥有+2攻\n击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 52479,
+    "flavor": "我们保留拒绝服务任何1/1随从的权利。",
+    "health": 4,
+    "id": "DAL_560",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "霸气的旅店老板娘",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>嘲讽，战吼：</b>每有一个其他友方随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Charlene LeScanff",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 52487,
+    "flavor": "卷轴上写着“家长签字”！",
+    "health": 4,
+    "id": "DAL_566",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "古怪的铭文师",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>召唤四个1/1的复仇卷轴。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52866,
+    "flavor": "“别说话，问我。”",
+    "health": 3,
+    "id": "DAL_735",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "达拉然图书管理员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>\n<b>沉默</b>相邻的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52935,
+    "flavor": "不会骑猪的马仔不是好鱼人。",
+    "health": 1,
+    "id": "DAL_743",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "荆棘帮斗猪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>突袭，亡语：</b>召唤一个1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52936,
+    "flavor": "为了匿名发飙，连脸都不要了。",
+    "health": 1,
+    "id": "DAL_744",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无面暴怒者",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "targetingArrowText": "复制一个友方随从的生命值。",
+    "text": "<b>战吼：</b>复制一个友方随从的生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52940,
+    "faction": "ALLIANCE",
+    "flavor": "狮鹫将在安全演示之后起飞。",
+    "health": 4,
+    "id": "DAL_747",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "飞行管理员",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>为每个玩家召唤一只2/2的狮鹫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52942,
+    "flavor": "再泡一会儿，可就成落水狗了。",
+    "health": 6,
+    "id": "DAL_748",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "法力之池",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 53024,
+    "flavor": "铁铲子能裁布，还能砸石头！",
+    "health": 9,
+    "id": "DAL_760",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "推土壮汉",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53171,
+    "flavor": "千金散尽划不来。",
+    "health": 6,
+    "id": "DAL_771",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "散财军士",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "每当本随从攻击时，使你的对手获得一张幸运币。",
+    "type": "MINION"
+  }
+]

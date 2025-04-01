@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97103,
+    "elite": true,
+    "flavor": "泰坦诸神的领袖最先醒来。在孤寂之中，他穿行诸界，寻找其他泰坦，与之共同组成了万神殿。",
+    "hasDiamondSkin": true,
+    "health": 10,
+    "id": "TTN_429",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "阿曼苏尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，<b>发现</b>任意职业的<b>传说</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98223,
+    "elite": true,
+    "flavor": "时常参加不朽之战。",
+    "health": 5,
+    "id": "TTN_481",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "莱登",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>召唤你在本局对战中使用过的你套牌之外的每个其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101077,
+    "elite": true,
+    "flavor": "船长日志：2023年8月11日。卡牌趣文截稿还剩60分钟，现在是星期五的下午4点。我们的耐力和创意已经耗尽。请向我们提供搞笑乐子，谐音段子，精彩句子，或者你最爱的趣事。——设计团队",
+    "health": 5,
+    "id": "YOG_520",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "燃魂者瓦利亚",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "在一个友方亡灵死亡后，对敌方英雄造成2点伤害，并随机获取一张牧师暗影法术牌。",
+    "type": "MINION"
+  }
+]

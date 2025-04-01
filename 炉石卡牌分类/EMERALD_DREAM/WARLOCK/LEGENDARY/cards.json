@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 115044,
+    "elite": true,
+    "flavor": "心智可乱，发型不能乱。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "EDR_487",
+    "name": "瓦洛，污邪古树",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "当本牌在你的手牌或牌库中时，会获得你的随从获得的每项<b>黑暗之赐</b>的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 115203,
+    "elite": true,
+    "flavor": "他虽在上古之战中身殒，但他的遗泽留在了艾泽拉斯，滋养着崇拜他的野猪人各部。",
+    "health": 9,
+    "id": "EDR_489",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿迦玛甘",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>你使用的下一张牌会消耗<b>对手</b>的生命值而非法力值<i>（最高不超过10点）</i>。",
+    "type": "MINION"
+  }
+]

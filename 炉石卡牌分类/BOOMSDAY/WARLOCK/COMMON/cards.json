@@ -1,0 +1,55 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48113,
+    "flavor": "充能时间比“神圣愤怒”还长。",
+    "id": "BOT_222",
+    "name": "灵魂炸弹",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从和你的英雄各造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48116,
+    "flavor": "在实验室发现两只小鬼不可怕，可怕的是只发现了一只。",
+    "health": 2,
+    "id": "BOT_224",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "双生小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50432,
+    "flavor": "每个人的心中都有一个恶魔。",
+    "id": "BOT_913",
+    "name": "恶魔计划",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "spellSchool": "SHADOW",
+    "text": "随机将每个玩家手牌中的一张随从牌变形成为一张\n恶魔牌。",
+    "type": "SPELL"
+  }
+]

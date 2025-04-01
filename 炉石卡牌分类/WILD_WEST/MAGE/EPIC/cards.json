@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101849,
+    "flavor": "每当矿脉附近的大地颤动，那究竟是地震，还是这颗星球的心跳？",
+    "id": "WW_422",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "艾泽里特矿脉",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>奥秘：</b>当敌人使用一张在当回合进入手牌的牌时，获取一张它的复制，其法力值消耗为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101939,
+    "flavor": "如果研究员研究的一切都是秘密，那还研究什么？",
+    "health": 5,
+    "id": "WW_432",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神圣遗物学会研究员",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "EXCAVATE",
+      "SECRET"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，随机施放两个法师<b>奥秘</b>。",
+    "type": "MINION"
+  }
+]

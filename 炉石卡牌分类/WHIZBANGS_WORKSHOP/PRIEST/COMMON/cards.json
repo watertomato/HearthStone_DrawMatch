@@ -1,0 +1,90 @@
+[
+  {
+    "artist": "Stefan Bogdasarov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105587,
+    "flavor": "哈哈镜，告诉我，最高的侏儒是哪一个？",
+    "id": "MIS_714",
+    "isMiniSet": true,
+    "name": "哈哈镜",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个敌方随从的一个复制并使其攻击本体。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105282,
+    "flavor": "现在是观众互动时间！",
+    "health": 2,
+    "id": "MIS_919",
+    "isMiniSet": true,
+    "name": "木偶剧场",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "选择一个敌方随从，获取一张它的1/1且法力值消耗为（1）点的复制。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103492,
+    "flavor": "死亡之翼，自由之翼，现在又有了天使纸艺。",
+    "health": 3,
+    "id": "TOY_381",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "纸艺天使",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "你的英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103493,
+    "flavor": "要不你也来试试，只许用三根手指！",
+    "health": 3,
+    "id": "TOY_382",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "粗心的匠人",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>\n获取两张法力值消耗为（0）的可以恢复3点生命值的绷带。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 108518,
+    "flavor": "我当然愿意让我的随从变得更好！",
+    "id": "TOY_384",
+    "name": "净化之力",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "HOLY",
+    "text": "<b>沉默</b>所有友方随从，然后使其获得+1/+2。",
+    "type": "SPELL"
+  }
+]

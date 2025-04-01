@@ -1,0 +1,45 @@
+[
+  {
+    "artist": "Dany Orizio",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2027,
+    "durability": 0,
+    "flavor": "你们就是把一个大齿轮从机器上拆下来，在上面刻了点符文图案，然后用胶水粘上把手，就对我说这是一把灌注了神圣之力的强力武器？……好吧，似乎也不赖。",
+    "health": 3,
+    "id": "GVG_059",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "齿轮光锤",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "GVG",
+    "text": "<b>战吼：</b>随机使一个友方随从获得<b>圣盾</b>和<b>嘲讽</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2028,
+    "flavor": "自从乌瑟尔把他招募到麾下之后，他觉得新兵大喊“报告”的声音不再那么烦人了。",
+    "health": 5,
+    "id": "GVG_060",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "军需官",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "<b>战吼：</b>使你的白银之手新兵获得+2/+2。",
+    "type": "MINION"
+  }
+]

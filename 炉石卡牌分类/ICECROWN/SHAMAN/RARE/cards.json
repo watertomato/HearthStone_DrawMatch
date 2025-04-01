@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42747,
+    "flavor": "“打雪仗”的终极版。",
+    "id": "ICC_078",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "雪崩",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，并对其相邻的随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42762,
+    "flavor": "妖术师那恐怖的图腾让白银之手新兵们不寒而栗：那是一个被大头针钉住的小小雪人。",
+    "health": 7,
+    "id": "ICC_088",
+    "mechanics": [
+      "FREEZE",
+      "TAUNT"
+    ],
+    "name": "巫毒妖术师",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42808,
+    "durability": 0,
+    "flavor": "其实这把斧头也是冰做的。",
+    "health": 3,
+    "id": "ICC_236",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "破冰斧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "消灭所有受到该武器伤害的被<b>冻结</b>的随从。",
+    "type": "WEAPON"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "artist": "E. M. Gist",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2094,
+    "flavor": "无论身在何处，能够驯服野兽的技巧都是一个猎人最大的财富。",
+    "id": "GVG_017",
+    "name": "召唤宠物",
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "抽一张牌。如果该牌是野兽牌，则其法力值消耗\n减少（4）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1991,
+    "flavor": "要完成一次完美的假死，最重要的是发出正确的气味。这需要经常训练或是一瓶特殊的香水。",
+    "id": "GVG_026",
+    "name": "假死",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "GVG",
+    "text": "触发所有友方随从的<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gino Whitehall",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2011,
+    "durability": 0,
+    "flavor": "它可以完成所有火箭炮能完成的任务，只是视觉效果差了点。",
+    "health": 2,
+    "id": "GVG_043",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "重型刃弩",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>战吼：</b>随机使一个友方随从获得+1攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Seamus Gallagher",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2014,
+    "flavor": "一声长啸百兽惊，贫瘠之地留威名。",
+    "health": 5,
+    "id": "GVG_046",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "百兽之王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>嘲讽</b>\n你每控制一只其他野兽，便拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2016,
+    "flavor": "最好不要让它们淋雨。在安戈洛环型山，金刚锈牙兽的数量已经无法控制了。",
+    "health": 3,
+    "id": "GVG_048",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "金刚刃牙兽",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>战吼：</b>使你的其他机械获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2017,
+    "elite": true,
+    "flavor": "祖尔法拉克队是本届巨魔世界杯的夺冠热门球队，他们的队旗上描绘着令人望而生畏的多头蛇加兹瑞拉。",
+    "health": 9,
+    "id": "GVG_049",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "加兹瑞拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "每当本随从受到伤害，其攻击力翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Howard Lyon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2041,
+    "flavor": "戴眼镜的蛇当然会瞄的更准一点。",
+    "id": "GVG_073",
+    "name": "眼镜蛇射击",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "对一个随从和敌方英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jun Kang",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2055,
+    "flavor": "地精一般都不喜欢使用狙击枪，他们都喜欢直接用炸药解决问题。",
+    "health": 3,
+    "id": "GVG_087",
+    "name": "热砂港狙击手",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "你的英雄技能能够以随从为目标。",
+    "type": "MINION"
+  }
+]

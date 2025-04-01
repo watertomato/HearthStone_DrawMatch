@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Efrem Palacios",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 306,
+    "elite": true,
+    "flavor": "他领导石工协会重建了暴风城，而当贵族们拒绝支付工钱的时候，他将领导迪菲亚兄弟会，嗯，拆掉暴风城。",
+    "health": 2,
+    "id": "EX1_613",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "艾德温·范克里夫",
+    "rarity": "LEGENDARY",
+    "set": "EXPERT1",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便获得+2/+2。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Melvin Chan",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84245,
+    "durability": 0,
+    "elite": true,
+    "flavor": "灵魂在这吃还是打包？",
+    "health": 2,
+    "id": "RLK_214",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "食魂者之镰",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>对战开始时：</b>吞食你套牌中3张不同的随从牌。留下灵魂，用以<b>发现</b>这些随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84260,
+    "elite": true,
+    "flavor": "记得写卡牌趣文",
+    "health": 3,
+    "id": "RLK_215",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "被遗忘的费勒林",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>随机将一张<b>流放</b>牌分别置入你手牌的最左边和最右边，其法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

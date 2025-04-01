@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "Chris Seaman",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41304,
+    "flavor": "他捉弄朋友的方式就是大吼一声，吓得对方半条命都没了。",
+    "health": 3,
+    "id": "UNG_800",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐鳞追猎者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "UNGORO",
+    "targetingArrowText": "触发一个<b>亡语</b>。",
+    "text": "<b>战吼：</b>触发一个友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41354,
+    "flavor": "作战时以勇猛著称…特别是在宠物对战里。",
+    "health": 4,
+    "id": "UNG_913",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "托维尔守卫",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>从你的牌库中抽两张法力值消耗为（1）的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41357,
+    "flavor": "等它咬掉你的手指时，你就不会觉得它可爱了。",
+    "health": 1,
+    "id": "UNG_914",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "迅猛龙宝宝",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将一张4/5的“迅猛龙头领”洗入你的\n牌库。",
+    "type": "MINION"
+  }
+]

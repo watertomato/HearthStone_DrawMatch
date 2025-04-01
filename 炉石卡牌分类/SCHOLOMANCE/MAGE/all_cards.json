@@ -1,0 +1,119 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59000,
+    "flavor": "你好烧啊。",
+    "health": 4,
+    "id": "SCH_241",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "火印火妖",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>造成4点伤害，随机分配到所有敌方随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Bios Studio",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59002,
+    "flavor": "浮夸的学长最终留校；萨莉去了加基森当警员；我去永歌森林培养浮龙：我们都有光明的前途。",
+    "health": 5,
+    "id": "SCH_243",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "浮龙培养师",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b><b>法术迸发</b>：</b>召唤两条1/3的法力浮龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59013,
+    "flavor": "“老师，我的作业被一个侏儒烧掉了！”",
+    "health": 3,
+    "id": "SCH_310",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "研究伙伴",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59540,
+    "flavor": "萨莉有三个朋友，都是白银之手新兵，并以任意次序站成一排。在施放这个法术后，她还剩几个朋友？（请在空白处作答。）",
+    "id": "SCH_348",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "燃烧",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$4点伤害，相邻的随从均会受到超过其生命值的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59639,
+    "flavor": "教材上的奥术字体能赋予你近乎无穷的威力与能量！但它不能让你保持清醒，提神还得靠咖啡。",
+    "id": "SCH_353",
+    "name": "考前刷夜",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "ARCANE",
+    "text": "抽$1张牌<i>（受<b>法术伤害</b>加成影响）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 58770,
+    "elite": true,
+    "flavor": "对待学生就像对待旗鼓相当的对手，所谓的决斗其实是单方面的碾压。",
+    "health": 8,
+    "id": "SCH_400",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "决斗大师莫扎奇",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你施放一个法术后，获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  }
+]

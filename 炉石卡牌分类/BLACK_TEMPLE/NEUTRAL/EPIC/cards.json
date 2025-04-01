@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 57907,
+    "flavor": "据砰砰实验室的销售手册记载，这玩意“特别擅长推己及人”！",
+    "health": 3,
+    "id": "BT_190",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "复制机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "在你的回合结束时，将一个相邻的随从变形成为本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 57189,
+    "flavor": "把废土扔进干垃圾桶，不然就把你铐起来！",
+    "health": 3,
+    "id": "BT_729",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "废土守望者",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>\n对一个随从及所有相同类型的其他随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 57193,
+    "flavor": "听说工匠精神就是钻眼精神。",
+    "health": 4,
+    "id": "BT_733",
+    "name": "莫尔葛工匠",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "所有随从受到的法术伤害翻倍。",
+    "type": "MINION"
+  }
+]

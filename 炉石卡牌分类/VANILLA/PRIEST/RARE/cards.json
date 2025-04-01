@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "Mark Gibbons",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69927,
+    "flavor": "随你如何让它恢复理智，这个过程本身仍是件卑劣的事。",
+    "id": "VAN_EX1_334",
+    "name": "暗影狂乱",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "直到回合结束，获得一个攻击力小于或等于3的敌方随从的控制权。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Blizzard Entertainment",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69930,
+    "flavor": "以前有很多牧师都不明白，究竟是因为队友看不见光明之泉呢，还是他们故意不想点它呢？",
+    "health": 5,
+    "id": "VAN_EX1_341",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光明之泉",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "在你的回合开始时，随机为一个受伤的\n友方角色恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Doug Alexander",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 70039,
+    "flavor": "奥金尼的人们知道末日即将来临，只是不确定它到来的时间。",
+    "health": 5,
+    "id": "VAN_EX1_591",
+    "name": "奥金尼灵魂祭司",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "你的恢复生命值的牌和技能改为造成等量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Miguel Coimbra",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 70061,
+    "flavor": "紧接着你就会看到“神圣之烟”！",
+    "id": "VAN_EX1_624",
+    "name": "神圣之火",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "造成$5点伤害。为你的英雄恢复#5点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean O’Daniels",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 70063,
+    "flavor": "它驱散了增益、力量、希望和梦想。",
+    "id": "VAN_EX1_626",
+    "mechanics": [
+      "SILENCE"
+    ],
+    "name": "群体驱散",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "<b>沉默</b>所有敌方随从，抽一张牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,271 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105514,
+    "flavor": "抱歉，工坊有着严格的“不许反悔”政策。",
+    "id": "MIS_102",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "退货政策",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>一张你在\n本局对战中使用过的友方<b>亡语</b>牌。\n触发其<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105559,
+    "flavor": "瓦丝琪女士堪称艾萨拉女王的左右手。图为女王陛下的左手。",
+    "health": 3,
+    "id": "MIS_710",
+    "isMiniSet": true,
+    "name": "滑矛布袋手偶",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "本随从的攻击力\n随你的英雄的攻击力提高。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105257,
+    "flavor": "请勿沾水或在午夜之后喂食。",
+    "health": 3,
+    "id": "MIS_911",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "残次聒噪怪",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的英雄\n攻击后，召唤另一个残次聒噪怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 0,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102381,
+    "flavor": "误判！黑哨！吁——！",
+    "health": 3,
+    "id": "TOY_028",
+    "mechanics": [
+      "AURA",
+      "STEALTH"
+    ],
+    "name": "团队之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>潜行</b>一回合。你的英雄在你的回合拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104507,
+    "flavor": "距离上一次事故：[0]天。",
+    "id": "TOY_640",
+    "mechanics": [
+      "OUTCAST",
+      "ImmuneToSpellpower"
+    ],
+    "name": "工坊事故",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$5点伤害，相邻的随从均会受到超过其生命值的伤害。<b>流放：</b>获得<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104510,
+    "durability": 0,
+    "flavor": "裁判邪会指定拳套。",
+    "health": 2,
+    "id": "TOY_641",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "裁判拳套",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>抽一张恶魔牌，并使其法力值消耗减少（2）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104511,
+    "flavor": "“猪队友……再见了！把球给我，我要回家！”",
+    "health": 3,
+    "id": "TOY_642",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "球霸野猪人",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>吸血</b>。<b>战吼，亡语：</b>对生命值最低的敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104514,
+    "flavor": "三个烈焰小鬼？我的保底呢？",
+    "id": "TOY_643",
+    "mechanics": [
+      "DISCOVER",
+      "OUTCAST"
+    ],
+    "name": "盲盒",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机获取2张恶魔牌。<b>流放：</b>改为<b>发现</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 104515,
+    "flavor": "恶魔猎手的色域广度终获大幅提升，颜色数量现已达到两种！",
+    "id": "TOY_644",
+    "name": "红牌",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "使一个随从<b>休眠</b>2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104518,
+    "flavor": "“追寻荣耀与力量的人啊，不要轻信吞噬者阿扎里。欧珀能为弱者带来胜利，也能让人的灵魂满是疮痍。”——《魔石》",
+    "id": "TOY_645",
+    "name": "小型法术欧珀石",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽一张牌。<i>（用你的英雄攻击2次后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 12,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 104521,
+    "elite": true,
+    "flavor": "擅自使用本卡即可能被判处最高两年的有期徒刑。请耐心等待正式发售。",
+    "health": 12,
+    "id": "TOY_647",
+    "name": "玛瑟里顿（未发售版）",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>休眠</b>2回合。<b>休眠</b>状态下，在你的回合结束时，对所有敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104652,
+    "flavor": "我的天呐，这就是我！",
+    "health": 5,
+    "id": "TOY_652",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "MINIATURIZE"
+    ],
+    "name": "橱窗看客",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b><b>发现</b>一张恶魔牌，将其属性值与法力值消耗变为与本随从相同。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103169,
+    "elite": true,
+    "flavor": "她买过一张孤品萨拉斯语版金色古尔丹之颅，花了足足2000000金。",
+    "health": 4,
+    "id": "TOY_913",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "OUTCAST"
+    ],
+    "name": "希希集",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼，流放，\n亡语：</b>随机获取一张初版恶魔猎手卡牌<i>（品相完美）</i>。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Nutthapon Petchthai",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2539,
+    "flavor": "炎枪术，冰枪术，酸枪术……招招克敌，枪枪致命。",
+    "id": "AT_001",
+    "name": "炎枪术",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$25点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2549,
+    "flavor": "达拉然的骑士身上也散发着魔法的气息。",
+    "health": 5,
+    "id": "AT_006",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "达拉然铁骑士",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TGT",
+    "text": "<b>法术伤害+1</b>\n<b>激励：</b>获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2571,
+    "flavor": "沉溺于法术而无法自拔的人，都应该送去治疗。",
+    "health": 4,
+    "id": "AT_007",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "嗜法者",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>战吼：</b>双方玩家各获取一张随机法术牌，你获取的那张法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "artist": "Joe Wilson",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42700,
+    "durability": 0,
+    "flavor": "实在是居家旅行，杀人灭口之必备佳品。刀刃锋利，请注意安全。",
+    "health": 2,
+    "id": "ICC_064",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "血刃剃刀",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "[x]<b>战吼，亡语：</b>\n对所有随从造成\n1点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42810,
+    "flavor": "如果他能安静一点，活化起来就容易多了。",
+    "health": 3,
+    "id": "ICC_238",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "活化狂战士",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "在你使用一张随从牌后，对其造成1点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42998,
+    "flavor": "由千魂之父布隆亚姆打造的强大武器库。",
+    "id": "ICC_281",
+    "name": "灵魂洪炉",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "从你的牌库中抽两张武器牌。",
+    "type": "SPELL"
+  }
+]

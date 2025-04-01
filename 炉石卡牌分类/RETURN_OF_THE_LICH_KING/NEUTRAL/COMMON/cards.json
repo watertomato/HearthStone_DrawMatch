@@ -1,0 +1,471 @@
+[
+  {
+    "artist": "Tyler James",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 94889,
+    "flavor": "法力渴求，还有复生？你到底是哪边的？",
+    "health": 3,
+    "id": "NX2_051",
+    "isMiniSet": true,
+    "mechanics": [
+      "MANATHIRST",
+      "RUSH"
+    ],
+    "name": "黑暗堕落者影兵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>。<b>法力渴求（6）：</b>获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Bosi Studio",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 78329,
+    "flavor": "别怕，这只是雕像。",
+    "health": 6,
+    "id": "RLK_029",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "裂肤石像鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>随机对一个敌人造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78607,
+    "flavor": "正确洗手，预防感染。",
+    "health": 1,
+    "id": "RLK_070",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "被感染的农夫",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "techLevel": 1,
+    "text": "<b>亡语：</b>召唤一个2/2的亡灵农夫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79790,
+    "flavor": "横扫整个系列的强者。",
+    "health": 2,
+    "id": "RLK_104",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "街头扫把",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>对所有其他随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 80019,
+    "flavor": "肤薄如纸，骨若琉璃。",
+    "health": 3,
+    "id": "RLK_113",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "脆皮僵尸",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则对你的对手造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 80084,
+    "flavor": "此前一直被称作“丧士虚魂”……",
+    "health": 5,
+    "id": "RLK_117",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "虚魂下士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "techLevel": 1,
+    "text": "在本随从攻击后消灭本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 80087,
+    "flavor": "无论死活，还是在虚拟的网络，都是个讨人厌的巨魔。",
+    "health": 4,
+    "id": "RLK_119",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "达卡莱入殓师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "使一个友方亡灵获得<b>复生</b>。",
+    "techLevel": 4,
+    "text": "<b>战吼：</b>使一个友方亡灵获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 80091,
+    "flavor": "尸鬼投手，漫漫天灾，漓漓疫病，嶙嶙骨骸。",
+    "health": 3,
+    "id": "RLK_123",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "白骨投手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>\n如果在你的上回合之后有友方亡灵死亡，造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86557,
+    "flavor": "在本回合中，我不太像个奥术师。",
+    "health": 2,
+    "id": "RLK_218",
+    "mechanics": [
+      "BATTLECRY",
+      "SPELLPOWER"
+    ],
+    "name": "银月城奥术师",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>。<b>战吼：</b>在本回合中，你的法术不能以英雄为目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86559,
+    "flavor": "太阳怎么又生气了？没人管管吗？",
+    "health": 4,
+    "id": "RLK_219",
+    "mechanics": [
+      "BATTLECRY",
+      "MANATHIRST"
+    ],
+    "name": "日怒教士",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "恢复3点生命值。",
+    "text": "<b>战吼：</b>为所有友方角色恢复3点生命值。<b>法力渴求（6）：</b>改为恢复6点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 82689,
+    "flavor": "我花了8点法力值来抛光盾牌，别逼我用它砸你。",
+    "health": 5,
+    "id": "RLK_518",
+    "mechanics": [
+      "MANATHIRST",
+      "TAUNT"
+    ],
+    "name": "银月城哨兵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>法力渴求（8）：</b>获得+2/+2和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84370,
+    "flavor": "需要搭把手吗？",
+    "health": 2,
+    "howToEarnGolden": "完成成就“危险打手”后解锁。",
+    "id": "RLK_824",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "肢体商贩",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "techLevel": 2,
+    "text": "在你召唤一个亡灵后，使其获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 85152,
+    "flavor": "这绝对是个坏蛋。",
+    "health": 2,
+    "howToEarnGolden": "完成成就“看！是小鸡！”后解锁。",
+    "id": "RLK_833",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "骨鸡蛋",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "techLevel": 1,
+    "text": "<b>亡语：</b>召唤一只3/3的亡灵小鸡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 85154,
+    "flavor": "诺森德网络奠基者之一。",
+    "health": 4,
+    "id": "RLK_834",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "蛛魔元老",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。如果在你的上回合之后有友方亡灵死亡，其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90850,
+    "flavor": "穷则思变，变则通，通则灵。",
+    "health": 2,
+    "id": "RLK_867",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATH_KNIGHT"
+    ],
+    "name": "维库通灵师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "使一个友方随从获得“<b>亡语：</b>召唤一个2/2并具有<b>突袭</b>的僵尸。",
+    "text": "<b>战吼：</b>使一个友方随从获得“<b>亡语：</b>召唤一个2/2并具有<b>突袭</b>的僵尸。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 80537,
+    "flavor": "他为什么气成这样？因为他被设计出来纯粹是为了搞笑，换做是你，你也会生气的！",
+    "health": 4,
+    "howToEarnGolden": "完成成就“暴怒过猛”后解锁。",
+    "id": "RLK_900",
+    "mechanics": [
+      "BATTLECRY",
+      "REBORN"
+    ],
+    "name": "天灾暴怒者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>复生</b>，<b>战吼：</b>死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84243,
+    "flavor": "“人不能乱丢自己的影子，对吧？”",
+    "health": 1,
+    "id": "RLK_914",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "幽影恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>\n随机将一张暗影法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84387,
+    "flavor": "青铜雏龙最擅长的事：操纵尸检。",
+    "health": 3,
+    "id": "RLK_915",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "琥珀雏龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84765,
+    "flavor": "冰风雪人绝不会像这样背叛你。",
+    "health": 5,
+    "id": "RLK_926",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "浴血骑士",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你的回合结束时，对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 85640,
+    "flavor": "是银材总会发光的。",
+    "health": 4,
+    "id": "RLK_955",
+    "mechanics": [
+      "MANATHIRST",
+      "RUSH"
+    ],
+    "name": "银月城军备官",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>。<b>法力渴求（7）：</b>获得+2/+2。",
+    "type": "MINION"
+  }
+]

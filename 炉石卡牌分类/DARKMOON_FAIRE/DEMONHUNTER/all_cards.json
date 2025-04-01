@@ -1,0 +1,343 @@
+[
+  {
+    "artist": "K. Lashley & K. Turovec",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61123,
+    "flavor": "恶魔猎手最擅长的两件事：翻过障碍，直接切入。",
+    "health": 4,
+    "id": "DMF_217",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "越线的游客",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "你的<b>流放</b>牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61125,
+    "flavor": "偷了恶魔猎手的玉米炸热狗，就是这种下场。",
+    "id": "DMF_219",
+    "name": "冷酷追杀",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在本回合中，使你的英雄获得+4攻击力和<b>免疫</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "K. Lashley & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61127,
+    "flavor": "邪吼撞过来的时候，所有灵魂都会高喊：“磕到了！磕死我了！”",
+    "id": "DMF_221",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "邪吼冲击",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从和相邻的随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61128,
+    "flavor": "稻草可以救命，树枝也可以。",
+    "health": 3,
+    "id": "DMF_222",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "获救的流民",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在你使用一张<b>流放</b>牌后，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61129,
+    "flavor": "把助手切成两段是整场表演中最简单的一段。",
+    "health": 3,
+    "id": "DMF_223",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "知名表演者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭，亡语：</b>召唤两个1/1并具有<b>嘲讽</b>\n的助演。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61130,
+    "flavor": "演员受了伤，观众却以为是节目效果。",
+    "id": "DMF_224",
+    "name": "演员大接力",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤七个1/1并具有<b>突袭</b>的伊利达雷。在本回合中，如果他们全部死亡，再召唤七个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt O'Connor",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61131,
+    "flavor": "“停，停，我是让你偷一支利刃！”",
+    "id": "DMF_225",
+    "name": "投掷利刃",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "对一个随从造成$2点伤害。如果该随从死亡，则将本牌的一张<b>临时</b>复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61132,
+    "flavor": "哪有什么天才，她是把别人学魔法的工夫都用在练刀上的。",
+    "health": 6,
+    "id": "DMF_226",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "刀锋舞娘",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n如果你的英雄的攻击力大于或等于6点，则法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brandon Blackwell",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61133,
+    "durability": 0,
+    "flavor": "用钝了就会变成恐惧魔王之抿。",
+    "health": 2,
+    "id": "DMF_227",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "恐惧魔王之咬",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>流放：</b>对所有敌人造成1点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61135,
+    "flavor": "杂耍学校竞争残酷，有时你需要踩着别人才能登上高处。",
+    "health": 1,
+    "id": "DMF_229",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高跷艺人",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>抽一张牌。如果你在本回合中使用抽到的牌，使你的英雄在本回合中获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61136,
+    "elite": true,
+    "flavor": "听上去就像是绕了两步的伤害。",
+    "health": 6,
+    "id": "DMF_230",
+    "name": "伊格诺斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>吸血</b>\n你的<b>吸血</b>会对敌方英雄造成伤害，而非治疗你。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61137,
+    "elite": true,
+    "flavor": "接下来有请她的弟弟，平凡艺人扎尔。",
+    "health": 4,
+    "id": "DMF_231",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "扎依，出彩艺人",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n复制你手牌中最左边和最右边的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61269,
+    "flavor": "连续数届，称霸年度吃热狗大赛……以及吃裁判大赛。",
+    "health": 5,
+    "id": "DMF_247",
+    "mechanics": [
+      "CORRUPT",
+      "TAUNT"
+    ],
+    "name": "贪食地狱犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>\n<b>腐蚀：</b>获得+1/+1和<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61271,
+    "flavor": "“小时候，我想拥有一把自己的武器。我的母亲告诉我：‘我看你像武器！’”",
+    "health": 3,
+    "id": "DMF_248",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "魔钢处决者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>变为武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61273,
+    "flavor": "给他的衣服里塞个大跳蚤，他可以翻越整片天空。",
+    "id": "DMF_249",
+    "name": "空翻杂技",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "抽两张牌。在本回合中，如果你使用了这两张牌，再抽\n两张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61939,
+    "flavor": "“请勿在驾驶期间研习。”",
+    "id": "YOP_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "伊利达雷研习",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>发现</b>一张<b>流放</b>牌。你的下一张<b>流放</b>牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61940,
+    "flavor": "有些选手会把引擎轰出阵阵低吼，但这家伙都是亲自吼。",
+    "health": 6,
+    "id": "YOP_002",
+    "isMiniSet": true,
+    "name": "邪刃豹",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "在本回合中，除非你的英雄进行过攻击，否则无法进行攻击。",
+    "type": "MINION"
+  }
+]

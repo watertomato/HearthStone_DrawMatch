@@ -1,0 +1,79 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61223,
+    "flavor": "腐蚀，其实就是拉你下水。",
+    "id": "DMF_701",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "深水炸弹",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "造成$4点伤害。<b>腐蚀：</b>再对所有敌方随从造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61225,
+    "flavor": "要是你打赢了最后的决斗，他就送你一个毛绒玩具。",
+    "health": 2,
+    "id": "DMF_703",
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT"
+    ],
+    "name": "死斗场管理者",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>召唤一个3/2的决斗者。<b>腐蚀：</b>召唤两个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61227,
+    "durability": 0,
+    "flavor": "霍格最痛恨的娱乐项目。",
+    "health": 2,
+    "id": "DMF_705",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "敲狼锤",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的英雄攻击后，随机使一个友方随从获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61961,
+    "flavor": "“好一场天塌地陷的大胜！咦，其他选手去哪儿了？”",
+    "id": "YOP_023",
+    "isMiniSet": true,
+    "name": "大地崩陷",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "对所有敌方随从造成$1点伤害。如果你有<b>过载</b>的法力水晶，再次造成$1点伤害。",
+    "type": "SPELL"
+  }
+]

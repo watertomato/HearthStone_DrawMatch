@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2005,
+    "flavor": "这个打蛋器可好用了。",
+    "health": 2,
+    "id": "GVG_037",
+    "mechanics": [
+      "WINDFURY"
+    ],
+    "name": "自动漩涡打击装置",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Warren Mahy",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2006,
+    "flavor": "在施放这个法术的时候最好提前带上耳塞。",
+    "id": "GVG_038",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "连环爆裂",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "造成$3到$6点伤害，<b>过载：</b>（1）",
+    "type": "SPELL"
+  }
+]

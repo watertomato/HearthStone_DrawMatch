@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42648,
+    "flavor": "熬过痛苦，你就会更狠毒。",
+    "id": "ICC_049",
+    "name": "剧毒箭矢",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$2点伤害，如果它依然存活，则使其获得<b>剧毒</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43245,
+    "flavor": "装了第三只手后，射速提高了50%！",
+    "health": 7,
+    "id": "ICC_825",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "憎恶弓箭手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机召唤一个在本局对战中死亡的友方野兽。",
+    "type": "MINION"
+  }
+]

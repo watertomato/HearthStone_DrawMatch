@@ -1,0 +1,198 @@
+[
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53739,
+    "elite": true,
+    "flavor": "考古学是发现稀有且强大神器的过程。而最最伟大的考古学，则是将神器据为己有！",
+    "id": "ULD_140",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "最最伟大的考古学",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>任务：</b>抽20张牌。\n<b>奖励：</b>源生魔典。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53882,
+    "flavor": "“袋子里是什么？”“是……坏家伙。”“好家伙，成交！”",
+    "id": "ULD_160",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "邪恶交易",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "<b>发现</b>一张<b>跟班</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53883,
+    "flavor": "我手执钢鞭将你打！",
+    "health": 5,
+    "id": "ULD_161",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "尼斐塞特鞭笞者",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "每当本随从攻击时，对你的英雄造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53884,
+    "flavor": "小跟班已经不够坏了，不如再从它身上榨一点好处。",
+    "health": 3,
+    "id": "ULD_162",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怪盗征募官",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "targetingArrowText": "消灭一个友方<b>跟班</b>。",
+    "text": "<b>战吼：</b>消灭一个友方<b>跟班</b>，召唤一个5/5的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53885,
+    "flavor": "“保质期”什么的只是用来参考的啦。",
+    "health": 1,
+    "id": "ULD_163",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "过期货物专卖商",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>弃掉你手牌中法力值消耗最高的牌。<b>亡语：</b>将弃掉的牌的两张复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 7,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 53887,
+    "flavor": "以血还血！只不过还在了你身上……",
+    "health": 5,
+    "id": "ULD_165",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "裂隙屠夫",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>消灭一个随从。你的英雄受到等同于该随从生命值的\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53889,
+    "flavor": "它都从栖木上掉下来了！已经没气了！这就是只死兀鹫！",
+    "health": 5,
+    "id": "ULD_167",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "染病的兀鹫",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "每当你的英雄在自己的回合受到伤害，随机召唤一个法力值消耗为（3）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 53890,
+    "elite": true,
+    "flavor": "他必将战胜探险者协会，还有他们的小鱼人！",
+    "health": 4,
+    "id": "ULD_168",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑暗法老塔卡恒",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，你的<b>跟班</b>变为4/4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53938,
+    "flavor": "小鬼油膏，给你的肌肤带来一层强大的保湿魔。",
+    "id": "ULD_324",
+    "name": "小鬼油膏",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "spellSchool": "FEL",
+    "text": "消灭一个随从。将三张“游荡小鬼”洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Armand Serrano",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54429,
+    "flavor": "千难万险出古墓，烈火焚烧若等闲。",
+    "id": "ULD_717",
+    "name": "火焰之灾祸",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "spellSchool": "FIRE",
+    "text": "消灭你的所有随从。每消灭一个随从，便随机消灭一个敌方随从。",
+    "type": "SPELL"
+  }
+]

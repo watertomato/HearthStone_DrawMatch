@@ -1,0 +1,32 @@
+[
+  {
+    "artist": "Dan Scott",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38461,
+    "flavor": "我以前没得选择，现在我想做一个好人。",
+    "id": "OG_118",
+    "name": "弃暗投明",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "将你的英雄技能和术士卡牌替换成另一职业的。这些牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 38770,
+    "flavor": "古往今来总有人在那里宣扬末日论，可我们现在不是还活得好好的吗。",
+    "id": "OG_239",
+    "name": "末日降临",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有随从。每消灭一个随从，便抽一张牌。",
+    "type": "SPELL"
+  }
+]

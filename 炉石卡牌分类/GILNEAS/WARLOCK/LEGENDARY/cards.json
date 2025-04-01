@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47295,
+    "elite": true,
+    "flavor": "终于可以无限次召唤……小精灵啦。",
+    "health": 7,
+    "id": "GIL_618",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "格林达·鸦羽",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "ECHO"
+    ],
+    "set": "GILNEAS",
+    "text": "你手牌中的所有随从牌拥有<b>回响</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 48156,
+    "elite": true,
+    "flavor": "他背叛过联盟，背叛过部落。只为了200点成就点数，和那顶漂亮的帽子！",
+    "health": 4,
+    "id": "GIL_825",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高弗雷勋爵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>对所有其他随从造成2点伤害。如果有随从死亡，则重复此<b>战吼</b>效果。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97825,
+    "flavor": "“奇诺！看你的了。”",
+    "id": "TTN_728",
+    "name": "整备站",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "TITANS",
+    "text": "从你的牌库中<b>发现</b>一张机械牌，使其获得+2/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Hayes",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97215,
+    "flavor": "你说的换挡，是指PRNDL吗？",
+    "id": "TTN_922",
+    "name": "换挡漂移",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "将你最左边的两张手牌洗入你的牌库。抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97640,
+    "flavor": "这是你的？这是我的。",
+    "health": 2,
+    "id": "TTN_925",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "卡亚矿石造物",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b><b>发现</b>一张另一职业的法力值消耗小于或等于（3）点的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101696,
+    "flavor": "add ecx, eax",
+    "id": "YOG_410",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "汇编阵线",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>发现</b>一张另一职业的机械牌。",
+    "type": "SPELL"
+  }
+]

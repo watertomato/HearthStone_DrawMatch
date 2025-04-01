@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114080,
+    "flavor": "我年轻的时候，好友请求都是这样发的。",
+    "health": 1,
+    "id": "EDR_449",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "月翼信使",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>吸血</b>。<b>战吼：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114299,
+    "flavor": "对着星星祈愿，那是上个扩展包的事了。",
+    "id": "EDR_460",
+    "name": "新月祈愿",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从\n造成$6点伤害。\n<i>（施放3个法术\n以获得<b>吸血</b>。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114373,
+    "flavor": "健身课程中的噩梦。",
+    "health": 3,
+    "id": "EDR_472",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "轮回编织者",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，则造成3点伤害。",
+    "type": "MINION"
+  }
+]

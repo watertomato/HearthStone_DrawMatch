@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Ben Thompson",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42735,
+    "durability": 0,
+    "flavor": "这种悲伤刺痛的不光只是心。",
+    "health": 4,
+    "id": "ICC_071",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光之悲恸",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ICECROWN",
+    "text": "在一个友方随从失去<b>圣盾</b>后，获得+1攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42825,
+    "flavor": "“我有没有说过我曾单枪匹马干掉了一个29/29的克苏恩的事？”——雷诺·杰克逊",
+    "health": 9,
+    "id": "ICC_245",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑色卫士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "每当你的英雄获得治疗时，便随机对一个敌方随从造成等量的\n伤害。",
+    "type": "MINION"
+  }
+]

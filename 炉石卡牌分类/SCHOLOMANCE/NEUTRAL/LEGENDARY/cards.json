@@ -1,0 +1,209 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59658,
+    "elite": true,
+    "flavor": "不要害怕这些黑暗魔法。他会确保顺利孵化不会搞砸。",
+    "health": 4,
+    "id": "SCH_162",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "维克图斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>召唤两条1/1的雏龙。每条雏龙获得一个本局对战中死亡的友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59253,
+    "elite": true,
+    "flavor": "如果一个讲师在森林中发表了一次无人倾听的演讲，那么实际上她是否发出了声音？",
+    "health": 4,
+    "id": "SCH_182",
+    "mechanics": [
+      "RUSH",
+      "SPELLBURST",
+      "WINDFURY"
+    ],
+    "name": "演讲者吉德拉",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭，风怒</b>\n<b>法术迸发：</b>获得等同于法术法力值消耗的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 58931,
+    "elite": true,
+    "flavor": "“你想知道我的秘密，嗯？我在长袍的袖子里藏了一点金枪鱼，他最喜欢那个了。哦，你说那些复活的死者？那只是小事，小事。”",
+    "health": 6,
+    "id": "SCH_224",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "校长克尔苏加德",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>如果法术消灭了任意随从，召唤被消灭的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59151,
+    "durability": 0,
+    "elite": true,
+    "flavor": "当一张牌沉入牌库底，当一局牌成了谜。",
+    "health": 4,
+    "id": "SCH_259",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "感知宝珠",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合开始时，检视你牌库顶的卡牌。你可以将其置于牌库底，并失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59216,
+    "elite": true,
+    "flavor": "尽管其他教职员工总是对莱斯冷语相向，他一直都是克尔苏加德校长最欣赏的那一个。",
+    "health": 6,
+    "id": "SCH_273",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莱斯·霜语",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，对所有敌人造成$1点伤害<i>（受<b>法术伤害</b>加成影响）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59609,
+    "elite": true,
+    "flavor": "整座学园都属于她的父母。所以她当然要和学生们好好玩玩！",
+    "hasDiamondSkin": true,
+    "health": 1,
+    "id": "SCH_351",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "詹迪斯·巴罗夫",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>召唤两个法力值消耗为（5）的随从。秘密选择其中一个，使其在受到伤害时死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59690,
+    "elite": true,
+    "flavor": "给我刀！",
+    "health": 4,
+    "id": "SCH_425",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "卡斯迪诺夫教授",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭</b>\n每当本随从攻击时，使你的武器获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 60278,
+    "elite": true,
+    "flavor": "quicksort [] = []\nquicksort (x:xs) = quicksort small ++ (x : quicksort large)\nwhere\nsmall = [y | y <- xs, y <= x]\nlarge = [y | y <- xs, y > x]",
+    "health": 5,
+    "id": "SCH_428",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "博学者普克尔特",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将你的牌库按法力值消耗由高到低重新排序。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61174,
+    "elite": true,
+    "flavor": "成为钥匙专家的关键：多准备复制品。",
+    "health": 8,
+    "id": "SCH_717",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "钥匙专家阿拉巴斯特",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "每当你的对手抽一张牌时，将一张复制置入你的手牌，其法力值消耗变为（1）点。",
+    "type": "MINION"
+  }
+]

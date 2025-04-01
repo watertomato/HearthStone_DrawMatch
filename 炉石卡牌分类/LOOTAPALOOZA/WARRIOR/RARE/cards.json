@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43269,
+    "flavor": "人生中最美好的事情是什么？制造蜡烛，保护蜡烛，还有聆听那些偷蜡烛贼的临终哀号。",
+    "health": 4,
+    "id": "LOOT_041",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狗头人蛮兵",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合开始时，随机攻击一名敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 45519,
+    "flavor": "“岩石化成的矮人们听信了恶魔的许诺，渴求力量的贪婪带给他们的却是末日，他们被永久囚禁在秘银的墓穴之中。”——《魔石》",
+    "id": "LOOT_203",
+    "name": "小型法术秘银石",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "召唤一个5/5的秘银魔像。\n<i>（装备一把武器后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 46058,
+    "flavor": "多么激动人心的冒险！肯定会有危急情况发生！战利品未知！可能会死亡！有人和我一起来吗？",
+    "id": "LOOT_370",
+    "name": "寻求组队",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>招募</b>一个随从。",
+    "type": "SPELL"
+  }
+]

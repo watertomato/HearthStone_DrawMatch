@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72651,
+    "flavor": "引爆火山，海底坐穿。",
+    "id": "TSC_056",
+    "name": "火山术",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "FIRE",
+    "text": "选择一个随从。当其死亡时，对所有其他随从造成3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 71996,
+    "flavor": "嘶人若彩虹，遇上方知有。",
+    "health": 5,
+    "id": "TSC_620",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恶鞭海妖",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你使用一张纳迦牌后，复原两个法力水晶。<i>（然后切换至法术牌！）</i>2在你使用一张法术牌后，复原两个法力水晶。<i>（然后切换至纳迦牌！）</i>",
+    "type": "MINION"
+  }
+]

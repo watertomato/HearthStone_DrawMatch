@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54885,
+    "flavor": "尾巴一翻，与我无关。",
+    "health": 5,
+    "id": "DRG_201",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂的灵翼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，则对所有其他角色造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54888,
+    "flavor": "要是迦拉克隆在复活后发现自己的骨头上有咬痕，一定会陷入更深重的疯狂。",
+    "health": 1,
+    "id": "DRG_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙骨荒野异教徒",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b><b>祈求</b>迦拉克隆。每有一个其他友方随从，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54892,
+    "flavor": "我似乎曾在卡拉赞的虚空中感受过这种吐息，但又略有不同。",
+    "id": "DRG_205",
+    "name": "虚空吐息",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "FEL",
+    "text": "造成$2点伤害。如果你的手牌中有龙牌，则改为造成$4点伤害并具有<b>吸血</b>。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "artist": "Dave Greco",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 62490,
+    "flavor": "世界之树诺达希尔给这个世界带来了生命的能量。还能节省法力值。",
+    "health": 5,
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得100场对战后解锁。",
+    "id": "CORE_CS3_012",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "诺达希尔德鲁伊",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>在本回合中，你施放的下一个法术的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106324,
+    "flavor": "猫头鹰生性警觉，睡觉时都睁着一只眼。",
+    "health": 4,
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得100场对战后解锁。",
+    "id": "CORE_DMF_060",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "幽影猫头鹰",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>\n在本局对战中，你每施放一个法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Terese Nielsen",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69594,
+    "flavor": "德鲁伊能够从很多地方获得精神上的滋养：自然的伟力；鸟儿的鸣唱；蛋糕的美味。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得100场对战后解锁。",
+    "id": "CORE_EX1_164",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "滋养",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>获得两个法力水晶；或者抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110083,
+    "flavor": "“愿这份礼物能帮助你在派对上活力四射！”——玛法里奥",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_10",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "玛法里奥的礼物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>发现</b>一张<b>临时</b>的野性之怒，野性成长或横扫。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95697,
+    "flavor": "德鲁伊从不安的睡梦中醒来，发现自己变形成了一只巨大的蜘蛛。",
+    "health": 2,
+    "id": "CORE_ICC_051",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "虫群德鲁伊",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS",
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>抉择：</b>变形成为1/2并具有<b>剧毒</b>；或者变形成为1/5并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95760,
+    "flavor": "我一直以为瘟疫都是苍蝇老鼠在传播，可没想到你是这样的精灵。",
+    "id": "CORE_ICC_054",
+    "name": "传播瘟疫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "召唤一只1/5并具有<b>嘲讽</b>的甲虫。如果你的对手拥有的随从更多，则再次施放该法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95762,
+    "flavor": "这不是盗墓，我只是在……清理墓地。",
+    "health": 3,
+    "id": "CORE_ICC_807",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "硬壳清道夫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>使你具有<b>嘲讽</b>的随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111352,
+    "flavor": "“古老森林中的精灵们用魔石抵抗恶魔的诅咒。阴影散去，但仇恨仍在，脆弱的灵魂遭到扭曲。精灵长出了角与蹄，他们的森林开始燃烧。”——《魔石》",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得100场对战后解锁。",
+    "id": "CORE_LOOT_051",
+    "name": "小型法术玉石",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$2点伤害。0<i>（获得3点护甲值后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 79748,
+    "dbfId": 118034,
+    "flavor": "法夜的司法：以泉谋私。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得100场对战后解锁。",
+    "id": "CORE_MAW_024",
+    "isMiniSet": true,
+    "name": "私法程序",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "在本局对战的剩余时间内，玩家会在其回合开始时额外抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 77488,
+    "dbfId": 118036,
+    "flavor": "雅座一位！",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得100场对战后解锁。",
+    "id": "CORE_MAW_026",
+    "isMiniSet": true,
+    "name": "监禁",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "选择一个随从。使其<b>休眠</b>3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 77562,
+    "dbfId": 118078,
+    "flavor": "光照条件需要半阴。但实际生长靠的还是阳的那一半。",
+    "id": "CORE_REV_311",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "DISCOVER"
+    ],
+    "name": "夜影花蕾",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>从你的牌库中<b>发现</b>一张随从牌并召唤；或者一张法术牌并施放。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 78202,
+    "dbfId": 118085,
+    "flavor": "如果你反复见到大帝的雕像，那也不能说明你在兜圈子。因为大帝的雕像太多了。",
+    "health": 2,
+    "id": "CORE_REV_333",
+    "name": "树篱迷宫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "触发一个友方随从的<b>亡语</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 78261,
+    "dbfId": 118087,
+    "flavor": "很精彩的谋划，可惜树漏得太多。",
+    "id": "CORE_REV_336",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "罪恶谋划",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "召唤两个2/2的树人。<b>注能（5）：</b>改为两个5/5的古树。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86234,
+    "flavor": "其实你也可以拥有大地之鳞。第一步：在泥地里打滚；第二步：等自然风干。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得100场对战后解锁。",
+    "id": "CORE_UNG_108",
+    "name": "大地之鳞",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "targetingArrowText": "使其获得+1/+1。",
+    "text": "使一个友方随从获得+1/+1，然后获得等同于其攻击力的\n护甲值。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,2955 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42327,
+    "flavor": "虽说是幻影，但她手上的武器可是货真价实！",
+    "health": 3,
+    "id": "ICC_018",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幻影海盗",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>\n获得等同于你的武器属性的属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42328,
+    "flavor": "精通死灵的只能叫死灵法师，精通骷髅的才能叫骷髅法师。",
+    "health": 2,
+    "id": "ICC_019",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "骷髅法师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个8/8的骷髅。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42320,
+    "flavor": "祸兮蝠之所倚，蝠兮祸之所伏。",
+    "health": 1,
+    "id": "ICC_021",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "自爆肿胀蝠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>对所有敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 42338,
+    "flavor": "既然冲不了浪，那就溜冰吧。",
+    "health": 1,
+    "id": "ICC_023",
+    "name": "雪鳍企鹅",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42422,
+    "flavor": "别放弃，骷髅！",
+    "health": 2,
+    "id": "ICC_025",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "骷髅捣蛋鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>召唤一个5/5的骷髅。\n<b>亡语：</b>为你的对手召唤一个5/5的骷髅。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42438,
+    "flavor": "警告：该骷髅任何时候都无法爆炸。",
+    "health": 4,
+    "id": "ICC_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冷酷的死灵法师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>召唤两个1/1的骷髅。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42439,
+    "flavor": "我们坐在高高的骨堆旁边，听妈妈讲那过去的事情。",
+    "health": 5,
+    "id": "ICC_027",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨幼龙",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机将一张龙牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42440,
+    "flavor": "请为奥丁的殿堂带来荣耀，勇士！",
+    "health": 4,
+    "id": "ICC_028",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阳焰瓦格里",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>使相邻的随从获得+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "battlegroundsPremiumDbfId": 61442,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42442,
+    "flavor": "你有剑！他有剑！大家都有剑！",
+    "health": 5,
+    "id": "ICC_029",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "深蓝刃鳞龙兽",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "techLevel": 4,
+    "text": "在你的回合结束时，随机使另一个友方随从获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42445,
+    "flavor": "老实说，其实他大白天也在嗥叫。",
+    "health": 4,
+    "id": "ICC_031",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗夜嗥狼",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "每当本随从受到伤害，获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42446,
+    "flavor": "要不是身患绝症想为家里留笔钱，她也不会走上这条路。",
+    "health": 5,
+    "id": "ICC_032",
+    "mechanics": [
+      "POISONOUS"
+    ],
+    "name": "制毒师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "techLevel": 6,
+    "text": "<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42462,
+    "flavor": "说真的，要不是他能引来那只食尸鬼，这家伙就是个混球。",
+    "health": 2,
+    "id": "ICC_034",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "傲慢的十字军",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 1,
+    "battlegroundsPremiumDbfId": 63774,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42467,
+    "flavor": "本来想起名叫烈日保护者，但这里实在是太冷了。",
+    "health": 1,
+    "id": "ICC_038",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "正义保护者",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "techLevel": 1,
+    "text": "<b>嘲讽</b>\n<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42469,
+    "flavor": "在乌瑟尔的法庭上，他既是法官，也是陪审团，还是行刑者……",
+    "id": "ICC_039",
+    "name": "黑暗裁决",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "将一个随从的攻击力和生命值\n变为3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42471,
+    "flavor": "让旅店清洁阿姨最头疼的法术之一。",
+    "id": "ICC_041",
+    "name": "亵渎",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "对所有随从造成$1点伤害，如果有随从死亡，则再次施放该法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42615,
+    "flavor": "你问她那件衣服的材质？当然是纯丝制品。",
+    "health": 3,
+    "id": "ICC_047",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "命运织网蛛",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>秘密亡语：</b>\n<b>抉择：</b>对所有随从造成3点伤害；或者使所有随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42648,
+    "flavor": "熬过痛苦，你就会更狠毒。",
+    "id": "ICC_049",
+    "name": "剧毒箭矢",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$2点伤害，如果它依然存活，则使其获得<b>剧毒</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42649,
+    "flavor": "遍身丝网者，不是养蛛人。",
+    "id": "ICC_050",
+    "name": "蛛网",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "召唤两只1/2并具有<b>剧毒</b>的\n蜘蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42651,
+    "flavor": "德鲁伊从不安的睡梦中醒来，发现自己变形成了一只巨大的蜘蛛。",
+    "health": 2,
+    "id": "ICC_051",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "虫群德鲁伊",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS",
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>抉择：</b>变形成为1/2并具有<b>剧毒</b>；或者变形成为1/5并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42652,
+    "flavor": "想做好演员，得先学会装死。",
+    "id": "ICC_052",
+    "name": "装死",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "触发一个友方随从的<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42656,
+    "flavor": "我一直以为瘟疫都是苍蝇老鼠在传播，可没想到你是这样的精灵。",
+    "id": "ICC_054",
+    "name": "传播瘟疫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "NATURE",
+    "text": "召唤一只1/5并具有<b>嘲讽</b>的甲虫。如果你的对手拥有的随从更多，则再次施放该法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kerem Beyit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42658,
+    "flavor": "只要轻轻推下开关，就连最顽固的灵魂都能吸得一干二净！",
+    "id": "ICC_055",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "吸取灵魂",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n对一个随从造成\n$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42676,
+    "flavor": "等我们找到解药就来融化你。",
+    "id": "ICC_056",
+    "name": "低温静滞",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "使一个随从获得+3/+3，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42678,
+    "flavor": "因其自带保鲜功能，畅销艾泽拉斯的各个角落！",
+    "health": 2,
+    "id": "ICC_058",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冷冻鱼人",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "冻结一个敌人。",
+    "text": "<b>战吼：</b>\n<b>冻结</b>一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42698,
+    "flavor": "先生，您的盔甲着火了。",
+    "health": 3,
+    "id": "ICC_062",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "熔甲卫士",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则获得\n6点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joe Wilson",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42700,
+    "durability": 0,
+    "flavor": "实在是居家旅行，杀人灭口之必备佳品。刀刃锋利，请注意安全。",
+    "health": 2,
+    "id": "ICC_064",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "血刃剃刀",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "[x]<b>战吼，亡语：</b>\n对所有随从造成\n1点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42712,
+    "flavor": "不论是石油大亨、铁路大亨还是黑金大亨，最后都会变成白骨大亨。",
+    "health": 5,
+    "id": "ICC_065",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨大亨",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>\n将两张1/1的“骷髅”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42714,
+    "flavor": "其实他的真名叫“维护食尸鬼”，但遭到了卡牌名称规范委员会的强烈抗议。",
+    "health": 1,
+    "id": "ICC_067",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "维库食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42716,
+    "flavor": "你管他叫行者？他连个脚都没有！",
+    "health": 3,
+    "id": "ICC_068",
+    "name": "寒冰行者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "你的英雄技能还会\n<b>冻结</b>目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42718,
+    "flavor": "听说，万圣节，紫色和鬼影更配哦！",
+    "health": 6,
+    "id": "ICC_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鬼影巫师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>将一张“镜像”法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Thompson",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42735,
+    "durability": 0,
+    "flavor": "这种悲伤刺痛的不光只是心。",
+    "health": 4,
+    "id": "ICC_071",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光之悲恸",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ICECROWN",
+    "text": "在一个友方随从失去<b>圣盾</b>后，获得+1攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42743,
+    "flavor": "他领养了三位孤儿，还有一群唯命是从的小跟班。",
+    "health": 6,
+    "id": "ICC_075",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "卑鄙的恐惧魔王",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "在你的回合结束时，对所有敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42747,
+    "flavor": "“打雪仗”的终极版。",
+    "id": "ICC_078",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "雪崩",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，并对其相邻的随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phil Saunders",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42748,
+    "flavor": "他常在餐后用利爪帮自己剔牙。",
+    "id": "ICC_079",
+    "name": "铁齿铜牙",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "使你的英雄获得3点护甲值，并在本回合中获得\n+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42750,
+    "flavor": "有时候，最好的进攻就是防御。",
+    "health": 8,
+    "id": "ICC_081",
+    "mechanics": [
+      "OVERLOAD",
+      "TAUNT"
+    ],
+    "name": "达卡莱防御者",
+    "overload": 3,
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>，<b>过载：</b>（3）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42754,
+    "flavor": "一个好汉两个帮。",
+    "id": "ICC_082",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "寒冰克隆",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，将两张该随从的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42756,
+    "flavor": "吉安娜在学徒保护方面一直备受争议。",
+    "health": 2,
+    "id": "ICC_083",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "末日学徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "你对手法术的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 42759,
+    "flavor": "您预订的食尸鬼五合一大礼包正在送货途中，一切正常。",
+    "id": "ICC_085",
+    "name": "终极感染",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "造成$5点伤害。抽五张牌。获得5点护甲值。召唤一个5/5的食尸鬼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 42760,
+    "flavor": "想学的话得先破冰。",
+    "id": "ICC_086",
+    "name": "冰封秘典",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "将每种不同的<b>奥秘</b>从你的牌库中置入战场。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42762,
+    "flavor": "妖术师那恐怖的图腾让白银之手新兵们不寒而栗：那是一个被大头针钉住的小小雪人。",
+    "health": 7,
+    "id": "ICC_088",
+    "mechanics": [
+      "FREEZE",
+      "TAUNT"
+    ],
+    "name": "巫毒妖术师",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42763,
+    "flavor": "两个鱼人两张嘴，四只眼睛，多少条腿？",
+    "id": "ICC_089",
+    "name": "冰钓术",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "从你的牌库中抽两张鱼人牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 8,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 11,
+    "dbfId": 42765,
+    "flavor": "双11来了，你的卡准备好过载了吗？",
+    "health": 8,
+    "id": "ICC_090",
+    "name": "雪怒巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "ICECROWN",
+    "text": "在本局对战中，你每<b>过载</b>一个法力水晶，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42766,
+    "flavor": "我有一对拉格纳罗斯和一对铸甲师。你呢？",
+    "id": "ICC_091",
+    "name": "亡者之牌",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "复制你的手牌并洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42773,
+    "flavor": "这是我的符文剑。有很多类似的符文剑，但是这把符文剑是我的。",
+    "health": 1,
+    "id": "ICC_092",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿彻鲁斯老兵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "targetingArrowText": "获得+1攻击力。",
+    "techLevel": 1,
+    "text": "<b>战吼：</b>使一个友方随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42775,
+    "flavor": "如果你给他500条鱼，他会给你这根精致的卡鲁亚克鱼竿。",
+    "health": 3,
+    "id": "ICC_093",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海象人渔夫",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "获得<b>法术伤害+1</b>。",
+    "text": "<b>战吼：</b>使一个友方随从获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42777,
+    "flavor": "破碎残阳祭司堕落后身材也瘦了一圈。",
+    "health": 1,
+    "id": "ICC_094",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "堕落残阳祭司",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "targetingArrowText": "获得+1/+1。",
+    "techLevel": 2,
+    "text": "<b>战吼：</b>使一个友方随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42779,
+    "flavor": "只熔在口，不熔在手。",
+    "health": 6,
+    "id": "ICC_096",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "熔火巨像",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>弃掉你手牌中所有的武器牌，并获得这些武器的属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42780,
+    "flavor": "不知道是哪个死灵法师干的，做的有点过头了。",
+    "health": 4,
+    "id": "ICC_097",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "墓地蹒跚者",
+    "race": "ELEMENTAL",
+    "races": [
+      "UNDEAD",
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "每当你的武器被摧毁时，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42781,
+    "flavor": "你要是常年宅着不见天日，也会长成这样。",
+    "health": 3,
+    "id": "ICC_098",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "墓穴潜伏者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>随机将一个在本局对战中死亡并具有<b>亡语</b>的随从置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42782,
+    "flavor": "名字的重点在第二个字。",
+    "health": 6,
+    "id": "ICC_099",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "自爆憎恶",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "techLevel": 1,
+    "text": "<b>亡语：</b>对你所有的随从造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42525,
+    "flavor": "注意，有蛇出没。",
+    "id": "ICC_200",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "眼镜蛇陷阱",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>奥秘：</b>当你的随从受到攻击时，召唤一条2/3并具有<b>剧毒</b>的眼镜蛇。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42560,
+    "flavor": "说吧，你选字还是花…",
+    "id": "ICC_201",
+    "name": "命运骨骰",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "抽一张牌。如果这张牌有<b>亡语</b>，则再次施放本法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42563,
+    "elite": true,
+    "flavor": "他最得意的发明有：长有触手的侍从、能消灭艾泽拉斯所有生命的瘟疫和指尖陀螺。",
+    "health": 4,
+    "id": "ICC_204",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "普崔塞德教授",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ICECROWN",
+    "text": "在你使用一个<b>奥秘</b>后，随机将一个猎人的<b>奥秘</b>置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42565,
+    "flavor": "拿人的手短，吃人的嘴软。",
+    "id": "ICC_206",
+    "name": "变节",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "选择一个友方随从，交给你的\n对手。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Kwon",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42566,
+    "flavor": "脑子不动会生锈，我来给你上点油！",
+    "id": "ICC_207",
+    "name": "吞噬意志",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "复制你对手的牌库中的三张牌，并将其置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Kwon",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42574,
+    "flavor": "当你已经身处最底层时，只能往上升了。",
+    "health": 3,
+    "id": "ICC_210",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗影升腾者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "在你的回合结束时，随机使另一个友方随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brom",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42596,
+    "flavor": "只有经过长年累月的实践才能真正掌握这种痛苦的艺术。",
+    "health": 3,
+    "id": "ICC_212",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "酷虐侍僧",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42597,
+    "flavor": "加班还有加班费？不存在的。",
+    "id": "ICC_213",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "永恒奴役",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一个在本局对战中死亡的友方随从，并召唤该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 42598,
+    "flavor": "原画师花了大量工夫，用凿子在面部精雕细琢，才表现出这副嘲讽的表情。",
+    "health": 8,
+    "id": "ICC_214",
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "黑曜石雕像",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>，<b>吸血</b>\n<b>亡语：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 42633,
+    "elite": true,
+    "flavor": "他开设的宗教裁判所成为很多人的梦魇。",
+    "health": 6,
+    "id": "ICC_215",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大主教本尼迪塔斯",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>复制你对手的牌库，并洗入你的\n牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42642,
+    "flavor": "问题就在于他把卡牌衔在嘴里了。",
+    "health": 6,
+    "id": "ICC_218",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "咆哮魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "每当本随从受到伤害，随机弃掉\n一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42663,
+    "flavor": "“死鱼翻身”的杰出代表。",
+    "health": 1,
+    "id": "ICC_220",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "死鳞骑士",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Thompson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42665,
+    "flavor": "本品为纯天然制剂，未添加任何有毒有害物质。",
+    "id": "ICC_221",
+    "name": "吸血药膏",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，你的武器获得\n<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42801,
+    "flavor": "保证武器可直接回到你的手上！（注意佩戴手套，要加厚的。）",
+    "id": "ICC_233",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "末日回旋镖",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "对一个随从投掷你的武器。武器会造成伤害，然后移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 42804,
+    "flavor": "用过量就会变得跟她一样黑。",
+    "id": "ICC_235",
+    "name": "暗影精华",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "随机挑选你牌库里的一个随从，召唤一个5/5的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42808,
+    "durability": 0,
+    "flavor": "其实这把斧头也是冰做的。",
+    "health": 3,
+    "id": "ICC_236",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "破冰斧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "消灭所有受到该武器伤害的被<b>冻结</b>的随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42810,
+    "flavor": "如果他能安静一点，活化起来就容易多了。",
+    "health": 3,
+    "id": "ICC_238",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "活化狂战士",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "在你使用一张随从牌后，对其造成1点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42819,
+    "flavor": "别担心，他会用一只眼睛帮你盯着的。",
+    "health": 3,
+    "id": "ICC_240",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "符文熔铸游魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "在你的回合时，你的武器不会失去\n耐久度。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42822,
+    "flavor": "虽然她的身体经受了死亡的考验，但她的婚姻呢？",
+    "health": 6,
+    "id": "ICC_243",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "巨型尸蛛",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "你的<b>亡语</b>牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42824,
+    "flavor": "虽然这些随从准备一搏，但没人准备先死。",
+    "id": "ICC_244",
+    "name": "殊死一搏",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得“<b>亡语：</b>回到战场，并具有1点生命值。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42825,
+    "flavor": "“我有没有说过我曾单枪匹马干掉了一个29/29的克苏恩的事？”——雷诺·杰克逊",
+    "health": 9,
+    "id": "ICC_245",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑色卫士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "每当你的英雄获得治疗时，便随机对一个敌方随从造成等量的\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42836,
+    "flavor": "他的骨头都快冻碎了！",
+    "health": 4,
+    "id": "ICC_252",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰冷鬼魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>如果有敌人被<b>冻结</b>，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42909,
+    "flavor": "他只是在自管自埋头摆弄尸体，是你们这些冒险者要来找麻烦的。",
+    "health": 3,
+    "id": "ICC_257",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATH_KNIGHT"
+    ],
+    "name": "唤尸者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "获得“<b>亡语：</b>再次召唤该随从。”",
+    "text": "<b>战吼：</b>使一个友方随从获得“<b>亡语：</b>再次召唤该随从。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42998,
+    "flavor": "由千魂之父布隆亚姆打造的强大武器库。",
+    "id": "ICC_281",
+    "name": "灵魂洪炉",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "从你的牌库中抽两张武器牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 43072,
+    "elite": true,
+    "flavor": "莫拉比究竟是怎么给那些冻结的随从涂上风味糖浆的，这是一个世纪谜题。",
+    "health": 4,
+    "id": "ICC_289",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫拉比",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "每当有其他随从被<b>冻结</b>，将一张被<b>冻结</b>随从的复制置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 42818,
+    "elite": true,
+    "flavor": "“我将我拥有的一切——愤怒，力量，意志，和8点攻击力——全部赐予你，我精心挑选的骑士。”",
+    "health": 8,
+    "id": "ICC_314",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巫妖王",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，随机将一张<b>巫妖王</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 42630,
+    "elite": true,
+    "flavor": "爸爸！我觉得我创造了一个传说！",
+    "health": 6,
+    "id": "ICC_405",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "腐面",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "在本随从受到伤害并存活下来后，随机召唤一个<b>传说</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42670,
+    "flavor": "她更喜欢别人叫她“吸血靓妹”。",
+    "health": 3,
+    "id": "ICC_407",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "侏儒吸血鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>移除你对手的牌库顶的一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42671,
+    "flavor": "我的食尸鬼朋友马上就回来，你摊上事儿了，你摊上大事儿了。",
+    "health": 4,
+    "id": "ICC_408",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "瓦格里摄魂者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "在本随从受到伤害并存活下来后，召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42707,
+    "flavor": "他只是在试试右边胳膊有没有缝好。",
+    "health": 2,
+    "id": "ICC_415",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "缝合追踪者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>\n从你的牌库中<b>发现</b>一张随从牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42711,
+    "flavor": "它的分类让生物学家很是头疼。",
+    "health": 3,
+    "id": "ICC_419",
+    "mechanics": [
+      "ELUSIVE"
+    ],
+    "name": "熊鲨",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42392,
+    "flavor": "大家都还好吗？有人受伤了？有人流血了？有人骨折了？……那太好了。",
+    "health": 3,
+    "id": "ICC_450",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡幽魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>每有一个受伤的随从，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42395,
+    "flavor": "其实他更想一个人呆着。",
+    "health": 3,
+    "id": "ICC_466",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "萨隆苦囚",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42394,
+    "flavor": "虫之将死，其声也亮。",
+    "health": 4,
+    "id": "ICC_467",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亡语者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "在本回合中获得<b>免疫</b>。",
+    "text": "<b>战吼：</b>在本回合中，使一个友方随从获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42398,
+    "flavor": "要是让你去永久冻土层上耕地，你也会失心疯的。",
+    "health": 1,
+    "id": "ICC_468",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "失心农夫",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "每当本随从攻击时，对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42391,
+    "flavor": "就站在……那儿。很好，很好！现在别动。",
+    "id": "ICC_469",
+    "name": "强制牺牲",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "选择一个友方随从，消灭该随从和一个随机敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "armor": 5,
+    "artist": "Jerry Mascho",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42987,
+    "elite": true,
+    "flavor": "“不要害怕。过来。亡者会沉睡……一段时间。”",
+    "health": 30,
+    "heroPowerDbfId": 42982,
+    "id": "ICC_481",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡先知萨尔",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>随机将你的所有随从变形成为法力值消耗增加（2）点的随从。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42783,
+    "flavor": "做鬼呢，最重要的就是开心咯…",
+    "health": 3,
+    "id": "ICC_700",
+    "name": "开心的食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "在本回合中，如果你的英雄受到治疗，则\n法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42784,
+    "flavor": "就好像千百万个青玉护符同时在咆哮，然后突然一切都变得鸦雀无声。",
+    "health": 6,
+    "id": "ICC_701",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "游荡恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>摧毁双方手牌中和牌库中所有法力值消耗为（1）的\n法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42785,
+    "flavor": "你自己海拔只有三尺高，很难挖地六尺埋葬他们。",
+    "health": 1,
+    "id": "ICC_702",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "孱弱的掘墓者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机将一个具有<b>亡语</b>的随从置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 42790,
+    "flavor": "请尽全力攻击她的杰作。",
+    "health": 5,
+    "id": "ICC_705",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "骨魇",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "获得+4/+4和嘲讽。",
+    "text": "<b>战吼：</b>使一个友方随从获得+4/+4和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lars Grant-West",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42791,
+    "flavor": "他就喜欢编织奇怪的故事。",
+    "health": 5,
+    "id": "ICC_706",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "蛛魔拆解者",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "法术的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42948,
+    "flavor": "她的营在征兵时会附送好几对耳塞。",
+    "health": 2,
+    "id": "ICC_801",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "咆哮的指挥官",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>从你的牌库中抽一张具有<b>圣盾</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42992,
+    "flavor": "你们的灵魂都是我的。",
+    "id": "ICC_802",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "灵魂鞭笞",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n对所有随从造成\n$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43022,
+    "flavor": "这不是盗墓，我只是在……清理墓地。",
+    "health": 3,
+    "id": "ICC_807",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "硬壳清道夫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>使你具有<b>嘲讽</b>的随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43025,
+    "flavor": "他曾是甲虫乐队的一员，效忠巫妖王后便隐退了。",
+    "health": 6,
+    "id": "ICC_808",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "地穴领主",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n在你召唤一个随从后，获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43028,
+    "flavor": "如果很痛，就说明起效了。",
+    "health": 3,
+    "id": "ICC_809",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "瘟疫科学家",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "获得<b>剧毒</b>。",
+    "text": "<b>连击：</b>使一个友方随从获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43029,
+    "flavor": "一把奥金斧没什么好怕的，两把才可怕。",
+    "health": 3,
+    "id": "ICC_810",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亡斧惩罚者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>随机使你手牌中一个具有<b>吸血</b>的随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43031,
+    "elite": true,
+    "flavor": "她不会可惜，不会后悔，不会恐惧。她也绝不会停止……直到死灵法师全部死去。",
+    "health": 5,
+    "id": "ICC_811",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "莉莉安·沃斯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>随机将你手牌中所有的法术牌替换成<i>（你对手职业的）</i>法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43051,
+    "flavor": "死灵法师管这玩意儿叫“送上门来的肥肉”。",
+    "health": 4,
+    "id": "ICC_812",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "绞肉车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>从你的牌库中召唤一个攻击力小于本随从攻击力的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Chen",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43127,
+    "flavor": "能守能攻，一剑两用，寒刃出鞘，谁与争锋。拿上它，连最矮小的侏儒也能成为勇士。",
+    "health": 2,
+    "id": "ICC_820",
+    "mechanics": [
+      "CHARGE",
+      "LIFESTEAL"
+    ],
+    "name": "寒刃勇士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>冲锋，吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43193,
+    "flavor": "似曾相识的感觉。",
+    "id": "ICC_823",
+    "name": "模拟幻影",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "复制你手牌中法力值消耗最低的随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43245,
+    "flavor": "装了第三只手后，射速提高了50%！",
+    "health": 7,
+    "id": "ICC_825",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "憎恶弓箭手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机召唤一个在本局对战中死亡的友方野兽。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43392,
+    "elite": true,
+    "flavor": "“尽管逃吧。躲进你的宝贝要塞里，躲到高墙和你的守卫后面。黑夜总要降临，暗影会占据你空洞的大厅。终有一天，其中一片暗影就是我。”",
+    "health": 30,
+    "heroPowerDbfId": 43188,
+    "id": "ICC_827",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚空之影瓦莉拉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>获得<b>潜行</b>直到你的下个回合。",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Jomaro Kindred",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 43398,
+    "elite": true,
+    "flavor": "“你太慢了，老朋友。狩猎已经开始很久了。现在……它永远也不会结束。”",
+    "health": 30,
+    "heroPowerDbfId": 43183,
+    "id": "ICC_828",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡猎手雷克萨",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>\n对所有敌方随从造成2点伤害。",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "James Ryman",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43406,
+    "elite": true,
+    "flavor": "“过来，忏悔！曾经的我只是圣光的仆人。但现在，我将独自审判你。”",
+    "health": 30,
+    "heroPowerDbfId": 43013,
+    "id": "ICC_829",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑锋骑士乌瑟尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>\n装备一把5/3并具有<b>吸血</b>的武器。",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Wayne Reynolds",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 43408,
+    "elite": true,
+    "flavor": "“有一件事维伦从没教过我，我现在来告诉你：站在圣光面前的人……必将投下暗影。”",
+    "health": 30,
+    "heroPowerDbfId": 45397,
+    "id": "ICC_830",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影收割者安度因",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>消灭所有攻击力大于或等于5的随从。",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 43415,
+    "elite": true,
+    "flavor": "“还不肯跪服吗？没有人能逃脱死亡，你这个顽固的蠢货。而在死后……一切都将臣服于我……”",
+    "health": 30,
+    "heroPowerDbfId": 43181,
+    "id": "ICC_831",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鲜血掠夺者古尔丹",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>召唤所有在本局对战中死亡的友方恶魔。",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43417,
+    "elite": true,
+    "flavor": "“塞纳留斯曾经教导我，生死之间的平衡极其宝贵。我现在明白了：根本没有平衡。死亡永远不败。”",
+    "health": 30,
+    "heroPowerDbfId": 43182,
+    "id": "ICC_832",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "污染者玛法里奥",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "POISONOUS",
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>抉择：</b>召唤两只具有<b>剧毒</b>的蜘蛛；或者召唤两只具有<b>嘲讽</b>的甲虫。",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Glenn Rane",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43419,
+    "elite": true,
+    "flavor": "“年轻的阿尔萨斯是个被宠坏的孩子，玩弄着他既不能控制、也不甚了解的力量。过来，不要害怕寒冷。我让你见识一下冰封王座的真正力量。”",
+    "health": 30,
+    "heroPowerDbfId": 42944,
+    "id": "ICC_833",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰霜女巫吉安娜",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>召唤一个3/6的水元素。在本局对战中，你的所有元素拥有<b>吸血</b>。",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Greg Staples",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 43423,
+    "elite": true,
+    "flavor": "“你敢挑战我？来啊！马上你就会咽下最后一口气——然后，你就是我的了。”",
+    "health": 30,
+    "heroPowerDbfId": 45585,
+    "id": "ICC_834",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天灾领主加尔鲁什",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>装备一把4/3的影之哀伤，影之哀伤同时对其攻击目标相邻的随从造成伤害。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43439,
+    "elite": true,
+    "flavor": "艾卓-尼鲁布的元老释放出哈多诺克斯作为抵御巫妖王的最后一道防线。他们非常小心地在一家主流报纸上进行了抢先报道。",
+    "health": 7,
+    "id": "ICC_835",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "哈多诺克斯",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>召唤所有你在本局对战中死亡的，并具有<b>嘲讽</b>的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43502,
+    "flavor": "是这里本来就冷，还是因为辛达苟萨？",
+    "id": "ICC_836",
+    "name": "冰龙吐息",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "随机对一个敌方随从造成$2点伤害，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43505,
+    "flavor": "啊，这里真冷。希望她没有带着加基森拍卖师。",
+    "id": "ICC_837",
+    "name": "放马过来",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "获得10点护甲值。使你对手的手牌中所有随从牌的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 43506,
+    "elite": true,
+    "flavor": "“我认可你的努力，但我觉得你的魔法还有提升的空间。”——辛达苟萨在上完“如何给出建设性反馈”的课程后说道。",
+    "health": 8,
+    "id": "ICC_838",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "辛达苟萨",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>召唤两个0/1的被冰封的勇士。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Greg Staples",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 43064,
+    "elite": true,
+    "flavor": "还是年轻的鲜血公主时，她就学习了女士应该如何正确行屈膝礼，如何向皇室成员致意，以及如何噬咬他们。",
+    "health": 6,
+    "id": "ICC_841",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "鲜血女王兰娜瑟尔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>吸血</b>\n在本局对战中，你每弃掉一张牌，便拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 45308,
+    "flavor": "拥抱黑暗，主宰命运！",
+    "id": "ICC_849",
+    "name": "黑暗之拥",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "选择一个敌方随从。在你的回合开始时，获得该随从的\n控制权。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45338,
+    "durability": 0,
+    "flavor": "叫“暗影匕首”就有点俗气了。",
+    "health": 2,
+    "id": "ICC_850",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影之刃",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>在本回合中，你的英雄<b>免疫</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 45340,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要支援兄弟。",
+    "health": 2,
+    "id": "ICC_851",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凯雷塞斯王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（2）的牌，则使你牌库里所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45341,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要模仿兄弟。",
+    "health": 3,
+    "id": "ICC_852",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "塔达拉姆王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "targetingArrowText": "变形成为一个复制。",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（3）的牌，则变形成为一个随从的3/3的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45342,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要吃掉兄弟。",
+    "health": 4,
+    "id": "ICC_853",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦拉纳王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（4）的牌，则获得<b>吸血</b>和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45366,
+    "elite": true,
+    "flavor": "一定要有一位巫妖汪。",
+    "health": 2,
+    "id": "ICC_854",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿尔福斯",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机将一张<b>巫妖王</b>牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Marcelo Vignali",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45377,
+    "flavor": "别犯傻了，冲着谁去是北极熊说了算的。",
+    "health": 4,
+    "id": "ICC_855",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海德尼尔冰霜骑士",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b><b>冻结</b>你的其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 45378,
+    "flavor": "法术的透气性要比棉布好两倍。",
+    "health": 4,
+    "id": "ICC_856",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "织法者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 1,
+    "battlegroundsPremiumDbfId": 58405,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45392,
+    "elite": true,
+    "flavor": "作为联盟的楷模，身材也很火爆。",
+    "health": 7,
+    "id": "ICC_858",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "浴火者伯瓦尔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "techLevel": 4,
+    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 45307,
+    "flavor": "以眼换眼，以鬼换鬼。",
+    "health": 3,
+    "id": "ICC_900",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "死灵恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "每当你的其他随从死亡时，召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45309,
+    "flavor": "达卡莱附魔师有个很让人讨厌的习惯，就是每句话结束都要重复好几遍…好几遍…几遍…遍。",
+    "health": 5,
+    "id": "ICC_901",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "达卡莱附魔师",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "你的回合结束效果会触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45314,
+    "flavor": "他会摧心，夺梦，还会训练食尸鬼，所以别惹他。",
+    "health": 5,
+    "id": "ICC_902",
+    "name": "摧心者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "双方英雄技能均无法使用。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 45321,
+    "flavor": "干了这一杯，喝完好上路！",
+    "health": 1,
+    "id": "ICC_903",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血色狂欢者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从，并获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45328,
+    "flavor": "受限于生理构造，他注定无法成为一个好的饶舌歌手。",
+    "health": 1,
+    "id": "ICC_904",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪骨骷髅",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>在本回合中每有一个随从死亡，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45329,
+    "flavor": "兰娜瑟尔女王每天早餐都要吃上一条，必须炸得嘎嘣脆。",
+    "health": 4,
+    "id": "ICC_905",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "血虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45975,
+    "flavor": "你也可以把她和赃物一起带走。",
+    "health": 5,
+    "id": "ICC_910",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "鬼灵匪贼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "targetingArrowText": "在本回合中，你每使用一张其他牌，便造成2点伤害。",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便对一个随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46101,
+    "flavor": "“你有什么能耐？”面试官问她。“噢，我对哭真的很在行。”",
+    "health": 5,
+    "id": "ICC_911",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "哀泣女妖",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "每当你使用一张牌，便移除你的牌库顶的三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46102,
+    "flavor": "她的藏尸涉猎广泛，囊括了几乎所有类型的尸体。她也很乐意把你加入她的藏品。",
+    "health": 3,
+    "id": "ICC_912",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夺尸者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>\n如果你的牌库里有<b>嘲讽</b>随从牌，则获得<b>嘲讽</b>。依此法检定是否可获得<b>圣盾</b>，<b>吸血</b>和<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46103,
+    "flavor": "圣光的爱，被污染了就不会再回来。",
+    "health": 1,
+    "id": "ICC_913",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "SPELLPOWER"
+    ],
+    "name": "被污染的狂热者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellDamage": 1,
+    "text": "<b>圣盾</b>\n<b>法术伤害+1</b>",
+    "type": "MINION"
+  }
+]

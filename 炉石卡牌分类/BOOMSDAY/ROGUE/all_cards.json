@@ -1,0 +1,205 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48035,
+    "flavor": "精英牛头人酋长的下一首热门单曲——紫色烟雾。",
+    "id": "BOT_084",
+    "name": "紫色烟雾",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "spellSchool": "SHADOW",
+    "text": "随机将两张<b>亡语</b>牌置入你的\n手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48040,
+    "flavor": "十个炎爆术下去，你还欠我70血。",
+    "id": "BOT_087",
+    "name": "学术剽窃",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "将十张你对手职业的卡牌洗入你的牌库，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48487,
+    "elite": true,
+    "flavor": "你一定是疯了才会这么做……",
+    "id": "BOT_242",
+    "name": "迈拉的不稳定元素",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "抽取你牌库剩下的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48159,
+    "elite": true,
+    "flavor": "她上班第一天，就把实验室的烟雾报警器给拆了。",
+    "health": 2,
+    "id": "BOT_243",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "迈拉·腐泉",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48471,
+    "flavor": "根本停不下来！",
+    "health": 1,
+    "id": "BOT_283",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蹦蹦兔",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>在本局对战中，你每使用过一张其他蹦蹦兔，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48478,
+    "durability": 0,
+    "flavor": "匕首的柄部装有死金药剂。",
+    "health": 2,
+    "id": "BOT_286",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "死金匕首",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>\n随机触发一个友方随从的<b>亡语</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48480,
+    "flavor": "快加入实验室吧！我们有全套的保障方案。",
+    "health": 2,
+    "id": "BOT_288",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "实验室招募员",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>将一个友方随从的三张复制洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48748,
+    "flavor": "一次消费，双重体验！",
+    "id": "BOT_508",
+    "name": "死金药剂",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "spellSchool": "SHADOW",
+    "text": "触发一个友方随从的<b>亡语</b>两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Kagounkin",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 49361,
+    "flavor": "“本来都已经控制住它了，你偏要上来凑热闹给它装了腿！”",
+    "health": 4,
+    "id": "BOT_565",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "荒疫爬行者",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS",
+      "RUSH"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>召唤一个1/1并具有<b>剧毒</b>和<b>突袭</b>的软泥怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49494,
+    "flavor": "不疯魔，不成活。",
+    "health": 4,
+    "id": "BOT_576",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "疯狂的药剂师",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "targetingArrowText": "获得+4攻击力。",
+    "text": "<b>连击：</b>使一个友方随从获得+4攻击力。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "artist": "Raymond Swanland",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2024,
+    "elite": true,
+    "flavor": "钢铁战蝎守护着奥格瑞玛，并在最近刚获得“月度最佳员工”称号！",
+    "health": 5,
+    "id": "GVG_056",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "钢铁战蝎",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "<b>战吼，亡语：</b>将一张“地雷” 牌洗入你对手的牌库。当抽到“地雷”时，便会受到10点伤害。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 107776,
+    "flavor": "跟着水流划水吧，兄弟！动都不用动！",
+    "id": "VAC_428",
+    "name": "顺水漂流",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE",
+      "SPELLPOWER"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "选择一个随从。如果是敌方随从，将其<b>冻结</b>；如果是友方随从，使其获得<b>法术伤害+1</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 105797,
+    "flavor": "下来吧，这里的水很清凉！还很生气。而且活起来了。",
+    "id": "VAC_509",
+    "name": "海啸",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "召唤三个3/6的可以<b>冻结</b>攻击目标的水元素，并使其随机攻击敌人。",
+    "type": "SPELL"
+  }
+]

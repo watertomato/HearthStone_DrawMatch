@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53496,
+    "elite": true,
+    "flavor": "伏笔，有时候也是一种战术。",
+    "id": "ULD_131",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "发掘潜力",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>任务：</b>在有未使用的法力水晶的情况下结束4个回合。\n<b>奖励：</b>奥斯里安之泪。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 53620,
+    "elite": true,
+    "flavor": "从绘图大师到战斗专家，伊莉斯选择了一条人迹罕至的路，一条在地图上也找不到的路。",
+    "health": 5,
+    "id": "ULD_139",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "启迪者伊莉斯",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则复制你的手牌。",
+    "type": "MINION"
+  }
+]

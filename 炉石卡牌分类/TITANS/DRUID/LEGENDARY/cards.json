@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 96671,
+    "elite": true,
+    "flavor": "她是所有生命的保护者，曾经挽救新生的艾泽拉斯世界之魂，使之免于毁灭。仁善便是她最伟大的智慧。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TTN_903",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "生命的缚誓者艾欧娜尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，召唤一棵5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97629,
+    "elite": true,
+    "flavor": "好事要成双。好事要成双。",
+    "health": 6,
+    "id": "TTN_940",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "自然守护者弗蕾亚",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>抉择：</b>复制你的手牌；或者召唤所有其他友方随从的复制。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 1144,
+    "elite": true,
+    "flavor": "对付暴龙王克鲁什最好的办法就是让某个你讨厌的人站在你前面。",
+    "health": 8,
+    "id": "EX1_543",
+    "mechanics": [
+      "CHARGE"
+    ],
+    "name": "暴龙王克鲁什",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EXPERT1",
+    "text": "<b>冲锋</b>",
+    "type": "MINION"
+  }
+]

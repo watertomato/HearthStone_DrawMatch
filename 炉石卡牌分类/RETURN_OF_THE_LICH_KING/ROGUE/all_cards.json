@@ -1,0 +1,279 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 86481,
+    "flavor": "“弗雷德是个话痨食尸鬼。他想到什么就干什么。”“我要去偷东西啦！”",
+    "id": "NX2_004",
+    "isMiniSet": true,
+    "name": "洗劫",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "对一个随从造成$1点伤害。在本回合中，如果你使用过另一职业的卡牌，改为造成$4点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86483,
+    "flavor": "为了抵御冒险者，保卫纳克萨玛斯，天灾军团创造出了前所未有的怪物：会穿衣服的憎恶！",
+    "health": 1,
+    "id": "NX2_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO",
+      "INFUSE",
+      "MANATHIRST"
+    ],
+    "name": "缝合造物",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>连击：</b>获得+2/+2。<b>注能（{0}）：</b>获得+3/+3。<b>法力渴求（{1}）：</b>获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86487,
+    "flavor": "这个姿势不错，朋友。不过这次你可以再高兴一点，笑得再开一点。",
+    "health": 3,
+    "id": "NX2_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "旗标骷髅",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你的英雄攻击后，召唤一个1/1的亡灵海盗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84383,
+    "flavor": "虽然它死了，但请不要叫它死耗子。",
+    "health": 1,
+    "id": "RLK_216",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尸腐鼠",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>使你牌库中所有<b>亡语</b>牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84385,
+    "flavor": "这不是戏法！这是幻术！",
+    "health": 4,
+    "id": "RLK_217",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "天灾幻术师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>将你牌库中另一个<b>亡语</b>随从的4/4复制置入你的手牌，其法力值消耗减少（4）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 83942,
+    "flavor": "淬毒而不恶毒。他看起来好有礼貌！",
+    "health": 5,
+    "id": "RLK_529",
+    "mechanics": [
+      "BATTLECRY",
+      "POISONOUS"
+    ],
+    "name": "淬毒渗透者",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "对一个随从造成1点伤害。",
+    "text": "<b>剧毒</b>。<b>战吼：</b>如果在你的上回合之后有友方亡灵死亡，对一个随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 86092,
+    "elite": true,
+    "flavor": "每当你施放一个法术，变形成为该法术卡牌趣文的复制。",
+    "hideStats": true,
+    "id": "RLK_567",
+    "name": "殒命暗影",
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "每当你施放一个法术，变形成为该法术的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86112,
+    "flavor": "“加一点点死亡，再配一捏捏死亡，然后再加一丢丢……死亡！”",
+    "health": 2,
+    "id": "RLK_568",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "配药师",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>随机将一份药剂置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86111,
+    "flavor": "挑瓶毒药吧。",
+    "id": "RLK_569",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "药水腰带",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>发现</b>2份药剂。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86109,
+    "flavor": "然后我就往地上这么一摔！",
+    "health": 2,
+    "id": "RLK_570",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食尸鬼炼金师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>你的下一份药剂的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86119,
+    "flavor": "甘草口味，邪恶加倍！",
+    "health": 4,
+    "id": "RLK_571",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶药剂师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你的回合结束时，随机将一份药剂置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86120,
+    "elite": true,
+    "flavor": "“好消息！各位！我现在是潜行者的牌了！”",
+    "health": 4,
+    "id": "RLK_572",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "药剂大师普崔塞德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在一个随从死亡后，将一份药剂置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86209,
+    "flavor": "……他们的要求是什么来着？",
+    "id": "RLK_573",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "鬼魅攻击",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "造成$1点伤害。<b>连击：</b>抽一张牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 117723,
+    "elite": true,
+    "flavor": "优秀的调酒师知道该怎么把谈话气氛搅起来。",
+    "health": 5,
+    "howToEarn": "打开<i>深暗领域</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>深暗领域</i>金色包后可解锁。",
+    "id": "BG31_BOB",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "调酒师鲍勃",
+    "rarity": "LEGENDARY",
+    "set": "EVENT",
+    "targetingArrowText": "选择一个敌方随从，将它的一张复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一项酒馆战棋绝技！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 119798,
+    "flavor": "咦，那块陨石怎么越来越大了？",
+    "health": 2,
+    "howToEarn": "打开<i>深暗领域</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>深暗领域</i>金色包后可解锁。",
+    "id": "CORE_EDR_004",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迅猛龙先锋",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "EVENT",
+    "text": "<b>战吼：</b><b>发现</b>一张具有<b>黑暗之赐</b>的野兽牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102657,
+    "flavor": "我们是勇士……魔兽世界的勇士！",
+    "howToEarn": "打开<i>深暗领域</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>深暗领域</i>金色包后可解锁。",
+    "id": "WON_113",
+    "name": "艾泽拉斯的勇士",
+    "rarity": "EPIC",
+    "set": "EVENT",
+    "text": "选择联盟或部落，获取2张该阵营的<b>传说</b>勇士并使其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 102691,
+    "elite": true,
+    "flavor": "下面向您隆重介绍——移动版炉石！",
+    "health": 5,
+    "howToEarn": "打开<i>深暗领域</i>卡牌包后可解锁。",
+    "howToEarnGolden": "打开<i>深暗领域</i>金色包后可解锁。",
+    "id": "WON_145",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "具象炉石",
+    "rarity": "LEGENDARY",
+    "set": "EVENT",
+    "text": "<b>战吼：</b>打开一包标准卡牌包，使用其中的所有卡牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98224,
+    "flavor": "专研大熊座，主修熊怪学。",
+    "health": 3,
+    "id": "TTN_482",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "星辰的学生",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>将本随从的一张永久具有+3/+3的复制洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98248,
+    "flavor": "莱登喜欢在业余时间传授瑜伽。",
+    "id": "TTN_483",
+    "name": "平心静气",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "使所有敌方随从获得-2攻击力。消灭具有0点攻击力的敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98434,
+    "flavor": "那条鱼有这——么大，你们信吗？",
+    "id": "TTN_745",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "众神之父的恩赐",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "恢复#8点生命值。<b>发现</b>一张法力值消耗等同于<b>过量治疗</b>量的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101003,
+    "flavor": "但愿是前一种效果。",
+    "id": "YOG_508",
+    "isMiniSet": true,
+    "name": "暮光洪流",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "选择一个角色。如果是友方角色，为其恢复#6点生命值；如果是敌方角色，对其造成$3点伤害。",
+    "type": "SPELL"
+  }
+]

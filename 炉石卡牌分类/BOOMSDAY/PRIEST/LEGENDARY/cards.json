@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48203,
+    "elite": true,
+    "flavor": "他的本体名叫泽里克1.0，第一个扩展体叫泽里克2.0，现在叫泽里克12.0。",
+    "health": 5,
+    "id": "BOT_258",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "克隆大师泽里克",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "<b>亡语：</b>如果你对本随从施放过任意法术，再次召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 49421,
+    "elite": true,
+    "flavor": "挤在罐头里的感觉真是太糟糕了。",
+    "id": "BOT_567",
+    "name": "泽里克的克隆展",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "召唤你的牌库中每一个随从的1/1复制。",
+    "type": "SPELL"
+  }
+]

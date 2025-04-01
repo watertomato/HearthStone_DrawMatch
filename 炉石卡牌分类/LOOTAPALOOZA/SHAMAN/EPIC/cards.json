@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Tooth",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 46303,
+    "flavor": "它们长得真快。",
+    "id": "LOOT_504",
+    "mechanics": [
+      "ECHO"
+    ],
+    "name": "不稳定的异变",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "NATURE",
+    "text": "<b>回响</b>\n将一个友方随从随机变形成为一个法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46440,
+    "flavor": "不用怀疑，奥拉基尔最喜欢的就是基础图腾。",
+    "health": 5,
+    "id": "LOOT_518",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风剪唤风者",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>如果你控制全部四种基础图腾，则召唤风领主奥拉基尔。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "Chris Hayes",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102163,
+    "elite": true,
+    "flavor": "话说芬利到底是怎么把所有人都变成鱼人的？",
+    "health": 3,
+    "id": "DEEP_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "无畏爵士芬利",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，将所有敌方随从变形成为1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100124,
+    "elite": true,
+    "flavor": "这就是荒芜之地！的精神！",
+    "health": 4,
+    "id": "WW_337",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒芜之地的精魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则获取一张<i>永久</i>的\n幻象牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 100285,
+    "elite": true,
+    "flavor": "劫掠者……集合！",
+    "id": "WW_345",
+    "name": "荒芜之地劫掠者",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "获取八张3/2并具有<b>额外效果</b>的劫掠者。手牌中放不下的劫掠者会被召唤。",
+    "type": "SPELL"
+  }
+]

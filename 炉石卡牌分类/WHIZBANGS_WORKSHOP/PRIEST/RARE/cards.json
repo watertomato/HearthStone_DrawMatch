@@ -1,0 +1,76 @@
+[
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108622,
+    "flavor": "康明宋™。",
+    "id": "MIS_305",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "产品延期",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>并召唤一个法力值消耗大于或等于（8）点的随从，并使其<b>休眠</b>2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103491,
+    "flavor": "那些紫色黏土你应该不用了吧。",
+    "health": 7,
+    "id": "TOY_380",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE",
+      "TAUNT"
+    ],
+    "name": "黏土巢母",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ELUSIVE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>嘲讽</b>。<b>亡语：</b>召唤一条4/4并具有<b>扰魔</b>的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103531,
+    "flavor": "你看明白了吗？这两条龙都是按照原型制作的模型，所以是临摹；而龙身上又长着鳞，所以叫鳞摹。同音字！",
+    "id": "TOY_387",
+    "name": "对照鳞摹",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽取你法力值消耗最低和最高的龙牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 109662,
+    "flavor": "不行啊威兹班，玩具大促和牧师法术完全凑不到一起去。",
+    "id": "TOY_714",
+    "name": "飞速离架",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "对所有敌方随从造成$1点伤害。你手牌中每有一张龙牌，重复一次。",
+    "type": "SPELL"
+  }
+]

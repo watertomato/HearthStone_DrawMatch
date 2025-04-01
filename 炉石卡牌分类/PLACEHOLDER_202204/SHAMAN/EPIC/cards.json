@@ -1,0 +1,127 @@
+[
+  {
+    "artist": "John Polidora",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69630,
+    "durability": 0,
+    "flavor": "奥格瑞姆·毁灭之锤将他的传奇武器赠与了萨尔。他的名字只是纯属巧合。",
+    "health": 8,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得250场对战后解锁。",
+    "id": "CORE_EX1_567",
+    "mechanics": [
+      "OVERLOAD",
+      "WINDFURY"
+    ],
+    "name": "毁灭之锤",
+    "overload": 2,
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>风怒，过载：</b>（2）",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95679,
+    "flavor": "等我们找到解药就来融化你。",
+    "id": "CORE_ICC_056",
+    "name": "低温静滞",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FROST",
+    "text": "使一个随从获得+3/+3，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 8,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 11,
+    "dbfId": 95756,
+    "flavor": "双11来了，你的卡准备好过载了吗？",
+    "health": 8,
+    "id": "CORE_ICC_090",
+    "name": "雪怒巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "在本局对战中，你每<b>过载</b>一个法力水晶，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 8,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 78525,
+    "dbfId": 118134,
+    "flavor": "图腾魔像的叔叔，走得有点早。",
+    "health": 8,
+    "id": "CORE_REV_838",
+    "name": "图腾巨像",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 76982,
+    "dbfId": 118148,
+    "flavor": "有味道的插画，有味道的名字。",
+    "id": "CORE_REV_924",
+    "name": "始源之潮",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "将敌方随从变形成为法力值消耗减少（1）点的随从，将友方随从变形成为法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102207,
+    "flavor": "等等，我透支法力水晶还要花法力水晶？！",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得250场对战后解锁。",
+    "id": "CORE_SW_114",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "TRADEABLE"
+    ],
+    "name": "强行透支",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>可交易</b>\n解锁你<b>过载</b>的法力水晶，并造成等量的\n伤害。",
+    "type": "SPELL"
+  }
+]

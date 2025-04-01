@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "James Ryman",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 51705,
+    "flavor": "明明是孤注一掷，却可以使用两次。",
+    "id": "DAL_141",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "孤注一掷",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DALARAN",
+    "text": "<b>双生法术</b>\n随机施放一个圣骑士<b>奥秘</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52496,
+    "durability": 0,
+    "flavor": "它知道你的所有秘密。",
+    "health": 2,
+    "id": "DAL_571",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘之刃",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>\n如果你控制一个<b>奥秘</b>，便获得+1攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52660,
+    "flavor": "即便是最渺小的随从也能左右整局对战的结果。",
+    "id": "DAL_727",
+    "name": "冒险号角",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "从你的牌库中抽取法力值消耗最低的随从牌，使其获得+2/+2。",
+    "type": "SPELL"
+  }
+]

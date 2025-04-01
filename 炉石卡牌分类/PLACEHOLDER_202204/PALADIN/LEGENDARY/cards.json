@@ -1,0 +1,196 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 111368,
+    "elite": true,
+    "flavor": "对法术的爱有两种，一种叫放手，一种叫放入手牌。",
+    "health": 6,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得500场对战后解锁。",
+    "id": "CORE_BT_334",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女伯爵莉亚德琳",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将你在本局对战中施放在友方角色上的所有法术的复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102198,
+    "elite": true,
+    "flavor": "体内灌注的圣光过于耀眼，晚上睡觉的时候不得不戴上双层眼罩。",
+    "health": 5,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得500场对战后解锁。",
+    "id": "CORE_DMF_240",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "救赎者洛萨克森",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你召唤一个白银之手新兵后，使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "James Ryman",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 95774,
+    "elite": true,
+    "flavor": "“过来，忏悔！曾经的我只是圣光的仆人。但现在，我将独自审判你。”",
+    "health": 30,
+    "heroPowerDbfId": 43013,
+    "id": "CORE_ICC_829",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑锋骑士乌瑟尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n装备一把5/3并具有<b>吸血</b>的武器。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95646,
+    "elite": true,
+    "flavor": "作为联盟的楷模，身材也很火爆。",
+    "health": 7,
+    "id": "CORE_ICC_858",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "浴火者伯瓦尔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 86546,
+    "elite": true,
+    "flavor": "根据负负得正定理，当你去腐化一个已被腐化的炎魔之王，其结果就是他变成了你们口中所谓的“好人”。",
+    "health": 8,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得500场对战后解锁。",
+    "id": "CORE_OG_229",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光耀之主拉格纳罗斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，为一个受伤的友方角色恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "countAsCopyOfDbfId": 78086,
+    "dbfId": 118167,
+    "elite": true,
+    "flavor": "三张传说邀请函，啊！啊！啊！",
+    "health": 7,
+    "id": "CORE_REV_951",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女伯爵",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，将3张<b>传说</b>邀请函置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 78146,
+    "dbfId": 118169,
+    "elite": true,
+    "flavor": "这点心要啃多少口才能吃到馅？",
+    "health": 3,
+    "id": "CORE_REV_955",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "执事者斯图尔特",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>\n使你召唤的下一个白银之手新兵获得+3/+3以及此<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 53379,
+    "dbfId": 115767,
+    "elite": true,
+    "flavor": "“沙漠就是我的浩瀚大海！这只甲虫就是我的，呃，蠕行小舟！”",
+    "health": 3,
+    "id": "CORE_ULD_500t",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "沙漠爵士芬利",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则<b>发现</b>一个升级过的英雄技能。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59569,
+    "elite": true,
+    "flavor": "“愿邪恶在正义面前退散；愿弱者在和平之中安居。我愿终有一天，所有人都无需恐惧。而为了那一天，我愿献出我的生命。”",
+    "health": 12,
+    "id": "SCH_135",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "终身教授图拉扬",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭</b>\n每当其攻击一个随从，将目标的攻击力和生命值变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59583,
+    "flavor": "心怀荣耀的圣骑士在战斗中从不屑于打脸……直到下个回合！",
+    "id": "SCH_138",
+    "name": "威能祝福",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+8/+8，在本回合中无法攻击英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59584,
+    "flavor": "圣光自带的照明效果使得阅读体验愈加轻松。",
+    "health": 5,
+    "id": "SCH_139",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "虔诚的学徒",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>圣盾，嘲讽</b>\n在本局对战中，你每对友方角色施放一个法术，本牌的法力值消耗便减少\n（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59587,
+    "elite": true,
+    "flavor": "法术书对她来说很有吸引力。字面意义的吸引力。",
+    "health": 6,
+    "id": "SCH_141",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "高阶修士奥露拉",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>从你的牌库中施放一张法术牌<i>（尽可能以本随从为目标）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59616,
+    "flavor": "不知道他有什么可吹的，并列第一而已。",
+    "health": 1,
+    "id": "SCH_149",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "银色自大狂",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将本随从的攻击力与生命值分别变为与战场上最高的数值相同。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59038,
+    "flavor": "“教材请到书店购买。药剂请在炼金师处购买。魔杖的购买地点是……制杖室？”",
+    "id": "SCH_247",
+    "name": "新生入学",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "随机将两张法力值消耗为（1）的随从牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59083,
+    "flavor": "“卡牌趣文？唉。不想写了，累了。”",
+    "id": "SCH_250",
+    "name": "倦怠光波",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "直到你的下个回合，将所有敌方随从的攻击力变为1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 58791,
+    "flavor": "圣光会赐给你一份小纪念品，一个小雪花球，里面装着微缩版的你。",
+    "id": "SCH_302",
+    "name": "流光之赐",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得<b>圣盾</b>，并召唤一个1/1的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59408,
+    "durability": 0,
+    "flavor": "专为纪律委员设计。",
+    "health": 2,
+    "id": "SCH_523",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "仪式重槌",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>召唤一个属性值等同于法术法力值消耗的并具有<b>嘲讽</b>的学生。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59409,
+    "flavor": "“老师，这个盾在上回合更有用啊！”",
+    "id": "SCH_524",
+    "name": "荣誉护盾",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "HOLY",
+    "text": "使一个受伤的随从获得+3攻击力和<b>圣盾</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59411,
+    "elite": true,
+    "flavor": "阿雷克斯·巴罗夫把学院交给了克尔苏加德，却仍留在这里。他说是为了“监督”。",
+    "health": 2,
+    "id": "SCH_526",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "巴罗夫领主",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将所有其他随从的生命值变为1。<b>亡语：</b>对所有随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59594,
+    "flavor": "考试当天带上一根油条和两块盾，你也能成为优等生。",
+    "health": 2,
+    "id": "SCH_532",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "SPELLBURST"
+    ],
+    "name": "双盾优等生",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>圣盾，法术迸发：</b>获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 59602,
+    "flavor": "“毕业生，你要记住——今后你肩上的分量会很重。”",
+    "id": "SCH_533",
+    "name": "毕业仪式",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "从你的牌库中召唤一个随从。使其获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eric Browning",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59963,
+    "flavor": "就业难，升学苦，且迷且罔且努力。",
+    "health": 9,
+    "id": "SCH_712",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "踏实的大三学姐",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  }
+]

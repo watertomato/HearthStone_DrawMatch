@@ -1,0 +1,27 @@
+[
+  {
+    "artist": "Raymond Swanland",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2299,
+    "flavor": "我们所有生物都需要生命中的另一半。即便是巨大的、浑身长满鳞片的、狂野而致命的龙，也是如此。",
+    "health": 5,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁制作。",
+    "id": "BRM_018",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙王配偶",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "BRM",
+    "text": "<b>战吼：</b>你的下一张龙牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Brian Despain",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49013,
+    "flavor": "现已加入真言术合集。同系列还有：爆炸、复生和歼灭。",
+    "id": "BOT_529",
+    "name": "真言术：仿",
+    "rarity": "EPIC",
+    "set": "BOOMSDAY",
+    "text": "选择一个友方随从，召唤一个该随从的5/5复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49416,
+    "flavor": "虽说鲁莽，但她倒是很清楚自己想要什么。",
+    "health": 6,
+    "id": "BOT_566",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲁莽的实验者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "你使用的<b>亡语</b>随从牌的法力值消耗减少（3）点，但会在回合结束时死亡。",
+    "type": "MINION"
+  }
+]

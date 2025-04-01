@@ -1,0 +1,96 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79607,
+    "flavor": "骗子做的伪证，还是伪证。",
+    "id": "MAW_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER",
+      "SECRET"
+    ],
+    "name": "伪证",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>当你的回合开始时，<b>发现</b>并施放另一职业的一个<b>奥秘</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79608,
+    "flavor": "被害人：“你要干嘛？杀了我？”",
+    "id": "MAW_019",
+    "isMiniSet": true,
+    "name": "谋杀指控",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "选择一个随从，在另一个敌方随从死亡后将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77148,
+    "flavor": "瓦莉拉公布了自己是个双面间谍。于是玛维承认了自己也是双面间谍。然后斯卡布斯宣布了个事：他也是双面间谍。",
+    "id": "REV_825",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "双面生意",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>当你的对手消耗了其所有法力值时，抽两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77149,
+    "flavor": "你刚才做的事情他也看见了。",
+    "health": 4,
+    "id": "REV_826",
+    "mechanics": [
+      "BATTLECRY",
+      "COMBO"
+    ],
+    "name": "私家眼线",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>从你的牌库中施放一个<b>奥秘</b>。<b>连击：</b>改为施放2个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77150,
+    "flavor": "“这就是我所说的……”“……闭嘴吧你。”",
+    "id": "REV_827",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "缠人处境",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术后，召唤一只3/4并具有<b>潜行</b>的蜘蛛。",
+    "type": "SPELL"
+  }
+]

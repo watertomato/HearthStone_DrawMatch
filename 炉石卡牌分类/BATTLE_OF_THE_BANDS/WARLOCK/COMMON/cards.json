@@ -1,0 +1,102 @@
+[
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 87681,
+    "flavor": "好戏还没完呢，小鬼妈妈还没开唱。",
+    "health": 6,
+    "id": "ETC_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "歌剧独演者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，对所有敌方随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90439,
+    "flavor": "你一定听过他的神曲《Epic Sax Guy》。",
+    "health": 2,
+    "id": "ETC_068",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "次中音号小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>受到疲劳伤害。获得等量的攻击力和生命值。0<b>战吼：</b>受到{0}点疲劳伤害。获得等量的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90854,
+    "flavor": "这身行头有点意思。",
+    "health": 3,
+    "id": "ETC_081",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "虚空协奏者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合中，你的英雄<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 94852,
+    "flavor": "恐怖图腾点燃了舞台，大多数人都觉得危险，只有他认为这个场面相当完美！",
+    "health": 3,
+    "id": "JAM_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "燃琴小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>随机将法师和术士的各一张火焰法术牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

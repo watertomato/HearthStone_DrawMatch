@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Maria Trepalina",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61584,
+    "flavor": "本体和镜像体很像，但更神秘，也更焦虑。",
+    "health": 4,
+    "id": "DMF_106",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "隐秘咒术师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Cheung & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61585,
+    "flavor": "全称是“非常公平的游戏”。",
+    "id": "DMF_107",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "非公平游戏",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>奥秘：</b>\n如果你在对手的回合没有受到任何伤害，抽三张牌。",
+    "type": "SPELL"
+  }
+]

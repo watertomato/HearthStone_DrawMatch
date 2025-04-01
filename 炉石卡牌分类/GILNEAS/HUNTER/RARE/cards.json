@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Garrett Hanna",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46596,
+    "flavor": "她最怕别人挠她肚皮，完全没有抵抗力。",
+    "health": 5,
+    "id": "GIL_200",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "暮湾镇猎手",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>潜行</b>\n如果这张牌在你的手牌中，每个回合使其攻击力和生命值互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46940,
+    "flavor": "艾莫莉丝曾用这招干掉过很多冒险者，屡试不爽。",
+    "id": "GIL_518",
+    "name": "飞翼冲击",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "对一个随从造成$4点伤害。如果在本回合中有一个随从死亡，该牌的法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48902,
+    "flavor": "这就是吃了太多腐烂食物的下场。",
+    "health": 7,
+    "id": "GIL_905",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食腐幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>如果在本回合中有一个随从死亡，获得<b>剧毒</b>。",
+    "type": "MINION"
+  }
+]

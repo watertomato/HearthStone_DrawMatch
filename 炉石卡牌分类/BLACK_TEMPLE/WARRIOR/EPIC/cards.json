@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56504,
+    "flavor": "亲爱的随从们：\n嚓，嚓，嚓，嚓，嚓。\n敬礼，\n剑刃风暴",
+    "id": "BT_117",
+    "name": "剑刃风暴",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "对所有随从造成$1点伤害。重复此效果，直到某个随从\n死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56507,
+    "flavor": "角斗老规矩：谁先死谁输。",
+    "health": 10,
+    "id": "BT_120",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "战槌挑战者",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "选择一个随从作为对手。",
+    "text": "<b>战吼：</b>\n选择一个敌方随从。与其战斗至死！",
+    "type": "MINION"
+  }
+]

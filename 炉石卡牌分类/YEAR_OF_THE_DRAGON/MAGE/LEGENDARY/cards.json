@@ -1,0 +1,23 @@
+[
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56076,
+    "elite": true,
+    "flavor": "“雷诺！”“请用正确的方式称呼我。”“<叹气><i>神奇的</i>雷诺……”",
+    "health": 30,
+    "heroPowerDbfId": 56075,
+    "id": "YOD_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神奇的雷诺",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>战吼：</b>使所有随从消失。<i>*咻！*</i>",
+    "type": "HERO"
+  }
+]

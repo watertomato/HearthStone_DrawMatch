@@ -1,0 +1,256 @@
+[
+  {
+    "artist": "Brian Despain",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "ROGUE",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102250,
+    "flavor": "分享即是关心——但它没有心。",
+    "health": 1,
+    "id": "DEEP_012",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "影石潜伏者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>战吼：</b>夺取你的武器并获得其属性值。<b>亡语：</b>还回武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102252,
+    "flavor": "不容错过的清场好隙。",
+    "id": "DEEP_013",
+    "isMiniSet": true,
+    "name": "邪能陷隙",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "对所有随从造成$2点伤害。在你的下个回合开始时，再对所有随从造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100296,
+    "elite": true,
+    "flavor": "嘿！说你呢，把你所有的手全都放在桌面上！",
+    "health": 4,
+    "id": "WW_400",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "蛇眼",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>投两枚骰子，然后\n<b>发现</b>法力值消耗分别对应点数的两张牌。<i>（投出对子可以额外<b>发现</b>一张！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98652,
+    "elite": true,
+    "flavor": "“我牺牲了一切（牌库中的复制）！你又付出了什么？”",
+    "health": 6,
+    "id": "WW_401",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "枪手库尔特鲁斯",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则对敌方手牌中的随从开六枪，每枪造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100358,
+    "flavor": "“中了……吧。”",
+    "health": 3,
+    "id": "WW_402",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "盲眼神射手",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "在你使用一张纳迦牌后，随机对一个敌人造成2点伤害，抽一张法术牌。\n<i>（然后切换！）</i>2在你施放一个法术后，随机对一个敌人造成2点伤害，抽一张纳迦牌。\n<i>（然后切换！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100359,
+    "flavor": "我不过是想把沙子撒到你眼睛里，兄弟，你把嘴张得那么大干什么！",
+    "id": "WW_403",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "袋底藏沙",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "造成$3点伤害。<b>快枪：</b>你对手的下一张牌法力值消耗增加（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100361,
+    "flavor": "血石矿业公司污染了绿洲，蛇眼因此放下了与荒芜之地各个帮派的恩怨，阻止血石的恶行。",
+    "id": "WW_404",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "绿洲歹徒",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>发现</b>一张纳迦牌。如果你在此牌在你手中时使用过纳迦牌，发现的牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100362,
+    "flavor": "我原本以为，库尔特鲁斯会更喜欢战刃。",
+    "id": "WW_405",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "迅疾连射",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "造成$6点伤害，分配到生命值最低的敌人身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 100363,
+    "flavor": "集齐三只，就能凑成一件史诗级\nT恤。",
+    "health": 6,
+    "id": "WW_406",
+    "mechanics": [
+      "OUTCAST",
+      "RUSH"
+    ],
+    "name": "午夜啸狼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>流放：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100365,
+    "flavor": "喝不喝都得死。",
+    "health": 2,
+    "id": "WW_407",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "焦渴的亡命徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过法术，使你的英雄在本回合中获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100367,
+    "flavor": "机器调酒师！调好我的流放牌，别傻愣着！",
+    "health": 1,
+    "id": "WW_408",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "机器调酒师",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张<b>流放</b>牌并将其放在你手牌中的最左边。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100369,
+    "flavor": "等等！决斗开始之前我需要先安装着色器。",
+    "id": "WW_409",
+    "name": "装填弹膛",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FEL",
+    "text": "造成$2点伤害。你的下一张纳迦牌，邪能法术牌和武器牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  }
+]

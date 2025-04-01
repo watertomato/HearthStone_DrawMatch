@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 51966,
+    "flavor": "最黑暗的时刻就是你开灯之前的时刻。",
+    "id": "DAL_173",
+    "name": "至暗时刻",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有友方随从。每消灭一个随从，便随机从你的牌库中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 52480,
+    "flavor": "大个子！大坏蛋！",
+    "health": 8,
+    "id": "DAL_561",
+    "name": "巨型小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "当本牌在你的手牌中时，每当一个友方恶魔死亡，法力值消耗便减少（1）点。",
+    "type": "MINION"
+  }
+]

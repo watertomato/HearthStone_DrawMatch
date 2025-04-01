@@ -1,0 +1,270 @@
+[
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105543,
+    "elite": true,
+    "flavor": "据说人的名字会影响自己的职业。召唤师达克马洛显然不在此列。",
+    "health": 4,
+    "id": "VAC_503",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "召唤师达克玛洛",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>死亡骑士游客</b>\n你的<b>亡语</b>会触发两次。在你使用一张<b>亡语</b>随从牌后，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107796,
+    "flavor": "甚至不需要去闻，就知道火候刚刚好！",
+    "id": "VAC_939",
+    "name": "吃掉小鬼！",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "消灭一个友方随从以抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107797,
+    "flavor": "布吉舞怪兽的主要竞争对手。",
+    "health": 1,
+    "id": "VAC_940",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "派对邪犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>召唤两只1/1的邪能兽。对你的英雄造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107807,
+    "flavor": "我以前想做一个好人，现在我没得选择。",
+    "id": "VAC_941",
+    "name": "弃明投暗",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "将你的英雄技能和非术士卡牌替换成术士的。它们的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107812,
+    "flavor": "有了六只手，表演这个节目相当轻松。",
+    "health": 1,
+    "id": "VAC_942",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无畏的火焰杂耍者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>获得等同于你的英雄在本回合中所受伤害量的属性值。0<i>（获得0点）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107813,
+    "flavor": "你想要的就是这个？？",
+    "health": 6,
+    "id": "VAC_943",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "祭献小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>如果此时是你的回合，召唤一个6/6并具有<b>嘲讽</b>的小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107815,
+    "flavor": "大多数纪念品都被斥为“没有灵魂”。这件可不一样！",
+    "id": "VAC_944",
+    "name": "咒怨纪念品",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+3/+3和“在你的回合开始时，对你的英雄造成3点伤害”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在你的回合中受到过8点伤害，召唤乌洛波斯。",
+    "cost": 6,
+    "dbfId": 107816,
+    "elite": true,
+    "flavor": "著名派对策划，主打“召唤异界生物仪式”派对。",
+    "health": 4,
+    "id": "VAC_945",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "派对策划者沃娜",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>如果你在你的回合中受到过8点伤害，召唤乌洛波斯。@<i>（还剩{0}点！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107923,
+    "flavor": "每日摄入量请不要超过建议值，0克。",
+    "id": "VAC_951",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "“健康”饮品",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从造成$3点伤害。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107925,
+    "flavor": "它们终于明白了自己为什么会有这种绰号：一个叫棉花，一个叫糖。",
+    "id": "VAC_952",
+    "name": "邪能篝火",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$4点伤害。如果该随从死亡，你的下一个<b>亡语</b>随从的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110759,
+    "flavor": "各位拖延症患者请不要怕，我们给这张牌加上了“可交易”——还有得商量。",
+    "id": "WORK_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "最后期限",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "<b>可交易</b>，<b>临时</b>\n消灭一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110760,
+    "flavor": "本合约中的斜体文本不会对你造成任何伤害。<i>（其实会的。）</i>",
+    "id": "WORK_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "合约细则",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "对所有随从造成$4点伤害。<i>（超过其生命值的伤害会命中你的英雄。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110761,
+    "flavor": "连续666个月的月度魔范。",
+    "health": 2,
+    "id": "WORK_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "月度魔范员工",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "使其获得<b>吸血</b>。",
+    "text": "<b>战吼：</b>使一个友方随从获得<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

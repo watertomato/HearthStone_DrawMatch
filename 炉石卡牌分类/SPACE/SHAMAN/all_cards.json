@@ -1,0 +1,298 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110743,
+    "flavor": "用来表示太空中的岩石的词快不够用了。",
+    "health": 6,
+    "id": "GDB_434",
+    "mechanics": [
+      "BATTLECRY",
+      "SPELLBURST"
+    ],
+    "name": "流彩巨岩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>在本局对战中，你的小行星造成的伤害增加1点。<b><b>法术迸发</b>：</b>将3张小行星洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 110852,
+    "flavor": "看起来是在水下，实则是在天上。",
+    "health": 5,
+    "id": "GDB_443",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "宇航员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>从你的牌库中\n<b>发现</b>一张法术牌，其法力值消耗减少（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110865,
+    "flavor": "“我是领航员，不是医生！”",
+    "health": 2,
+    "id": "GDB_444",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "行星领航员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你使用的下一个德莱尼的法力值消耗减少（2）点，但拥有<b>过载：</b>（2）。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110872,
+    "flavor": "“长官，目前连续抽到所有小行星的几率约为1/3720！”“少跟我说什么几率！”",
+    "id": "GDB_445",
+    "name": "陨石风暴",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "spellSchool": "NATURE",
+    "text": "对所有随从造成$5点伤害。将5张小行星洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110876,
+    "elite": true,
+    "flavor": "“谁来救救我！我被挂在网上了！”",
+    "health": 4,
+    "id": "GDB_447",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "预言者努波顿",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SPACE",
+    "text": "<b>亡语：</b>开启星系投影，投影会吸收你施放的下一个法术的能量。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110881,
+    "elite": true,
+    "flavor": "什么？",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "GDB_448",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "摩摩尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "SPACE",
+    "text": "你的<b>战吼</b>随从牌的\n法力值消耗为（1）点，但会在被使用后\n立即死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110968,
+    "flavor": "“我们的任务是找到太空中的星球，但具体在哪里我也不知道。”“报告舰长，我看见太空了！”",
+    "id": "GDB_451",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "三角测量",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "从你的牌库中\n<b>发现</b>一张不同的法术牌，并将它的3张复制洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 114348,
+    "flavor": "原来你是我最想留住的星云~",
+    "id": "GDB_479",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "星云",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "set": "SPACE",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>并召唤两个法力值消耗为（8）的随从，并使其具有\n<b>嘲讽</b>和<b>扰魔</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111185,
+    "flavor": "绿色小鱿鱼要和家里通话。",
+    "id": "GDB_864",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "第一次接触",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "随机召唤两个法力值消耗为（1）的随从。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113677,
+    "flavor": "你应该多涂点防晒霜。好在上个版本的防晒霜还剩了不少。",
+    "health": 2,
+    "id": "GDB_901",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "极紫外破坏者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "targetingArrowText": "对一个敌方随从造成3点伤害。",
+    "text": "<b>战吼：</b>对一个\n敌方随从造成3点伤害。将3张小行星洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 112876,
+    "flavor": "开了未必是锁了，但锁了一定是开了。",
+    "id": "SC_407",
+    "isMiniSet": true,
+    "name": "锁定",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "将一个随从的生命值变为1。你的下一次<b>星舰</b>发射的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113209,
+    "flavor": "欢迎来到飞弹舱，所有飞弹需求，全部一站购齐。请持续关注我们，收获最新飞弹资讯。",
+    "health": 3,
+    "id": "SC_409",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "STARSHIP_PIECE"
+    ],
+    "name": "飞弹舱",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>星舰组件</b>\n<b>战吼：</b>对所有敌人造成1点伤害。发射时也会触发。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 113864,
+    "flavor": "作为副坦相当不错，但作为主坦，那就相当可怕了。",
+    "health": 5,
+    "id": "SC_413",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "攻城坦克",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>随机对一个敌方随从造成10点伤害。<i>（如果你在本局对战中发射过<b>星舰</b>，则会变形。）</i>",
+    "type": "MINION"
+  }
+]

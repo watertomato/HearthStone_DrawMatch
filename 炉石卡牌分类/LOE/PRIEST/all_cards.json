@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2878,
+    "flavor": "馆长的脾气不太好，这都要归咎于那些攀爬书架的熊孩子和企图复活展品的疯子们。",
+    "health": 2,
+    "howToEarn": "加入“探险者协会”冒险模式，在探险者大厅中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在探险者大厅中解锁制作。",
+    "id": "LOE_006",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "博物馆馆长",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "LOE",
+    "text": "<b>战吼：发现</b>一张<b>亡语</b>牌，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Konstad",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 3015,
+    "flavor": "其实只要留有通风口，活埋还是很安全的。",
+    "howToEarn": "加入“探险者协会”冒险模式，在废墟之城中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在废墟之城中解锁制作。",
+    "id": "LOE_104",
+    "name": "埋葬",
+    "rarity": "COMMON",
+    "set": "LOE",
+    "text": "选择一个敌方随从。将该随从洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2999,
+    "flavor": "即便是手痒的雷诺·杰克逊也对此心存敬畏。",
+    "howToEarn": "加入“探险者协会”冒险模式，在奥达曼中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥达曼中解锁制作。",
+    "id": "LOE_111",
+    "name": "极恶之咒",
+    "rarity": "RARE",
+    "set": "LOE",
+    "spellSchool": "SHADOW",
+    "text": "对所有随从造成$3点伤害。将该牌洗入你对手的牌库。",
+    "type": "SPELL"
+  }
+]

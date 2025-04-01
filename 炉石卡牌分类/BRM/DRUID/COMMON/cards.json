@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Stanley Lau",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2292,
+    "flavor": "这些德鲁伊们在诺森德战斗了很久，所以特别容易受到拉格纳罗斯的引诱；一杯热腾腾的巧克力就能让他们就范。",
+    "health": 2,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁制作。",
+    "id": "BRM_010",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "烈焰德鲁伊",
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "<b>抉择：</b>变形成为5/2的随从；或者变形成为2/5的随从。",
+    "type": "MINION"
+  }
+]

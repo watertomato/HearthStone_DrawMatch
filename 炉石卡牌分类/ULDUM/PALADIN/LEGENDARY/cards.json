@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53907,
+    "elite": true,
+    "flavor": "“我必须承认，每次制作木乃伊都会使我心有余悸！”",
+    "id": "ULD_431",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "制作木乃伊",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ULDUM",
+    "text": "<b>任务：</b>使用5张<b>复生</b>随从牌。<b>奖励：</b>帝王裹布。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53379,
+    "elite": true,
+    "flavor": "“沙漠就是我的浩瀚大海！这只甲虫就是我的，呃，蠕行小舟！”",
+    "health": 3,
+    "id": "ULD_500",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "沙漠爵士芬利",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则<b>发现</b>一个升级过的英雄技能。",
+    "type": "MINION"
+  }
+]

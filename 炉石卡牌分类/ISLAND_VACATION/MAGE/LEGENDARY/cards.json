@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107187,
+    "elite": true,
+    "flavor": "这条卡牌趣文只能写到这种程度了？太蕾拉！",
+    "health": 6,
+    "id": "VAC_424",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙滩塑形师蕾拉",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>圣骑士游客</b>\n在你施放一个法术后，\n随机召唤一个法力值消耗为（2）的随从并使其\n获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106375,
+    "elite": true,
+    "flavor": "冲浪，速来",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "VAC_524",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海潮之王泰德",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>直到你的下个回合结束，双方玩家的法术的法力值消耗为（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110965,
+    "elite": true,
+    "flavor": "“从此告别红眼狮鹫航班！”",
+    "health": 5,
+    "id": "WORK_063",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "传送门操控师斯奇拉",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>潜行者游客</b>\n<b>战吼：</b>使你手牌中法力值消耗最低和最高的法术牌的法力值消耗互换。",
+    "type": "MINION"
+  }
+]

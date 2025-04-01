@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90687,
+    "flavor": "你本以为联盟和部落之间的争斗已经够脏了……",
+    "id": "ETC_316",
+    "name": "粉丝互动",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "选择两个敌方随从，使其互相攻击！将死亡的随从的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91079,
+    "flavor": "亡灵不会心动，心动的只有观众。",
+    "health": 5,
+    "id": "ETC_339",
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "心动歌手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>过量治疗：</b>随机召唤一个法力值消耗等同于<b>过量治疗</b>量的随从。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,457 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 49049,
+    "flavor": "彼之砒霜，我之神装。",
+    "health": 5,
+    "id": "TRL_010",
+    "mechanics": [
+      "OVERKILL",
+      "STEALTH"
+    ],
+    "name": "中场拾荒者",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>潜行</b>\n<b>超杀</b>：获得3点\n护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 49066,
+    "flavor": "按原价的三倍出售！",
+    "health": 3,
+    "id": "TRL_015",
+    "mechanics": [
+      "OVERKILL"
+    ],
+    "name": "黑心票贩",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>超杀</b>：抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jiajun Tian",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 49088,
+    "flavor": "牺牲了视野，但也移除了邪能之爪的冷却时间。",
+    "health": 4,
+    "id": "TRL_020",
+    "mechanics": [
+      "OVERKILL",
+      "RUSH"
+    ],
+    "name": "盲眼游侠",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>突袭</b>\n<b>超杀</b>：召唤两个1/1的蝙蝠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50731,
+    "flavor": "他退役的时候，送葬者还是赛场一霸。",
+    "health": 1,
+    "id": "TRL_151",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "退役冠军",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>召唤一个5/5的赛场新秀。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50083,
+    "flavor": "受伤的时候念咒声音特别大，因为疼。",
+    "health": 3,
+    "id": "TRL_312",
+    "name": "狂暴咒术师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TROLL",
+    "text": "受伤时拥有\n<b>法术伤害+2</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50796,
+    "flavor": "不要妄想放风的机会。",
+    "health": 3,
+    "id": "TRL_363",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "萨隆铁矿监工",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TROLL",
+    "text": "<b>亡语：</b>为你的对手召唤一个0/3并具有<b>嘲讽</b>的自由的矿工。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50493,
+    "flavor": "当前版本的特困生。",
+    "health": 4,
+    "id": "TRL_406",
+    "mechanics": [
+      "ENRAGED"
+    ],
+    "name": "嗜睡的神枪手",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "受伤时拥有\n+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50372,
+    "flavor": "不入虫穴焉得虫——啊它们咬我！",
+    "health": 2,
+    "id": "TRL_503",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "甲虫卵",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>亡语：</b>召唤三只1/1的甲虫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50377,
+    "flavor": "卖萌也没用，不要再摆动小翅膀了嘤嘤嘤！",
+    "health": 1,
+    "id": "TRL_505",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "无助的幼雏",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>亡语：</b>使你手牌中的一张野兽牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50380,
+    "flavor": "“抓住它的脚，伙计。扔吧。”",
+    "health": 1,
+    "id": "TRL_506",
+    "mechanics": [
+      "OVERKILL"
+    ],
+    "name": "古拉巴什小鸡",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>超杀：</b>\n获得+5攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50383,
+    "flavor": "他喜欢的那款汤违反了动物保护法。",
+    "health": 2,
+    "id": "TRL_507",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲨鳍后援",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "在你的英雄攻击后，召唤一个1/1的海盗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50385,
+    "flavor": "唯心碎无可恢复。",
+    "health": 5,
+    "id": "TRL_508",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "再生暴徒",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "在你的回合开始时，为本随从恢复\n#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50386,
+    "flavor": "“能给我……你手上的那根香蕉吗。”",
+    "health": 2,
+    "id": "TRL_509",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "香蕉小丑",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>将两根香蕉\n置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ekaterina Shapovalova",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50391,
+    "flavor": "阿喀琉斯案犯罪嫌疑人。",
+    "health": 1,
+    "id": "TRL_512",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "调皮的噬踝者",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "targetingArrowText": "造成1点伤害。",
+    "text": "<b>吸血</b>\n<b>战吼：</b>造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 50392,
+    "flavor": "读不懂规则的人，怎么能破坏规则？",
+    "health": 14,
+    "id": "TRL_513",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "莫什奥格执行者",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>嘲讽</b>\n<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 50395,
+    "flavor": "赤脚人士谢绝入内。",
+    "health": 7,
+    "id": "TRL_515",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "场馆保镖",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>嘲讽</b>\n每有一个敌方随从，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50397,
+    "flavor": "你能从她身上找到所有战队的元素吗？",
+    "health": 3,
+    "id": "TRL_517",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "赛场狂热者",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50411,
+    "flavor": "宝箱开出了胸甲特质装，不错，但你开出武器了吗？！",
+    "health": 4,
+    "id": "TRL_525",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "竞技场财宝箱",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>亡语：</b>抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50412,
+    "flavor": "注意：易燃易爆炸",
+    "health": 6,
+    "id": "TRL_526",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙喉喷火者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>对所有其他随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50427,
+    "flavor": "当当当，三个巨魔坐浴缸。要问他们都是谁？震颤破坏和送葬。三人全都奔向我，看来小命要遭殃。",
+    "health": 2,
+    "id": "TRL_531",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暴牙震颤者",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>亡语：</b>召唤一个3/2的暴牙破坏者。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50532,
+    "flavor": "“达芬奇，我的披萨呢？！”",
+    "health": 5,
+    "id": "TRL_546",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴躁的巨龟",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>对你的英雄造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 50776,
+    "flavor": "当年入手难如狗，如今开包就带走。",
+    "health": 7,
+    "id": "TRL_550",
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "阿曼尼战熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>突袭</b>\n<b>嘲讽</b>",
+    "type": "MINION"
+  }
+]

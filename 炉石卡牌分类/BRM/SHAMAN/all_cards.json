@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2289,
+    "flavor": "比熔岩震击更震撼的是热巧克力震击。",
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁制作。",
+    "id": "BRM_011",
+    "name": "熔岩震击",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "BRM",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。\n将你所有<b>过载</b>的法力水晶解锁。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2290,
+    "flavor": "很多火元素竞相面试“火焰驱逐者”的职位，但拉格纳罗斯认为只有极少数火元素能够胜任。",
+    "health": 6,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁制作。",
+    "id": "BRM_012",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD"
+    ],
+    "name": "火焰驱逐者",
+    "overload": 1,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "<b>战吼：</b>获得1-4点攻击力。<b>过载：</b>（1）",
+    "type": "MINION"
+  }
+]

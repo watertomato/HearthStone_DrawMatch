@@ -1,0 +1,30 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38910,
+    "elite": true,
+    "flavor": "哈霍兰公主游荡在安其拉废墟的上空，梦想有朝一日能遇见自己的心上人，并为他生下成千上万个孩子。",
+    "health": 5,
+    "id": "OG_309",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哈霍兰公主",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "targetingArrowText": "触发一个<b>亡语</b>。",
+    "text": "<b>战吼：</b>触发一个友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  }
+]

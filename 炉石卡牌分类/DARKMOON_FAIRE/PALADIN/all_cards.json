@@ -1,0 +1,273 @@
+[
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61581,
+    "flavor": "“这玩意什么时候能到暴风城飞行点？我都飞了好几个小时了！”",
+    "health": 5,
+    "id": "DMF_064",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "旋转木马",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>圣盾</b>，<b>腐蚀：</b>获得+3/+3和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61305,
+    "flavor": "三个扩展包之前，芬利爵士让这项工作轻松了许多……",
+    "health": 3,
+    "id": "DMF_194",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "赤鳞驯龙者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语：</b>抽一张龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61306,
+    "flavor": "“我的冲关目标是两份怪兽油饼，一个尤格-萨隆的连击之匣，还有一根火鸡腿，能吃掉白银之手新兵的火鸡腿。”",
+    "id": "DMF_195",
+    "name": "零食大冲关",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>发现</b>一张法术牌。为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61186,
+    "flavor": "多好看的金色气球！但只要受到一点伤害，它就会爆掉。",
+    "health": 5,
+    "id": "DMF_235",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "气球商人",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>使你的白银之手新兵获得+1攻击力和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61187,
+    "flavor": "口中奇珍，并非玩物；听从支配，倾心拜服。",
+    "id": "DMF_236",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "古神在上",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术时，使其改为随机施放一个法力值消耗相同的法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61188,
+    "flavor": "游客表示听不懂他的鬼哭狼嚎，所以他只好改说人话。",
+    "health": 2,
+    "id": "DMF_237",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂欢报幕员",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "每当你召唤一个生命值为1的随从，便使其获得+1/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61189,
+    "durability": 0,
+    "flavor": "其实纳鲁不会使用武器。况且纳鲁也没有手。",
+    "health": 3,
+    "id": "DMF_238",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纳鲁之锤",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>召唤一个6/6并具有<b>嘲讽</b>的神圣元素。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61191,
+    "elite": true,
+    "flavor": "体内灌注的圣光过于耀眼，晚上睡觉的时候不得不戴上双层眼罩。",
+    "health": 5,
+    "id": "DMF_240",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "救赎者洛萨克森",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你召唤一个白银之手新兵后，使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61192,
+    "elite": true,
+    "flavor": "对抗黑暗的战斗中，容不得中立的存在。",
+    "health": 5,
+    "id": "DMF_241",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大主教伊瑞尔",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，获得<b>突袭</b>，<b>吸血</b>，<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61218,
+    "flavor": "卡尔感觉到了，自己终有一天会因为那根火鸡腿而后悔。",
+    "id": "DMF_244",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "游园日",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤三个白银之手新兵。<b>腐蚀：</b>召唤五个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61948,
+    "flavor": "此马非凡马，星骓本是星。",
+    "health": 5,
+    "id": "YOP_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "被禁锢的星骓",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>休眠</b>2回合。<b>法术迸发：</b>使你的随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61949,
+    "durability": 0,
+    "flavor": "你不能靠封面去评判一本书，但你可以用这本书去审判一个人。",
+    "health": 3,
+    "id": "YOP_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "审判圣契",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>获得<b>吸血</b>。",
+    "type": "WEAPON"
+  }
+]

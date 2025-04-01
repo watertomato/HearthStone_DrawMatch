@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "Akkapoj T.",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63163,
+    "flavor": "第四只小猪的房子是用<b>复仇的意志</b>盖成的。",
+    "health": 2,
+    "id": "BAR_325",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "剃刀野猪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>亡语：</b>从你的手牌中召唤一个法力值消耗小于或等于（3）点的<b>亡语</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63165,
+    "flavor": "“召唤你们前来就是要通知你们，你们的保险快过期了。”",
+    "id": "BAR_327",
+    "name": "邪恶召唤",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "THE_BARRENS",
+    "text": "召唤两个2/2并具有<b>吸血</b>的\n恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63682,
+    "flavor": "等级3就是你妈妈叫你全名的时候。",
+    "id": "BAR_891",
+    "name": "怒火（等级1）",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "spellSchool": "FEL",
+    "text": "在本回合中，使你的英雄获得+2攻击力。<i>（当你有5点法力值时升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63407,
+    "flavor": "亡语响起，陷入危险的却是<b>你</b>。",
+    "health": 2,
+    "id": "WC_701",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "邪能响尾蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>突袭</b>，<b>亡语：</b>对所有敌方随从造成\n1点伤害。",
+    "type": "MINION"
+  }
+]

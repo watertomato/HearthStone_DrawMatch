@@ -1,0 +1,92 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102652,
+    "flavor": "谁说玩具枪不能捅死人的，戳你试试！",
+    "health": 3,
+    "id": "WON_108",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "污手玩具商",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "在你的回合结束时，随机使你手牌中的一张随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102659,
+    "flavor": "这叫做“故弹情深”。",
+    "id": "WON_115",
+    "name": "旧时惊爆",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPARE_PART"
+    ],
+    "set": "WONDERS",
+    "text": "获取2张<b>零件</b>牌。召唤两个1/1的砰砰机器人。将一张“炸弹”牌洗入你对手的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nate Bowden",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103240,
+    "flavor": "铁炉堡坐落在白雪皑皑的丹莫罗山顶，是艾泽拉斯联盟矮人和侏儒的主城。",
+    "id": "WON_337",
+    "name": "铁炉堡传送门",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "FIRE",
+    "text": "获得4点护甲值。随机召唤一个法力值消耗为（4）的\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103241,
+    "flavor": "曾经他只是一个“掷棍者”，但随着他的技艺不断提高，他正踏上追寻梦想的道路：“掷牛头人者”。",
+    "health": 6,
+    "id": "WON_338",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "掷斧者",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "每当本随从受到伤害，对敌方英雄造成\n2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kan Liu",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106465,
+    "flavor": "你给我小心点…我上头有人！",
+    "id": "WON_350",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "盛气凌人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>发现</b>一张<b>嘲讽</b>随从牌。使其获得+1/+2。",
+    "type": "SPELL"
+  }
+]

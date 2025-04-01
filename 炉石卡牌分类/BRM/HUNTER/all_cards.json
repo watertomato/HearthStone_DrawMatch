@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Jonboy Meyers",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2260,
+    "flavor": "光有神射手还不够，你需要一个神抽手。",
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁制作。",
+    "id": "BRM_013",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "快速射击",
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "造成$3点伤害。\n如果你没有其他手牌，则抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2263,
+    "flavor": "有些猎人就是喜欢稀奇古怪的宠物，比如深入炎热无比的熔岩坑，哄骗一头在那里长大的野兽跟他回家，还要乖乖地和其他宠物呆在兽栏里……",
+    "health": 4,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁制作。",
+    "id": "BRM_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "熔火怒犬",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BRM",
+    "text": "<b>战吼：</b>如果你没有其他手牌，则获得+3/+3。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43294,
+    "flavor": "黑色的大厅中有三条岔路\n可惜我不能同时涉足\n我选择了人迹罕至的一条\n结果却被软泥怪吃掉",
+    "id": "LOOT_054",
+    "name": "分岔路口",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>选择两次：</b>\n抽一张牌；使你的所有随从获得+1攻击力；或者获得6点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43304,
+    "flavor": "你知道星界猫砂有多难找吗！",
+    "health": 5,
+    "id": "LOOT_056",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "星界猛虎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>\n将本随从的一张复制洗入你的牌库。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "artist": "Brian Despain",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 114301,
+    "flavor": "这就是所谓的死亡共生关系。",
+    "health": 5,
+    "id": "EDR_810",
+    "mechanics": [
+      "AURA",
+      "BATTLECRY"
+    ],
+    "name": "丑恶的残躯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "EMERALD_DREAM",
+    "text": "你的水蛭从其宿主处\n偷取的生命值增加2点。<b>战吼：</b>召唤两只0/2的水蛭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114304,
+    "durability": 0,
+    "flavor": "冰霜符文是最不恶心的符文，这下坐实了。",
+    "health": 2,
+    "id": "EDR_812",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "畸怪符文剑",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你使用的上一张牌拥有邪恶符文，则获得+1攻击力。依此法检定鲜血符文以获得+1耐久度。",
+    "type": "WEAPON"
+  }
+]

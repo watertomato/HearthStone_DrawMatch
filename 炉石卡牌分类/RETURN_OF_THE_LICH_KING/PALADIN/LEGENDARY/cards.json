@@ -1,0 +1,77 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 86661,
+    "elite": true,
+    "flavor": "馆长见到了爬起来的亡灵，就感觉自己应该照顾他们。这是他的责任。",
+    "health": 6,
+    "id": "NX2_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "纯净馆长",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的牌库中没有中立卡牌，抽取每个随从类型的随从牌各一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 84399,
+    "elite": true,
+    "flavor": "“没错，现在你们都来了未来！”",
+    "health": 8,
+    "id": "RLK_919",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿纳克洛斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>\n将所有其他随从送入2回合后的未来。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84740,
+    "elite": true,
+    "flavor": "在鲜血与战争之中，无不可为。",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "id": "RLK_924",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "血骑士领袖莉亚德琳",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你召唤攻击力低于本随从的随从后，使其获得<b>圣盾</b>和<b>突袭</b>。",
+    "type": "MINION"
+  }
+]

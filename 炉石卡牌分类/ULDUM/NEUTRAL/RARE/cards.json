@@ -1,0 +1,201 @@
+[
+  {
+    "artist": "Maria Alexeevna Trepalina",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53947,
+    "flavor": "任务要求她一次性上缴十二只斑马蹄，这些徽章还真是来之不易。",
+    "health": 3,
+    "id": "ULD_157",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奋进的探险者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "QUEST"
+    ],
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你控制一个<b>任务</b>，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54154,
+    "flavor": "就说不要白天出来做坏事嘛……",
+    "health": 5,
+    "id": "ULD_180",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "中暑的匪徒",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "在你的回合开始时，本随从有50%的几率陷入沉睡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54276,
+    "flavor": "尼斐塞特人暖极了——他们总能照顾身边的朋友，营造绝喵的氛围。",
+    "health": 3,
+    "id": "ULD_196",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尼斐塞特仪祭师",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>为相邻的随从恢复所有生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54278,
+    "flavor": "用细砂打磨小瑕疵，用粗砂打消大问题。",
+    "health": 2,
+    "id": "ULD_197",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "流沙元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>在本回合中，使所有敌方随从获得-2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54280,
+    "flavor": "你所见即是伊希斯特。",
+    "health": 10,
+    "id": "ULD_198",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "魔法幻象",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>嘲讽</b>\n在你的回合开始时，将本随从洗入你的\n牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 53409,
+    "flavor": "“卡——塔嚏！”“祝福你！”",
+    "health": 4,
+    "id": "ULD_208",
+    "mechanics": [
+      "DEATHRATTLE",
+      "REBORN",
+      "TAUNT"
+    ],
+    "name": "卡塔图防御者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>嘲讽</b>，<b>复生</b>。<b>亡语：</b>为你的英雄恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53438,
+    "flavor": "没错，她已经脱水变成了木乃伊，但她的财富并没有蒸发！",
+    "health": 4,
+    "id": "ULD_214",
+    "mechanics": [
+      "AURA",
+      "REBORN"
+    ],
+    "name": "慷慨的木乃伊",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>复生</b>\n你对手的卡牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 53439,
+    "flavor": "史上最强的背-box大赛总冠军。",
+    "health": 5,
+    "id": "ULD_215",
+    "mechanics": [
+      "REBORN",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "被缚的魔像",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ULDUM",
+    "text": "<b>复生</b>\n在你的回合结束时，召唤一只1/1并具有<b>嘲讽</b>的甲虫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53788,
+    "flavor": "听我的，千万别在除虫喷雾上省钱。",
+    "health": 3,
+    "id": "ULD_250",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "招虫的地精",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>嘲讽，亡语：</b>将两张1/1并具有<b>嘲讽</b>的“甲虫”置入你的手牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "artist": "Glenn Rane",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 42818,
+    "elite": true,
+    "flavor": "“我将我拥有的一切——愤怒，力量，意志，和8点攻击力——全部赐予你，我精心挑选的骑士。”",
+    "health": 8,
+    "id": "ICC_314",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巫妖王",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，随机将一张<b>巫妖王</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 45340,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要支援兄弟。",
+    "health": 2,
+    "id": "ICC_851",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凯雷塞斯王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（2）的牌，则使你牌库里所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45341,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要模仿兄弟。",
+    "health": 3,
+    "id": "ICC_852",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "塔达拉姆王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "targetingArrowText": "变形成为一个复制。",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（3）的牌，则变形成为一个随从的3/3的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45342,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要吃掉兄弟。",
+    "health": 4,
+    "id": "ICC_853",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦拉纳王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（4）的牌，则获得<b>吸血</b>和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 45366,
+    "elite": true,
+    "flavor": "一定要有一位巫妖汪。",
+    "health": 2,
+    "id": "ICC_854",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿尔福斯",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机将一张<b>巫妖王</b>牌置入你的\n手牌。",
+    "type": "MINION"
+  }
+]

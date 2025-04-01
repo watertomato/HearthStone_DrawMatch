@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64349,
+    "elite": true,
+    "flavor": "泽瑞拉本想寻求精神层面的指引，结果却找到了套牌构筑攻略。",
+    "id": "SW_433",
+    "name": "寻求指引",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用法力值消耗为（2），（3），（4）的牌各一张。<b>奖励：</b>从你的牌库中<b>发现</b>一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64443,
+    "elite": true,
+    "flavor": "黑暗主教干掉了圣光士兵。将军！",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "SW_448",
+    "name": "黑暗主教本尼迪塔斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>对战开始时：</b>如果你的套牌中所有法术牌都是暗影法术牌，则进入暗影形态。",
+    "type": "MINION"
+  }
+]

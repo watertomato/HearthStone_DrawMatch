@@ -1,0 +1,264 @@
+[
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102149,
+    "flavor": "你连一只雪鳍企鹅都顶不住，难道还想……来两只？！",
+    "id": "DEEP_000",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "召唤结界",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>奥秘：</b>当你的回合开始时，召唤你法力值消耗最高的随从的一个复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "MAGE",
+    "classes": [
+      "HUNTER",
+      "MAGE"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102152,
+    "flavor": "总是出霍法。",
+    "id": "DEEP_002",
+    "isMiniSet": true,
+    "name": "元素伙伴",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "随机召唤一个元素伙伴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "classes": [
+      "HUNTER",
+      "MAGE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102160,
+    "flavor": "你想装修吗？我认识一个帷幔造型师。",
+    "health": 5,
+    "id": "DEEP_004",
+    "isMiniSet": true,
+    "name": "地幔塑型者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "本牌在你手中时，你每施放一个法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 99221,
+    "flavor": "记得在家长回家之前把元素从冰箱里拿出来！",
+    "id": "WW_009",
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "低温贮藏",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WILD_WEST",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个敌人。<b>发掘</b>一个\n宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101462,
+    "flavor": "这是你人生中<i>迄今为止</i>最热的一个夏天。",
+    "id": "WW_377",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "热浪来袭",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "对一个敌方随从及其相邻随从造成$2点伤害。<b>快枪：</b>改为对所有敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101849,
+    "flavor": "每当矿脉附近的大地颤动，那究竟是地震，还是这颗星球的心跳？",
+    "id": "WW_422",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "艾泽里特矿脉",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>奥秘：</b>当敌人使用一张在当回合进入手牌的牌时，获取一张它的复制，其法力值消耗为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101873,
+    "flavor": "它身上流下来的“水滴”——其实是火！",
+    "health": 2,
+    "id": "WW_424",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "溢流熔岩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>每有一个你使用过元素牌的连续的回合，召唤一个本随从的复制。0<i>（召唤0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101874,
+    "flavor": "看到天上的光点了吗？那就是“星星”。哦，你说那个，那个不是星星，那个叫“飞机”。",
+    "id": "WW_425",
+    "name": "观星",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "ARCANE",
+    "text": "抽一张不同的奥术法术牌。如果你在本回合中使用这张抽到的牌，则会施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101875,
+    "flavor": "“管他呢，我先炸了！”",
+    "health": 4,
+    "id": "WW_426",
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "矿工炎术师",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：发掘</b>一个宝藏。你每有一张手牌，便随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101876,
+    "flavor": "当夕阳光线刚刚好的时候，你就可以拿出自拍杆狠狠地拍一通了。",
+    "id": "WW_427",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "夕阳漫射",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "FIRE",
+    "text": "造成$10点伤害，随机分配到所有敌人身上。随机召唤一个法力值消耗为（10）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101879,
+    "elite": true,
+    "flavor": "大家一起开个元素庆祝一下！",
+    "health": 5,
+    "id": "WW_429",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "碎裂巨岩迈沙顿",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张元素牌，将其拆成两半。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101880,
+    "elite": true,
+    "flavor": "控制死骑直播的头号粉丝。",
+    "health": 5,
+    "id": "WW_430",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "泰瑟兰·血望者",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "你的套牌之外的牌法力值消耗减少（4）点<i>（但不能少于1点）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101939,
+    "flavor": "如果研究员研究的一切都是秘密，那还研究什么？",
+    "health": 5,
+    "id": "WW_432",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神圣遗物学会研究员",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "EXCAVATE",
+      "SECRET"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你已经<b>发掘</b>过两次，随机施放两个法师<b>奥秘</b>。",
+    "type": "MINION"
+  }
+]

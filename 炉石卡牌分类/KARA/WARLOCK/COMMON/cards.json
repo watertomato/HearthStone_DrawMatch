@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39197,
+    "flavor": "瞧见没，这就是让卡德加去布置餐桌的后果。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_025",
+    "name": "附灵术",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "召唤一个1/1的蜡烛，2/2的扫帚和3/3的茶壶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 39740,
+    "flavor": "玛克扎尔曾有个叫多比的手下，不过那是一个悲伤的故事了。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_089",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "玛克扎尔的小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "每当你弃掉一张牌时，抽一张牌。",
+    "type": "MINION"
+  }
+]

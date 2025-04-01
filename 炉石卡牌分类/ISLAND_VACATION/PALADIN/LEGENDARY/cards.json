@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105682,
+    "elite": true,
+    "flavor": "圣骑士的正义感过于强烈。仅仅是坐了别人的沙滩椅，就觉得自己像个贼。",
+    "health": 6,
+    "id": "VAC_507",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "阳光汲取者莱妮莎",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>潜行者游客</b>\n你的法力值消耗小于或等于（2）点的法术会施放两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106449,
+    "elite": true,
+    "flavor": "那座城堡可以说是上风上水。",
+    "hasDiamondSkin": true,
+    "health": 8,
+    "id": "VAC_923",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣沙泽尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>\n在本随从攻击后，变成地标。",
+    "type": "MINION"
+  }
+]

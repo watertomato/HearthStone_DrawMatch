@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Sean O’Daniels",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 1035,
+    "flavor": "年轻的暗夜精灵们喜欢一种叫做“谁能让战争古树站起来”的游戏。如果在它起身的时候你被踩死了，你还是输了。",
+    "health": 5,
+    "id": "EX1_178",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "战争古树",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EXPERT1",
+    "text": "<b>抉择：</b>\n+5攻击力；或者+5生命值并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trevor Jacobs",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 493,
+    "flavor": "“我想我可以在这片树荫下打个盹儿。等等...啊啊啊啊啊！”——不幸的侏儒布林克菲兹",
+    "id": "EX1_571",
+    "name": "自然之力",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "spellSchool": "NATURE",
+    "text": "召唤三个2/2的树人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Hjelm",
+    "attack": 7,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 920,
+    "flavor": "去吧，把你的名字刻在树皮上。",
+    "health": 7,
+    "id": "NEW1_008",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "知识古树",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "text": "<b>抉择：</b>抽两张牌；或者恢复#7点生命值。",
+    "type": "MINION"
+  }
+]

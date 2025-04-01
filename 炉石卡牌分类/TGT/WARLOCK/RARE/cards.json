@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Raymond Swanland",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2777,
+    "flavor": "“别看我和我的坐骑个子小，我们坏起来可不比那些大块头们差。”",
+    "health": 2,
+    "id": "AT_021",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "小鬼骑士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "每当你弃掉一张牌时，便获得+2/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2628,
+    "flavor": "实际上出拳者并非加拉克苏斯本人。",
+    "id": "AT_022",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "加拉克苏斯之拳",
+    "rarity": "RARE",
+    "set": "TGT",
+    "spellSchool": "FEL",
+    "text": "当你使用或弃掉这张牌时，随机对一个敌人造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Skan Srisuwan",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2537,
+    "flavor": "或许他跟卫斯理笔下的蓝血人有那么点关系。",
+    "health": 4,
+    "id": "AT_023",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "虚空碾压者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>激励：</b>随机消灭每个玩家的一个随从。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 46887,
+    "elite": true,
+    "flavor": "吾名哈加莎，诅咒之散播者，森林的终结者。无可阻挡，无可违逆，吾只玩半藏！",
+    "health": 30,
+    "heroPowerDbfId": 47631,
+    "id": "GIL_504",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女巫哈加莎",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>对所有随从造成3点伤害。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46996,
+    "flavor": "用来做鳗鱼饭最合适不过了！",
+    "health": 3,
+    "id": "GIL_530",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阴燃电鳗",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>\n如果你的牌库中只有法力值消耗为偶数的牌，造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Hogg",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 46998,
+    "flavor": "到底是女巫变成了青蛙，还是青蛙变成了女巫？",
+    "health": 1,
+    "id": "GIL_531",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "女巫的学徒",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽，战吼：</b>随机将一张萨满祭司法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47138,
+    "flavor": "图腾都是上好的磨牙棒。",
+    "health": 3,
+    "id": "GIL_583",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "图腾啃食者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽，战吼：</b>消灭你的所有图腾。每消灭一个图腾，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47152,
+    "flavor": "下雨天施法效果会减半。",
+    "id": "GIL_586",
+    "name": "大地之力",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "spellSchool": "NATURE",
+    "text": "使一个随从获得+2/+2。如果该随从是元素，则随机将一张元素牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 47222,
+    "flavor": "严禁在鱼塘使用这一法术！",
+    "id": "GIL_600",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "OVERLOAD"
+    ],
+    "name": "静电震击",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$2点伤害。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47600,
+    "flavor": "<鱼人语>BoOooOogrglgrlgrlooOoOoo!",
+    "health": 2,
+    "id": "GIL_678",
+    "mechanics": [
+      "ECHO"
+    ],
+    "name": "冥光鱼人",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>回响</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 47873,
+    "flavor": "最困难的地方在于维持他们的形状。",
+    "health": 8,
+    "id": "GIL_807",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "塑沼者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "每当你施放一个法术，从你的牌库中抽一张随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 48111,
+    "elite": true,
+    "flavor": "吵吵机器人和闹闹机器人加起来都没它吵闹得厉害。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "GIL_820",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "沙德沃克",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>重复在本局对战中你所使用过的所有其他卡牌的<b>战吼</b>效果<i>（目标随机而定）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48393,
+    "flavor": "越来越多的萨满祭司开始用图腾来抽水烟。",
+    "id": "GIL_836",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "炽焰祈咒",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "GILNEAS",
+    "spellSchool": "FIRE",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  }
+]

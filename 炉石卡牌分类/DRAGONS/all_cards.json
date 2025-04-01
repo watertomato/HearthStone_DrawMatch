@@ -1,0 +1,2888 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54922,
+    "flavor": "来一口新鲜的恐惧！",
+    "id": "DRG_006",
+    "name": "腐蚀吐息",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$3点伤害。如果你的手牌中有龙牌，还会命中敌方英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54923,
+    "durability": 0,
+    "flavor": "风暴之锤是老大，毁灭之锤是渣渣。",
+    "health": 2,
+    "id": "DRG_007",
+    "name": "风暴之锤",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "当你控制着一条龙时，不会失去\n耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54924,
+    "flavor": "“我特此封你为探险者协会学员！下一位！”",
+    "id": "DRG_008",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "正义感召",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n召唤五个随从。<b>奖励：</b>使你的所有随从获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54926,
+    "flavor": "警告：可能使你想起被旋转木马支配的不良回忆。",
+    "health": 1,
+    "id": "DRG_010",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "俯冲狮鹫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>突袭，战吼：</b>从你的牌库中抽一张具有<b>突袭</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55000,
+    "flavor": "废了！全废了！",
+    "health": 2,
+    "id": "DRG_019",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "废墟之子",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>突袭</b>\n<b>战吼：</b>如果你已经<b>祈求</b>过两次，召唤本随从的两个复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55001,
+    "flavor": "治军之道，需则实之，实则需之。",
+    "health": 3,
+    "id": "DRG_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怪盗军需官",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将一张<b>跟班</b>牌置入你的手牌。获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lloyd Hoshide",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55002,
+    "durability": 0,
+    "flavor": "快砍！迦拉克隆显灵了！",
+    "health": 2,
+    "id": "DRG_021",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "仪式斩斧",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b><b>\n祈求</b>迦拉克隆。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55003,
+    "flavor": "她的保费不断上浮。",
+    "id": "DRG_022",
+    "name": "横冲直撞",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "迫使一个随从攻击相邻的一个\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55004,
+    "flavor": "与其说是空中炮艇，不如说是艇型火炮。",
+    "health": 5,
+    "id": "DRG_023",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "空中炮艇",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "在你召唤一个海盗后，随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55005,
+    "flavor": "或许他应该构思一个能把战利品也一块带回来的飞行方案。",
+    "health": 2,
+    "id": "DRG_024",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "空中悍匪",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机将一张海盗牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55006,
+    "durability": 0,
+    "elite": true,
+    "flavor": "用锚当武器有一个问题：经常在牌库中沉底。",
+    "health": 2,
+    "id": "DRG_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "海盗之锚",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "在你的英雄攻击后，从你的牌库中抽一张海盗牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 12,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 55007,
+    "elite": true,
+    "flavor": "咬住那个，再咬一口第二个，抓住这个，再把那个整个吞掉……",
+    "health": 12,
+    "id": "DRG_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂巨龙死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>攻击所有其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55094,
+    "flavor": "“就三个金币？！你知道这条任务线有多长吗？”",
+    "health": 3,
+    "id": "DRG_027",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幽影潜藏者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你已经<b>祈求</b>过两次，则将三张幸运币置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55095,
+    "flavor": "其实藏宝巨龙只有两个幸运币。",
+    "id": "DRG_028",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "巨龙宝藏",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>发现</b>一张另一职业的<b>传说</b>\n随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55097,
+    "flavor": "“翻到《迦拉克隆》，第3章第12节。‘嘶！嗷！嘎！’让我们一同体味其中的智慧。”",
+    "id": "DRG_030",
+    "name": "赞美迦拉克隆",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "使一个随从获得+1攻击力。<b>祈求</b>迦拉克隆。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Yewon Park",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55099,
+    "flavor": "死金药剂：既无余味，也无余生。",
+    "health": 5,
+    "id": "DRG_031",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "死金药剂师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>连击：</b>从你的牌库中抽一张<b>亡语</b>随从牌并获得其<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55101,
+    "flavor": "“蜡烛巨龙燃烈火，\n灼灼龙息似柴烧！\n恶信徒，齐来到，\n纷纷举烛迎空招！”",
+    "id": "DRG_033",
+    "name": "烛火吐息",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "抽三张牌。如果你的手牌中有龙牌，这张牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55102,
+    "flavor": "理解理解他吧，这些天就连经济舱都贵得飞起。",
+    "health": 4,
+    "id": "DRG_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "偷渡者",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的牌库中有对战开始时不在牌库中的牌，则抽取其中的两张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55103,
+    "flavor": "想飞上天，和海盗肩并肩。",
+    "health": 1,
+    "id": "DRG_035",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血帆飞贼",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将两张1/1的海盗牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 7,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55104,
+    "elite": true,
+    "flavor": "蜡烛巨龙，为王而战。翻过原野，万物焦烂！",
+    "health": 5,
+    "id": "DRG_036",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "蜡烛巨龙",
+    "race": "DRAGON",
+    "races": [
+      "ELEMENTAL",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>将一支蜡烛洗入你的牌库。抽到蜡烛时，重新召唤蜡烛巨龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55105,
+    "elite": true,
+    "flavor": "初级探险者搜寻着夜空，生怕看见她头顶的烛火！",
+    "health": 4,
+    "id": "DRG_037",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "菲里克·飞刺",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "targetingArrowText": "消灭一个随从及其复制。",
+    "text": "<b>战吼：</b>消灭一个随从及其所有的复制<i>（无论它们在哪）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55208,
+    "flavor": "富含维生素以及鱼人风味。",
+    "health": 2,
+    "id": "DRG_049",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "美味飞鱼",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>使你手牌中的一张龙牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55210,
+    "flavor": "虽说是一群狂徒，但他们对迦拉克隆的虔信坚定不移。",
+    "health": 2,
+    "id": "DRG_050",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "虔信狂徒",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>突袭，战吼：</b>\n<b>祈求</b>迦拉克隆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55262,
+    "flavor": "一个随从，两个随从……树个随从！",
+    "id": "DRG_051",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "人多势众",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n消耗10点法力值用于随从牌上。<b>奖励：</b>从你的牌库中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Concept Art House",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55399,
+    "flavor": "萌得像个二百斤的宝宝。",
+    "health": 5,
+    "id": "DRG_054",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雏龙巨婴",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55400,
+    "flavor": "不如我们破剑重圆吧！",
+    "health": 2,
+    "id": "DRG_055",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "藏宝匪贼",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>装备一把你的被摧毁的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55401,
+    "flavor": "蹲在手牌里，等着蹭最便宜的航班。",
+    "health": 2,
+    "id": "DRG_056",
+    "name": "空降歹徒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "在你使用一张海盗牌后，从你的手牌中召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55402,
+    "flavor": "今年加基森的感恩节巡游里少了一只热气球。",
+    "health": 2,
+    "id": "DRG_057",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "热气球",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "在你的回合开始时，获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55403,
+    "flavor": "“扇翅膀！快扇啊！”",
+    "health": 5,
+    "id": "DRG_058",
+    "name": "空军指挥官",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "你手牌中每有一张龙牌，便拥有+2\n攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55404,
+    "flavor": "操作手册中出现的所有“滑翔”字样都打了双引号。",
+    "health": 3,
+    "id": "DRG_059",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "地精滑翔技师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你控制一个机械，便获得+1/+1和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Servando Lupini",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55405,
+    "flavor": "都怪我们推出了那些看起来就好吃的卡背图案。",
+    "health": 3,
+    "id": "DRG_060",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火鹰",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>你的对手每有一张手牌，本随从便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55406,
+    "flavor": "照例必须在起飞前进行精确的调校。",
+    "health": 5,
+    "id": "DRG_061",
+    "mechanics": [
+      "RUSH",
+      "WINDFURY"
+    ],
+    "name": "旋翼机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>突袭，风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55407,
+    "flavor": "她能让你的牌库保持专业水准。",
+    "health": 2,
+    "id": "DRG_062",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙眠净化者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n将你牌库中的所有中立卡牌随机变形成为你的职业的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55408,
+    "flavor": "“妈妈，我长角了！”\n“……”\n“妈妈，你不为我高兴吗？”",
+    "health": 4,
+    "id": "DRG_063",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙喉偷猎者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的对手控制着一条龙，便获得+4/+4和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55414,
+    "flavor": "“乐于助人”是他们的核心价值观之一。",
+    "health": 9,
+    "id": "DRG_064",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "祖达克仪祭师",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽，战吼：</b>\n随机为你的对手召唤三个法力值消耗为（1）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabe Gonzalez",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55415,
+    "flavor": "角鹰兽，集凶猛与优雅于一身，堪称一种雄壮的生物。褪毛阶段除外。",
+    "health": 6,
+    "id": "DRG_065",
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "角鹰兽",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>突袭</b>\n<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55416,
+    "flavor": "一个头只说真话，另一个头只说假话。不过两个头都很毒舌。",
+    "health": 1,
+    "id": "DRG_066",
+    "mechanics": [
+      "ELUSIVE",
+      "POISONOUS"
+    ],
+    "name": "辟法奇美拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>剧毒</b>。<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55417,
+    "flavor": "“闭嘴！蝙蝠听不清路了！”",
+    "health": 3,
+    "id": "DRG_067",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨魔蝙蝠骑士",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机对一个敌方随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55418,
+    "flavor": "如果你想要这种好身材，那你就得让脂肪燃起来。",
+    "health": 4,
+    "id": "DRG_068",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "活化龙息",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "DRAGONS",
+    "text": "你的随从无法被\n<b>冻结</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55419,
+    "flavor": "护甲都是纸。",
+    "health": 5,
+    "id": "DRG_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "破甲骑士",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n摧毁你对手的护甲。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55420,
+    "flavor": "死亡之翼要是被这家伙一手带大，或许还能变得好一点。",
+    "health": 3,
+    "id": "DRG_070",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幼龙饲养员",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "targetingArrowText": "将一张复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一条友方的龙。将它的一张复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55421,
+    "flavor": "在传说故事里，对它造成伤害会招致厄运。所以轻轻地摸摸它的头就可以了，好吗？",
+    "health": 3,
+    "id": "DRG_071",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "厄运信天翁",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>将两张1/1的信天翁洗入你对手的\n牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55422,
+    "flavor": "“你是想当鱼人还是巨龙？”\n“我都行。”",
+    "health": 3,
+    "id": "DRG_072",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "飞天鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，随机召唤两个鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Concept Art House",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55423,
+    "flavor": "我从没听说过这只叫“光明之翼”的精灵龙。但如果我听过的话，我一定要说：我们是最好的朋友。",
+    "health": 4,
+    "id": "DRG_073",
+    "mechanics": [
+      "ELUSIVE"
+    ],
+    "name": "辟法灵龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55424,
+    "flavor": "“你看那朵云像什么？”\n“忧郁。”",
+    "health": 6,
+    "id": "DRG_074",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迷彩飞艇",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>直到你的下个回合，使你的其他机械获得<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55425,
+    "flavor": "乱喷出来的咒语比说梦话的巫师念的还多。",
+    "health": 5,
+    "id": "DRG_075",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深蓝系咒师",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机将两张你职业的法力值消耗为（1）的法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55426,
+    "flavor": "拉祖尔女士和脸有什么仇什么怨？！",
+    "health": 4,
+    "id": "DRG_076",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "无面腐蚀者",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "targetingArrowText": "将一个随从变形。",
+    "text": "<b>突袭</b>。<b>战吼：</b>将你的一个随从变形成为本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55427,
+    "flavor": "注意：巨龙在冲过来的时候脾气可能会有点大。",
+    "health": 5,
+    "id": "DRG_077",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乌特加德鱼叉射手",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>双方玩家抽一张牌。如果是龙牌，则将其召唤。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55428,
+    "flavor": "*并不能潜入牌库。",
+    "health": 5,
+    "id": "DRG_078",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "深潜炸弹",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "在你的回合开始时，对所有随从造成\n5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55429,
+    "flavor": "八百巨龙奔北坡，北坡法师并排跑。",
+    "health": 4,
+    "id": "DRG_079",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "ELUSIVE",
+      "RUSH"
+    ],
+    "name": "辟法巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>突袭</b>。<b>圣盾</b>。<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55431,
+    "flavor": "骑着龙，齐动枪，骑着龙动枪！",
+    "health": 3,
+    "id": "DRG_081",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "锐鳞骑士",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55432,
+    "flavor": "他不要蜡烛。他只想宝剑。",
+    "health": 4,
+    "id": "DRG_082",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黏指狗头人",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n偷取对手的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55466,
+    "flavor": "取无面者触手备用，与两张卡牌共同翻炒。",
+    "health": 5,
+    "id": "DRG_084",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "触手恐吓者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>每个玩家抽一张牌，交换其法力值消耗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55454,
+    "flavor": "奈法利安的造物中有两种最为知名：凶猛恐怖的怪物和花样繁多的早餐。",
+    "health": 3,
+    "id": "DRG_086",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "DISCOVER"
+    ],
+    "name": "多彩龙卵",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>秘密<b>发现</b>一条龙作为孵化对象。\n<b>亡语：</b>破壳而出！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55446,
+    "flavor": "趣味小知识：三只恐惧渡鸦表示凶恶之兆。而四只就够斩杀了！",
+    "health": 4,
+    "id": "DRG_088",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "恐惧渡鸦",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "你每控制一只其他恐惧渡鸦，便拥有+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 55441,
+    "elite": true,
+    "flavor": "依然能够带来生命与希望，但打起架来也毫不手软。",
+    "health": 8,
+    "id": "DRG_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "红龙女王阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则随机将两张其他龙牌置入你的手牌，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 8,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 55438,
+    "elite": true,
+    "flavor": "“好吧，我很欣慰，你知道我在这回合要做什么。”",
+    "health": 8,
+    "id": "DRG_090",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒巨龙姆诺兹多",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>使用你的对手上个回合使用的所有卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 55470,
+    "elite": true,
+    "flavor": "触手烧不尽，春风吹又生。",
+    "health": 7,
+    "id": "DRG_091",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "舒玛",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "在你的回合结束时，用1/1的触手填满你的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55436,
+    "flavor": "只要一点纸板再加上想象力，你也能完成传说级的幻化。",
+    "health": 3,
+    "id": "DRG_092",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "幻化师",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "每当你抽到一张牌时，随机将其变形成为一张<b>传说</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 7,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55640,
+    "elite": true,
+    "flavor": "作为空巢老龙，她这么做只是因为怀念她的“小”家伙们。",
+    "health": 6,
+    "id": "DRG_095",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "维拉努斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将所有敌方随从的生命值变为1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55643,
+    "elite": true,
+    "flavor": "他最拿手的还是模仿沙德沃克。",
+    "health": 5,
+    "id": "DRG_096",
+    "name": "班德斯莫什",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张<b>传说</b>随从牌的5/5的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55907,
+    "elite": true,
+    "flavor": "只有他能把迦拉克隆的咖啡安排得明明白白。",
+    "health": 6,
+    "id": "DRG_099",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克罗斯·龙蹄",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>抽取迦拉克隆。如果你已经变为迦拉克隆，则释放一场\n灾难。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Charlene LeScanff",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54901,
+    "flavor": "特别能吃书！",
+    "health": 3,
+    "id": "DRG_102",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "SPELLPOWER"
+    ],
+    "name": "碧蓝龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54904,
+    "elite": true,
+    "flavor": "和巨龙之魂有点像——如果巨龙有这种冷冰冰的灵魂。",
+    "health": 5,
+    "id": "DRG_104",
+    "name": "齐恩瓦拉",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "你在一回合中施放三个法术后，召唤一个5/5的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54906,
+    "flavor": "食用奥术饼干的众多副作用之一。",
+    "id": "DRG_106",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "奥术吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从造成$2点伤害。如果你的手牌中有龙牌，便<b>发现</b>一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54907,
+    "flavor": "一鸟在手，抵得三弹在坟。",
+    "health": 1,
+    "id": "DRG_107",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "紫罗兰魔翼鸦",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>将一张“奥术飞弹”法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 8,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 54909,
+    "flavor": "刷卡越多，折扣越多，巨型惊喜等着你！",
+    "health": 8,
+    "id": "DRG_109",
+    "name": "法力巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "在本局对战中，你每使用一张你的套牌之外的卡牌，本牌的法力值消耗便\n减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54885,
+    "flavor": "尾巴一翻，与我无关。",
+    "health": 5,
+    "id": "DRG_201",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂的灵翼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，则对所有其他角色造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54888,
+    "flavor": "要是迦拉克隆在复活后发现自己的骨头上有咬痕，一定会陷入更深重的疯狂。",
+    "health": 1,
+    "id": "DRG_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙骨荒野异教徒",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b><b>祈求</b>迦拉克隆。每有一个其他友方随从，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54890,
+    "flavor": "你要是不穿信徒的显眼制服，迦拉克隆怎么知道你是自己人？怎么把你留到最后再吃掉？",
+    "health": 4,
+    "id": "DRG_203",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗藏的信徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n如果你已经<b>祈求</b>过两次，则抽三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54891,
+    "flavor": "“不过是一点火星，一片薄雾。仅此而已。”",
+    "id": "DRG_204",
+    "name": "黑暗天际",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "spellSchool": "FEL",
+    "text": "随机对一个随从造成$1点伤害。你每有一张手牌，就重复\n一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54892,
+    "flavor": "我似乎曾在卡拉赞的虚空中感受过这种吐息，但又略有不同。",
+    "id": "DRG_205",
+    "name": "虚空吐息",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "FEL",
+    "text": "造成$2点伤害。如果你的手牌中有龙牌，则改为造成$4点伤害并具有<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54893,
+    "flavor": "秋天的天气你懂的。古云：七月硫火……",
+    "id": "DRG_206",
+    "name": "火焰之雨",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellSchool": "FEL",
+    "text": "对所有角色造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 54894,
+    "flavor": "可是侏儒的手太小了，根本握不住几张牌……",
+    "health": 2,
+    "id": "DRG_207",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深渊召唤者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 54896,
+    "elite": true,
+    "flavor": "不是我八卦，你的两只手不会刚好都有六根手指吧？",
+    "health": 4,
+    "id": "DRG_208",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦迪瑞斯·邪噬",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将你的手牌上限提高至12张。抽四张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 54897,
+    "elite": true,
+    "flavor": "和泽拉图没有任何关系。",
+    "health": 12,
+    "id": "DRG_209",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "扭曲巨龙泽拉库",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "每当你的英雄受到伤害，召唤一条6/6的虚空幼龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54956,
+    "flavor": "窗外天气多可怕……猎风巨龙乐开花！我们走过这条小路——过载啦！过载啦！",
+    "health": 7,
+    "id": "DRG_211",
+    "mechanics": [
+      "OVERLOAD",
+      "SPELLPOWER"
+    ],
+    "name": "猎风巨龙",
+    "overload": 2,
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>\n<b>过载：</b>（2）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 54960,
+    "flavor": "总有一个头嫌冷，一个头嫌热。",
+    "health": 10,
+    "id": "DRG_213",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "双头暴虐龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机对两个敌方随从造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54965,
+    "flavor": "要摧毁一个热气球，需要几条巨龙？一，二，三，嘭！",
+    "id": "DRG_215",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "风暴狂怒",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得+1/+1。\n<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54966,
+    "flavor": "“过载了？应该装个电涌保护器的。”",
+    "health": 3,
+    "id": "DRG_216",
+    "name": "电涌风暴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "DRAGONS",
+    "text": "当你有<b>过载</b>的法力水晶时，拥有+1\n攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54967,
+    "flavor": "每一个巨龙的兽群至少抵得上一张稀有卡牌。",
+    "id": "DRG_217",
+    "name": "巨龙的兽群",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "text": "召唤两只2/3并具有<b>嘲讽</b>的幽灵狼。如果你已经<b>祈求</b>过两次，则使它们获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54969,
+    "flavor": "她最爱的视觉元素就是角。",
+    "health": 3,
+    "id": "DRG_218",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "堕落的元素师",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b><b>祈求</b>迦拉克隆两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54971,
+    "flavor": "配料表：一条巨龙，一件毛衣，还需要干燥的天气。",
+    "id": "DRG_219",
+    "name": "闪电吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$4点伤害。如果你的手牌中有龙牌，则同样对其相邻随从造成伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55021,
+    "flavor": "“你们没有云娱乐设备吗？！”",
+    "health": 5,
+    "id": "DRG_223",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "遮天雨云",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "DRAGONS",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>如果你有<b>过载</b>的法力水晶，造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peet Cooper",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55024,
+    "elite": true,
+    "flavor": "“你是霍格”读快了就成了尼索格。",
+    "health": 5,
+    "id": "DRG_224",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尼索格",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤两个0/3的龙卵。下个回合它们将孵化为4/4并具有<b>突袭</b>的幼龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55047,
+    "flavor": "经过仔细的调校，永远都抓不住那个大布偶米米尔隆。",
+    "health": 2,
+    "id": "DRG_225",
+    "mechanics": [
+      "AURA",
+      "BATTLECRY"
+    ],
+    "name": "空中飞爪",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "你的其他机械拥有+1攻击力。<b>战吼：</b>召唤两个1/1的微型\n旋翼机。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55048,
+    "flavor": "人在空中难免伤，巨龙盛来琥珀光。",
+    "health": 6,
+    "id": "DRG_226",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "琥珀看守者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "targetingArrowText": "恢复8点生命值。",
+    "text": "<b>战吼：</b>\n恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55056,
+    "flavor": "时刻期待着发现新的朋友。不包括死亡之翼。",
+    "health": 3,
+    "id": "DRG_229",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "LIFESTEAL"
+    ],
+    "name": "青铜龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>吸血</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 55067,
+    "flavor": "自封的“唯有圣骑”俱乐部会长。",
+    "health": 7,
+    "id": "DRG_231",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光铸远征军",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，随机将五张圣骑士卡牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55068,
+    "flavor": "“唯有圣骑”俱乐部的注册会员。",
+    "health": 2,
+    "id": "DRG_232",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光铸狂热者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n如果你的牌库中没有中立卡牌，便装备一把4/2的真银圣剑。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55069,
+    "flavor": "从奥丹姆回来之后，每个人都能吐出点沙子来。",
+    "id": "DRG_233",
+    "name": "沙尘吐息",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DRAGONS",
+    "text": "使一个随从获得+1/+2。如果你的手牌中有龙牌，使其获得<b>圣盾</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55072,
+    "elite": true,
+    "flavor": "遇到问题不能一味地逃避。除非你总能换到新的巨龙坐骑。",
+    "health": 3,
+    "id": "DRG_235",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "龙骑士塔瑞萨",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>使你手牌中的一张龙牌获得+3/+3以及此<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55161,
+    "flavor": "手中的上古热刀专切黄油。",
+    "health": 2,
+    "id": "DRG_239",
+    "name": "灼光战斗法师",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55166,
+    "flavor": "实际上，她只能护住迦拉克隆的大脚趾。",
+    "health": 5,
+    "id": "DRG_242",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "迦拉克隆之盾",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽，战吼：</b>\n<b>祈求</b>迦拉克隆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55245,
+    "flavor": "你的时间在此终结。",
+    "id": "DRG_246",
+    "name": "时空裂痕",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "消灭一个随从。<b>祈求</b>迦拉克隆。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55246,
+    "flavor": "命运需要密封保存，切不可露置在外。",
+    "id": "DRG_247",
+    "name": "封印命运",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "对一个未受伤的角色造成$3点伤害。<b>祈求</b>迦拉克隆。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55248,
+    "flavor": "迦拉克隆喜欢加冰的口感。",
+    "id": "DRG_248",
+    "name": "霜之祈咒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个敌人。<b>祈求</b>迦拉克隆。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55250,
+    "flavor": "这就是一张关不掉的闹钟。",
+    "id": "DRG_249",
+    "name": "祈求觉醒",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "<b>祈求</b>迦拉克隆。对所有随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55251,
+    "flavor": "“你有权在仪式中献祭一个友方随从。如果你没有准备友方随从，系统会为你指定一个。”",
+    "id": "DRG_250",
+    "name": "邪鬼仪式",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>祈求</b>迦拉克隆。使你的所有随从获得+1攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55288,
+    "flavor": "这个任务最可怕的部分就是狮鹫在最后的叫声。",
+    "id": "DRG_251",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "扫清道路",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n召唤三个<b>突袭</b>随从。<b>奖励：</b>召唤一头4/4并具有<b>突袭</b>的狮鹫。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55291,
+    "flavor": "我又跳出来了！我又站回去了！",
+    "health": 3,
+    "id": "DRG_252",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "相位追猎者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DRAGONS",
+    "text": "在你使用你的英雄技能后，从你的牌库中施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55292,
+    "flavor": "剪子，飞刀，钢针，你说什么他打什么。",
+    "health": 3,
+    "id": "DRG_253",
+    "name": "矮人神射手",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "你的英雄技能能够以随从为目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55294,
+    "flavor": "“我们真的要让这个浑身剧毒的家伙驮行李吗？”",
+    "health": 3,
+    "id": "DRG_254",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "POISONOUS"
+    ],
+    "name": "始生龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>剧毒</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55301,
+    "flavor": "一旦发生舱内失压，我们会部署一部弹弓来进行疏散。",
+    "id": "DRG_255",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "病毒增援",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n使用你的英雄技能三次。<b>奖励：</b>召唤三个2/1的麻风侏儒。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55303,
+    "elite": true,
+    "flavor": "*砰！*“那个不是龙！”\n*砰！*“那个也不是龙！”",
+    "health": 5,
+    "id": "DRG_256",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "灭龙弩炮",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "在你使用你的英雄技能后，随机对一个敌人造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55304,
+    "elite": true,
+    "flavor": "弗瑞兹深知龙宝宝们需要温暖的环境，精心的照顾，以及最顶尖的地精工程学。",
+    "health": 4,
+    "id": "DRG_257",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "弗瑞兹·光巢",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>使你牌库中龙牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55342,
+    "flavor": "缩在桌子底下就能完成的任务实在不多见。",
+    "id": "DRG_258",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "庇护",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n在一回合内不受伤害。<b>奖励：</b>召唤一个3/6并具有<b>嘲讽</b>的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56161,
+    "elite": true,
+    "flavor": "官宣：也可以叫他玛里狗斯。",
+    "health": 8,
+    "id": "DRG_270",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "织法巨龙玛里苟斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，便<b>发现</b>一张升级过的法师法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54871,
+    "flavor": "别被命运编织者发现，不然它会一直在你的命运里纠缠不清。",
+    "health": 6,
+    "id": "DRG_300",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "命运编织者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你已经<b>祈求</b>过两次，则使你的手牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 54872,
+    "flavor": "拉祖尔女士的低语助眠频道就要开播啦！",
+    "id": "DRG_301",
+    "name": "怪盗低语",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54873,
+    "flavor": "墓然回首，那牛却在符文阑珊处。",
+    "id": "DRG_302",
+    "name": "墓地符文",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得“<b>亡语：</b>召唤该随从的两个复制。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54874,
+    "flavor": "复活迦拉克隆会导致成吨、成吨的伤害。",
+    "health": 2,
+    "id": "DRG_303",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迦拉克隆的信徒",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n<b>祈求</b>迦拉克隆。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54876,
+    "flavor": "如果他要借用你的手表，千万要说不。",
+    "health": 5,
+    "id": "DRG_304",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "时空破坏者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>如果你的手牌中有龙牌，则对所有敌方随从造成3点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54887,
+    "flavor": "“提醒自己：下次要附在一个认路的本地人身上。”",
+    "health": 2,
+    "id": "DRG_306",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "拉祖尔的信使",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>检视三张卡牌。猜中来自你对手手牌中的卡牌，则获取该牌的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54898,
+    "flavor": "又名“循环换气法”。",
+    "id": "DRG_307",
+    "name": "永恒吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "对所有随从造成$2点伤害。如果你的手牌中有龙牌，则只对敌方随从造成伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54917,
+    "elite": true,
+    "flavor": "亲爱的朋友们，其实我并不是要偷走你们的心……",
+    "health": 3,
+    "id": "DRG_308",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "夺心者卡什",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "targetingArrowText": "选择一个随从。",
+    "text": "<b>战吼：</b>选择一个敌方随从。<b>亡语：</b>召唤一个所选随从的新的\n复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54919,
+    "elite": true,
+    "flavor": "时间就是法力！",
+    "health": 8,
+    "id": "DRG_309",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时光巨龙诺兹多姆",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n将每个玩家的法力水晶重置为十个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 54935,
+    "flavor": "法术，英雄技能，还有电话，短信，统统不接。",
+    "health": 7,
+    "id": "DRG_310",
+    "mechanics": [
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "辟法龙人",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55039,
+    "flavor": "难以树计的后援力量！",
+    "id": "DRG_311",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "树木援军",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>使一个随从获得+2生命值和<b>嘲讽</b>；或者召唤一个2/2的树人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55038,
+    "flavor": "投之以花盆，爆之以树人。",
+    "health": 1,
+    "id": "DRG_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盆栽投手",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤一个2/2的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55037,
+    "flavor": "再来一条，那就是双截龙啦！",
+    "health": 8,
+    "id": "DRG_313",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "TAUNT"
+    ],
+    "name": "翡翠龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55036,
+    "flavor": "优秀的种子总能广为流传。",
+    "id": "DRG_314",
+    "name": "空气栽培",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "抽两张牌。你每控制一个树人，本牌的法力值消耗便减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 55035,
+    "flavor": "咕长老，收了神通吧！",
+    "id": "DRG_315",
+    "name": "森然巨化",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "使你牌库中的所有随从牌获得+2/+2，且法力值消耗增加（1）点<i>（最高不超过10点）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55033,
+    "flavor": "“搞定了，老大。可是把甲板保护起来之后我们要站在哪儿呢？”",
+    "id": "DRG_317",
+    "mechanics": [
+      "SIDE_QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "保护甲板",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n用你的英雄攻击两次。<b>奖励：</b>将三张“爪击”法术牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55052,
+    "flavor": "伊瑟拉初醒之时的口气非常可怕。",
+    "id": "DRG_318",
+    "name": "梦境吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌。如果你的手牌中有龙牌，便获得一个空的法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 55031,
+    "elite": true,
+    "flavor": "战斗到底，永不认树。",
+    "health": 10,
+    "id": "DRG_319",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "强力巨树格鲁",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽，战吼：</b>在本局对战的剩余时间内，你的树人拥有+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 55030,
+    "elite": true,
+    "flavor": "把龙放出来！",
+    "health": 12,
+    "id": "DRG_320",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "觉醒巨龙伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将七张“梦境之门”洗入你的牌库。当抽到梦境之门时，随机召唤一条龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55276,
+    "flavor": "他们为什么不往前后跑呢？",
+    "id": "DRG_321",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "火球滚滚",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$8点伤害，超过其生命值的伤害将由左侧或右侧的随从承担。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55280,
+    "flavor": "金卡加了很多特效上去，魔法duang的一下，很亮，很柔，玩家一定会骂我，根本没有这样的魔法。",
+    "health": 4,
+    "id": "DRG_322",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乘龙法师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，在本回合中你所施放的下一个法术的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55281,
+    "flavor": "直到拿起初阶法术教材，雷诺才意识到自己不会龙语。",
+    "id": "DRG_323",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "学习龙语",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n消耗8点法力值用于法术牌上。<b>奖励：</b>召唤一条6/6的龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55283,
+    "flavor": "幸好接住雷诺的不是火元素。",
+    "id": "DRG_324",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "元素盟军",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n连续两个回合使用元素牌。<b>奖励：</b>从你的牌库中抽三张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55975,
+    "flavor": "灰发巫师失误发挥。",
+    "health": 2,
+    "id": "DRG_401",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灰发巫师",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>直到你的下个回合，和你的对手交换英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 56189,
+    "elite": true,
+    "flavor": "稍待片刻，这张卡牌就会出现在你的口袋，你的桌上，甚至塞满你的冰箱！",
+    "health": 5,
+    "id": "DRG_402",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "萨索瓦尔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "targetingArrowText": "将一个它的复制置入你的手牌，牌库以及战场。",
+    "text": "<b>战吼：</b>选择一个友方随从。将一个它的复制置入你的手牌，牌库以及战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ekaterina Shapovalova",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56226,
+    "flavor": "在他加入团队之前，我们一直用的是胶带。",
+    "health": 3,
+    "id": "DRG_403",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "喷灯破坏者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>你对手的下一个英雄技能的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55935,
+    "flavor": "烫烫烫烫烫烫烫",
+    "id": "DRG_500",
+    "name": "熔火吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$5点伤害。如果你的手牌中有龙牌，便获得5点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57329,
+    "elite": true,
+    "flavor": "邪能火焰在骷髅周围盘旋，巨大的骸骨聚合成了恶魔般的怪物。重重绷带阻绝了热浪，却挡不住拉法姆脸上的笑意。",
+    "health": 30,
+    "heroPowerDbfId": 55807,
+    "id": "DRG_600",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪火巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机召唤一个恶魔。<i>（0）</i>",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57419,
+    "elite": true,
+    "flavor": "恶龙张开了毒液淋漓的恐怖巨爪。托瓦格尔国王面露喜色，但心下仍有些许失望，因为梦魇巨龙拒绝在头顶戴上蜡烛。",
+    "health": 30,
+    "heroPowerDbfId": 55806,
+    "id": "DRG_610",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "梦魇巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>抽一张牌，其法力值消耗为（0）点。<i>（0）</i>",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57427,
+    "elite": true,
+    "flavor": "哈加莎在风中呼喊：“诚然，您的威力可以与大漩涡相匹敌！”而风暴向她回答：“我就是大漩涡。”",
+    "health": 30,
+    "heroPowerDbfId": 55808,
+    "id": "DRG_620",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风暴巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤两个2/2并具有<b>突袭</b>的风暴。<i>（0）</i>",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57413,
+    "elite": true,
+    "flavor": "大地在巨龙脚下震颤之时，砰砰博士继续说道：“……共计使用了400余吨坚固的银制风暴板甲片。”而后他按响了一个小小的遥控器。“还有豪华的销钉！”",
+    "health": 30,
+    "heroPowerDbfId": 55805,
+    "id": "DRG_650",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无敌巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>抽一张随从牌，使其获得+4/+4。<i>（0）</i>",
+    "type": "HERO"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57416,
+    "elite": true,
+    "flavor": "拉祖尔呼唤着迦拉克隆的名字，地底深渊的声音回响应和。迦拉克隆的双眼缓缓开启……随后其余的眼睛也一并睁开。",
+    "health": 30,
+    "heroPowerDbfId": 55810,
+    "id": "DRG_660",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "讳言巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机消灭一个敌方随从。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

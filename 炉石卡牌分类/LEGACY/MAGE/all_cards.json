@@ -1,0 +1,230 @@
+[
+  {
+    "artist": "Vance Kovacs",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77,
+    "flavor": "你能想象一个嗜血的兽人发出咩咩的叫声吗？",
+    "id": "CS2_022",
+    "name": "变形术",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "ARCANE",
+    "text": "使一个随从变形成为1/1的绵羊。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Berggren",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 555,
+    "flavor": "使用这张牌能让你变得更聪明。面对现实吧：变聪明些对我们大家来说都是好事。",
+    "id": "CS2_023",
+    "name": "奥术智慧",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "ARCANE",
+    "text": "抽两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Ellis",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 662,
+    "flavor": "在你用这张牌的时候，你可以随意喊出一些咒语，比如“冻住！”“冻结！”或者“结冰，结冰吧，宝贝儿！”",
+    "id": "CS2_024",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "寒冰箭",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "FROST",
+    "text": "对一个角色造成$3点伤害，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Howard Lyon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 447,
+    "flavor": "魔爆术曾是让法师们区别于艾泽拉斯其他职业的技能之一。",
+    "id": "CS2_025",
+    "name": "魔爆术",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "ARCANE",
+    "text": "对所有敌方随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Josh Tallman",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 587,
+    "flavor": "嘿，伙计，这会冻死你的。我是说真的。",
+    "id": "CS2_026",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "冰霜新星",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>所有敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 1084,
+    "flavor": "哦，嘿，这是个镜像！！像镜个是这，嘿，哦",
+    "id": "CS2_027",
+    "name": "镜像",
+    "rarity": "FREE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LEGACY",
+    "text": "召唤两个0/2，并具有<b>嘲讽</b>的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 315,
+    "flavor": "这个法术会让东西烧起来。如果你是在寻找能把东西烤熟，或者只是加热的法术，你就找错对象了。",
+    "id": "CS2_029",
+    "name": "火球术",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "FIRE",
+    "text": "造成$6点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Romain De Santi",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 1004,
+    "flavor": "当地板着火的时候，无论你在地上怎么打滚，都是没用的。",
+    "id": "CS2_032",
+    "name": "烈焰风暴",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "FIRE",
+    "text": "对所有敌方随从造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "John Avon",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 395,
+    "flavor": "千万别在晚会上召唤水元素。它会把一切都搞砸的。",
+    "health": 6,
+    "id": "CS2_033",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "水元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "text": "<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52255,
+    "flavor": "这个法术听起来很次，实际上并非如此。",
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_179",
+    "name": "冰刺",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "LEGACY",
+    "spellSchool": "FROST",
+    "text": "对一个随从造成$2点伤害。如果它已被<b>冻结</b>，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Derk Venneman",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52262,
+    "flavor": "秘术的合订本就是秘典。",
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_180",
+    "name": "智慧秘典",
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "spellSchool": "ARCANE",
+    "text": "随机将一张法师法术牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Warren Mahy",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 564,
+    "flavor": "既然你想要做一个超级厉害的法师，就必须得把奥术飞弹控制得好一些。",
+    "id": "EX1_277",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "奥术飞弹",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害，随机分配到所有敌人身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 113180,
+    "elite": true,
+    "flavor": "她是麦迪文的母亲，所以无论你做出什么坏事，她都不会对你感到失望。",
+    "health": 5,
+    "id": "LEG_CS3_001",
+    "mechanics": [
+      "DEATHRATTLE",
+      "SPELLPOWER"
+    ],
+    "name": "守护者艾格文",
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>，<b>亡语：</b>你抽到的下一张随从牌会继承这些能力。",
+    "type": "MINION"
+  }
+]

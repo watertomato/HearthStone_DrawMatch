@@ -1,0 +1,30 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42766,
+    "flavor": "我有一对拉格纳罗斯和一对铸甲师。你呢？",
+    "id": "ICC_091",
+    "name": "亡者之牌",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "复制你的手牌并洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43505,
+    "flavor": "啊，这里真冷。希望她没有带着加基森拍卖师。",
+    "id": "ICC_837",
+    "name": "放马过来",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "获得10点护甲值。使你对手的手牌中所有随从牌的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  }
+]

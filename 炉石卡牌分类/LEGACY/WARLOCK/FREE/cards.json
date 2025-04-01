@@ -1,0 +1,176 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 914,
+    "flavor": "黑暗中的威胁 —— 明枪易躲，暗箭难防。",
+    "id": "CS2_057",
+    "name": "暗影箭",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 919,
+    "flavor": "“我只是减少了你一年的寿命而已。”",
+    "id": "CS2_061",
+    "name": "吸取生命",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "SHADOW",
+    "text": "造成$2点伤害，为你的英雄恢复#2点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chippy",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 950,
+    "flavor": "鸟尽弓藏，兔死狗烹，术士才不需要什么忠心耿耿的随从。",
+    "id": "CS2_062",
+    "name": "地狱烈焰",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "FIRE",
+    "text": "对所有角色造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 982,
+    "flavor": "心灵的腐蚀来自于最初的一些小偷小摸，而在你意识到它之前...嘭！一切化为乌有！",
+    "id": "CS2_063",
+    "name": "腐蚀术",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "SHADOW",
+    "text": "选择一个敌方随从，在你的回合开始时，消灭该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 1019,
+    "flavor": "“地狱火！”——加拉克苏斯，燃烧军团的艾瑞达之王",
+    "health": 6,
+    "id": "CS2_064",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐惧地狱火",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>对所有其他角色造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48,
+    "flavor": "虽然他也拥有蓝色的，胖胖的身材，但他和某部动画片里的主角没关系。",
+    "health": 3,
+    "id": "CS2_065",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "虚空行者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Gaser",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 1092,
+    "flavor": "很久以前，术士们发现只要在普通的法术中加入一点令人作呕的颜色，就能在伤害敌人的同时使其恐惧。真是一举两得。",
+    "id": "EX1_302",
+    "name": "死亡缠绕",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$1点伤害。如果消灭该随从，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 592,
+    "flavor": "这个小家伙不咬鞋改咬卡牌了。",
+    "health": 3,
+    "id": "EX1_306",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>\n随机弃一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 974,
+    "flavor": "是把别人的灵魂点燃？还是用自己的灵魂把别人点燃？这似乎是有很大区别的。",
+    "id": "EX1_308",
+    "name": "灵魂之火",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "FIRE",
+    "text": "造成$4点伤害，随机弃一\n张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 163,
+    "flavor": "这就是恶魔不愿意和术士交朋友的原因。",
+    "id": "NEW1_003",
+    "name": "牺牲契约",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个友方恶魔，为你的英雄恢复#5点生命值。",
+    "type": "SPELL"
+  }
+]

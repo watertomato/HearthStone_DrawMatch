@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Chris Seaman",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43112,
+    "flavor": "所有人，都来牌库这！",
+    "id": "LOOT_008",
+    "name": "心灵尖啸",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "SHADOW",
+    "text": "将所有随从洗入你对手的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46460,
+    "flavor": "巨龙们把他留在身边只是为了将来当点心吃掉。",
+    "health": 4,
+    "id": "LOOT_528",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光侍僧",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "targetingArrowText": "交换攻击力。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则将本随从的攻击力与另一个随从交换。",
+    "type": "MINION"
+  }
+]

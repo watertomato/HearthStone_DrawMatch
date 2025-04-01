@@ -1,0 +1,414 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106323,
+    "flavor": "电路负载过多就成了过载。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_BOT_451",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "流电爆裂",
+    "overload": 1,
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "召唤两个1/1并具有<b>突袭</b>的“火花”。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69731,
+    "flavor": "伊莱克特拉把她的元素藏在了云端里。",
+    "health": 3,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_BOT_533",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凶恶的雨云",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>战吼：</b>随机将一张元素牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 56472,
+    "dbfId": 120464,
+    "flavor": "没有了阳鳃的祈祷，赞加沼泽再无晴空。",
+    "health": 4,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_BT_115",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "沼泽之子",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>战吼：</b>如果你在上回合施放过法术，<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 40285,
+    "dbfId": 120466,
+    "flavor": "玉莲帮正是看中了水语者预见未来的能力，才派他们潜伏在加基森的股票交易所。",
+    "health": 6,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_CFM_061",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD"
+    ],
+    "name": "锦鱼人水语者",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "CORE",
+    "targetingArrowText": "恢复6点生命值。",
+    "text": "<b>战吼：</b>恢复#6点生命值。<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69516,
+    "flavor": "他从来不洗澡。嗯...",
+    "health": 5,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_CS2_042",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lars Grant-West",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76293,
+    "flavor": "德雷克塔尔失明了，但他依然能够看见很多东西。你懂得我的意思吗？你懂得用心灵去观察吗？",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得250场对战后解锁。",
+    "id": "CORE_CS2_053",
+    "name": "视界术",
+    "rarity": "EPIC",
+    "set": "CORE",
+    "text": "抽一张牌，该牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daarken",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69625,
+    "flavor": "闪电箭！闪电箭！闪电箭！",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_EX1_238",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "闪电箭",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "造成$3点伤害，<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Hui",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69551,
+    "flavor": "如果你对一个鱼人使用妖术...其实结果也没什么变化，对不对？",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_EX1_246",
+    "name": "妖术",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "使一个随从变形成为一只0/1并具有<b>嘲讽</b>的青蛙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Clint Langley",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69626,
+    "flavor": "幽灵狼只是普通的狼而已，它们擅长发出吓人的寒光。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_EX1_248",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "野性狼魂",
+    "overload": 1,
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "召唤两只2/3并具有<b>嘲讽</b>的幽灵狼。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69627,
+    "flavor": "硬如磐石，坚不可破。",
+    "health": 9,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得250场对战后解锁。",
+    "id": "CORE_EX1_250",
+    "mechanics": [
+      "OVERLOAD",
+      "TAUNT"
+    ],
+    "name": "土元素",
+    "overload": 2,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "CORE",
+    "text": "<b>嘲讽</b>，<b>过载：</b>（2）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Christopher Moeller",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69629,
+    "flavor": "恐怕打伞是没有用的。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_EX1_259",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "闪电风暴",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "对所有敌方随从造成$3点伤害，<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jonathan Ryder",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76294,
+    "flavor": "图腾制造师喜欢用最稀有的木材来打造图腾。甚至有传言说，这些图腾是由埃隆巴克保护者身上的树皮做的。",
+    "health": 3,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_EX1_565",
+    "mechanics": [
+      "ADJACENT_BUFF",
+      "AURA"
+    ],
+    "name": "火舌图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "相邻的随从拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 48393,
+    "dbfId": 120572,
+    "flavor": "越来越多的萨满祭司开始用图腾来抽水烟。",
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得100场对战后解锁。",
+    "id": "CORE_GIL_836",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "炽焰祈咒",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "CORE",
+    "spellSchool": "FIRE",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 69632,
+    "elite": true,
+    "flavor": "他是四大元素领主中最弱的一个。而另外三个总是会提醒他这一点。",
+    "health": 6,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得500场对战后解锁。",
+    "id": "CORE_NEW1_010",
+    "mechanics": [
+      "CHARGE",
+      "DIVINE_SHIELD",
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "name": "风领主奥拉基尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>冲锋，圣盾，嘲讽，风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 87920,
+    "elite": true,
+    "flavor": "卡格瓦纪念朋友和吞噬敌人的方式是一样的，吃到肚里没人分得清。",
+    "health": 6,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得500场对战后解锁。",
+    "id": "CORE_TRL_345",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "卡格瓦，青蛙之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>战吼：</b>将你上回合使用的所有法术牌移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samche Chen",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 63073,
+    "dbfId": 120881,
+    "flavor": "不要再嚎了，汽大伤身。",
+    "health": 3,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CORE_WC_042",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "哀嚎蒸汽",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "在你使用一张元素牌后，获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 62442,
+    "flavor": "学徒做错了什么？",
+    "health": 2,
+    "howToEarn": "与萨满祭司职业一同解锁。",
+    "howToEarnGolden": "使用萨满祭司赢得50场对战后解锁。",
+    "id": "CS3_007",
+    "mechanics": [
+      "OVERLOAD",
+      "SPELLPOWER"
+    ],
+    "name": "电击学徒",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n<b>过载：</b>（1）",
+    "type": "MINION"
+  }
+]

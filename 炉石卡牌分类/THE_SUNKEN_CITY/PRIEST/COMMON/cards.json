@@ -1,0 +1,81 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76583,
+    "flavor": "醒醒！当心敌人鱼死网破！",
+    "health": 4,
+    "id": "TID_085",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "圣光使徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过神圣法术，为所有友方角色恢复#6点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 72482,
+    "flavor": "哇！金色普通杯！",
+    "id": "TSC_210",
+    "mechanics": [
+      "DREDGE"
+    ],
+    "name": "金光闪耀",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "<b>探底</b>。\n如果选中的是法术牌，使其法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72485,
+    "flavor": "列王守卫的老冤家。",
+    "health": 3,
+    "id": "TSC_213",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女王护卫",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>在本回合中你每施放过一个法术，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 80118,
+    "flavor": "你愿意选谁当对手：一条鲸鱼那么大的金鱼，还是100条金鱼那么大的鲸鱼？",
+    "id": "TSC_702",
+    "name": "体型互换",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "抽两张随从牌，交换其生命值。",
+    "type": "SPELL"
+  }
+]

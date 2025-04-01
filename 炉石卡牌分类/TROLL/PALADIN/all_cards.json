@@ -1,0 +1,208 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 25,
+    "dbfId": 49981,
+    "elite": true,
+    "flavor": "塞卡尔跪在神龛前摆好了供品，西瓦尔拉总会用小爪子把它拨到地上。",
+    "health": 5,
+    "id": "TRL_300",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "name": "西瓦尔拉，猛虎之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>圣盾，突袭，吸血</b>\n你每消耗1点法力值用于法术牌上，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 49999,
+    "flavor": "这就是……圣骑士的绝对领域吗？！",
+    "id": "TRL_302",
+    "name": "暂避锋芒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "TROLL",
+    "text": "直到你的\n下个回合，你的英雄<b>免疫</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "M. Alvares & M. Azevedo",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50014,
+    "durability": 0,
+    "flavor": "诸事无常，唯死亡与利斧永恒。",
+    "health": 3,
+    "id": "TRL_304",
+    "mechanics": [
+      "OVERKILL"
+    ],
+    "name": "法拉基战斧",
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "<b>超杀：</b>使你手牌中的一张随从牌\n获得+2/+2。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 50019,
+    "flavor": "江山代有毒瘤出，各领天梯好几年。",
+    "id": "TRL_305",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "新人登场",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "TROLL",
+    "text": "<b>发现</b>一张法力值消耗为（6）的随从牌。召唤该随从并使其获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50022,
+    "flavor": "谁说最好的防守就是进攻\n能活着撑到最后才行得通",
+    "health": 3,
+    "id": "TRL_306",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "永恒祭司",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "<b>亡语：</b>将本随从洗入你的牌库。保留所有附加效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50028,
+    "flavor": "早知道戴上氪金护目镜了！",
+    "id": "TRL_307",
+    "name": "圣光闪现",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "spellSchool": "HOLY",
+    "text": "恢复#4点生命值。抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50126,
+    "elite": true,
+    "flavor": "“一血反杀，啧啧，真刺激！”",
+    "health": 4,
+    "id": "TRL_308",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高阶祭司塞卡尔",
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>保留英雄的1点生命值，将其余部分转化为护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 0,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50031,
+    "flavor": "心有猛虎，细嗅蔷薇。",
+    "health": 3,
+    "id": "TRL_309",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "猛虎之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "<b>潜行</b>一回合。在你施放一个法术后，召唤一只属性值\n等于其法力值消耗的老虎。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50512,
+    "durability": 0,
+    "flavor": "快使用*哎呀*……血爪，哼哼哈*哎呀*嘿！",
+    "health": 2,
+    "id": "TRL_543",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血爪",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>对你的英雄造成5点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你累计恢复了10点生命值，则获得+4/+4和<b>嘲讽</b>。",
+    "cost": 4,
+    "dbfId": 50514,
+    "flavor": "你曾是一位圣殿骑士啊，琼达！",
+    "health": 4,
+    "id": "TRL_545",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "赞达拉武士",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TROLL",
+    "text": "<b>战吼：</b>在本局对战中，如果你累计恢复了10点生命值，则获得+4/+4和<b>嘲讽</b>。@<i>（还剩{0}点！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  }
+]

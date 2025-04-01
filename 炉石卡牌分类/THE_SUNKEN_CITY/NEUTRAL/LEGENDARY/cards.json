@@ -1,0 +1,182 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 75580,
+    "elite": true,
+    "flavor": "<b>亡语：</b>八分遗憾。",
+    "health": 5,
+    "id": "TID_711",
+    "isMiniSet": true,
+    "mechanics": [
+      "COLOSSAL",
+      "DEATHRATTLE"
+    ],
+    "name": "厄祖玛特",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>巨型+6</b>\n<b>亡语：</b>每有一条厄祖玛特的触须，随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 75583,
+    "elite": true,
+    "flavor": "耐普图隆不愿再把手塞得满满当当。他学会了放手。",
+    "health": 7,
+    "id": "TID_712",
+    "isMiniSet": true,
+    "mechanics": [
+      "COLOSSAL",
+      "RUSH",
+      "TRIGGER_VISUAL",
+      "WINDFURY"
+    ],
+    "name": "猎潮者耐普图隆",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>巨型+2</b>\n<b>突袭</b>，<b>风怒</b>，每当耐普图隆攻击时，如果你控制着任意耐普图隆之手，改为由手攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 72007,
+    "elite": true,
+    "flavor": "啊，又一位滥用反制的剑士。",
+    "health": 6,
+    "howToEarn": "打开<i>探寻沉没之城</i>卡牌包后可解锁。",
+    "howToEarnGolden": "购买<i>探寻沉没之城</i>炉石通行证后开放解锁。",
+    "id": "TSC_032",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "剑圣奥卡尼",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "COUNTER"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>秘密</b>选择一项，当本随从存活时，<b>反制</b>你对手使用的下一张随从牌或法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 74907,
+    "elite": true,
+    "flavor": "数千年来，费林渴望着回归故乡。现在的辛艾萨莉是否如他所愿？深海的秘密是否应当揭晓？",
+    "health": 5,
+    "howToEarn": "完成成就“深海水怪”后解锁。",
+    "howToEarnGolden": "可以在<i>探寻沉没之城</i>奖励路线中获得该奖励。",
+    "id": "TSC_067",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "费林大使",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "COLOSSAL"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>将3张<b>巨型</b>随从牌置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniel Orive",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，选择一项远古圣物。",
+    "cost": 5,
+    "dbfId": 72923,
+    "elite": true,
+    "flavor": "爱好：号令臣民，与上古之神交易，还有在沙滩下散步。",
+    "health": 5,
+    "id": "TSC_641",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾萨拉女王",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，选择一项远古圣物。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 73068,
+    "elite": true,
+    "flavor": "早在转行探险之前，伊妮便以其多项发明而著称。比如说面包机飞艇，200倍超链轮双筒望远镜，还有牛仔袍（其实就是牛仔布长袍）。",
+    "health": 4,
+    "id": "TSC_649",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伊妮·积雷",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH",
+      "WINDFURY"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "targetingArrowText": "召唤一个具有<b>突袭</b>，<b>风怒</b>和<b>圣盾</b>的复制。",
+    "text": "<b>战吼：</b>选择一个友方机械，召唤一个它的具有<b>突袭</b>，<b>风怒</b>和<b>圣盾</b>的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 71781,
+    "elite": true,
+    "flavor": "“别担心，朋友们，我这有地图。地图上都写着呢，一直向下！”",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "TSC_908",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海中向导芬利爵士",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>将你的手牌和牌库底的牌交换。",
+    "type": "MINION"
+  }
+]

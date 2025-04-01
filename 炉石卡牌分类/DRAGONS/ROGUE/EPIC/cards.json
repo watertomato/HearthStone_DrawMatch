@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Maria Trepalina",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55094,
+    "flavor": "“就三个金币？！你知道这条任务线有多长吗？”",
+    "health": 3,
+    "id": "DRG_027",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幽影潜藏者",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你已经<b>祈求</b>过两次，则将三张幸运币置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Yewon Park",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 55099,
+    "flavor": "死金药剂：既无余味，也无余生。",
+    "health": 5,
+    "id": "DRG_031",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "死金药剂师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>连击：</b>从你的牌库中抽一张<b>亡语</b>随从牌并获得其<b>亡语</b>。",
+    "type": "MINION"
+  }
+]

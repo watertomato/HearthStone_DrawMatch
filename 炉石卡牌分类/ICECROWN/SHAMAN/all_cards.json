@@ -1,0 +1,212 @@
+[
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42676,
+    "flavor": "等我们找到解药就来融化你。",
+    "id": "ICC_056",
+    "name": "低温静滞",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "使一个随从获得+3/+3，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42678,
+    "flavor": "因其自带保鲜功能，畅销艾泽拉斯的各个角落！",
+    "health": 2,
+    "id": "ICC_058",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冷冻鱼人",
+    "race": "MURLOC",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "冻结一个敌人。",
+    "text": "<b>战吼：</b>\n<b>冻结</b>一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42747,
+    "flavor": "“打雪仗”的终极版。",
+    "id": "ICC_078",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "雪崩",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，并对其相邻的随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42750,
+    "flavor": "有时候，最好的进攻就是防御。",
+    "health": 8,
+    "id": "ICC_081",
+    "mechanics": [
+      "OVERLOAD",
+      "TAUNT"
+    ],
+    "name": "达卡莱防御者",
+    "overload": 3,
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>，<b>过载：</b>（3）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42762,
+    "flavor": "妖术师那恐怖的图腾让白银之手新兵们不寒而栗：那是一个被大头针钉住的小小雪人。",
+    "health": 7,
+    "id": "ICC_088",
+    "mechanics": [
+      "FREEZE",
+      "TAUNT"
+    ],
+    "name": "巫毒妖术师",
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42763,
+    "flavor": "两个鱼人两张嘴，四只眼睛，多少条腿？",
+    "id": "ICC_089",
+    "name": "冰钓术",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "从你的牌库中抽两张鱼人牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 8,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 11,
+    "dbfId": 42765,
+    "flavor": "双11来了，你的卡准备好过载了吗？",
+    "health": 8,
+    "id": "ICC_090",
+    "name": "雪怒巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "ICECROWN",
+    "text": "在本局对战中，你每<b>过载</b>一个法力水晶，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42808,
+    "durability": 0,
+    "flavor": "其实这把斧头也是冰做的。",
+    "health": 3,
+    "id": "ICC_236",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "破冰斧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "消灭所有受到该武器伤害的被<b>冻结</b>的随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 43072,
+    "elite": true,
+    "flavor": "莫拉比究竟是怎么给那些冻结的随从涂上风味糖浆的，这是一个世纪谜题。",
+    "health": 4,
+    "id": "ICC_289",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫拉比",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "每当有其他随从被<b>冻结</b>，将一张被<b>冻结</b>随从的复制置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Jerry Mascho",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42987,
+    "elite": true,
+    "flavor": "“不要害怕。过来。亡者会沉睡……一段时间。”",
+    "health": 30,
+    "heroPowerDbfId": 42982,
+    "id": "ICC_481",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡先知萨尔",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>随机将你的所有随从变形成为法力值消耗增加（2）点的随从。",
+    "type": "HERO"
+  }
+]

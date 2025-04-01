@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "Grafit",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114967,
+    "flavor": "死亡骑士是操纵死亡的大师，可以用暗影魔法来控制无尽的……蚂蚁？",
+    "id": "EDR_813",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "病变虫群",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>召唤两只1/1的蚂蚁；或者消耗2份<b>残骸</b>，对一个随从造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 0,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114306,
+    "flavor": "在某些情况下，最好不要“驻足欣赏，品味花香”。",
+    "health": 5,
+    "id": "EDR_815",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "尸魔花",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "EMERALD_DREAM",
+    "text": "在你的对手召唤一个随从后，消耗2份<b>残骸</b>以对其造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114966,
+    "flavor": "别怕，这些都是<i>医用</i>水蛭！",
+    "id": "EDR_817",
+    "name": "血虫感染",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "EMERALD_DREAM",
+    "text": "抽两张牌。召唤两条0/2的水蛭。",
+    "type": "SPELL"
+  }
+]

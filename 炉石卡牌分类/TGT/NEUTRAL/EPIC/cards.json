@@ -1,0 +1,182 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2569,
+    "flavor": "作为黑龙军团秘密实验的产物，暮光守护者如此阴狠残忍也就不足为奇了。",
+    "health": 6,
+    "id": "AT_017",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光守护者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1攻击力和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2517,
+    "flavor": "之所以对你如此严格要求是因为他很关心你，只不过不愿意承认罢了。",
+    "health": 3,
+    "id": "AT_080",
+    "name": "要塞指挥官",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "每个回合你可以使用两次英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2573,
+    "flavor": "嘿！我也想试试你的英雄技能……",
+    "health": 5,
+    "id": "AT_098",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "杂耍吞法者",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "<b>战吼：</b>复制对手的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Wootten",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2598,
+    "flavor": "有人管她叫犀牛骑手，她很不开心。",
+    "health": 5,
+    "id": "AT_099",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "科多兽骑手",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "<b>激励：</b>召唤一个3/5的作战科多兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2509,
+    "flavor": "我才不会告诉你我的这位侍从是在白银之手骑士那里挖过来的呢！",
+    "health": 4,
+    "id": "AT_113",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "征募官",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "<b>激励：</b>将一个2/2的侍从置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2493,
+    "flavor": "台风热辣，魅力四射！",
+    "health": 2,
+    "id": "AT_117",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "庆典司仪",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你控制任何具有<b>法术伤害</b>的随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Lockwood",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2510,
+    "flavor": "她是一名久经沙场的十字军统领，代表了正义和信仰。她上一次的征讨对象是地精电话推销员。",
+    "health": 5,
+    "id": "AT_118",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "十字军统领",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "<b>战吼：</b>\n随机将一张圣骑士牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Greg Staples",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 2512,
+    "flavor": "别问他胡须是怎么来的，不然有你好受的。",
+    "health": 8,
+    "id": "AT_120",
+    "name": "冰霜巨人",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "在本局对战中，你每使用一次英雄技能，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "battlegroundsPremiumDbfId": 58383,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2518,
+    "flavor": "观众的喜怒哀乐有时也会影响到战局。",
+    "health": 4,
+    "id": "AT_121",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "人气选手",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "TGT",
+    "techLevel": 3,
+    "text": "每当你使用一张具有<b>战吼</b>的牌，便获得+1/+1。",
+    "type": "MINION"
+  }
+]

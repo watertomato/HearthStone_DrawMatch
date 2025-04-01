@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110119,
+    "flavor": "擅长抓取外星物种。抓毛绒娃娃时不太好用。",
+    "health": 6,
+    "id": "GDB_107",
+    "mechanics": [
+      "STARSHIP_PIECE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "取样探爪",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "在你的对手使用一张随从牌后，攻击该随从。\n<b>星舰组件</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Drew Hill",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111068,
+    "durability": 0,
+    "flavor": "在魔兽宇宙中，数学变成了武器。",
+    "health": 3,
+    "id": "GDB_843",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "视差光枪",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DISCOVER",
+      "IMMUNE"
+    ],
+    "set": "SPACE",
+    "text": "如果你在本回合中\n<b><b>发现</b>过</b>，则拥有+2攻击力。<b><b>法术迸发</b>：</b>在本回合中，你的英雄<b>免疫</b>。",
+    "type": "WEAPON"
+  }
+]

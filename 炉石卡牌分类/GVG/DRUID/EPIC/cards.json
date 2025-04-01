@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 2001,
+    "flavor": "这棵虽然不是摇钱树，但是却能救好多人的命。",
+    "id": "GVG_033",
+    "name": "生命之树",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "为所有角色恢复所有生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2009,
+    "flavor": "别担心，我们已经把命名这张牌的家伙给开除了。",
+    "id": "GVG_041",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "黑暗私语",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>\n召唤5个小精灵；或者使一个随从获得+5/+5和<b>嘲讽</b>。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "Alex Garner",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2555,
+    "flavor": "她最爱做的事就是先把人打个半死，再帮那人慢慢恢复。",
+    "health": 4,
+    "id": "AT_011",
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "神圣勇士",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>过量治疗：</b>获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2568,
+    "flavor": "对于一个随从而言，许之以无尚的荣耀，比给家冰淇淋店什么的来得有劲多了！",
+    "id": "AT_013",
+    "name": "真言术：耀",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "spellSchool": "HOLY",
+    "text": "选择一个随从。每当其进行攻击，为你的英雄恢复\n4点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Marcelo Vignali",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2582,
+    "flavor": "快治……英雄阵亡！",
+    "id": "AT_055",
+    "name": "快速治疗",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "spellSchool": "HOLY",
+    "text": "恢复#5点生命值。",
+    "type": "SPELL"
+  }
+]

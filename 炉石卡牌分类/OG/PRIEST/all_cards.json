@@ -1,0 +1,164 @@
+[
+  {
+    "artist": "Jesper Ejsing",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38426,
+    "flavor": "这么多触手都是保护我的吗？要是拿不下来该怎么办……",
+    "id": "OG_094",
+    "name": "真言术：触",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+2/+6。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Garner",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38429,
+    "flavor": "想用黑暗能量来治疗，先得从光里剥离出来，再用清水洗净晾干即可。",
+    "health": 5,
+    "id": "OG_096",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光暗愈者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>如果你的克苏恩至少有10点攻击力，便为你的英雄恢复#10点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38433,
+    "flavor": "其实并没有被消灭，而是被吸入无尽的虚空之中。",
+    "id": "OG_100",
+    "name": "暗言术：骇",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有攻击力小于或等于2的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 38434,
+    "flavor": "唯一的缺点就是召唤出来的随从都黏糊糊的。",
+    "id": "OG_101",
+    "name": "禁忌畸变",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "消耗你所有的法力值，随机\n召唤一个法力值消耗相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38439,
+    "flavor": "要是你的奥金尼灵魂祭司请病假了，就用它吧。",
+    "id": "OG_104",
+    "name": "暗影之握",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "SHADOW",
+    "text": "在本回合中，你的治疗效果转而造成等量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Seaman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38764,
+    "flavor": "她最拿手的甜点就是巧克力熔岩漏斗蛋糕。",
+    "health": 5,
+    "id": "OG_234",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夜色镇炼金师",
+    "rarity": "COMMON",
+    "set": "OG",
+    "targetingArrowText": "恢复5点生命值。",
+    "text": "<b>战吼：</b>\n恢复#5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38922,
+    "elite": true,
+    "flavor": "作为传令官他的工作其实很简单，就是整天吆喝：“尤格-萨隆要来啦！”",
+    "health": 5,
+    "id": "OG_316",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "传令官沃拉兹",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼：</b>召唤所有其他友方随从的复制，他们均为1/1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39033,
+    "flavor": "你见过不带兜帽的侍僧吗？反正我没见过……",
+    "health": 6,
+    "id": "OG_334",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "兜帽侍僧",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>嘲讽</b>。每当一个角色获得治疗时，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39034,
+    "flavor": "看！这是我的胸肌，这是我的马甲线，这是我的……我的肚子去哪儿了？",
+    "health": 3,
+    "id": "OG_335",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "变幻之影",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>亡语：</b>复制你对手的牌库中的一张牌，并将其置入你的手牌。",
+    "type": "MINION"
+  }
+]

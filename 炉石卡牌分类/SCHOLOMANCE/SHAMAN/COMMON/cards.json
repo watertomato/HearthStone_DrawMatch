@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58790,
+    "durability": 0,
+    "flavor": "实验表明，被戳中之后会让人更容易受到法术伤害。",
+    "health": 3,
+    "id": "SCH_301",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "符文匕首",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你的英雄攻击后，在本回合中获得<b>法术伤害+1</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59694,
+    "flavor": "巨浪，巨浪，不断地增长！",
+    "id": "SCH_535",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "潮汐奔涌",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "<b>吸血</b>\n对所有随从造成\n$3点伤害。",
+    "type": "SPELL"
+  }
+]

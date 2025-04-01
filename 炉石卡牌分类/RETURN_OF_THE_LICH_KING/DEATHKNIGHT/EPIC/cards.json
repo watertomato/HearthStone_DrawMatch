@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "David Kang",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 80088,
+    "flavor": "部落和联盟围攻冰冠堡垒之后，顺手把这些机器带了回去，用在了肉铺里。",
+    "health": 4,
+    "id": "RLK_120",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "绞肉机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>随机绞碎你牌库中的一个随从，获得4份<b>残骸</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 81963,
+    "flavor": "死后继续按键，向同伴“借”一条魂。",
+    "health": 5,
+    "id": "RLK_741",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "窃魂者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>\n消灭所有其他随从。每消灭一个敌方随从，获得1份<b>残骸</b>。",
+    "type": "MINION"
+  }
+]

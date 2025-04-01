@@ -1,0 +1,307 @@
+[
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104537,
+    "flavor": "安度因会大大方方地带走你的东西。圣光的事，能算偷吗？",
+    "id": "DEEP_021",
+    "isMiniSet": true,
+    "name": "暗言术：窃",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "将一个敌方随从移回<b>你</b>的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102422,
+    "flavor": "独角兽牧师一定喜欢这个。",
+    "health": 2,
+    "id": "DEEP_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "隐藏宝石",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>潜行</b>。在你的回合结束时，为所有友方角色恢复#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102424,
+    "flavor": "信不信由你，这一只是列车司机杰里的旋岩虫。那么它的名字究竟应该读作什么呢？杰里的旋岩虫？杰瑞的旋岩虫？还是杰瑞的旋烟囱？",
+    "health": 4,
+    "id": "DEEP_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "FORGE",
+      "LIFESTEAL",
+      "QUICKDRAW"
+    ],
+    "name": "亮石旋岩虫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "WILD_WEST",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b><b>吸血</b>。快枪：</b>造成5点伤害。<b>锻造：</b>将<b>快枪</b>变为<b>战吼</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102423,
+    "flavor": "对镜泄愤一下子，映像破碎一辈子:(",
+    "id": "DEEP_025",
+    "isMiniSet": true,
+    "name": "破碎映像",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TITAN"
+    ],
+    "set": "WILD_WEST",
+    "text": "选择一个随从，将一个它的复制置入你的手牌，牌库和战场。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102426,
+    "flavor": "大——地——坠——饰——之——力！！",
+    "id": "DEEP_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "大地坠饰",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "从你的牌库中<b>发现</b>一张随从牌，为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101110,
+    "flavor": "不不不，我要的不是瓶装闪光，是瓶装闪电！",
+    "id": "WW_052",
+    "name": "萤光虫群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤10只1/1并具有<b>吸血</b>的萤光虫。将超过随从数量上限的萤光虫存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101382,
+    "flavor": "飞车党连车都要劫走！？",
+    "id": "WW_053",
+    "name": "飞车劫掠",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "获取你的对手上回合使用的每张卡牌的各一张复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101481,
+    "faction": "HORDE",
+    "flavor": "荒芜之地到处都是仙人掌，这份工作一定很伤人。",
+    "health": 7,
+    "id": "WW_381",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERHEAL"
+    ],
+    "name": "受伤的搬运工",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>对本随从造成4点伤害。<b>过量治疗：</b>对所有敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101955,
+    "flavor": "“呵，你想多了，我们银行的名字叫‘和善’。”",
+    "health": 4,
+    "id": "WW_384",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "QUICKDRAW"
+    ],
+    "name": "和善的银行职员",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张法术牌。<b>快枪：</b>改为从敌方牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101958,
+    "flavor": "快！给她拿一张法力渴求牌！",
+    "health": 6,
+    "id": "WW_387",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "口渴的流浪者",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。在本局对战中，你每使用过一张法力值消耗为（1）的牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 101989,
+    "elite": true,
+    "flavor": "从图书馆到荒野，她证明了自己的领导才能。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "WW_392",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒地奇兵伊莉斯",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，随机召唤你牌库中4个随从的5/5的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102051,
+    "flavor": "不要让阴影四处蔓延，快瓶蔽掉！",
+    "id": "WW_393",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "影叶入侵",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "对一个敌方随从造成$10点伤害。将超过目标生命值的伤害存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102052,
+    "elite": true,
+    "flavor": "有一次，我发现危险的坏蛋切瑞·欧列就在皮普的身边，可我最终只喊出了“皮普！皮普！欧——”",
+    "health": 3,
+    "id": "WW_394",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "皮普，强力水霸",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>复制你手牌中法力值消耗为\n（1）的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102054,
+    "flavor": "这儿有瓶儿水儿！",
+    "id": "WW_395",
+    "name": "神圣泉水",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "HOLY",
+    "text": "为一个受伤的角色恢复#8点生命值。将超过目标生命值上限的治疗量存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104999,
+    "flavor": "不要远离朋友，更不要远离对手，更更更不要远离你自己的影子。",
+    "id": "WW_600",
+    "name": "夺舍对射",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "spellSchool": "SHADOW",
+    "text": "召唤你对手手牌中一个随机随从的4/4的复制。",
+    "type": "SPELL"
+  }
+]

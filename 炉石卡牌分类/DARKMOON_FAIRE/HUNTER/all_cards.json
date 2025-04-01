@@ -1,0 +1,250 @@
+[
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61679,
+    "flavor": "蛇，其实就是长了牙的触手。",
+    "health": 5,
+    "id": "DMF_083",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "舞动的眼镜蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ware Lee",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61690,
+    "flavor": "宝石诱人，唤你摘获；牢笼落下，无计逃脱。",
+    "id": "DMF_084",
+    "name": "恩佐斯宝石",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤三个在本局对战中死亡的友方<b>亡语</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61699,
+    "flavor": "“油满，出发！”",
+    "health": 5,
+    "id": "DMF_085",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暗月坦克",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语：</b>随机对敌人发射四枚飞弹，每枚飞弹造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "E. Li & A. Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61700,
+    "flavor": "欢迎来到宠物乐园。严禁接触动物！",
+    "id": "DMF_086",
+    "name": "宠物乐园",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤一只3/3的陆行鸟。你每控制一个<b>奥秘</b>，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61702,
+    "flavor": "奔跑的犀牛，像一个人在梦游。不打到英雄不罢休。",
+    "health": 5,
+    "id": "DMF_087",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂踏的犀牛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n在本随从攻击并消灭一个随从后，超过目标生命值的伤害会命中敌方英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61839,
+    "durability": 0,
+    "elite": true,
+    "flavor": "这把枪的枪管需要好好管一管。",
+    "health": 2,
+    "id": "DMF_088",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "瑞林的步枪",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER",
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的英雄攻击后，<b>发现</b>一张<b>奥秘</b>牌并将其\n施放。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61842,
+    "elite": true,
+    "flavor": "信不信由你，这个游戏在马戏团的玩命排行榜中仅列第四位。",
+    "health": 4,
+    "id": "DMF_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛克希玛·雷管",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>从你的牌库中召唤一个随从，使其攻击敌方英雄，然后死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61846,
+    "flavor": "上次有人给蜥蜴喂了干蜜饯，状况惨烈，直到现在还没清理完。",
+    "id": "DMF_090",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "请勿投食",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "使你手牌中的所有野兽牌获得+1/+1。<b>腐蚀：</b>改为+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61682,
+    "flavor": "奖品就是奖品，但神秘奖品可以是任何奖品！甚至可能是条船！",
+    "health": 1,
+    "id": "DMF_122",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "神秘获奖者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61683,
+    "flavor": "“都出来吧，我活不到第九回合了……”",
+    "id": "DMF_123",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "打开兽笼",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>奥秘：</b>当你的回合开始时，如果你控制着两个随从，召唤一个动物伙伴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61965,
+    "flavor": "回头想想，用套索打飞虫好像也不是很合适。",
+    "id": "YOP_027",
+    "isMiniSet": true,
+    "name": "套索射击",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "对一个随从造成$1点伤害，并对其相邻的随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61966,
+    "flavor": "座套，检查完毕。喷漆，检查完毕。杯架，检查完毕。",
+    "health": 4,
+    "id": "YOP_028",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鞍座管理员",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你使用一张野兽牌后，随机将一张野兽牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

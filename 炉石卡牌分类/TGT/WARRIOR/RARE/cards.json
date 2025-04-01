@@ -1,0 +1,70 @@
+[
+  {
+    "artist": "Michael Franchina",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2756,
+    "durability": 0,
+    "flavor": "国王护卫者是把剑，而国王暗杀者是块盾，有趣吧？",
+    "health": 2,
+    "id": "AT_065",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "国王护卫者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你控制任何具有<b>嘲讽</b>的随从，便获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2733,
+    "flavor": "你来打我呀。",
+    "health": 2,
+    "id": "AT_069",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "格斗陪练师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "targetingArrowText": "获得<b>嘲讽</b>。",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b>使一个随从获得<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Zaqumyennyy",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2758,
+    "flavor": "“在她身上多装点刺。不，多装点刺。这四个字就这么难理解吗？快照我说的去做！”——阿莱克丝塔萨",
+    "health": 3,
+    "id": "AT_071",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿莱克丝塔萨的勇士",
+    "rarity": "RARE",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "TGT",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1攻击力和<b>冲锋</b>。",
+    "type": "MINION"
+  }
+]

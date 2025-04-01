@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45859,
+    "elite": true,
+    "flavor": "好的宠物会陪伴你成长，糟糕的宠物会长到你身上。",
+    "health": 4,
+    "id": "LOOT_329",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伊克斯里德，真菌之王",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "在你使用一张随从牌后，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alexey Aparin",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46107,
+    "durability": 0,
+    "elite": true,
+    "flavor": "喜欢在公会活动中划水的德鲁伊专用。",
+    "health": 5,
+    "id": "LOOT_392",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "世界之树的嫩枝",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>亡语：</b>复原你的法力水晶。",
+    "type": "WEAPON"
+  }
+]

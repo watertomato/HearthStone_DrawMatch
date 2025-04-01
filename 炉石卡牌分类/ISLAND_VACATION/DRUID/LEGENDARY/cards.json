@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105546,
+    "elite": true,
+    "flavor": "请看您的左手边，这是我们大名鼎鼎的SPA区；而在您的右边，则是尤格-萨隆的监狱！",
+    "health": 5,
+    "id": "VAC_506",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巡游船长萝拉",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>随机召唤\n2个地标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105893,
+    "elite": true,
+    "flavor": "真名叫维斯特。",
+    "health": 5,
+    "id": "VAC_519",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "米斯塔·维斯塔",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>法师游客</b>\n<b>战吼：</b>3回合后，再次使用你在这三回合期间施放过的所有法术。",
+    "type": "MINION"
+  }
+]

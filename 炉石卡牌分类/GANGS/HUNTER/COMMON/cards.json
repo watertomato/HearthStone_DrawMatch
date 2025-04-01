@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40426,
+    "flavor": "看到那两颗金牙没，钱都是你出的。",
+    "health": 1,
+    "id": "CFM_315",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雄斑虎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>召唤一个1/1的雌斑虎。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 40679,
+    "flavor": "污手党声称不对质量问题承担任何责任。",
+    "id": "CFM_334",
+    "name": "走私货物",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "随机使你手牌中的一张野兽牌获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40681,
+    "flavor": "污手党提供的装备稳定性不怎么好，误伤事件屡有发生。",
+    "health": 3,
+    "id": "CFM_336",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "豺狼人土枪手",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "<b>亡语：</b>随机使你手牌中的一张随从牌获得+2/+2。",
+    "type": "MINION"
+  }
+]

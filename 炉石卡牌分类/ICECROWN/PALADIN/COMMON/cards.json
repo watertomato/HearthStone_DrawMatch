@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 1,
+    "battlegroundsPremiumDbfId": 63774,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42467,
+    "flavor": "本来想起名叫烈日保护者，但这里实在是太冷了。",
+    "health": 1,
+    "id": "ICC_038",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "正义保护者",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "techLevel": 1,
+    "text": "<b>嘲讽</b>\n<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42469,
+    "flavor": "在乌瑟尔的法庭上，他既是法官，也是陪审团，还是行刑者……",
+    "id": "ICC_039",
+    "name": "黑暗裁决",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "将一个随从的攻击力和生命值\n变为3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Chen",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43127,
+    "flavor": "能守能攻，一剑两用，寒刃出鞘，谁与争锋。拿上它，连最矮小的侏儒也能成为勇士。",
+    "health": 2,
+    "id": "ICC_820",
+    "mechanics": [
+      "CHARGE",
+      "LIFESTEAL"
+    ],
+    "name": "寒刃勇士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>冲锋，吸血</b>",
+    "type": "MINION"
+  }
+]

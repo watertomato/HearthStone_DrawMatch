@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Ryan Metcalf",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2765,
+    "flavor": "在经历完锦绣谷一役后，他决定好好度个假。通常他的避暑方式就是爬到雪山顶上去干掉几个雪人。",
+    "health": 7,
+    "id": "AT_028",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "影踪骁骑兵",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>连击：</b>\n获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2715,
+    "flavor": "当海盗最棒的一点就是可以穿灯笼裤。",
+    "health": 1,
+    "id": "AT_029",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "锈水海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "每当你装备一把武器，使武器获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2767,
+    "flavor": "生前是暴风城勇士，死后就成了幽暗城勇士。",
+    "health": 2,
+    "id": "AT_030",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "幽暗城勇士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "TGT",
+    "targetingArrowText": "造成1点伤害。",
+    "text": "<b>连击：</b>造成1点伤害。",
+    "type": "MINION"
+  }
+]

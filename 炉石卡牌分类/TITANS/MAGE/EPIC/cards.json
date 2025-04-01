@@ -1,0 +1,31 @@
+[
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97132,
+    "flavor": "现在我们所需的还剩下诺甘农的力量与勇气。",
+    "id": "TTN_085",
+    "name": "诺甘农的智慧",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "spellSchool": "ARCANE",
+    "text": "抽两张牌。在本局对战中，你每施放过一个不同派系的法术，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98212,
+    "flavor": "激励元素并不需要英雄技能。",
+    "id": "TTN_480",
+    "name": "元素激励",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在本局对战中，你每施放过一个派系的法术，召唤一个4/5并具有一项随机<b>额外效果</b>的元素。0<i>（召唤0个）</i>",
+    "type": "SPELL"
+  }
+]

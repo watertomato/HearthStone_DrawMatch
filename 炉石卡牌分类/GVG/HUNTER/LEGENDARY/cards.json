@@ -1,0 +1,26 @@
+[
+  {
+    "artist": "Raymond Swanland",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2017,
+    "elite": true,
+    "flavor": "祖尔法拉克队是本届巨魔世界杯的夺冠热门球队，他们的队旗上描绘着令人望而生畏的多头蛇加兹瑞拉。",
+    "health": 9,
+    "id": "GVG_049",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "加兹瑞拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "每当本随从受到伤害，其攻击力翻倍。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62845,
+    "flavor": "“这个符号的意思是火。那你想知道火是什么意思吗？”",
+    "id": "BAR_306",
+    "name": "烈焰咒符",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，对所有随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Wu",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63166,
+    "flavor": "嘘，恶魔猎手就算变成了灵魂，也忘不了复仇。",
+    "health": 4,
+    "id": "BAR_328",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "复仇之魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>流放：</b>抽两张<b>亡语</b>随从牌。",
+    "type": "MINION"
+  }
+]

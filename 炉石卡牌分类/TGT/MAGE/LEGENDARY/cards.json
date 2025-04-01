@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 7,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 2546,
+    "elite": true,
+    "flavor": "无主之人，无冕之王。",
+    "health": 7,
+    "id": "AT_009",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "罗宁",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "<b>亡语：</b>将三张奥术飞弹置入你的手牌。",
+    "type": "MINION"
+  }
+]

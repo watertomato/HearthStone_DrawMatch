@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Gustav Schmidt",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41159,
+    "flavor": "许多年轻的萨满喜欢以火山为主题来做毕业设计。",
+    "id": "UNG_025",
+    "mechanics": [
+      "OVERLOAD",
+      "ImmuneToSpellpower"
+    ],
+    "name": "火山喷发",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "造成$15点伤害，随机分配到所有随从身上。\n<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41105,
+    "flavor": "蛮鱼图腾会播放只有鱼人才能听到的声音，也还好只有他们能听到…",
+    "health": 3,
+    "id": "UNG_201",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "蛮鱼图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "在你的回合结束时，召唤一个1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41107,
+    "flavor": "擅长召唤元素，更擅长烤棉花糖。",
+    "health": 1,
+    "id": "UNG_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火羽先锋",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>使你手牌中所有元素牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  }
+]

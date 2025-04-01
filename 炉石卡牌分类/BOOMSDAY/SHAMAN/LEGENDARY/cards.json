@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48161,
+    "elite": true,
+    "flavor": "伊莱克特拉终于可以在家办公了。",
+    "id": "BOT_245",
+    "name": "风暴聚合器",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "spellSchool": "NATURE",
+    "text": "随机将你的所有随从变形成为<b>传说</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48537,
+    "elite": true,
+    "flavor": "“什么？你就用了个幸运币！？”",
+    "health": 3,
+    "id": "BOT_411",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伊莱克特拉·风潮",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>在本回合中，你的下一个法术将施放两次。",
+    "type": "MINION"
+  }
+]

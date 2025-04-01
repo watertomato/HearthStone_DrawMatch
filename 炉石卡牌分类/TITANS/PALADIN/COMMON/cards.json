@@ -1,0 +1,89 @@
+[
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98054,
+    "flavor": "我的迷你机总会感到迷辋。",
+    "health": 3,
+    "id": "TTN_852",
+    "mechanics": [
+      "MAGNETIC",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "崇高的迷你机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。在本随从攻击后，随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98056,
+    "flavor": "好了好了，我在看说明书了……",
+    "id": "TTN_854",
+    "name": "发明家的光环",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "你的机械的法力值消耗减少（1）点。持续2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100984,
+    "flavor": "你可以骂它躺平，但它确实能帮你多抽两张牌。",
+    "health": 3,
+    "id": "TTN_907",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "星界翔龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在你的回合结束时，如果本随从未攻击，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101112,
+    "flavor": "哥们，你锻炼过吗？",
+    "health": 4,
+    "id": "YOG_525",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "健身肌器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+1/+1。<b>锻造：</b>改为+2/+2。",
+    "type": "MINION"
+  }
+]

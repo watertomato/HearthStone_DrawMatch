@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46715,
+    "flavor": "天气预报：火球红色预警信号！请关闭门窗，避免一切户外活动。",
+    "id": "GIL_147",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "燃烬风暴",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "spellSchool": "FIRE",
+    "text": "造成$5点伤害，随机分配到所有敌人身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Konstad",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47429,
+    "flavor": "外界怀疑面具收集者就是通过他来进行销赃的。",
+    "health": 4,
+    "id": "GIL_640",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "古董收藏家",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "每当你抽一张牌时，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47438,
+    "flavor": "下一步：棉花糖元素。",
+    "health": 5,
+    "id": "GIL_645",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "篝火元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，抽一张牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54389,
+    "durability": 0,
+    "flavor": "这柄长枪很重，但其实是电池组占据了大部分重量。",
+    "health": 2,
+    "id": "ULD_708",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "电缆长枪",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "在你的英雄攻击后，将一张<b>跟班</b>牌置入你的\n手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54492,
+    "flavor": "你看起来真的很受伤，找个朋友来陪你吧！",
+    "health": 3,
+    "id": "ULD_720",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血誓雇佣兵",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "targetingArrowText": "召唤一个复制。",
+    "text": "<b>战吼：</b>选择一个受伤的友方随从，召唤一个它的复制。",
+    "type": "MINION"
+  }
+]

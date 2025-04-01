@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "L. Lullabi & T. Shevtsov",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110910,
+    "flavor": "最好的进攻其实是防守，但最好的防守其实是进攻，而最好的进攻其实是防守，所以最好的防守其实是进攻，但最好的防守其实是进攻，而最好的进攻其实是防守，所以最好的防守其实是进攻但最好的防守其实是进攻，而最好的进攻其实是防守，所以最好的防守其实是进攻！",
+    "health": 2,
+    "id": "GDB_230",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "坚定的复仇者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "SPACE",
+    "text": "攻击时<b>免疫</b>。\n在每个回合结束时，本随从的攻击力和生命值互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 110917,
+    "flavor": "那个麦格尼·铜须，那个能点石成矮人的“麦格尼之手”，谁把他放到这颗星球上了！？",
+    "id": "GDB_233",
+    "name": "矮人矮行星",
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "用法力值消耗为（2）的随机随从填满你的面板并使其攻击随机敌人。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 971,
+    "flavor": "年轻的萨满们可能没听说过《你与冰霜震击》这本书。",
+    "id": "CS2_037",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "冰霜震击",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "FROST",
+    "text": "对一个敌方角色造成$1点伤害，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Justin Sweet",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 51,
+    "flavor": "比起“地怒”或是“火怒”，萨满们更喜欢使用“风怒”，因为它更轻巧，更飘逸。",
+    "id": "CS2_039",
+    "name": "风怒",
+    "rarity": "FREE",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "LEGACY",
+    "spellSchool": "NATURE",
+    "text": "使一个随从获得<b>风怒</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 149,
+    "flavor": "你能在战斗中召唤祖先的灵魂！所以，出生在一个强大的家族是很重要的！",
+    "id": "CS2_041",
+    "name": "先祖治疗",
+    "rarity": "FREE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LEGACY",
+    "spellSchool": "NATURE",
+    "text": "为一个随从恢复所有生命值并使其获得<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 189,
+    "flavor": "他从来不洗澡。嗯...",
+    "health": 5,
+    "id": "CS2_042",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 239,
+    "flavor": "如果你的敌人是石头做的，那就再好不过了。",
+    "id": "CS2_045",
+    "name": "石化武器",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，使一个友方角色获得+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1171,
+    "flavor": "呜啊哇哇哇哇哇！",
+    "id": "CS2_046",
+    "name": "嗜血",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "text": "在本回合中，使你的所有随从获得+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 830,
+    "flavor": "禁止踩踏图腾。",
+    "id": "EX1_244",
+    "name": "图腾之力",
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "text": "使你的图腾获得+2生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Hui",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 766,
+    "flavor": "如果你对一个鱼人使用妖术...其实结果也没什么变化，对不对？",
+    "id": "EX1_246",
+    "name": "妖术",
+    "rarity": "FREE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "LEGACY",
+    "spellSchool": "NATURE",
+    "text": "使一个随从变形成为一只0/1并具有<b>嘲讽</b>的青蛙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jonathan Ryder",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1008,
+    "flavor": "图腾制造师喜欢用最稀有的木材来打造图腾。甚至有传言说，这些图腾是由埃隆巴克保护者身上的树皮做的。",
+    "health": 3,
+    "id": "EX1_565",
+    "mechanics": [
+      "ADJACENT_BUFF",
+      "AURA"
+    ],
+    "name": "火舌图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "FREE",
+    "set": "LEGACY",
+    "text": "相邻的随从拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vance Kovacs",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 178,
+    "flavor": "患有口臭的风语者...还有什么比这更糟糕的吗？",
+    "health": 3,
+    "id": "EX1_587",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风语者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "FREE",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "LEGACY",
+    "targetingArrowText": "使一个随从获得<b>风怒</b>。",
+    "text": "<b>战吼：</b>使一个友方随从获得<b>风怒</b>。",
+    "type": "MINION"
+  }
+]

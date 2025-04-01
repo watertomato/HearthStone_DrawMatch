@@ -1,0 +1,91 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86504,
+    "flavor": "恭喜！你的随从进化成了火属性随从！",
+    "id": "NX2_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "炽焰变幻",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FIRE",
+    "text": "选择一个随从，将其变形成为你<b>发现</b>的法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86147,
+    "flavor": "无息？无呼！",
+    "health": 2,
+    "id": "RLK_552",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无息的勇士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果在你的上回合之后有友方亡灵死亡，召唤两个3/2的僵尸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 86186,
+    "flavor": "但愿它能带来好消息！",
+    "health": 2,
+    "id": "RLK_554",
+    "mechanics": [
+      "DEATHRATTLE",
+      "REBORN",
+      "TAUNT"
+    ],
+    "name": "恐惧感知者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b><b>嘲讽</b>，复生</b> \n<b>亡语：</b>召唤一个4/4并具有<b>嘲讽</b>的亡灵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84209,
+    "flavor": "编织本身是一项人畜无害的爱好，但如果你织的是……",
+    "id": "RLK_909",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "织亡者光环",
+    "overload": 1,
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得“<b>亡语：</b>召唤两个3/2的僵尸。”<b>过载：</b>（1）",
+    "type": "SPELL"
+  }
+]

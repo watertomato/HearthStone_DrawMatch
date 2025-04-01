@@ -1,0 +1,198 @@
+[
+  {
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110889,
+    "flavor": "防御坚如磐石。",
+    "id": "EDR_060",
+    "name": "大地庇护",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "获得5点护甲值。随机召唤一个法力值消耗为（5）的随从并使其获得<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 113588,
+    "elite": true,
+    "flavor": "是他亲手选择了玛法里奥而非伊利丹，使之成为第一个德鲁伊。此后便有了无休无止的兄弟相争。",
+    "health": 8,
+    "id": "EDR_209",
+    "name": "森林之王塞纳留斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>选择三次：</b>使你的其他随从获得+1/+3；或者召唤一棵5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Drew Hill",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115080,
+    "flavor": "别傻了，图里根本没有丰裕之角。",
+    "id": "EDR_270",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "丰裕之角",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张自然法术牌，其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tee Fuyuan",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 115809,
+    "flavor": "无限自然法术bug。",
+    "health": 6,
+    "id": "EDR_271",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "林地塑型者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "在你施放一个自然法术后，召唤一个2/2并具有“<b>亡语：</b>获取该法术的一张复制”的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 115873,
+    "flavor": "非常青雄鹿拥有激怒，超杀，以及荣誉消灭。",
+    "health": 7,
+    "id": "EDR_272",
+    "mechanics": [
+      "ELUSIVE",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "常青雄鹿",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>扰魔</b>。<b>吸血</b>。<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115876,
+    "flavor": "这就是生命的循环。",
+    "id": "EDR_273",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "共生术",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张另一职业的<b>抉择</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114848,
+    "flavor": "为什么要选？",
+    "id": "EDR_843",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "森林再生",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>抽一张法术牌；或者抽一张随从牌。<i>（本牌在你手中3回合即可同时拥有两种效果！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114858,
+    "elite": true,
+    "flavor": "符文（死亡骑士）+图腾（萨满祭司）=德鲁伊？？",
+    "health": 6,
+    "id": "EDR_845",
+    "mechanics": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "哈缪尔·符文图腾",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>对战开始时：</b>\n如果你套牌中的每张法术牌均为自然法术，<b>灌注</b>你的英雄技能。你每施放2个法术，重复此效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114912,
+    "flavor": "这不是睡懒觉，这是深入研究梦境！",
+    "health": 3,
+    "id": "EDR_847",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "梦缚信徒",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼，亡语：</b>你的下一个英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Drew Hill",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114914,
+    "flavor": "能在阳光下舒舒服服地做一次根部保养，夫复何求？",
+    "id": "EDR_848",
+    "name": "光合作用",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "恢复#6点生命值。随机获取3张德鲁伊法术牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2096,
+    "flavor": "它真是太可爱了！哦我的天呐，它为什么要咬我的脸？",
+    "health": 2,
+    "id": "GVG_030",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "TAUNT"
+    ],
+    "name": "电镀机械熊仔",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>嘲讽，抉择：</b>\n+1攻击力；或者+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 1995,
+    "flavor": "请为环保事业尽一份力，把塑料垃圾放在一个垃圾箱内，把敌方随从的尸体放在另一个垃圾箱内。",
+    "id": "GVG_031",
+    "name": "回收",
+    "rarity": "RARE",
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "将一个敌方随从洗入你对手的\n牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2225,
+    "flavor": "喜好：徒步旅行，拥抱美丽的大自然。厌恶：地精伐木机和拖鞋。（讨厌拖鞋纯粹是因为找不到合脚的。）",
+    "health": 4,
+    "id": "GVG_032",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "林地树妖",
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>抉择：</b>使每个玩家获得一个法力水晶；或每个玩家抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 2001,
+    "flavor": "这棵虽然不是摇钱树，但是却能救好多人的命。",
+    "id": "GVG_033",
+    "name": "生命之树",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "为所有角色恢复所有生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 7,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2002,
+    "flavor": "这野兽的爪子和刀剑一样锋利，因为它本来就是由钢铁制成的。",
+    "health": 6,
+    "id": "GVG_034",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "机械熊豹",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPARE_PART"
+    ],
+    "set": "GVG",
+    "text": "每当本随从受到伤害，将一张<b>零件</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Oliver Chipping",
+    "attack": 9,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2003,
+    "elite": true,
+    "flavor": "玛洛恩之所以讨厌恶魔，是因为他不理解为什么这些又脏又臭的生物会长着和他一样的蹄子。",
+    "health": 7,
+    "id": "GVG_035",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "玛洛恩",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "<b>亡语：</b>进入<b>休眠</b>状态。在2只友方野兽死亡后复活。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2009,
+    "flavor": "别担心，我们已经把命名这张牌的家伙给开除了。",
+    "id": "GVG_041",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "黑暗私语",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "GVG",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>\n召唤5个小精灵；或者使一个随从获得+5/+5和<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brandon Kitkouski",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2048,
+    "flavor": "毒牙德鲁伊生活在哀嚎洞穴里，于是那里成为了大部分部落冒险者第一次遇到暗夜精灵的地方。",
+    "health": 4,
+    "id": "GVG_080",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "毒牙德鲁伊",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>战吼：</b>如果你控制任何野兽，将本随从变形成为7/7。",
+    "type": "MINION"
+  }
+]

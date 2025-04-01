@@ -1,0 +1,103 @@
+[
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 86619,
+    "flavor": "探底：特暗，得疫。",
+    "health": 4,
+    "id": "NX2_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "腐烂通灵师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b><b>探底</b>。如果选中的是亡灵牌，对敌方英雄造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86621,
+    "flavor": "要么上马，要么去死，要么马上去死。",
+    "id": "NX2_019",
+    "isMiniSet": true,
+    "name": "精神灼烧",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$2点伤害。如果该随从死亡，则对敌方英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84204,
+    "flavor": "“我纯粹只是觉得它纯粹。”",
+    "health": 2,
+    "id": "RLK_814",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "异教水晶工匠",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果你的手牌中有暗影法术牌，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 84361,
+    "flavor": "生死之交，纵死不渝。",
+    "id": "RLK_823",
+    "name": "不死盟军",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "在本回合中，在你使用一张亡灵牌后，使其获得<b>复生</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90644,
+    "flavor": "大脑请注意，大脑请注意，她就要吃掉你了！她可是心灵吞食者！",
+    "health": 2,
+    "id": "RLK_845",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "心灵吞食者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>将你对手牌库中的一张牌的复制置入你的手牌。",
+    "type": "MINION"
+  }
+]

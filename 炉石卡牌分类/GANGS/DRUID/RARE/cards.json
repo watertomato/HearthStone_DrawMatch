@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Matthew O'Connor",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40372,
+    "flavor": "如意如意，随我心意，快快显灵！",
+    "id": "CFM_602",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "青玉护符",
+    "rarity": "RARE",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "GANGS",
+    "text": "<b>抉择：</b>召唤一个{0}的<b>青玉魔像</b>；或者将该牌的三张复制洗入你的牌库。0<b>抉择：</b>召唤一个<b>青玉魔像</b>；或者将该牌的三张复制洗入你的\n牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Garner",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40404,
+    "flavor": "别以为这是份好工作，其实成天睡觉也挺无聊的。",
+    "health": 3,
+    "id": "CFM_617",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天神唤梦者",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>如果你控制一个攻击力大于或等于5的随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 4,
+    "battlegroundsPremiumDbfId": 59512,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40641,
+    "flavor": "上课禁止携带胡萝卜。",
+    "health": 4,
+    "id": "CFM_816",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "兔妖教头",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "targetingArrowText": "获得+3/+3。",
+    "techLevel": 4,
+    "text": "<b>战吼：</b>使一个友方野兽获得+3/+3。",
+    "type": "MINION"
+  }
+]

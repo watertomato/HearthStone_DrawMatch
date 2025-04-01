@@ -1,0 +1,55 @@
+[
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 594,
+    "flavor": "抓住最后一根救命稻草。",
+    "id": "EX1_354",
+    "name": "圣疗术",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "spellSchool": "HOLY",
+    "text": "恢复#8点生命值，抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 643,
+    "durability": 0,
+    "flavor": "我封你为“牛腰肉爵士”！",
+    "health": 5,
+    "id": "EX1_366",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "公正之剑",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "text": "在你召唤一个随从后，使其获得+1/+1，这把武器失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Alex Garner",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 1174,
+    "flavor": "打！打！打！打！打！打！打！打！",
+    "id": "EX1_384",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "复仇之怒",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "spellSchool": "HOLY",
+    "text": "造成$8点伤害，随机分配到所有敌人身上。",
+    "type": "SPELL"
+  }
+]

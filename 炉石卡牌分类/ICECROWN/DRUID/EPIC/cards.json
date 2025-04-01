@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Dan Scott",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42615,
+    "flavor": "你问她那件衣服的材质？当然是纯丝制品。",
+    "health": 3,
+    "id": "ICC_047",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "命运织网蛛",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>秘密亡语：</b>\n<b>抉择：</b>对所有随从造成3点伤害；或者使所有随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 42759,
+    "flavor": "您预订的食尸鬼五合一大礼包正在送货途中，一切正常。",
+    "id": "ICC_085",
+    "name": "终极感染",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "造成$5点伤害。抽五张牌。获得5点护甲值。召唤一个5/5的食尸鬼。",
+    "type": "SPELL"
+  }
+]

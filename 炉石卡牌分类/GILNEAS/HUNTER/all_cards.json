@@ -1,0 +1,209 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 46678,
+    "elite": true,
+    "flavor": "快来尝尝这腐烂的蘑菇吧，鸡肉味的！",
+    "health": 8,
+    "id": "GIL_128",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾莫莉丝",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>使你手牌中所有随从牌的攻击力和生命值翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46596,
+    "flavor": "她最怕别人挠她肚皮，完全没有抵抗力。",
+    "health": 5,
+    "id": "GIL_200",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "暮湾镇猎手",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>潜行</b>\n如果这张牌在你的手牌中，每个回合使其攻击力和生命值互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46940,
+    "flavor": "艾莫莉丝曾用这招干掉过很多冒险者，屡试不爽。",
+    "id": "GIL_518",
+    "name": "飞翼冲击",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "对一个随从造成$4点伤害。如果在本回合中有一个随从死亡，该牌的法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47078,
+    "flavor": "它本有志成为邪巢舞者的，无奈八条腿总踩到别人脚。",
+    "health": 3,
+    "id": "GIL_562",
+    "mechanics": [
+      "POISONOUS",
+      "RUSH"
+    ],
+    "name": "邪巢诱捕蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>剧毒，突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47128,
+    "flavor": "寻宠启事：若有人找到末日骇鼠，请归还给托瓦格尔国王！",
+    "id": "GIL_577",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "捕鼠陷阱",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>奥秘：</b>当你的对手在一回合中使用三张牌后，召唤一只6/6的老鼠。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47256,
+    "flavor": "并非所有的蜘蛛都有毒，所有的药水都没毒。",
+    "health": 4,
+    "id": "GIL_607",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "毒药贩子",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "GILNEAS",
+    "text": "每当你使用一张法力值消耗为（1）的随从牌，使其获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47930,
+    "flavor": "它的两位同伴一个叫汤瑞，一个叫杰姆。",
+    "health": 1,
+    "id": "GIL_607t",
+    "mechanics": [
+      "ECHO",
+      "RUSH"
+    ],
+    "name": "狩猎犬",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>回响，突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47488,
+    "elite": true,
+    "flavor": "“它们都是好孩子，苔丝。”",
+    "health": 6,
+    "id": "GIL_650",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "驯犬大师肖尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "GILNEAS",
+    "text": "你的其他随从拥有<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48201,
+    "flavor": "后面还是霍弗，一直都是霍弗，永远都是霍弗。",
+    "id": "GIL_828",
+    "name": "凶猛狂暴",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "使一个野兽获得+3/+3。将它的三张复制洗入你的牌库，且这些复制都具有+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48902,
+    "flavor": "这就是吃了太多腐烂食物的下场。",
+    "health": 7,
+    "id": "GIL_905",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食腐幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>如果在本回合中有一个随从死亡，获得<b>剧毒</b>。",
+    "type": "MINION"
+  }
+]

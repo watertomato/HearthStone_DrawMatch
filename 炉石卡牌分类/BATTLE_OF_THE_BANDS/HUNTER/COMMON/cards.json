@@ -1,0 +1,89 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96996,
+    "flavor": "牵枝丫，递支蕉……支蕉半零落。",
+    "id": "ETC_201",
+    "name": "一串香蕉",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "使一个随从获得+1/+1。<i>（还剩3根香蕉！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 91494,
+    "flavor": "她说那只小土狼是她的“料理狼王”。搞不懂那是什么意思。",
+    "health": 3,
+    "id": "ETC_831",
+    "name": "刺鬃乐师",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>压轴：</b>你召唤的下一只野兽获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91496,
+    "flavor": "“你说这是<i>小提琴</i>弓！？！”",
+    "health": 3,
+    "id": "ETC_833",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "箭矢工匠",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你施放一个法术后，对生命值最低的敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 94735,
+    "flavor": "啊哦，它从笼子里跑出来了！不过不用怕，它很乖的哦。",
+    "health": 4,
+    "id": "JAM_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "name": "镂骨恶犬",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>吸血</b>，<b>突袭</b>。同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  }
+]

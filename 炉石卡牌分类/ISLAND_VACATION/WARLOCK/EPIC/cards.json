@@ -1,0 +1,32 @@
+[
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107807,
+    "flavor": "我以前想做一个好人，现在我没得选择。",
+    "id": "VAC_941",
+    "name": "弃明投暗",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "将你的英雄技能和非术士卡牌替换成术士的。它们的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107815,
+    "flavor": "大多数纪念品都被斥为“没有灵魂”。这件可不一样！",
+    "id": "VAC_944",
+    "name": "咒怨纪念品",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+3/+3和“在你的回合开始时，对你的英雄造成3点伤害”。",
+    "type": "SPELL"
+  }
+]

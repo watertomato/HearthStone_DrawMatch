@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42560,
+    "flavor": "说吧，你选字还是花…",
+    "id": "ICC_201",
+    "name": "命运骨骰",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "抽一张牌。如果这张牌有<b>亡语</b>，则再次施放本法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42819,
+    "flavor": "别担心，他会用一只眼睛帮你盯着的。",
+    "health": 3,
+    "id": "ICC_240",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "符文熔铸游魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "在你的回合时，你的武器不会失去\n耐久度。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45338,
+    "durability": 0,
+    "flavor": "叫“暗影匕首”就有点俗气了。",
+    "health": 2,
+    "id": "ICC_850",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影之刃",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>在本回合中，你的英雄<b>免疫</b>。",
+    "type": "WEAPON"
+  }
+]

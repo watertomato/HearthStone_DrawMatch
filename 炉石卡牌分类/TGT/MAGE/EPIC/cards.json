@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Gabor Szikszai",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2572,
+    "flavor": "双倍效果，双重感受！",
+    "id": "AT_004",
+    "mechanics": [
+      "RECEIVES_DOUBLE_SPELLDAMAGE_BONUS"
+    ],
+    "name": "奥术冲击",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TGT",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从造成$2点伤害。该法术受到的<b>法术伤害</b>增益效果翻倍。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Christopher Moeller",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2544,
+    "flavor": "其实本次大赛明令禁止龙型生物参加，但是没几个人敢去劝阻。",
+    "health": 7,
+    "id": "AT_008",
+    "name": "考达拉幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "TGT",
+    "text": "你可以使用任意次数的英雄技能。",
+    "type": "MINION"
+  }
+]

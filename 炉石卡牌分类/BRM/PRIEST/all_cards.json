@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Sam Nielson",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2286,
+    "flavor": "当听见要和一群吸血鬼一起拍电视剧时，这些雏龙们都非常高兴，尽管最后它们的戏份都被删减了。",
+    "health": 1,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石塔中解锁制作。",
+    "id": "BRM_004",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光雏龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2298,
+    "flavor": "我走进了幽暗的地下城，发现了一具冒险者的尸体。在他生命中最后的时刻，他在身边满是灰尘的墙上划出了两个数字：“99”。",
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁制作。",
+    "id": "BRM_017",
+    "name": "复活术",
+    "rarity": "RARE",
+    "set": "BRM",
+    "spellSchool": "HOLY",
+    "text": "随机召唤一个在本局对战中死亡的友方随从。",
+    "type": "SPELL"
+  }
+]

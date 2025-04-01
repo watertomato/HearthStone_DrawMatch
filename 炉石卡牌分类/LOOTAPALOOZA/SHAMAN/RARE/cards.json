@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Jason Kang",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 43331,
+    "flavor": "“蓝色的石头归海底的鱼人领主所有，被粘液包裹起来。很快鱼人就拥上了海滩，两只，四只，然后是更多，更多……”——《魔石》",
+    "id": "LOOT_064",
+    "name": "小型法术蓝宝石",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "NATURE",
+    "text": "选择一个友方随从，召唤一个它的复制。<i>（<b>过载</b>三个法力水晶后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45905,
+    "flavor": "一位法师学徒练习烈焰风暴时烧毁了一个狗头人定居点，只留下了这个护身符，还有一地各种形状的木头柱子。",
+    "id": "LOOT_344",
+    "name": "原始护身符",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "使你的所有随从获得\n“<b>亡语：</b>随机召唤一个基础图腾。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46432,
+    "flavor": "是不是有一种似曾相识的感觉？",
+    "health": 1,
+    "id": "LOOT_517",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "低语元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>你在本回合中的下一个<b>战吼</b>将触发两次。",
+    "type": "MINION"
+  }
+]

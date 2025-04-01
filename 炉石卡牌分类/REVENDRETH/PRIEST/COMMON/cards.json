@@ -1,0 +1,101 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79739,
+    "flavor": "你是否愿意宣誓，献出完整而纯净的增益，来帮助你的格里斯蒂亚？",
+    "id": "MAW_021",
+    "isMiniSet": true,
+    "name": "问心无愧",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ELUSIVE"
+    ],
+    "set": "REVENDRETH",
+    "spellSchool": "HOLY",
+    "text": "使一个友方随从获得+2/+3和“在你对手的回合<b>扰魔</b>。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79742,
+    "flavor": "好消息：他打探到了卡扎库斯的秘密身份！坏消息：他来这边了。",
+    "health": 6,
+    "id": "MAW_022",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "控罪心灵密探",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>随机复制你对手的两张手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77299,
+    "flavor": "“你知道咱们需要什么吗？需要绳子。”“别犯蠢了，你说你能用绳子干什么？”",
+    "health": 5,
+    "id": "REV_247",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "共犯",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>在你的回合结束时，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 77305,
+    "flavor": "等等，既然你在那儿，那么这光又是谁搞的？！",
+    "id": "REV_249",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "炽燃圣光",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "spellSchool": "HOLY",
+    "text": "对一个随从造成等同于其攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77368,
+    "flavor": "盗用身份可不是儿戏，吉姆！",
+    "id": "REV_253",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "盗用身份",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>你对手的手牌和牌库中各一张牌的复制。",
+    "type": "SPELL"
+  }
+]

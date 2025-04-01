@@ -1,0 +1,94 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79549,
+    "flavor": "常言道，“正义是盲目的”。那么正义也有幽灵视觉吗？",
+    "health": 4,
+    "id": "MAW_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盲眼法官",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>双方玩家抽若干数量的牌，直到拥有5张手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79593,
+    "flavor": "我们是不是该把栏杆装得更密些……",
+    "id": "MAW_012",
+    "isMiniSet": true,
+    "name": "邪能之乱",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "INFUSE"
+    ],
+    "set": "REVENDRETH",
+    "spellSchool": "FEL",
+    "text": "召唤一个在本局对战中死亡的友方恶魔。\n<b>注能（3个恶魔）：</b>改为召唤三个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Hayes",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78123,
+    "durability": 0,
+    "flavor": "复仇！",
+    "health": 2,
+    "id": "REV_509",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "放大战刃",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "在你的英雄攻击后，抽牌，直到你拥有三张牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78150,
+    "flavor": "听说你想要一个法术？他这里可没有。",
+    "health": 4,
+    "id": "REV_511",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "案卷书虫",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>选择一张你的手牌洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 78469,
+    "flavor": "比小行星还快，效果还差不多。",
+    "id": "REV_834",
+    "name": "灭绝圣物",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "随机对一个敌方随从造成$1点伤害，触发两次。提升你此后的圣物效果。",
+    "type": "SPELL"
+  }
+]

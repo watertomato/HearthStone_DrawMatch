@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41099,
+    "elite": true,
+    "flavor": "自从一脚踩出了葛拉卡盆地后，班纳布斯的跳舞生涯便宣告结束了。",
+    "id": "UNG_116",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "丛林巨兽",
+    "questReward": "UNG_116t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>召唤4个攻击力大于或等于5的随从。\n<b>奖励：</b>班纳布斯。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 14,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 41954,
+    "elite": true,
+    "flavor": "历经数千年的演变后，它变成了我们现在所熟知的精灵龙。",
+    "health": 14,
+    "id": "UNG_852",
+    "mechanics": [
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "泰拉图斯",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>",
+    "type": "MINION"
+  }
+]

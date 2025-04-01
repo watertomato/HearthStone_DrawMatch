@@ -1,0 +1,88 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 62871,
+    "flavor": "剥灵者和洋葱一样，都可以剥。",
+    "health": 4,
+    "id": "BAR_307",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "剥灵者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>你手牌中每有一张法术牌，便随机对一个敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 62874,
+    "flavor": "气象节目说，外面的天气可以洗澡了。你带好了伞，发现是日光浴。",
+    "health": 6,
+    "id": "BAR_310",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "光沐元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>为所有友方角色恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kai Zhong",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62876,
+    "flavor": "车棚坏了的时候，占卜者就成了粘补者。",
+    "health": 3,
+    "id": "BAR_312",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "占卜者车队",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "在你的回合开始时，从你对手的牌库中复制一张法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63346,
+    "flavor": "“别，别拉这么多，这是我第一次当治疗。”",
+    "health": 3,
+    "id": "WC_013",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虔诚地下城历险家",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>抽一张法术牌。如果是神圣法术牌，则使其法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

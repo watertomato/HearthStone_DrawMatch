@@ -1,0 +1,265 @@
+[
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102202,
+    "flavor": "咔哒，咔哒……咔哒——唰！",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得100场对战后解锁。",
+    "id": "CORE_BT_707",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "伏击",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，召唤一个2/3并具有<b>剧毒</b>的伏击者。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Frank Cho",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69524,
+    "flavor": "尽管这个技能的名字已被改变，但这并不意味着它就不再“邪恶”。",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得100场对战后解锁。",
+    "id": "CORE_CS2_075",
+    "name": "影袭",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "对敌方英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Zhang",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69526,
+    "flavor": "潜行者们通常都不擅长慢跑。",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得100场对战后解锁。",
+    "id": "CORE_CS2_077",
+    "name": "疾跑",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "抽四张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Huang",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69527,
+    "durability": 0,
+    "flavor": "只有真正的刺客才配拥有。如假包换。",
+    "health": 5,
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得100场对战后解锁。",
+    "id": "CORE_CS2_080",
+    "name": "刺客之刃",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Scott Altmann",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111378,
+    "flavor": "“潜行者”的闷棍技术比“盗贼”好很多，他们不用天赋支持，就可以保证百分之百闷棍命中。",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得100场对战后解锁。",
+    "id": "CORE_EX1_581",
+    "name": "闷棍",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "将一个敌方随从移回你对手的\n手牌。",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110087,
+    "flavor": "“拿好，不送。”——瓦莉拉",
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_09",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "瓦莉拉的礼物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>发现</b>一张<b>临时</b>的背刺，致命药膏或刀扇。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95740,
+    "flavor": "说吧，你选字还是花…",
+    "id": "CORE_ICC_201",
+    "name": "命运骨骰",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "抽一张牌。如果这张牌有<b>亡语</b>，则再次施放本法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95742,
+    "flavor": "别担心，他会用一只眼睛帮你盯着的。",
+    "health": 3,
+    "id": "CORE_ICC_240",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "符文熔铸游魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合时，你的武器不会失去\n耐久度。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95748,
+    "durability": 0,
+    "flavor": "叫“暗影匕首”就有点俗气了。",
+    "health": 2,
+    "id": "CORE_ICC_850",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影之刃",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>在本回合中，你的英雄<b>免疫</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Wayne Wu",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97344,
+    "flavor": "“自从魔笛手朝南方去了之后，我就再也没见过老鼠。”",
+    "health": 3,
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得100场对战后解锁。",
+    "id": "CORE_LOOT_211",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "精灵咏唱者",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>连击：</b>从你的牌库中抽两张随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 79612,
+    "dbfId": 118030,
+    "flavor": "每分钟180行！真的太草了！",
+    "health": 4,
+    "howToEarn": "与潜行者职业一同解锁。",
+    "howToEarnGolden": "使用潜行者赢得100场对战后解锁。",
+    "id": "CORE_MAW_020",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "潦草的书记员",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>。在本回合中你每使用过一张牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Hayes",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 82369,
+    "dbfId": 118125,
+    "flavor": "在亡者的国度修建坟场，是不是有点多余？",
+    "health": 2,
+    "id": "CORE_REV_750",
+    "name": "罪碑坟场",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "召唤一个1/1的幽灵。<i>（在本回合中每有一张其他牌被使用，拥有+1/+1！）</i>",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 77556,
+    "dbfId": 118157,
+    "flavor": "来到门前时，请按下暗影之门铃，并且请在进门前在暗影之门垫上擦净鞋底。",
+    "id": "CORE_REV_938",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "暗影之门",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "SHADOW",
+    "text": "抽一张法术牌。<b>注能（2）：</b>将它的一张<b>临时</b>复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 77557,
+    "dbfId": 118158,
+    "flavor": "德拉卡给予了对手不少骨粒。",
+    "id": "CORE_REV_939",
+    "name": "锯齿骨刺",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "对一个随从造成$3点伤害。如果该随从死亡，在本回合中，你的下一张牌法力值消耗减少（2）点。",
+    "type": "SPELL"
+  }
+]

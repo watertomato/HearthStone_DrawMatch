@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "James Ryman",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 85050,
+    "flavor": "万骨功成一将枯。",
+    "id": "RLK_655",
+    "name": "枯萎",
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "NATURE",
+    "text": "选择一个随从。每个友方亡灵各从选中的随从处偷取1点攻击力和生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 85052,
+    "flavor": "“都看好了，我是地底虫王！我一直在你们下面，可是没人在我下面！我现在对和平与幸福宣战。要不了多久，一切都会在我面前颤抖！”",
+    "health": 6,
+    "id": "RLK_657",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "地底虫王",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>。<b>战吼，亡语：</b>获得6点护甲值。",
+    "type": "MINION"
+  }
+]

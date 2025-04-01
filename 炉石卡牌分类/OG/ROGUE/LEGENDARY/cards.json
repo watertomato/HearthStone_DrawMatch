@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38403,
+    "elite": true,
+    "flavor": "什么！螳螂妖给你的东西你也敢喝？真是自寻死路。",
+    "health": 2,
+    "id": "OG_080",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "毒心者夏克里尔",
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "<b>战吼，亡语：</b>随机将一张毒素牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

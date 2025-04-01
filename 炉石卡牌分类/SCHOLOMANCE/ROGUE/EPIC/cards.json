@@ -1,0 +1,16 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58794,
+    "flavor": "到了夜里，我就用这条通道偷偷溜进厨房，做点黑暗料理。",
+    "id": "SCH_305",
+    "name": "秘密通道",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "将你的手牌替换为你牌库中的4张牌。下回合换回。",
+    "type": "SPELL"
+  }
+]

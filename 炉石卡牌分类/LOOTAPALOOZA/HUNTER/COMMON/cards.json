@@ -1,0 +1,56 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43357,
+    "flavor": "狼群在左，箭雨在右。",
+    "id": "LOOT_077",
+    "name": "侧翼打击",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "对一个随从造成$3点伤害。召唤一只3/3的狼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43358,
+    "flavor": "再加50矿和100气，就可以升级为洞穴潜伏者。",
+    "health": 4,
+    "id": "LOOT_078",
+    "name": "洞穴多头蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Kagounkin",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 45537,
+    "durability": 0,
+    "flavor": "曾经被称作“卡恩迪洛尔”，精灵语的意思是“上古剃须匠的短弓”。",
+    "health": 3,
+    "id": "LOOT_222",
+    "name": "蜡烛弓",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "你的英雄在攻击时<b>免疫</b>。",
+    "type": "WEAPON"
+  }
+]

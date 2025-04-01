@@ -1,0 +1,189 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53413,
+    "flavor": "法术就是法术，但神秘选项可以是任何法术！",
+    "health": 3,
+    "id": "ULD_209",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "狐人恶棍",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：发现</b>一张法术牌或选择一个\n神秘选项。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53582,
+    "flavor": "她原本想用愤怒的小鸡和你交换来着。",
+    "health": 3,
+    "id": "ULD_229",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "捣蛋鬼",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>交换你和对手的牌库顶的一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54204,
+    "flavor": "事实上……当时的情况是……",
+    "health": 4,
+    "id": "ULD_290",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "历史爱好者",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "每当你使用一张随从牌，随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Danny Dai",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53343,
+    "flavor": "她正在努力偿还攻读高等学位的费用。",
+    "health": 3,
+    "id": "ULD_309",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "矮人考古学家",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "ULDUM",
+    "text": "<b>战吼：</b><b>发现</b>一张卡牌，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54284,
+    "flavor": "踝骨后面是胫骨，指骨后面是……呃，就这么着吧。",
+    "health": 8,
+    "id": "ULD_702",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "机械法医",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ULDUM",
+    "text": "在你的对手使用一张随从牌后，使其获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54288,
+    "flavor": "群星方尖碑可以将一整块地区隐藏起来！也可以用来造成随机的伤害。",
+    "health": 5,
+    "id": "ULD_703",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙漠方尖碑",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "如果你在你的回合结束时控制3座沙漠方尖碑，随机对一个敌人造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54291,
+    "flavor": "魔古信徒的团建活动可太要命了。",
+    "health": 1,
+    "id": "ULD_705",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔古信徒",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你的场上满是魔古信徒，则将其全部献祭，并召唤“莱，至高守护者”。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 54296,
+    "flavor": "“哈！你中了我，托瓦格尔的计了！”",
+    "health": 5,
+    "id": "ULD_706",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "显眼的诱饵",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>亡语：</b>每个玩家从手牌中召唤法力值消耗最低的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54783,
+    "flavor": "裹尸匠采用腌黄瓜片进行眼部养护，确保双眼滋润如新。",
+    "health": 4,
+    "id": "ULD_727",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "裹尸匠",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b><b>发现</b>一个在本局对战中死亡的友方随从。将其洗入你的牌库。",
+    "type": "MINION"
+  }
+]

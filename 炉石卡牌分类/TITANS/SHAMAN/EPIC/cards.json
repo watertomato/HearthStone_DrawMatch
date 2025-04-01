@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "A. Zemskov & T. Shevtsov",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 96933,
+    "flavor": "受了不少委屈，想撒撒气。",
+    "health": 5,
+    "id": "TTN_801",
+    "mechanics": [
+      "FORGE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "风暴勇士",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "在你施放一个自然法术后，召唤一个4/2的元素。<b>锻造：</b>召唤的元素具有<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97354,
+    "flavor": "快闪……英雄阵亡！",
+    "id": "TTN_830",
+    "name": "须臾闪电",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌。下个回合，你的自然法术牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  }
+]

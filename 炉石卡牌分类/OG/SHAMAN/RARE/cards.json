@@ -1,0 +1,55 @@
+[
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38266,
+    "flavor": "诡异的眼球，黏滑的触须，阴阳怪气的语调……这种变化不要也罢。",
+    "id": "OG_027",
+    "name": "异变",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "随机将你的\n所有随从变形成为法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38267,
+    "flavor": "深渊魔物有一奇怪的癖好，就是收集各式各样的萨满祭司图腾。",
+    "health": 5,
+    "id": "OG_028",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "深渊魔物",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>嘲讽</b>\n在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39008,
+    "flavor": "在新游戏《炉石宝贝》中一定会大放异彩。",
+    "health": 5,
+    "id": "OG_328",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "异变之主",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>将一个友方随从随机变形成为一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  }
+]

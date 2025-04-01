@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 67778,
+    "elite": true,
+    "flavor": "他的谐音冷笑话是一绝——“熊男爵”。",
+    "health": 6,
+    "id": "AV_257",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "熊男爵格雷希尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>在本局对战中你每施放过一个冰霜法术，召唤一个3/4的可以<b>冻结</b>攻击目标的元素。0<i>（召唤0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 67779,
+    "elite": true,
+    "flavor": "元素在布鲁坎的血脉中奔流作响，他的人生在眼前闪回。他知道这一刻总会到来，但他还想知道，他为他们做的究竟够不够？",
+    "health": 30,
+    "heroPowerDbfId": 82021,
+    "id": "AV_258",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "元素使者布鲁坎",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>唤起两种元素之力！",
+    "type": "HERO"
+  }
+]

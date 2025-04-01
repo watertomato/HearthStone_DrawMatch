@@ -1,0 +1,105 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，造成5点伤害。",
+    "cost": 3,
+    "dbfId": 76224,
+    "flavor": "“请叫我渔父。”",
+    "health": 3,
+    "id": "TID_074",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "上古海怪杀手",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，造成5点伤害。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76225,
+    "flavor": "精度胜于准度。",
+    "id": "TID_075",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "螺壳射击",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "NATURE",
+    "text": "随机对一个敌方随从造成$3点伤害。重复此效果，每次伤害减少1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 74755,
+    "durability": 0,
+    "flavor": "鱼叉机关炮！",
+    "health": 2,
+    "id": "TSC_070",
+    "mechanics": [
+      "DREDGE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鱼叉炮",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你的英雄攻击后，<b>探底</b>。如果选中的是野兽牌，使其法力值消耗减少（2）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 74881,
+    "flavor": "两百发，两百中。",
+    "health": 4,
+    "id": "TSC_071",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "双弓积骇纳迦",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过法术，你的下一个法术会施放两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72928,
+    "flavor": "狮子鱼，纳迦，还有长矛，我的天呐！",
+    "id": "TSC_947",
+    "name": "纳迦的鱼群",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "召唤两条2/2的狮子鱼。如果你在此牌在你手中时使用过纳迦牌，使它们获得+1/+1。",
+    "type": "SPELL"
+  }
+]

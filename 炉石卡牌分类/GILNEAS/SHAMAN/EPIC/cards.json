@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47138,
+    "flavor": "图腾都是上好的磨牙棒。",
+    "health": 3,
+    "id": "GIL_583",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "图腾啃食者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽，战吼：</b>消灭你的所有图腾。每消灭一个图腾，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 47873,
+    "flavor": "最困难的地方在于维持他们的形状。",
+    "health": 8,
+    "id": "GIL_807",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "塑沼者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "每当你施放一个法术，从你的牌库中抽一张随从牌。",
+    "type": "MINION"
+  }
+]

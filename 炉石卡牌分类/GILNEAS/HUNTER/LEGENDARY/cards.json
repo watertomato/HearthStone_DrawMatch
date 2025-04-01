@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 46678,
+    "elite": true,
+    "flavor": "快来尝尝这腐烂的蘑菇吧，鸡肉味的！",
+    "health": 8,
+    "id": "GIL_128",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾莫莉丝",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>使你手牌中所有随从牌的攻击力和生命值翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47488,
+    "elite": true,
+    "flavor": "“它们都是好孩子，苔丝。”",
+    "health": 6,
+    "id": "GIL_650",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "驯犬大师肖尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "GILNEAS",
+    "text": "你的其他随从拥有<b>突袭</b>。",
+    "type": "MINION"
+  }
+]

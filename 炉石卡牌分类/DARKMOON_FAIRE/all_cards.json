@@ -1,0 +1,3554 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 60443,
+    "elite": true,
+    "flavor": "它真的只是想抱一抱艾泽拉斯的各种小生物。",
+    "health": 7,
+    "id": "DMF_002",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恩佐斯，深渊之神",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>随机复活每个随从类型的各一个友方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过10个法术，转动尤格-萨隆的命运之轮。",
+    "cost": 10,
+    "dbfId": 60445,
+    "elite": true,
+    "flavor": "大转轮吱呀吱尤尤地转……",
+    "health": 5,
+    "id": "DMF_004",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尤格-萨隆，命运主宰",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过10个法术，转动尤格-萨隆的命运之轮。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 60916,
+    "flavor": "他始终都搞不懂自己为什么会输给布暴怒者。",
+    "health": 1,
+    "id": "DMF_044",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "岩石暴怒者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 8,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 61434,
+    "faction": "HORDE",
+    "flavor": "疗伤未遂，转而成疾；腐蚀至深，绽放之际。",
+    "health": 8,
+    "id": "DMF_053",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "戈霍恩之血",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，召唤一个你牌库中的随从的5/5复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61435,
+    "flavor": "洞察难道就是用眼球钻出一个洞？",
+    "id": "DMF_054",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "洞察",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "抽一张随从牌。<b>腐蚀：</b>使其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Agatha Zhou",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61436,
+    "flavor": "闭口无舌，能言七首；低语无声，回响不休。",
+    "id": "DMF_055",
+    "name": "亚煞极神像",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个你牌库中的随从的10/10复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 8,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61437,
+    "elite": true,
+    "flavor": "其他上古之神都在嘲笑可怜的戈霍恩，恣意直呼他的名字，就连玩游戏都从来不带他。",
+    "health": 8,
+    "id": "DMF_056",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "戈霍恩，鲜血之神",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>抽两张牌，使其消耗生命值，而非法力值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jun Yan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61449,
+    "flavor": "当艾泽拉斯运行到太阳和月亮之间时发生的现象。",
+    "id": "DMF_057",
+    "name": "月蚀",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从造成$3点伤害。在本回合中，你施放的下一个法术的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jun Yan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61450,
+    "flavor": "当月亮运行到太阳和艾泽拉斯之间时发生的现象。",
+    "id": "DMF_058",
+    "name": "日蚀",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，你施放的下一个法术将施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 10,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 61460,
+    "flavor": "爱悠悠，恨悠悠，碳酸饮料岂可休。",
+    "health": 10,
+    "id": "DMF_059",
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "泡沫元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61461,
+    "flavor": "猫头鹰生性警觉，睡觉时都睁着一只眼。",
+    "health": 4,
+    "id": "DMF_060",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "幽影猫头鹰",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n在本局对战中，你每施放一个法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61462,
+    "flavor": "腐树之下，岂有完果。",
+    "health": 2,
+    "id": "DMF_061",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "CORRUPT"
+    ],
+    "name": "马戏团树艺师",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>抉择：</b>抽一张牌；或者召唤一个2/2的树人。<b>腐蚀：</b>同时拥有两种效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61580,
+    "flavor": "这局套圈圈真是太激烈了。",
+    "health": 2,
+    "id": "DMF_062",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "旋岩虫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61581,
+    "flavor": "“这玩意什么时候能到暴风城飞行点？我都飞了好几个小时了！”",
+    "health": 5,
+    "id": "DMF_064",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "旋转木马",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>圣盾</b>，<b>腐蚀：</b>获得+3/+3和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61616,
+    "flavor": "商贩歇斯底里，香蕉delicious！",
+    "health": 4,
+    "id": "DMF_065",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "香蕉商贩",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>将两根香蕉置入每个玩家的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61620,
+    "flavor": "“我的刀用起来绝对安全！戴手套才不是为了掩盖手上的创可贴。”",
+    "health": 4,
+    "id": "DMF_066",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "小刀商贩",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>对每个英雄造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61622,
+    "flavor": "他只是想确认奖券是不是真的。正品奖券是草莓味的。",
+    "health": 3,
+    "id": "DMF_067",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "奖品商贩",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼，亡语：</b>每个玩家抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61625,
+    "flavor": "“打错了怎么办？”“可要是打对了呢？”",
+    "health": 7,
+    "id": "DMF_068",
+    "mechanics": [
+      "FORGETFUL"
+    ],
+    "name": "乐观的食人魔",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "50%几率攻击正确的敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61626,
+    "flavor": "“姆咯啦咯啦，我被选中啦！”",
+    "health": 3,
+    "id": "DMF_069",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "娃娃机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭，亡语：</b>抽一张随从牌并使其获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 61629,
+    "flavor": "那不是普通的兔子！那是你见过的最粗野，最残暴，脾气最臭的啮齿类动物！",
+    "health": 1,
+    "id": "DMF_070",
+    "mechanics": [
+      "POISONOUS",
+      "RUSH"
+    ],
+    "name": "暗月兔子",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭，剧毒</b>\n同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juyoung Oh",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61635,
+    "elite": true,
+    "flavor": "赤红如火，难知如烟。",
+    "health": 2,
+    "id": "DMF_071",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "“赤烟”腾武",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "将一个随从移回你的手牌。",
+    "text": "<b>战吼：</b>将一个友方随从移回你的手牌，在本回合中，其法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61639,
+    "flavor": "木马非马，飞船非船。",
+    "health": 2,
+    "id": "DMF_073",
+    "mechanics": [
+      "CORRUPT",
+      "DIVINE_SHIELD"
+    ],
+    "name": "暗月飞船",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>圣盾，腐蚀：</b>获得<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61640,
+    "elite": true,
+    "flavor": "“你对我的印象大概来自这些游览经历，像什么‘被装在大炮里打出去’啊，或者‘旋转木马把我的朋友吃了’这种回忆。”",
+    "health": 4,
+    "id": "DMF_074",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "希拉斯·暗月",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>选择一个方向，让所有随从转\n起来。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61649,
+    "flavor": "“等报出结果的那一刻，我就变成猎豹形态！”",
+    "id": "DMF_075",
+    "name": "猜重量",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "抽一张牌。猜中你下一张牌的法力值消耗更大或更小，则可抽取下一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61670,
+    "flavor": "看上去确实很霸气，后来大家发现那其实是一桶氦气。",
+    "health": 6,
+    "id": "DMF_078",
+    "mechanics": [
+      "CORRUPT",
+      "TAUNT"
+    ],
+    "name": "大力士",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽，腐蚀：</b>法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61672,
+    "flavor": "随机应变，融入环境，克服困难。",
+    "health": 2,
+    "id": "DMF_079",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "低调的游客",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>从你的牌库中施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61674,
+    "flavor": "游客参观的时长不同，互动体验也会不同。",
+    "health": 4,
+    "id": "DMF_080",
+    "mechanics": [
+      "CORRUPT",
+      "RUSH"
+    ],
+    "name": "迅蹄珠齿象",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n<b>腐蚀：</b>获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61676,
+    "flavor": "邪恶正在逼近……而且还带了朋友来！",
+    "health": 4,
+    "id": "DMF_081",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "克熙尔祭师",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽，战吼：</b>随机将一张法力值消耗为（4）的随从牌置入你对手的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61677,
+    "flavor": "“希拉斯”被腐蚀之后，终于伸出了黑手。",
+    "health": 5,
+    "id": "DMF_082",
+    "mechanics": [
+      "AURA",
+      "CORRUPT"
+    ],
+    "name": "暗月雕像",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "你的其他随从拥有+1攻击力。<b>腐蚀：</b>本随从获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61679,
+    "flavor": "蛇，其实就是长了牙的触手。",
+    "health": 5,
+    "id": "DMF_083",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "舞动的眼镜蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ware Lee",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61690,
+    "flavor": "宝石诱人，唤你摘获；牢笼落下，无计逃脱。",
+    "id": "DMF_084",
+    "name": "恩佐斯宝石",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤三个在本局对战中死亡的友方<b>亡语</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61699,
+    "flavor": "“油满，出发！”",
+    "health": 5,
+    "id": "DMF_085",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暗月坦克",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语：</b>随机对敌人发射四枚飞弹，每枚飞弹造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "E. Li & A. Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61700,
+    "flavor": "欢迎来到宠物乐园。严禁接触动物！",
+    "id": "DMF_086",
+    "name": "宠物乐园",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤一只3/3的陆行鸟。你每控制一个<b>奥秘</b>，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61702,
+    "flavor": "奔跑的犀牛，像一个人在梦游。不打到英雄不罢休。",
+    "health": 5,
+    "id": "DMF_087",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂踏的犀牛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n在本随从攻击并消灭一个随从后，超过目标生命值的伤害会命中敌方英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61839,
+    "durability": 0,
+    "elite": true,
+    "flavor": "这把枪的枪管需要好好管一管。",
+    "health": 2,
+    "id": "DMF_088",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "瑞林的步枪",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER",
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的英雄攻击后，<b>发现</b>一张<b>奥秘</b>牌并将其\n施放。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61842,
+    "elite": true,
+    "flavor": "信不信由你，这个游戏在马戏团的玩命排行榜中仅列第四位。",
+    "health": 4,
+    "id": "DMF_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛克希玛·雷管",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>从你的牌库中召唤一个随从，使其攻击敌方英雄，然后死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61846,
+    "flavor": "上次有人给蜥蜴喂了干蜜饯，状况惨烈，直到现在还没清理完。",
+    "id": "DMF_090",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "请勿投食",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "使你手牌中的所有野兽牌获得+1/+1。<b>腐蚀：</b>改为+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61898,
+    "flavor": "生而蠕动，生而恐怖。",
+    "health": 1,
+    "id": "DMF_091",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蠕动的恐魔",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>使相邻的随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61176,
+    "flavor": "“我以为会是沙漠元素，结果只是砂糖？”",
+    "health": 2,
+    "id": "DMF_100",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "甜点飓风",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>将两张1/2的甜蜜元素置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61177,
+    "flavor": "最耀眼的焰火，也难免坠入黑暗。",
+    "health": 5,
+    "id": "DMF_101",
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT"
+    ],
+    "name": "焰火元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>对一个随从造成3点伤害。<b>腐蚀：</b>改为12点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Cheung & A. Bozonnet",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61178,
+    "flavor": "“这时候，你听到了鱼人愤怒的叫声在向你接近。骰先攻吧！”",
+    "health": 3,
+    "id": "DMF_102",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "游戏管理员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "你每个回合使用的第一张<b>奥秘</b>牌法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ware Lee",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61179,
+    "flavor": "戴上面具，与之共生；巨眼闪烁，真相纷呈。",
+    "id": "DMF_103",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "克苏恩面具",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "造成$10点伤害，随机分配到所有敌人身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "E. Li & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61180,
+    "flavor": "一想到暗月马戏团的其他种种危险，肆意纵火都显得那么人畜无害。",
+    "id": "DMF_104",
+    "name": "华丽谢幕",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "FIRE",
+    "text": "召唤一个8/8的元素。你在上个回合每使用一张元素牌，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61291,
+    "flavor": "如果你喜欢它，就把这枚象征爱意的圆环戴在它手上吧！",
+    "id": "DMF_105",
+    "mechanics": [
+      "CORRUPT",
+      "DISCOVER"
+    ],
+    "name": "套圈圈",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>发现</b>一张<b>奥秘</b>牌并将其施放。<b>腐蚀：</b>改为<b>发现</b>两张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61584,
+    "flavor": "本体和镜像体很像，但更神秘，也更焦虑。",
+    "health": 4,
+    "id": "DMF_106",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "隐秘咒术师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Cheung & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61585,
+    "flavor": "全称是“非常公平的游戏”。",
+    "id": "DMF_107",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "非公平游戏",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>奥秘：</b>\n如果你在对手的回合没有受到任何伤害，抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61587,
+    "elite": true,
+    "flavor": "在暗月马戏团按月发行的《暗月月刊》中被评为“最愚的套牌”。",
+    "id": "DMF_108",
+    "name": "愚人套牌",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "将你牌库中的法术牌变形成为法力值消耗增加（3）点的法术牌。<i>（保留其原始法力值消耗。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61589,
+    "elite": true,
+    "flavor": "我们之间不存在秘密……更不存在退款这种事。",
+    "health": 5,
+    "id": "DMF_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗月先知塞格",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>抽1张牌。<i>（在本局对战中，每触发一个友方<b>奥秘</b>都会升级！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Cheung & K. Turovec",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61202,
+    "flavor": "“呼！那块骨头塞在牙缝里好久了！”",
+    "health": 3,
+    "id": "DMF_110",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吐火艺人",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>对所有非恶魔随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61203,
+    "flavor": "“精英牛头人酋长太——主流了。你听说过凋零野猪吗？”",
+    "health": 4,
+    "id": "DMF_111",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摇滚堕落者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "获得+3攻击力和<b>吸血</b>。",
+    "text": "<b>战吼：</b>在本回合中，使一个友方恶魔获得+3攻击力和<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61205,
+    "flavor": "“快点，别让别人看见你；至少别让他们看见我。”",
+    "id": "DMF_113",
+    "name": "免票入场",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "抽两张随从牌。如果两张都是恶魔牌，使其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61206,
+    "flavor": "马戏团老板恨死他了！但只要一个简单的法术就能破解他的奥秘。",
+    "health": 5,
+    "id": "DMF_114",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "癫狂的游客",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cheng Hao",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61207,
+    "flavor": "事实证明：鬼脸做久了，脸真的会僵住。",
+    "health": 3,
+    "id": "DMF_115",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怨灵捣蛋鬼",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>摧毁每个玩家的一个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61208,
+    "elite": true,
+    "flavor": "曾用名“             ，无名者”，但大家都理解不了。",
+    "health": 4,
+    "id": "DMF_116",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无名者",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "成为4/4的复制并将其<b>沉默</b>。",
+    "text": "<b>战吼：</b>选择一个随从，成为它的4/4复制，<b>沉默</b>目标随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61254,
+    "flavor": "在怪物停稳前，请不要把身体四肢伸出车厢外。",
+    "id": "DMF_117",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "连环灾难",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "随机消灭一个敌方随从。<b>腐蚀：</b>消灭两个。<b>再次腐蚀：</b>消灭三个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61646,
+    "elite": true,
+    "flavor": "“奖券，卡牌……全都过！期！了！”",
+    "health": 8,
+    "id": "DMF_118",
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT"
+    ],
+    "name": "提克特斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>移除你的牌库顶的五张牌。<b>腐蚀：</b>改为对手的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "E. Li & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61648,
+    "flavor": "古神低语之际，万物惊叫之时。",
+    "id": "DMF_119",
+    "name": "邪恶低语",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "弃掉你手牌中法力值消耗最低的牌。使你的所有随从获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61642,
+    "flavor": "织血者最初的艺名叫“茄织酱”，观众并不买账。",
+    "health": 5,
+    "id": "DMF_120",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "纳兹曼尼织血者",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你施放一个法术后，随机使你的一张手牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61643,
+    "flavor": "“我预见到了你长大后的情景……一架巨大的钢琴。”",
+    "health": 3,
+    "id": "DMF_121",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "占卜机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽，战吼：</b>\n你手牌中每有一张法术牌，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61682,
+    "flavor": "奖品就是奖品，但神秘奖品可以是任何奖品！甚至可能是条船！",
+    "health": 1,
+    "id": "DMF_122",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "神秘获奖者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61683,
+    "flavor": "“都出来吧，我活不到第九回合了……”",
+    "id": "DMF_123",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "打开兽笼",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>奥秘：</b>当你的回合开始时，如果你控制着两个随从，召唤一个动物伙伴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61685,
+    "flavor": "别碰！越碰越严重。",
+    "health": 2,
+    "id": "DMF_124",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "恐怖增生体",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>获得+1/+1。可以被无限<b>腐蚀</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 62049,
+    "flavor": "“检查完了，你这里搞得不错。没发现任何安全因素。”",
+    "health": 3,
+    "id": "DMF_125",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "安全检查员",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>把你手牌中法力值消耗最低的牌洗入牌库。抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 60926,
+    "flavor": "关门，放小丑！",
+    "health": 4,
+    "id": "DMF_163",
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT",
+      "TAUNT"
+    ],
+    "name": "狂欢小丑",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>召唤本随从的两个复制。<b>腐蚀：</b>用本随从的复制填满你的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 60979,
+    "flavor": "注意不要接触奇怪的眼球和触手，别也别沾上什么黑暗低语。等到明天早上，你就好了。",
+    "health": 4,
+    "id": "DMF_174",
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT"
+    ],
+    "name": "马戏团医师",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "恢复#4点生命值。",
+    "text": "<b>战吼：</b>恢复#4点生命值。<b>腐蚀：</b>改为造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61268,
+    "flavor": "“在暗月竞速赛中，伊利丹开进了死胡同，你猜他会说什么？‘真是自寻死路！’”",
+    "health": 3,
+    "id": "DMF_184",
+    "mechanics": [
+      "CORRUPT",
+      "TAUNT"
+    ],
+    "name": "游乐园小丑",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽，腐蚀：</b>获得+4生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61283,
+    "flavor": "好运来，祝你好运来！好运带来了喜和爱！",
+    "id": "DMF_186",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "吉兆",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "随机召唤一个法力值消耗为（4）的随从。<b>腐蚀：</b>改为召唤法力值消耗为（7）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61282,
+    "flavor": "未来运势，触手可知。",
+    "id": "DMF_187",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "解读手相",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法术牌。使你手牌中所有法术牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 61308,
+    "elite": true,
+    "flavor": "亚煞极，典型的职场实习生：复制粘贴，污染一切。",
+    "health": 10,
+    "id": "DMF_188",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亚煞极，污染之源",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>将你在本局对战中使用过的每张<b>已腐蚀</b>牌的复制置入你的手牌。在本回合中，这些<b>已腐蚀</b>牌的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61297,
+    "flavor": "记住别说话，说话就出戏了。",
+    "health": 2,
+    "id": "DMF_189",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盛装演员",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>随机使你手牌中的一张随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61298,
+    "flavor": "烧鸡这道菜的创意来源。",
+    "health": 5,
+    "id": "DMF_190",
+    "mechanics": [
+      "WINDFURY"
+    ],
+    "name": "炫目火鸟",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61299,
+    "flavor": "这场演出太要命啦！",
+    "health": 2,
+    "id": "DMF_191",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "砸场游客",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语：</b><b>沉默</b>所有随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61305,
+    "flavor": "三个扩展包之前，芬利爵士让这项工作轻松了许多……",
+    "health": 3,
+    "id": "DMF_194",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "赤鳞驯龙者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语：</b>抽一张龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61306,
+    "flavor": "“我的冲关目标是两份怪兽油饼，一个尤格-萨隆的连击之匣，还有一根火鸡腿，能吃掉白银之手新兵的火鸡腿。”",
+    "id": "DMF_195",
+    "name": "零食大冲关",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>发现</b>一张法术牌。为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 60892,
+    "flavor": "只要乘客还没死，所有的意外就都算是乘坐“体验”的一部分。",
+    "health": 2,
+    "id": "DMF_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "脱轨过山车",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>你的手牌中每有一张随从牌，召唤一个1/1并具有<b>突袭</b>的乘客。",
+    "type": "MINION"
+  },
+  {
+    "artist": "K. Lashley & K. Turovec",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61123,
+    "flavor": "恶魔猎手最擅长的两件事：翻过障碍，直接切入。",
+    "health": 4,
+    "id": "DMF_217",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "越线的游客",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "你的<b>流放</b>牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61125,
+    "flavor": "偷了恶魔猎手的玉米炸热狗，就是这种下场。",
+    "id": "DMF_219",
+    "name": "冷酷追杀",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在本回合中，使你的英雄获得+4攻击力和<b>免疫</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "K. Lashley & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61127,
+    "flavor": "邪吼撞过来的时候，所有灵魂都会高喊：“磕到了！磕死我了！”",
+    "id": "DMF_221",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "邪吼冲击",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从和相邻的随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61128,
+    "flavor": "稻草可以救命，树枝也可以。",
+    "health": 3,
+    "id": "DMF_222",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "获救的流民",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在你使用一张<b>流放</b>牌后，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61129,
+    "flavor": "把助手切成两段是整场表演中最简单的一段。",
+    "health": 3,
+    "id": "DMF_223",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "知名表演者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭，亡语：</b>召唤两个1/1并具有<b>嘲讽</b>\n的助演。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61130,
+    "flavor": "演员受了伤，观众却以为是节目效果。",
+    "id": "DMF_224",
+    "name": "演员大接力",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤七个1/1并具有<b>突袭</b>的伊利达雷。在本回合中，如果他们全部死亡，再召唤七个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt O'Connor",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61131,
+    "flavor": "“停，停，我是让你偷一支利刃！”",
+    "id": "DMF_225",
+    "name": "投掷利刃",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "对一个随从造成$2点伤害。如果该随从死亡，则将本牌的一张<b>临时</b>复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61132,
+    "flavor": "哪有什么天才，她是把别人学魔法的工夫都用在练刀上的。",
+    "health": 6,
+    "id": "DMF_226",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "刀锋舞娘",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n如果你的英雄的攻击力大于或等于6点，则法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brandon Blackwell",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61133,
+    "durability": 0,
+    "flavor": "用钝了就会变成恐惧魔王之抿。",
+    "health": 2,
+    "id": "DMF_227",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "恐惧魔王之咬",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>流放：</b>对所有敌人造成1点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61135,
+    "flavor": "杂耍学校竞争残酷，有时你需要踩着别人才能登上高处。",
+    "health": 1,
+    "id": "DMF_229",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高跷艺人",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>抽一张牌。如果你在本回合中使用抽到的牌，使你的英雄在本回合中获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61136,
+    "elite": true,
+    "flavor": "听上去就像是绕了两步的伤害。",
+    "health": 6,
+    "id": "DMF_230",
+    "name": "伊格诺斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>吸血</b>\n你的<b>吸血</b>会对敌方英雄造成伤害，而非治疗你。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61137,
+    "elite": true,
+    "flavor": "接下来有请她的弟弟，平凡艺人扎尔。",
+    "health": 4,
+    "id": "DMF_231",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "扎依，出彩艺人",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n复制你手牌中最左边和最右边的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61186,
+    "flavor": "多好看的金色气球！但只要受到一点伤害，它就会爆掉。",
+    "health": 5,
+    "id": "DMF_235",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "气球商人",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>使你的白银之手新兵获得+1攻击力和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61187,
+    "flavor": "口中奇珍，并非玩物；听从支配，倾心拜服。",
+    "id": "DMF_236",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "古神在上",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术时，使其改为随机施放一个法力值消耗相同的法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61188,
+    "flavor": "游客表示听不懂他的鬼哭狼嚎，所以他只好改说人话。",
+    "health": 2,
+    "id": "DMF_237",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂欢报幕员",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "每当你召唤一个生命值为1的随从，便使其获得+1/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61189,
+    "durability": 0,
+    "flavor": "其实纳鲁不会使用武器。况且纳鲁也没有手。",
+    "health": 3,
+    "id": "DMF_238",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纳鲁之锤",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>召唤一个6/6并具有<b>嘲讽</b>的神圣元素。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61191,
+    "elite": true,
+    "flavor": "体内灌注的圣光过于耀眼，晚上睡觉的时候不得不戴上双层眼罩。",
+    "health": 5,
+    "id": "DMF_240",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "救赎者洛萨克森",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你召唤一个白银之手新兵后，使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 7,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61192,
+    "elite": true,
+    "flavor": "对抗黑暗的战斗中，容不得中立的存在。",
+    "health": 5,
+    "id": "DMF_241",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大主教伊瑞尔",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>如果你的牌库中没有中立卡牌，获得<b>突袭</b>，<b>吸血</b>，<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61218,
+    "flavor": "卡尔感觉到了，自己终有一天会因为那根火鸡腿而后悔。",
+    "id": "DMF_244",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "游园日",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤三个白银之手新兵。<b>腐蚀：</b>召唤五个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61269,
+    "flavor": "连续数届，称霸年度吃热狗大赛……以及吃裁判大赛。",
+    "health": 5,
+    "id": "DMF_247",
+    "mechanics": [
+      "CORRUPT",
+      "TAUNT"
+    ],
+    "name": "贪食地狱犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>\n<b>腐蚀：</b>获得+1/+1和<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61271,
+    "flavor": "“小时候，我想拥有一把自己的武器。我的母亲告诉我：‘我看你像武器！’”",
+    "health": 3,
+    "id": "DMF_248",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "魔钢处决者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>变为武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61273,
+    "flavor": "给他的衣服里塞个大跳蚤，他可以翻越整片天空。",
+    "id": "DMF_249",
+    "name": "空翻杂技",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "抽两张牌。在本回合中，如果你使用了这两张牌，再抽\n两张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 61503,
+    "elite": true,
+    "flavor": "我抽到的是，被封印的黑暗大古神！",
+    "health": 6,
+    "id": "DMF_254",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩，破碎之劫",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>对战开始时：</b>破碎成片。<b>战吼：</b>造成30点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61151,
+    "flavor": "他的托是个树人德鲁伊。老千也要和桩配合。",
+    "health": 2,
+    "id": "DMF_511",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狐人老千",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n在本回合中，你的下一张<b>连击</b>牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cheng Hao",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61154,
+    "flavor": "只有聪明的皇帝能看到这件斗篷。",
+    "id": "DMF_512",
+    "name": "暗影斗篷",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "直到你的下个回合，使你的英雄获得<b>潜行</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61156,
+    "flavor": "“你以为你打了脸，但你接下来要对付的是我！也就是你自己！”",
+    "id": "DMF_513",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "暗影克隆",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "<b>奥秘：</b>在一个随从攻击你的英雄后，召唤一个它的具有<b>潜行</b>的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61157,
+    "flavor": "你可以用一张奖券换一个玩具熊，也可以攒上一千张，换一个艳俗的夜光纪念品！",
+    "health": 3,
+    "id": "DMF_514",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "奖券老板",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语：</b>将三张奖券洗入你的牌库。当抽到奖券时，召唤一个3/3的玩具熊。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61159,
+    "flavor": "有一个地方，毛绒玩具卖得很便宜，你懂的……",
+    "id": "DMF_515",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "行骗",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "抽一张法术牌。<b>连击：</b>并抽一张随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61162,
+    "elite": true,
+    "flavor": "大女皇究竟是指比女皇还大的女皇，还是说这个女皇体型特别大？",
+    "health": 7,
+    "id": "DMF_516",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大女皇夏柯扎拉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张牌，抽取它的所有复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61168,
+    "flavor": "他的眼睛都快长到冰淇淋上了。",
+    "health": 2,
+    "id": "DMF_517",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "甜食狂",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>获得+2攻击力和<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61169,
+    "flavor": "“我不管那些家伙是怎么混进牌库的，我现在就抓到了你们两个。”",
+    "id": "DMF_518",
+    "name": "致伤打击",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "消灭一个随从。你的牌库中每有一张套牌之外的牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61171,
+    "flavor": "抢得到奖品，却永远也抢不回快乐的童年。",
+    "health": 1,
+    "id": "DMF_519",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "奖品掠夺者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "在本回合中，你每使用一张其他牌，便造成1点伤害。",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便对一个随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61235,
+    "flavor": "随从跑得快，全凭领头带。领队带好头，随从有劲头。",
+    "health": 3,
+    "id": "DMF_520",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巡游领队",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在你召唤一个<b>突袭</b>随从后，使其获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61237,
+    "flavor": "这家伙有多狠？他每天的早餐就是一把剑！连牛奶都不喝。",
+    "health": 5,
+    "id": "DMF_521",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "吞剑艺人",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽，战吼：</b>装备一把3/2的剑。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61238,
+    "flavor": "就像玩扫雷加上坦克大战一样躲开炸弹！",
+    "id": "DMF_522",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "雷区挑战",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "造成$5点伤害，随机分配到所有随从身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61242,
+    "flavor": "<i>警告：该车随时可能爆炸。</i>",
+    "health": 3,
+    "id": "DMF_523",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "碰碰车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭，亡语：</b>将两张1/1并具有<b>突袭</b>的乘客置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61246,
+    "durability": 0,
+    "flavor": "一个机械，一条龙和一个海盗走进了古神张开的巨口中。机械太硬了，龙又太烫了，只有海盗刚好合口。",
+    "health": 3,
+    "id": "DMF_524",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "马戏领班的节杖",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的英雄攻击后，使你手牌中的一张机械牌，龙牌和海盗牌获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61248,
+    "elite": true,
+    "flavor": "他能胜任领班，主要是因为他跟所有人，或者说所有东西都合得来。",
+    "health": 5,
+    "id": "DMF_525",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "马戏领班威特利",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>抽一张机械牌，龙牌和海盗牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Cheung & K. Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61249,
+    "flavor": "舞台跳水是什么东西？我还是喜欢原地复活。",
+    "id": "DMF_526",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "舞台跳水",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "抽一张<b>突袭</b>随从牌。<b>腐蚀：</b>使其获得+2/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61252,
+    "flavor": "“我觉得这叫重新装修。”",
+    "health": 5,
+    "id": "DMF_528",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "帐篷摧毁者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>\n每有一个随从类型不同的友方随从，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61262,
+    "elite": true,
+    "flavor": "先是上古之神，现在又来了个摇滚之神。",
+    "health": 4,
+    "id": "DMF_529",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "精英牛头人酋长，金属之神",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在一个友方<b>突袭</b>随从攻击后，对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "K. Lashley & K. Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61263,
+    "flavor": "不知道我顶不顶得住。",
+    "id": "DMF_530",
+    "name": "实力担当",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "随机使你手牌中的一张<b>嘲讽</b>随从牌获得+5/+5。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61426,
+    "flavor": "总有观众乱动道具台，他只好台上台下一把抓。",
+    "health": 2,
+    "id": "DMF_531",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "置景工",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61428,
+    "flavor": "所有生物集于一身，有了它，谁还去看宠物乐园？！",
+    "health": 5,
+    "id": "DMF_532",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "马戏团融合怪",
+    "race": "ALL",
+    "races": [
+      "ALL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>\n<i>本随从拥有全部随从类型。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61884,
+    "flavor": "可平时小鬼都藏在哪呢？",
+    "health": 4,
+    "id": "DMF_533",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "火圈鬼母",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽，亡语：</b>召唤两个3/2的小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61885,
+    "elite": true,
+    "flavor": "没错，就是混乱，不过是有组织的混乱。",
+    "id": "DMF_534",
+    "name": "混乱套牌",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "使你牌库中所有随从牌的法力值消耗和攻击力互换。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61222,
+    "flavor": "“请勿在进食后三十分钟内乘坐旋转木马。我是说木马进食后。”",
+    "id": "DMF_700",
+    "name": "异变轮转",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "随机将所有随从变形成为法力值消耗相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61223,
+    "flavor": "腐蚀，其实就是拉你下水。",
+    "id": "DMF_701",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "深水炸弹",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "造成$4点伤害。<b>腐蚀：</b>再对所有敌方随从造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61224,
+    "flavor": "手机电量只剩5%时的你。",
+    "id": "DMF_702",
+    "name": "风暴打击",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$3点伤害。在本回合中，使你的英雄获得+3攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61225,
+    "flavor": "要是你打赢了最后的决斗，他就送你一个毛绒玩具。",
+    "health": 2,
+    "id": "DMF_703",
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT"
+    ],
+    "name": "死斗场管理者",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>召唤一个3/2的决斗者。<b>腐蚀：</b>召唤两个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tang Ruiqian",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61226,
+    "flavor": "你负责打架，它负责打扫。",
+    "health": 2,
+    "id": "DMF_704",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "笼斗管理员",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n抽一张武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61227,
+    "durability": 0,
+    "flavor": "霍格最痛恨的娱乐项目。",
+    "health": 2,
+    "id": "DMF_705",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "敲狼锤",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的英雄攻击后，随机使一个友方随从获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "J. Cheung & A. Bozonnet",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61228,
+    "flavor": "打来打去，都是为了最终的奖品毛绒玩具。",
+    "id": "DMF_706",
+    "name": "死斗场帐篷",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤一个3/2的决斗者。在本回合中，如果你的英雄进行过攻击，则再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61229,
+    "flavor": "最神奇的就是他从帽子里掏出死亡之翼的那一刻！",
+    "health": 4,
+    "id": "DMF_707",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鱼人魔术师",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "在一个友方鱼人死亡后，随机将一张<b>传说</b>随从牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61230,
+    "elite": true,
+    "flavor": "伊纳拉是观众的最爱，总能收获雷鸣般的掌声。",
+    "health": 5,
+    "id": "DMF_708",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "伊纳拉·碎雷",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的回合时，你的英雄拥有+2攻击力和<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61663,
+    "elite": true,
+    "flavor": "敢于阅读这则卡牌趣文的读者啊，听说，它能直接看穿你的灵魂……",
+    "health": 4,
+    "id": "DMF_709",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨型图腾埃索尔",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的回合结束时，使你手牌，牌库和战场上的所有其他图腾获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61602,
+    "flavor": "被太阳触摸过的项链化掉了。",
+    "id": "DMF_730",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "月触项链",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在本回合中，使你的英雄获得+4攻击力。<b>腐蚀：</b>并获得6点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 61604,
+    "flavor": "别问他的右手怎么了，他还在努力把它长成手的形状。",
+    "id": "DMF_732",
+    "name": "塞纳里奥结界",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "获得8点护甲值。随机召唤一个法力值消耗为（8）的\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61605,
+    "elite": true,
+    "flavor": "当太阳运行到月亮和艾泽拉斯之间时……发生的就是灾难现象了。",
+    "health": 2,
+    "id": "DMF_733",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "基利，艾露恩之眷",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n将一张日蚀和一张月蚀置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steven Prescott",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61606,
+    "elite": true,
+    "flavor": "种一棵树的最佳时间是二十年前，其次是你的随从倒下的时候。",
+    "health": 6,
+    "id": "DMF_734",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "格雷布",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>随机使一个友方随从获得“<b>亡语：</b>召唤格雷布。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61939,
+    "flavor": "“请勿在驾驶期间研习。”",
+    "id": "YOP_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "伊利达雷研习",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>发现</b>一张<b>流放</b>牌。你的下一张<b>流放</b>牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61940,
+    "flavor": "有些选手会把引擎轰出阵阵低吼，但这家伙都是亲自吼。",
+    "health": 6,
+    "id": "YOP_002",
+    "isMiniSet": true,
+    "name": "邪刃豹",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "在本回合中，除非你的英雄进行过攻击，否则无法进行攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61941,
+    "flavor": "始终随身携带他的可重复利用购物袋，旅行包，木桶，衣箱，托盘，还有那个软软的垫子。",
+    "health": 4,
+    "id": "YOP_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT"
+    ],
+    "name": "幸运之魂囤积者",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>将两张灵魂残片洗入你的牌库。<b>腐蚀：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61942,
+    "elite": true,
+    "flavor": "“一起来吧，铁锈军团！呜呼！”",
+    "health": 4,
+    "id": "YOP_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "铁锈特使拉斯维克斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语：</b>随机将三张终极<b>传说</b>随从牌洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61943,
+    "flavor": "联盟和部落携手合作，加强了赛场的防火能力。",
+    "id": "YOP_005",
+    "isMiniSet": true,
+    "name": "路障",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤一个2/4并具有<b>嘲讽</b>的护卫。如果它是你唯一的一个随从，再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean McNally",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61944,
+    "flavor": "“我和我的座驾有着特别的羁绊，只不过算不上美好。”",
+    "id": "YOP_006",
+    "isMiniSet": true,
+    "name": "狂乱",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "选择一个敌方随从，使其随机攻击随从，直至死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61945,
+    "elite": true,
+    "flavor": "恐惧，是意志的吞噬者，也是我那条巨虫的名字。",
+    "health": 5,
+    "id": "YOP_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑暗审判官夏奈什",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CORRUPT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n使你手牌和牌库中的所有<b>腐蚀</b>和<b>已腐蚀</b>牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61946,
+    "flavor": "治疗满满，热量减半。",
+    "health": 6,
+    "id": "YOP_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣光战马",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "你的治疗效果同时会使受到影响的随从获得+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61947,
+    "flavor": "一通鼓，松鼠到；二通鼓，侏儒叫；三通鼓，争荣耀；四通鼓，跑跑跑！",
+    "id": "YOP_009",
+    "isMiniSet": true,
+    "name": "开赛集结",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "HOLY",
+    "text": "复活法力值消耗为（1），（2），（3）的友方随从\n各一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61948,
+    "flavor": "此马非凡马，星骓本是星。",
+    "health": 5,
+    "id": "YOP_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "被禁锢的星骓",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>休眠</b>2回合。<b>法术迸发：</b>使你的随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61949,
+    "durability": 0,
+    "flavor": "你不能靠封面去评判一本书，但你可以用这本书去审判一个人。",
+    "health": 3,
+    "id": "YOP_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "审判圣契",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>获得<b>吸血</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61950,
+    "flavor": "人之将死，其……",
+    "health": 5,
+    "id": "YOP_012",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "死亡守望者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>亡语</b>不会触发。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabe Gonzalez",
+    "attack": 0,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61951,
+    "durability": 0,
+    "flavor": "当车轮，完美；当车舵，完蛋。",
+    "health": 2,
+    "id": "YOP_013",
+    "isMiniSet": true,
+    "name": "尖刺轮盘",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "当你的英雄有护甲值时，拥有+3攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61952,
+    "flavor": "底盘离地间隙仅有两厘米，根本过不了减速带。",
+    "health": 4,
+    "id": "YOP_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "铁甲战车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>如果你的英雄有护甲值，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61953,
+    "flavor": "倒进油箱里的冰牛奶并不能提供氮气加速，但用来做胜利纪念甜点却是一流。",
+    "id": "YOP_015",
+    "isMiniSet": true,
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "氮素药膏",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "使一个随从获得+2攻击力。<b>腐蚀：</b>并使你的武器获得+2攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61954,
+    "flavor": "开了挂，还有什么乐趣？",
+    "health": 3,
+    "id": "YOP_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "欢脱的作弊选手",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>如果你的手牌中有<b>奥秘</b>牌，将其施放并抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61955,
+    "flavor": "猢狲的赛场哲学：不论私蕉，公事公绊。",
+    "id": "YOP_017",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "蕉猾诡计",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>奥秘：</b>当你的对手在一个回合中抽到第二张牌时，将其变形成为一张香蕉。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61956,
+    "elite": true,
+    "flavor": "她从她父亲那里只学到一件事：复制。",
+    "health": 5,
+    "id": "YOP_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "SPELLBURST"
+    ],
+    "name": "钥匙守护者艾芙瑞",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b><b>发现</b>一张任意职业的双职业法术牌。<b>法术迸发：</b>获取发现的法术牌的另一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61957,
+    "flavor": "她挂机就是为了这个。",
+    "id": "YOP_019",
+    "isMiniSet": true,
+    "name": "制造法力饼干",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "ARCANE",
+    "text": "将一张可以复原两个法力水晶的饼干置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Agatha Zhou",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61958,
+    "flavor": "没了超人战服，终究是差点味道。",
+    "health": 3,
+    "id": "YOP_020",
+    "isMiniSet": true,
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "冰川竞速者",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>法术迸发：</b>对所有已被<b>冻结</b>的敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61959,
+    "flavor": "凤凰可以变成一团火，轻松摆脱锁链的禁锢。",
+    "health": 3,
+    "id": "YOP_021",
+    "isMiniSet": true,
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "被禁锢的凤凰",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellDamage": 1,
+    "text": "<b>休眠</b>2回合。<b>法术伤害+2</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61960,
+    "flavor": "“快把它弄下来！！”",
+    "health": 4,
+    "id": "YOP_022",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD"
+    ],
+    "name": "迷雾行者",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "获得+3/+3。",
+    "text": "<b>战吼：</b>使一个友方随从获得+3/+3。\n<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61961,
+    "flavor": "“好一场天塌地陷的大胜！咦，其他选手去哪儿了？”",
+    "id": "YOP_023",
+    "isMiniSet": true,
+    "name": "大地崩陷",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "对所有敌方随从造成$1点伤害。如果你有<b>过载</b>的法力水晶，再次造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ware Lee",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61962,
+    "flavor": "使用原野疾驰技能会被取消参赛资格。",
+    "id": "YOP_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "灵魂指引",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "检视两张法术牌。将其中一张置入你的手牌；或者<b>过载：</b>（1），获取这两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61963,
+    "flavor": "有些龙的梦想是征服艾泽拉斯，有些龙的梦想只是成为5/6。",
+    "health": 4,
+    "id": "YOP_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "CORRUPT",
+      "TAUNT"
+    ],
+    "name": "迷梦幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽</b>，<b>腐蚀：</b>获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61964,
+    "flavor": "要是连大树都能超过你，那你真的不该来这里。",
+    "id": "YOP_026",
+    "isMiniSet": true,
+    "name": "树木生长",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "NATURE",
+    "text": "召唤两个2/2的树人。使你的随从获得+2/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61965,
+    "flavor": "回头想想，用套索打飞虫好像也不是很合适。",
+    "id": "YOP_027",
+    "isMiniSet": true,
+    "name": "套索射击",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "对一个随从造成$1点伤害，并对其相邻的随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61966,
+    "flavor": "座套，检查完毕。喷漆，检查完毕。杯架，检查完毕。",
+    "health": 4,
+    "id": "YOP_028",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鞍座管理员",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你使用一张野兽牌后，随机将一张野兽牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61967,
+    "flavor": "不要在随心口袋里面再套一个随心口袋。",
+    "id": "YOP_029",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "随心口袋",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>发现</b>一张法力值消耗等同于你剩余法力水晶数量的卡牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61968,
+    "flavor": "她只会射向那些未经允许就来撸她的大猫的家伙。",
+    "health": 3,
+    "id": "YOP_030",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "邪火神射手",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "你的英雄技能的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61969,
+    "flavor": "“鱼人骑手坐在哪里最合适？”“蟹腰。”",
+    "health": 4,
+    "id": "YOP_031",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH",
+      "WINDFURY"
+    ],
+    "name": "螃蟹骑士",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>突袭</b>，<b>风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61970,
+    "flavor": "“一看您就是那种需要三套护甲的大客户，一套实用，一套备用，一套备用的备用。”",
+    "health": 3,
+    "id": "YOP_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "护甲商贩",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>使每个英雄获得4点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61971,
+    "flavor": "“我再也不让小鬼往我的车里吐燃料了。”",
+    "id": "YOP_033",
+    "isMiniSet": true,
+    "name": "赛车回火",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "FIRE",
+    "text": "抽三张牌。对你的英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 61972,
+    "flavor": "距离艾泽拉斯联赛的上一次事故已经过去整整5分钟了。",
+    "health": 10,
+    "id": "YOP_034",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "窜逃的黑翼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的回合结束时，随机对一个敌方随从造成10点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 61973,
+    "elite": true,
+    "flavor": "“月额”这个名字听起来就不行。",
+    "health": 3,
+    "id": "YOP_035",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "月牙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "text": "每次只能受到1点伤害。",
+    "type": "MINION"
+  }
+]

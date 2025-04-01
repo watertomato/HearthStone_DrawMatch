@@ -1,0 +1,202 @@
+[
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41130,
+    "flavor": "可免费升级套餐里的薯条跟可乐。",
+    "id": "UNG_004",
+    "name": "巨化术",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "将一个随从的属性值变为7/14。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41139,
+    "flavor": "绝大多数鱼人冲着就业前景报考了计算机专业，而报考水文学的则寥寥无几。",
+    "health": 2,
+    "id": "UNG_011",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "水文学家",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>发现</b>并施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41145,
+    "elite": true,
+    "flavor": "其实他最喜欢的数字是4，只可惜…",
+    "health": 7,
+    "id": "UNG_015",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "守日者塔林姆",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>将所有其他随从的攻击力和生命值变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Joe Wilson",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41859,
+    "durability": 0,
+    "flavor": "乔治！卡尔！感谢圣光，终于找到你们了！",
+    "health": 3,
+    "id": "UNG_950",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "斩棘刀",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "在你的英雄攻击后，召唤两个1/1的白银之手\n新兵。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41864,
+    "flavor": "恐龙骑士唯一的遗憾，就是没能参加“冠军的试炼”。",
+    "id": "UNG_952",
+    "name": "剑龙骑术",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "使一个随从获得+2/+6和<b>嘲讽</b>。当该随从死亡时，召唤一只剑龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41866,
+    "flavor": "怎么，你想要回你的东西？除非我死了！",
+    "health": 3,
+    "id": "UNG_953",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "蛮鱼勇士",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将你施放在本随从身上的所有法术移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41868,
+    "elite": true,
+    "flavor": "“不！这不可能！”白银之手新兵的眼神里充满了恐惧。乌瑟尔摇了摇头，用圣光将水晶点亮：“生命总能自己找到出路。”",
+    "id": "UNG_954",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "最后的水晶龙",
+    "questReward": "UNG_954t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>对你的随从施放5个法术。\n<b>奖励：</b>嘉沃顿。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41912,
+    "faction": "ALLIANCE",
+    "flavor": "再也没有人见到过乔治和卡尔。",
+    "id": "UNG_960",
+    "name": "迷失丛林",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "召唤两个1/1的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 41944,
+    "flavor": "要是祈求救赎没成功的话，就祈求长出更多的尖牙和利爪吧。",
+    "id": "UNG_961",
+    "name": "适者生存",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>进化</b>一个友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41945,
+    "flavor": "这样进化的好处是不担心走夜路了。",
+    "health": 3,
+    "id": "UNG_962",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光注剑龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>进化</b>你的白银之手新兵。",
+    "type": "MINION"
+  }
+]

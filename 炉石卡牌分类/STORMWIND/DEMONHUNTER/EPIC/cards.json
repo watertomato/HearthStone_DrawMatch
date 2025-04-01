@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64396,
+    "flavor": "信奉“纯绿色”饮食。",
+    "health": 3,
+    "id": "SW_043",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪能吞食者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张邪能法术牌，使其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64688,
+    "durability": 0,
+    "flavor": "就像陀螺一样，越抽越快。",
+    "health": 2,
+    "id": "SW_454",
+    "name": "雄狮之怒",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "攻击力等同于\n你在本回合中抽牌的数量。",
+    "type": "WEAPON"
+  }
+]

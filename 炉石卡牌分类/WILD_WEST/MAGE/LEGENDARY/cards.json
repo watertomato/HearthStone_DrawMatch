@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101879,
+    "elite": true,
+    "flavor": "大家一起开个元素庆祝一下！",
+    "health": 5,
+    "id": "WW_429",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "碎裂巨岩迈沙顿",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>抽一张元素牌，将其拆成两半。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101880,
+    "elite": true,
+    "flavor": "控制死骑直播的头号粉丝。",
+    "health": 5,
+    "id": "WW_430",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "泰瑟兰·血望者",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "你的套牌之外的牌法力值消耗减少（4）点<i>（但不能少于1点）</i>。",
+    "type": "MINION"
+  }
+]

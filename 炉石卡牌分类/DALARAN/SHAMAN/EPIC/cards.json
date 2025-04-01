@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 51727,
+    "flavor": "泥沼龙战队最受欢迎的成员。",
+    "health": 4,
+    "id": "DAL_052",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泥沼变形怪",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>变形成为你的牌库中一个其他随从的4/4复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52421,
+    "flavor": "隔汤有眼！",
+    "id": "DAL_432",
+    "name": "女巫杂酿",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "spellSchool": "NATURE",
+    "text": "恢复#4点生命值。在本回合可以重复使用。",
+    "type": "SPELL"
+  }
+]

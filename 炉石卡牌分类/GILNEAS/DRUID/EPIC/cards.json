@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Jerry Mascho",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46680,
+    "flavor": "威严、雄壮、超凡优雅的它……却总显得很抑郁。",
+    "health": 6,
+    "id": "GIL_130",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "阴郁的牡鹿",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽，战吼：</b>如果你的牌库中只有法力值消耗为奇数的牌，则获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47063,
+    "flavor": "事实上，命名黑暗私语的家伙并没有被开除。",
+    "id": "GIL_553",
+    "name": "精灵之森",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "spellSchool": "NATURE",
+    "text": "你每有一张手牌，便召唤一个1/1的小精灵。",
+    "type": "SPELL"
+  }
+]

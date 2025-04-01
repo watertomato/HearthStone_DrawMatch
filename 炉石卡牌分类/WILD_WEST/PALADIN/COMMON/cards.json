@@ -1,0 +1,85 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104526,
+    "flavor": "格洛布在蘑菇矿中辛劳终日，同时菇量着自己的处境。恍惚之间，他猛然惊觉：他的老板实在没什么劲。",
+    "id": "DEEP_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "EXCAVATE"
+    ],
+    "name": "魔菇采掘",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WILD_WEST",
+    "text": "使一个随从获得<b>圣盾</b>。<b>发掘</b>一个宝藏。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100118,
+    "flavor": "等等，就是说……他是不是应该叫“神圣科多仔”？",
+    "health": 3,
+    "id": "WW_335",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神圣牛仔",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>你的下一张神圣法术牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100121,
+    "flavor": "彩虹有七色，每个敌方随从一个。",
+    "id": "WW_336",
+    "name": "棱彩光束",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "对所有敌人造成$3点伤害。每有一个敌方随从，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 100230,
+    "flavor": "凡事总喜欢从他自己的法律里翻出法条。",
+    "health": 5,
+    "id": "WW_342",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "name": "长臂执法者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>战吼：</b>你每有一张手牌，便获得+1攻击力。",
+    "type": "MINION"
+  }
+]

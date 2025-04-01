@@ -1,0 +1,111 @@
+[
+  {
+    "artist": "Zoltan & Gabor",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 584,
+    "flavor": "我们永远不会忘记你，“守护者！”",
+    "id": "EX1_130",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "崇高牺牲",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "<b>奥秘：</b>当一个敌人攻击时，召唤一个2/1的防御者，并使其成为攻击的目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 462,
+    "flavor": "有时正义的表现形式就是这么简单：紧握的拳头打在瘫软的脸上。",
+    "id": "EX1_132",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "以眼还眼",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "HOLY",
+    "text": "<b>奥秘：</b>\n当你的英雄受到伤害时，对敌方英雄造成等量伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ittoku",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 140,
+    "flavor": "救赎并非是从罪恶中得以解脱，而是对生活的彻底肯定，包括其中的痛苦、折磨和荒诞。",
+    "id": "EX1_136",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "救赎",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "HOLY",
+    "text": "<b>奥秘：</b>当一个友方随从死亡时，使其回到战场，并具有1点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Doug Alexander",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1022,
+    "flavor": "“我没说你能够躲过火球。我是说有了这盾，你就不需要躲了。”",
+    "health": 2,
+    "id": "EX1_362",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "银色保卫者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "EXPERT1",
+    "targetingArrowText": "使其获得<b>圣盾</b>。",
+    "text": "<b>战吼：</b>使一个其他友方随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chippy",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 1373,
+    "flavor": "显然是智慧让他认清了这样一条真理：作为一个随从，每回合都要攻击才能体现其价值。",
+    "id": "EX1_363",
+    "name": "智慧祝福",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "HOLY",
+    "text": "选择一个随从，每当其进行攻击，便抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 232,
+    "flavor": "忏悔总会在湮灭前一刻到来。多么奥妙。",
+    "id": "EX1_379",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "忏悔",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "HOLY",
+    "text": "<b>奥秘：</b>\n在你的对手使用一张随从牌后，使该随从的生命值降为1。",
+    "type": "SPELL"
+  }
+]

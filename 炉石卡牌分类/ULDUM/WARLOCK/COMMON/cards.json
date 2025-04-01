@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53882,
+    "flavor": "“袋子里是什么？”“是……坏家伙。”“好家伙，成交！”",
+    "id": "ULD_160",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "邪恶交易",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "<b>发现</b>一张<b>跟班</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53883,
+    "flavor": "我手执钢鞭将你打！",
+    "health": 5,
+    "id": "ULD_161",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "尼斐塞特鞭笞者",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "每当本随从攻击时，对你的英雄造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53884,
+    "flavor": "小跟班已经不够坏了，不如再从它身上榨一点好处。",
+    "health": 3,
+    "id": "ULD_162",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怪盗征募官",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "targetingArrowText": "消灭一个友方<b>跟班</b>。",
+    "text": "<b>战吼：</b>消灭一个友方<b>跟班</b>，召唤一个5/5的恶魔。",
+    "type": "MINION"
+  }
+]

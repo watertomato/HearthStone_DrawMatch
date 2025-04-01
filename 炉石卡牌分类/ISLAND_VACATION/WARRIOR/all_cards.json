@@ -1,0 +1,256 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107766,
+    "flavor": "快住手，还是让她来做饭吧。",
+    "health": 4,
+    "id": "VAC_337",
+    "mechanics": [
+      "TAUNT",
+      "TRADEABLE"
+    ],
+    "name": "灶头厨师",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>可交易</b>\n<b>嘲讽</b>。当你抽到本牌时，获取一张它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 107767,
+    "flavor": "真的很有劲。",
+    "id": "VAC_338",
+    "name": "腱力金杯",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "使你手牌中的一张随从牌获得+2/+1。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 107769,
+    "flavor": "我们本打算在这放一条有味道的段子，奈何芝士水平有限。",
+    "health": 9,
+    "id": "VAC_339",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "芝士怪物",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，召唤一个属性值等同于本随从的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 107770,
+    "elite": true,
+    "flavor": "牛头人也有四个胃吗？",
+    "health": 3,
+    "id": "VAC_340",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "饥饿食客哈姆",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>德鲁伊游客</b>\n<b>嘲讽</b>。在你的回合结束时，吃掉敌方牌库中的一个随从以获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107771,
+    "flavor": "了断鱼生，或是了断余生。",
+    "health": 4,
+    "id": "VAC_341",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "断生鱿鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "消灭一个攻击力小于或等于本随从的敌方随从。",
+    "text": "<b>战吼：</b>消灭一个攻击力小于或等于本随从的敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106377,
+    "durability": 0,
+    "elite": true,
+    "flavor": "相传这柄神器可以切开最硬的酸酵法棍面包。",
+    "health": 2,
+    "id": "VAC_525",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "黑麦切割者",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼，亡语：</b>获取一片面包。<i>（获取2片即可将随从夹进三明治！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106379,
+    "flavor": "未充分燃烧的炭火有毒，所以这张牌不要去闻。",
+    "id": "VAC_526",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "炭火",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$7点伤害。使你手牌中的一张随从牌获得等同于超过目标生命值伤害的属性值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 106381,
+    "flavor": "“熏龙高手”。",
+    "health": 6,
+    "id": "VAC_527",
+    "mechanics": [
+      "ELUSIVE",
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙族美餐",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>扰魔</b>。每次只能受到1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106382,
+    "flavor": "永远不要在饿的时候设计卡牌。",
+    "id": "VAC_528",
+    "name": "自助大餐",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "抽取三张不同类型的随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106390,
+    "flavor": "这个才叫渔人的搏斗。",
+    "id": "VAC_533",
+    "name": "食物大战",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "为你的对手召唤一份0/4的主菜。当它死亡时，从你的牌库中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110780,
+    "flavor": "占两个车位不停车——装象。",
+    "id": "WORK_021",
+    "isMiniSet": true,
+    "name": "预留泊位",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "使你手牌中一张随机随从牌获得+4/+4。如果其为手牌中唯一的随从牌，其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110783,
+    "flavor": "去<b>修甲</b>的时候别忘了打卡再出门。",
+    "id": "WORK_022",
+    "isMiniSet": true,
+    "name": "打卡",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在本回合中，使你的英雄获得+3攻击力和“同时对相邻随从造成伤害”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110785,
+    "flavor": "数据也许会骗你，但是铁定……铁锭打造的顾问不会骗你。",
+    "health": 6,
+    "id": "WORK_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "合金顾问",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>\n每当本随从受到伤害，获得3点护甲值。",
+    "type": "MINION"
+  }
+]

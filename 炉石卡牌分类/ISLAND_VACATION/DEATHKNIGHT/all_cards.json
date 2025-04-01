@@ -1,0 +1,328 @@
+[
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106497,
+    "flavor": "与伊丽扎·刺刃和佩吉·布里特伯并称海盗三姐妹，共同构成了海上威胁。",
+    "health": 2,
+    "id": "VAC_402",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "霜噬海盗",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>随机<b>冻结</b>3个敌人，已被<b>冻结</b>的敌人改为受到5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107719,
+    "flavor": "票选出来的名字叫“皮皮虾号”。",
+    "health": 5,
+    "id": "VAC_425",
+    "name": "大地之末号",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "造成3点伤害，随机分配到所有敌人身上。在一个友方随从死亡后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107720,
+    "elite": true,
+    "flavor": "死人不会说话，但亡灵海盗的话可多了。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "VAC_426",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "伊丽扎·刺刃",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>在本局对战的剩余时间内，你的随从拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107775,
+    "flavor": "共有三种可口风味：恶臭味，恶心味，还有巧克力味！",
+    "id": "VAC_427",
+    "name": "甜筒殡淇淋",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "造成$3点伤害。消耗3份<b>残骸</b>，在你的回合结束时将本牌移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107790,
+    "flavor": "“滑雪这项运动，怎么说呢，非常安全。我总共只受过一次伤。”",
+    "health": 4,
+    "id": "VAC_429",
+    "name": "滑雪高手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "text": "如果有被<b>冻结</b>的角色，则法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107920,
+    "flavor": "玉米海盗走进微波炉会变成什么？脆谷海盗！啊嘎嘎嘎！",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_436",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "脆骨海盗",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "REBORN"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ISLAND_VACATION",
+    "text": "每当你使用一张<b>亡语</b>随从牌时，使其获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107926,
+    "elite": true,
+    "flavor": "“再乱买徽章我就剁手！”",
+    "health": 4,
+    "id": "VAC_437",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "扣子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>萨满祭司游客</b>\n<b>战吼：</b>抽取每个派系的法术牌各一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108436,
+    "flavor": "“哦，你知道杰尸卡对殆尼说了什么吗？”",
+    "id": "VAC_445",
+    "name": "食尸鬼之夜",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ISLAND_VACATION",
+    "text": "召唤五个1/1的食尸鬼并使其攻击随机敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105854,
+    "flavor": "从此之后都是下坡路。",
+    "id": "VAC_513",
+    "name": "滑坡",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个角色。每有一个被<b>冻结</b>的角色，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105855,
+    "flavor": "训练师是个亡灵，说明恐惧猎犬的确难以驯养。",
+    "health": 1,
+    "id": "VAC_514",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "恐惧猎犬训练师",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>亡语：</b>召唤一只1/1并具有<b>复生</b>的恐惧猎犬。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110762,
+    "flavor": "“所有的8费随从，不管是谁，你都放它过去！？”“……是啊……”",
+    "health": 2,
+    "id": "WORK_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "行程保安",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>随机召唤一个法力值消耗为（8）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 112372,
+    "flavor": "青山不改，绿水长留！后会无期啦！",
+    "id": "WORK_028",
+    "isMiniSet": true,
+    "name": "无限滞留",
+    "rarity": "RARE",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ISLAND_VACATION",
+    "text": "使所有随从获得<b>复生</b>，然后消灭所有随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111485,
+    "flavor": "ctrl-f “灵魂”",
+    "id": "WORK_070",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "灵魂检索",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "从你的牌库中<b>发现</b>一张牌。消耗5份<b>残骸</b>，复制发现的牌。",
+    "type": "SPELL"
+  }
+]

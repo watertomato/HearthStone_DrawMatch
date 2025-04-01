@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61151,
+    "flavor": "他的托是个树人德鲁伊。老千也要和桩配合。",
+    "health": 2,
+    "id": "DMF_511",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狐人老千",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>\n在本回合中，你的下一张<b>连击</b>牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61159,
+    "flavor": "有一个地方，毛绒玩具卖得很便宜，你懂的……",
+    "id": "DMF_515",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "行骗",
+    "rarity": "COMMON",
+    "set": "DARKMOON_FAIRE",
+    "text": "抽一张法术牌。<b>连击：</b>并抽一张随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61168,
+    "flavor": "他的眼睛都快长到冰淇淋上了。",
+    "health": 2,
+    "id": "DMF_517",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "甜食狂",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>获得+2攻击力和<b>潜行</b>。",
+    "type": "MINION"
+  }
+]

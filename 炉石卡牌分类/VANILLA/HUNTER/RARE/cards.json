@@ -1,0 +1,97 @@
+[
+  {
+    "artist": "Daren Bader",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69963,
+    "flavor": "再狡猾的狐狸……也会被猎人误导。",
+    "id": "VAN_EX1_533",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "误导",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "<b>奥秘：</b>当一个敌人攻击你的英雄时，改为该敌人随机攻击另一个角色。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Milivoj Ceran",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69964,
+    "flavor": "在偌大丛林的生存游戏中，即使是狮子也会被成群的土狼拖垮。",
+    "health": 5,
+    "id": "VAN_EX1_534",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "长鬃草原狮",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "<b>亡语：</b>召唤两只2/2的土狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cyril Van Der Haegen",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69965,
+    "durability": 0,
+    "flavor": "第一课：把尖的那头对准别人。",
+    "health": 2,
+    "id": "VAN_EX1_536",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鹰角弓",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "VANILLA",
+    "text": "每当一个<b>奥秘</b>被揭示时，便获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Tom Baxa",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69966,
+    "flavor": "拉动保险销，数到5，再开火。然后躲起来。",
+    "id": "VAN_EX1_537",
+    "name": "爆炸射击",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "对一个随从造成$5点伤害，并对其相邻的随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69969,
+    "flavor": "它不但能让你的敌人无处遁形，还能让整个晚会熠熠生辉！",
+    "id": "VAN_EX1_544",
+    "name": "照明弹",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET",
+      "STEALTH"
+    ],
+    "set": "VANILLA",
+    "text": "所有随从失去<b>潜行</b>，摧毁所有敌方<b>奥秘</b>，抽一张牌。",
+    "type": "SPELL"
+  }
+]

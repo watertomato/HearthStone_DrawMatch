@@ -1,0 +1,250 @@
+[
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98328,
+    "flavor": "如果你没收到他的玫瑰，那就赶快收拾行李，立刻离开奥杜尔。",
+    "health": 4,
+    "id": "TTN_503",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾欧娜尔的信徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>你的下一个<b>抉择</b>牌或技能同时拥有两种效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 96671,
+    "elite": true,
+    "flavor": "她是所有生命的保护者，曾经挽救新生的艾泽拉斯世界之魂，使之免于毁灭。仁善便是她最伟大的智慧。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TTN_903",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "生命的缚誓者艾欧娜尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，召唤一棵5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98017,
+    "flavor": "是谁放的温室气体？",
+    "health": 5,
+    "id": "TTN_926",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "生长古树",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>抉择：</b>召唤三个2/2的树人；或者将你的树人变形成为5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98087,
+    "flavor": "无论如何，千万不要在午夜之后给你的树人浇水！",
+    "health": 4,
+    "id": "TTN_927",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "护园森灵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "targetingArrowText": "使一个友方树人变形。",
+    "text": "<b>战吼：</b>将一个友方树人变形成为5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97627,
+    "flavor": "卡牌趣文更糟啦！",
+    "id": "TTN_930",
+    "name": "雪莲幼苗",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌。获得5点护甲值。<i>（3回合后长成。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97629,
+    "elite": true,
+    "flavor": "好事要成双。好事要成双。",
+    "health": 6,
+    "id": "TTN_940",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "自然守护者弗蕾亚",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>抉择：</b>复制你的手牌；或者召唤所有其他友方随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97584,
+    "flavor": "树木花开，有一盛必有一败。",
+    "id": "TTN_950",
+    "name": "林木幼苗",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "召唤两个1/1的树苗。<i>（2回合后长成）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97649,
+    "flavor": "双效合一！",
+    "id": "TTN_951",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "自然之拥",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "抽一张<b>抉择</b>牌。<b>锻造：</b>并使其同时拥有两种效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 98265,
+    "flavor": "谁说这张牌消耗8点法力值，纯属一叶障目。",
+    "id": "TTN_954",
+    "name": "栽培",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "使你的随从获得+2/+2。在本局对战中，你每召唤一个树人，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100093,
+    "flavor": "当时的人们疯狂追逐着自然法术，但没人注意到花朵之外的泡沫即将破裂。",
+    "id": "TTN_955",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "生命缚誓者的礼物",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>随机获取2张自然法术牌；或者使你手牌中法术牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101685,
+    "flavor": "禁止在狂野环境中使用。会破坏臭氧层。",
+    "health": 2,
+    "id": "YOG_403",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "空中施肥者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼，亡语：</b>召唤一个2/2的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，\n如果你施放过5个或以上法术，复原4个法力水晶。",
+    "cost": 3,
+    "dbfId": 101563,
+    "flavor": "他会腐蚀我，他不会腐蚀我，他会腐蚀我……",
+    "health": 3,
+    "id": "YOG_528",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "受污染的鞭笞者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，\n如果你施放过5个或以上法术，复原4个法力水晶。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 101566,
+    "flavor": "只要选对牙医，就不存在禁忌！",
+    "id": "YOG_529",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "禁忌之果",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "消耗你所有的法力值。<b>抉择：</b>获得在本回合中的等量攻击力；或者获得双倍的护甲值。",
+    "type": "SPELL"
+  }
+]

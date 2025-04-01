@@ -1,0 +1,201 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47840,
+    "flavor": "这招很不要脸。",
+    "id": "BOT_033",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "投掷炸弹",
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "造成$2点伤害。召唤一个0/2的地精炸弹。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 47841,
+    "elite": true,
+    "flavor": "一份好计划通常需要一些耐心……和成吨的炸弹。",
+    "health": 5,
+    "id": "BOT_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "爆破大师弗拉克",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>召唤四个0/2的地精炸弹。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47842,
+    "flavor": "因携带违禁品常年无法通过安检。",
+    "health": 2,
+    "id": "BOT_035",
+    "mechanics": [
+      "MAGNETIC",
+      "POISONOUS"
+    ],
+    "name": "毒箭机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BOOMSDAY",
+    "text": "<b>磁力</b>\n<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47855,
+    "flavor": "她会从试验和错误中吸取教训……好吧，主要是从错误。",
+    "health": 1,
+    "id": "BOT_038",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "焰火技师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>使一个友方机械获得+1/+1。如果它拥有<b>亡语</b>，则将其\n触发。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47856,
+    "flavor": "一回生，二回死，三回就……熟练了。",
+    "health": 6,
+    "id": "BOT_039",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "死灵机械师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "你的<b>亡语</b>会触发\n两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48185,
+    "flavor": "击败强敌，惩奸除恶。小心，蜘蛛炸弹来啦！",
+    "health": 2,
+    "id": "BOT_251",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MAGNETIC"
+    ],
+    "name": "蜘蛛炸弹",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>磁力</b>\n<b>亡语：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 48519,
+    "flavor": "秘密就是……根本没有计划！",
+    "id": "BOT_402",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "奥秘图纸",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>发现</b>一张<b>奥秘</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 48670,
+    "elite": true,
+    "flavor": "本来火箭上绑的是塔布羊，后来换成了裂蹄牛。",
+    "id": "BOT_429",
+    "name": "弗拉克的火箭炮",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "从你的牌库中召唤三个随从。他们会攻击敌方随从，然后死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48770,
+    "flavor": "“哈哈！快看格洛克的狼狈样……格洛克？格洛克？”",
+    "id": "BOT_437",
+    "name": "地精的把戏",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BOOMSDAY",
+    "text": "使一个友方随从获得+3/+3和<b>突袭</b>，该随从会在回合结束时死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 48772,
+    "flavor": "不好的一点就是——去哪都会被人知道。",
+    "id": "BOT_438",
+    "name": "机核芯片",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "使你的所有随从获得\n“<b>亡语：</b>随机将一张机械牌置入你的手牌”。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "artist": "Alex Stone",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 113434,
+    "elite": true,
+    "flavor": "欧恩哈拉的风之力深受牛头人和半人马的崇拜，惠泽甚广，延续至今。",
+    "health": 11,
+    "id": "EDR_031",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "欧恩哈拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，使用你牌库顶的3张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114280,
+    "flavor": "我知道谁能解决这种魔法豆蔓。那可是个行家。",
+    "health": 4,
+    "id": "EDR_230",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "豆蔓蛮兵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>使你牌库中最上方的3张随从牌获得+4/+4。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114367,
+    "flavor": "当你需要拥抱的时候，就用这张牌。当你需要灌注英雄技能的时候也可以。",
+    "id": "EDR_231",
+    "name": "守护巨龙之拥",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "恢复#4点生命值。<b>灌注</b>你的英雄技能。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 114357,
+    "flavor": "“不和你说了，茱莉亚，萨特飞过去了。”",
+    "id": "EDR_232",
+    "name": "台风",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "将每个随从\n洗入随机玩家\n的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114369,
+    "flavor": "……或者十六头牛。",
+    "id": "EDR_233",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "森林之灵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤三只2/3并具有<b>嘲讽</b>的狼；或者召唤两只4/3并具有<b>风怒</b>的猎鹰。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114281,
+    "flavor": "<b>过厚：</b>（2）",
+    "id": "EDR_234",
+    "name": "翡翠厚赠",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "抽两张牌。你无法在2回合内使用这些牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 114284,
+    "elite": true,
+    "flavor": "绿龙军团并非伊家之天下，向来是能者居首。",
+    "health": 4,
+    "id": "EDR_238",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "麦琳瑟拉",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>复活所有\n法力值消耗大于或等于（8）点的不同的友方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 114920,
+    "flavor": "你以为这是翡翠梦魇的产物吗，那你可就错了。",
+    "health": 6,
+    "id": "EDR_477",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "明根捕食花",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。在本局对战中，你每使用一次英雄技能，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114289,
+    "flavor": "原野岩，天光，园林，接下来还有什么？",
+    "health": 3,
+    "id": "EDR_518",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体园林",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>灌注</b>你的英雄技能。使你手牌中一张随从牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 115295,
+    "flavor": "“长大之后，我要变成死亡之翼！”",
+    "health": 2,
+    "id": "EDR_529",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "胆大的魔荚人",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "如果本随从即将变形成为某随从，则会变形成为法力值消耗增加（2）点的随从。",
+    "type": "MINION"
+  }
+]

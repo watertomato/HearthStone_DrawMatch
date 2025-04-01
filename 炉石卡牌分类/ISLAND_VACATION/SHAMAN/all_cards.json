@@ -1,0 +1,266 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106303,
+    "flavor": "小心了达瑞尔，他来撬你的工作了。",
+    "health": 4,
+    "id": "VAC_301",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "炫目演出者",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>随机召唤一个法力值消耗为（5）的随从。在本局对战中你每施放过一个派系的法术，重复一次。0<i>（重复0次）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106307,
+    "flavor": "“是啊，自然法术足以供我生存，但这些爱好才是我的生活。”",
+    "id": "VAC_305",
+    "name": "冰霜摆件",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "召唤两个2/4并具有<b>嘲讽</b>和“<b>亡语：</b>获得4点护甲值”的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106310,
+    "flavor": "“听懂的和我一起唱！——咿呜咿呜！”",
+    "id": "VAC_308",
+    "name": "海妖之歌",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "随机获取两张你在本局对战中未施放过的派系的法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106532,
+    "flavor": "高端人士绝不会喝这种东西。",
+    "id": "VAC_323",
+    "name": "麦芽岩浆",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "对所有敌方随从造成$1点伤害。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106535,
+    "flavor": "星期三，我们穿粉色！",
+    "id": "VAC_324",
+    "name": "统一着装",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "将一个随从随机变形成为一个法力值消耗增加（1）点的随从，然后召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106534,
+    "flavor": "“谁把这对潮乎乎的护腕扔在地上了？”",
+    "health": 8,
+    "id": "VAC_328",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "消融元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>\n本随从永久被<b>冻结</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106536,
+    "flavor": "在双种族花样游泳才艺大赛中仅获第2名。",
+    "id": "VAC_329",
+    "name": "自然天性",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "随机获取纳迦牌和法术牌各一张，\n其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "collectionText": "此牌在你的手牌中时，使用两种不同派系的法术牌即可变形。",
+    "cost": 5,
+    "dbfId": 108964,
+    "elite": true,
+    "flavor": "有些纳迦会用统御元素的天赋征服世界。而有些纳迦会用它来表演！",
+    "health": 5,
+    "id": "VAC_449",
+    "name": "歌唱明星卡瑞斯",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "此牌在你的手牌中时，使用两种不同派系的法术牌即可变形。@<i>（还剩{0}种）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108965,
+    "elite": true,
+    "flavor": "躲进汤中成一桶，管他冬夏与春秋。",
+    "health": 2,
+    "id": "VAC_450",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "悠闲的曲奇",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>恶魔猎手游客</b>\n在一个友方随从死亡后，随机召唤一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108338,
+    "flavor": "“呃……我怎么没看到头顶的水流？”",
+    "health": 3,
+    "id": "VAC_954",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "顶流主唱",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>使你手牌中每个派系的各一张法术牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110763,
+    "flavor": "这样过滤出来的水真的可以净化灵魂。",
+    "health": 3,
+    "id": "WORK_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "饮水图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你的回合结束时，使相邻的随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110765,
+    "elite": true,
+    "flavor": "“旅客朋友们，在飞往今后几个扩展包的旅途中，我们会遭遇小型湍流，请注意安全。”",
+    "health": 3,
+    "id": "WORK_013",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "湍流元素特布勒斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>猎人游客</b>\n<b>战吼：</b>使你手牌，牌库和战场上的所有其他<b>战吼</b>随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110848,
+    "flavor": "冰冠堡垒滑雪场，值得一去，死了也值。",
+    "id": "WORK_030",
+    "isMiniSet": true,
+    "name": "冰冠堡垒宣传单",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "对一个随从造成$3点伤害并<b>冻结</b>\n其相邻随从。\n<i>（每回合翻面。）</i>",
+    "type": "SPELL"
+  }
+]

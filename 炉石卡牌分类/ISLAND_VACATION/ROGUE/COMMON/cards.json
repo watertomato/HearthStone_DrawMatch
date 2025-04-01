@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107757,
+    "flavor": "海产摊贩海滩贩海产。",
+    "health": 2,
+    "id": "VAC_332",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海滩导购",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>你使用的下一张另一职业的牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107763,
+    "flavor": "海盗酒店的客房服务真的会把你的房间扫得干干净净。",
+    "id": "VAC_335",
+    "name": "小偷小摸",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "随机获取两张其他职业的法力值消耗为（1）的法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 109324,
+    "flavor": "“我要找你们的海军上将！”",
+    "id": "VAC_460",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "把经理叫来！",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "造成$2点伤害。<b>连击：</b>获取一张幸运币。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110756,
+    "flavor": "最近的安检好奇怪。新规定说了，安检不需要脱鞋，摘头盔，连匕首都能带着！",
+    "id": "WORK_005",
+    "isMiniSet": true,
+    "name": "快刀快递",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "使你的武器获得+2/+2。",
+    "type": "SPELL"
+  }
+]

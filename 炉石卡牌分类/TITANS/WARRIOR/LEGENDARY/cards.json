@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96710,
+    "elite": true,
+    "flavor": "卡兹格罗斯打造了各个种族的泰坦造物，以期保护艾泽拉斯免受腐蚀与纷乱的侵害。",
+    "health": 5,
+    "id": "TTN_415",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "卡兹格罗斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，在本回合中获得<b>免疫</b>并随机攻击一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97061,
+    "elite": true,
+    "flavor": "最好的进攻其实是加强防守。准确地说，叠30点就够了。",
+    "health": 8,
+    "id": "TTN_811",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "首席管理官奥丁",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你的英雄获得护甲值后，还会在当回合获得等量的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100870,
+    "elite": true,
+    "flavor": "你有4，他就没4；你没4，他就真的4了。",
+    "health": 6,
+    "id": "YOG_500",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "维扎克斯将军",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>战吼：</b>获得4点护甲值。<b>亡语：</b>失去4点护甲值以再次召唤本随从。",
+    "type": "MINION"
+  }
+]

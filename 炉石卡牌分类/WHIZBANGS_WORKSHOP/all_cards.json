@@ -1,0 +1,3803 @@
+[
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106063,
+    "flavor": "原来恶鬼就是这样偷走冬幕节的！",
+    "health": 1,
+    "id": "MIS_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "GIGANTIFY"
+    ],
+    "name": "玩具盗窃恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n<b>战吼：</b><b>发现</b>一张亡灵牌，使其降低等同于本随从攻击力的法力值消耗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106232,
+    "elite": true,
+    "flavor": "砰砰博士是外域大都会区最伟大的发明家！",
+    "health": 5,
+    "id": "MIS_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "GIGANTIFY",
+      "MINIATURIZE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "复制鬼才",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>，<b>扩大</b>\n在你使用一张攻击力与本随从相同的随从牌后，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106673,
+    "elite": true,
+    "flavor": "明面上，多里安是砰砰博士的手下；但我们都清楚是谁在操纵着傀儡……",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "MIS_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "傀儡大师多里安",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你抽一张随从牌后，获取一张它的1/1且法力值消耗为（1）点的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104853,
+    "flavor": "他们为什么不往两边跑啊？？？",
+    "id": "MIS_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "多米诺效应",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "对一个随从造成$2点伤害。向左侧或右侧重复此效果，每次伤害增加1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105511,
+    "flavor": "<低语>“……你的父亲，也是个鱼人。”",
+    "id": "MIS_100",
+    "isMiniSet": true,
+    "name": "屈辱头盔",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得-5/-5。使你手牌中的一张随从牌获得+5/+5。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105512,
+    "durability": 0,
+    "flavor": "不能再买了，宝贝，家里已经有一把影之哀伤了。",
+    "health": 1,
+    "id": "MIS_101",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "海绵斧",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "每当你的英雄攻击时，消耗3份\n<b>残骸</b>以获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105514,
+    "flavor": "抱歉，工坊有着严格的“不许反悔”政策。",
+    "id": "MIS_102",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "退货政策",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>一张你在\n本局对战中使用过的友方<b>亡语</b>牌。\n触发其<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105521,
+    "flavor": "别再问“能不能把这些小动物留下来”了。不能。",
+    "id": "MIS_104",
+    "isMiniSet": true,
+    "name": "狂野的卡牌包",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机将五张野兽牌置入你的手牌。这些牌为<b>临时</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105564,
+    "flavor": "过去里面装的都是狼人欺诈者。直到后来*有人*把它加强了，这才炒了起来。",
+    "id": "MIS_105",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "折价篓",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从，法术或武器牌后，你抽取其余两种类型的牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105573,
+    "flavor": "报错：这张牌功能完好，没有故障。",
+    "id": "MIS_107",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "玩具故障",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害，随机分配到所有敌方随从身上。如果你的牌库中没有随从牌，再造成$3点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108615,
+    "flavor": "这只小熊真的是用心做成的。",
+    "health": 4,
+    "id": "MIS_300",
+    "isMiniSet": true,
+    "mechanics": [
+      "ELUSIVE",
+      "GIGANTIFY",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "抱抱泰迪熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n<b>扰魔</b>，<b>吸血</b>，<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108617,
+    "flavor": "你需要训练，学习，结课，才能爬上豆蔓。",
+    "id": "MIS_301",
+    "isMiniSet": true,
+    "name": "豆蔓疯长",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "召唤一个2/2的树人。你每控制一个树人，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108619,
+    "flavor": "雪赚！",
+    "id": "MIS_302",
+    "isMiniSet": true,
+    "name": "买一冻一",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，召唤一个它的<b>被冻结</b>的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108620,
+    "flavor": "暗月魔术师能从帽子里变出兔子，还有……胜利。",
+    "health": 4,
+    "id": "MIS_303",
+    "mechanics": [
+      "ELUSIVE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗月魔术师",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扰魔</b>。在你施放一个法术后，随机施放一个法力值消耗增加（1）点的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108622,
+    "flavor": "康明宋™。",
+    "id": "MIS_305",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "产品延期",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>并召唤一个法力值消耗大于或等于（8）点的随从，并使其<b>休眠</b>2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 10,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 108624,
+    "flavor": "你们不会想把这只也变成橙色吧！？",
+    "health": 10,
+    "id": "MIS_306",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "火箭跳蛙",
+    "overload": 4,
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>过载：</b>（4）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 108625,
+    "flavor": "身材可以变大8倍！只需注水！",
+    "health": 1,
+    "id": "MIS_307",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "GIGANTIFY"
+    ],
+    "name": "水宝宝鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n<b>战吼：</b>召唤一个属性值等同于本随从并具有<b>突袭</b>的鱼人宝宝。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108980,
+    "flavor": "工程大师……爆破专家……到处炸开花……",
+    "health": 4,
+    "id": "MIS_308",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "爆破工程师",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的回合结束时，将一张“炸弹” 牌洗入你对手的牌库。当抽到“炸弹”时，便会受到5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 109150,
+    "flavor": "祝你踩到1费随从！",
+    "health": 3,
+    "id": "MIS_314",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "积木魔像",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>亡语：</b>随机召唤三个法力值消耗为（1）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105499,
+    "flavor": "想替你那个死在西部荒野的魔兽世界专家模式角色报仇吗？那就来吧！",
+    "id": "MIS_700",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "痛打豺狼人",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>一张来自过去的圣骑士武器牌，使其获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105500,
+    "flavor": "风潮不改旧传说，相看恍如昨。",
+    "id": "MIS_701",
+    "isMiniSet": true,
+    "name": "恋旧风潮",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "将所有随从变形成为来自过去的随机<b>传说</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105502,
+    "flavor": "卡牌趣文！！",
+    "health": 6,
+    "id": "MIS_703",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "地狱火！",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将你的英雄的剩余生命值变为15。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105505,
+    "flavor": "嘲讽。嘲讽。嘲讽。嘲讽。嘲讽。",
+    "id": "MIS_705",
+    "isMiniSet": true,
+    "name": "标准的卡牌包",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机将五张<b>嘲讽</b>随从牌置入你的手牌。这些牌为<b>临时</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105516,
+    "flavor": "分量尘重，极具价值。",
+    "health": 2,
+    "id": "MIS_706",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "滚灰兔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼，亡语：</b>将一件垃圾置入你的手牌<i>（幸运币，石头，香蕉或短刀）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105539,
+    "flavor": "每当你施放本牌时，我们都会推出一款新的奈姆希皮肤。",
+    "id": "MIS_707",
+    "isMiniSet": true,
+    "name": "批量生产",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽两张牌。对你的英雄造成$3点伤害。将两张本牌的复制洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105552,
+    "flavor": "先变！拆包！再使用！",
+    "id": "MIS_708",
+    "isMiniSet": true,
+    "name": "幻变的卡牌包",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机将五张其他职业的牌置入你的手牌。这些牌为<b>临时</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105556,
+    "flavor": "在不知名的某处，有个纳鲁失去了两块碎片。",
+    "id": "MIS_709",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "圣光荧光棒",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "HOLY",
+    "text": "<b>吸血</b>。对一个随从造成$4点伤害。如果你在本回合中施放过神圣法术，则法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105559,
+    "flavor": "瓦丝琪女士堪称艾萨拉女王的左右手。图为女王陛下的左手。",
+    "health": 3,
+    "id": "MIS_710",
+    "isMiniSet": true,
+    "name": "滑矛布袋手偶",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "本随从的攻击力\n随你的英雄的攻击力提高。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 105570,
+    "flavor": "切记：当身上捆有大量炸药时，请务必戴好安全帽。",
+    "health": 8,
+    "id": "MIS_711",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "安全专家",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>亡语：</b>将三张“炸弹” 牌洗入你对手的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 7,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105582,
+    "elite": true,
+    "flavor": "砰砰博士小时候绝对是个恐龙少年。",
+    "health": 7,
+    "id": "MIS_712",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "模玩泰拉图斯",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>，<b>扰魔</b>\n<b>战吼：</b>如果你有十个法力水晶，获得+7/+7。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105587,
+    "flavor": "哈哈镜，告诉我，最高的侏儒是哪一个？",
+    "id": "MIS_714",
+    "isMiniSet": true,
+    "name": "哈哈镜",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个敌方随从的一个复制并使其攻击本体。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102376,
+    "flavor": "“再见！再见！再见！”",
+    "id": "MIS_902",
+    "isMiniSet": true,
+    "name": "零件破拆",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "失去最多5点护甲值，你的下一张机械牌减少等量的法力值消耗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105142,
+    "flavor": "兽人看蝎子——对上眼了。",
+    "id": "MIS_903",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "可疑交易",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽三张牌。<b>连击：</b>随机消灭一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105257,
+    "flavor": "请勿沾水或在午夜之后喂食。",
+    "health": 3,
+    "id": "MIS_911",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "残次聒噪怪",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的英雄\n攻击后，召唤另一个残次聒噪怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105260,
+    "elite": true,
+    "flavor": "模玩泰拉图斯刚刚卖完了，不如看看这件吧，也很不错！",
+    "health": 4,
+    "id": "MIS_914",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "量产品9号",
+    "race": "BEAST",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>再次施放本局对战中触发过的每个友方<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105262,
+    "flavor": "哇哦……谁能想到，又一位专用石头的玩家把对战环境玩坏了。",
+    "health": 3,
+    "id": "MIS_916",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高端玩家",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>向你的\n对手发起挑战，玩一场剪刀石头布！胜者抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105281,
+    "flavor": "出厂时只保留了极少的电量，帮你营造灯火阑珊的氛围。",
+    "health": 3,
+    "id": "MIS_918",
+    "isMiniSet": true,
+    "mechanics": [
+      "GIGANTIFY"
+    ],
+    "name": "灯火机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n在本局对战中，你每施放一个神圣法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105282,
+    "flavor": "现在是观众互动时间！",
+    "health": 2,
+    "id": "MIS_919",
+    "isMiniSet": true,
+    "name": "木偶剧场",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "选择一个敌方随从，获取一张它的1/1且法力值消耗为（1）点的复制。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102337,
+    "flavor": "萌得藏不住！",
+    "health": 3,
+    "id": "TOY_000",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "焦油泥浆怪",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>\n在你对手的回合拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102347,
+    "flavor": "“你的钥匙为什么总丢？难道它还能自己长腿跑了吗？”",
+    "health": 1,
+    "id": "TOY_006",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "甲虫钥匙链",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b><b>发现</b>一张\n法力值消耗为（2）的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 0,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102381,
+    "flavor": "误判！黑哨！吁——！",
+    "health": 3,
+    "id": "TOY_028",
+    "mechanics": [
+      "AURA",
+      "STEALTH"
+    ],
+    "name": "团队之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>潜行</b>一回合。你的英雄在你的回合拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102449,
+    "flavor": "图中共有99个侏儒，你能全部找出来吗？",
+    "id": "TOY_037",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "寻物解谜",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>一张<b>奥秘</b>牌，将其法力值消耗变为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102463,
+    "flavor": "立即抢购，无需过载！",
+    "id": "TOY_046",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "超值惊喜",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法力值消耗为（4）的随从牌，将其攻击力和生命值变为7。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102472,
+    "flavor": "“宝石歪斜，外框开裂，边角折损……绝了，10/10！”",
+    "health": 4,
+    "id": "TOY_054",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "卡牌评级师",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过法术，从你的牌库中<b>发现</b>一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102784,
+    "flavor": "“你想尝尝我的拳头？大杯还是小杯？”",
+    "health": 3,
+    "id": "TOY_307",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "甜蜜雪灵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>随机获取2张<b>临时</b>冰霜法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102799,
+    "flavor": "她仍然记得奥特兰克山谷的经历，仿佛那仅仅发生在……833天前。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_312",
+    "mechanics": [
+      "MINIATURIZE",
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恋旧的侏儒",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>突袭</b>。在本随从在你的回合中造成了刚好消灭目标的伤害后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 102983,
+    "elite": true,
+    "flavor": "只需要2998次尝试，就能打造出完美的卡牌！自己动手试试吧！",
+    "health": 0,
+    "hideCost": true,
+    "id": "TOY_330",
+    "name": "奇利亚斯豪华版3000型",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "你可以在构筑\n套牌时打造专属于自己的奇利亚斯豪华版3000型！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103327,
+    "flavor": "恋旧的新生：“啊，我的校园，死去的记忆好像又活了……”克尔苏加德：“快别说了。”",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_340",
+    "mechanics": [
+      "MINIATURIZE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恋旧的新生",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n在你施放本随从登场后的第一个法术时获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103333,
+    "flavor": "过去的他有点腐蚀堕落，而现在的他已经成了纯纯的小丑。",
+    "health": 5,
+    "id": "TOY_341",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "恋旧的小丑",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>微缩</b>\n<b>战吼：</b>如果你在此牌在你手中时使用过法力值消耗更高的牌，造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103143,
+    "flavor": "这是送我的礼物吗？你喜欢那只迅猛龙吗？",
+    "health": 2,
+    "id": "TOY_350",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "漆彩帆布龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>使每只其他友方野兽各获得一项随机<b>额外效果</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 0,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103144,
+    "flavor": "究竟是先有穆克拉，还是先有蛋？",
+    "health": 3,
+    "id": "TOY_351",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE"
+    ],
+    "name": "神秘的蛋",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>亡语：</b>获取你牌库中一张随机野兽牌的一张复制，其法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103146,
+    "flavor": "接住了，嘻嘻。",
+    "id": "TOY_352",
+    "name": "抛接嬉戏",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽一张随从牌。如果是野兽牌，抽一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103153,
+    "flavor": "“我要给你们取名字！你叫米莎，你叫霍弗。还有你，你叫老三吧。”",
+    "id": "TOY_353",
+    "name": "拼布好朋友",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "获取全部3种动物伙伴，其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103154,
+    "flavor": "这片场地爆吠了。",
+    "id": "TOY_354",
+    "name": "遥控狂潮",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "召唤六只1/1的猎犬。每有一只放不下的猎犬，使其余猎犬获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103156,
+    "elite": true,
+    "flavor": "就是他把卡牌强度打崩了。",
+    "health": 6,
+    "id": "TOY_355",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "绵弹枪神赫米特",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在一只友方野兽死亡后，随机获取一张来自过去的<b>传说</b>野兽牌，其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 7,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103162,
+    "faction": "ALLIANCE",
+    "flavor": "破坏力强，现已禁售。故又名罢玩龙。",
+    "health": 7,
+    "id": "TOY_356",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "玩具暴龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>\n<b>亡语：</b>随机对一个敌人造成7点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 103166,
+    "elite": true,
+    "flavor": "可爱得要命。真的要命！",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "TOY_357",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "抱龙王噗鲁什",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>冲锋</b>\n<b>战吼：</b>将所有攻击力小于本随从的随从移回其拥有者的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103167,
+    "durability": 0,
+    "flavor": "不知道为什么，我的小狗一直想咬它。",
+    "health": 3,
+    "id": "TOY_358",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "遥控器",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的英雄攻击后，召唤一只1/1的猎犬。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103186,
+    "flavor": "对，我去丛林里探险了，那里到处都是玩具。",
+    "health": 2,
+    "id": "TOY_359",
+    "name": "丛林乐园",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机对一个敌人\n造成1点伤害。每有一只友方野兽，重复一次。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103266,
+    "flavor": "你不能拿走我的蜡烛！第二支也不行。不过第三支可以。",
+    "health": 3,
+    "id": "TOY_370",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "三芯诡烛",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>随机对一个敌人造成2点伤害，触发三次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103269,
+    "flavor": "你肯定觉得生产这种只有9块的拼图不是什么难事，对吧？",
+    "id": "TOY_371",
+    "name": "加工失误",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽三张牌。如果你的牌库里没有随从牌，这三张牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 103270,
+    "flavor": "砰！上古之神！",
+    "id": "TOY_372",
+    "name": "匣中古神",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "随机施放5个法术。如果你的牌库里没有随从牌，则这些法术的法力值消耗大于或等于（5）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 108515,
+    "elite": true,
+    "flavor": "卡德加卡德加告诉我，这世上白头发高个子又帅气的法师当中最聪明的是哪一个？",
+    "health": 5,
+    "id": "TOY_373",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "益智大师卡德加",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>装备一个会施放有用的法师法术的0/6的魔法智慧之球！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103347,
+    "flavor": "啊，我总算看出来啦！右边画的是冰风雪人，左边是血精灵。",
+    "id": "TOY_374",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "找不同",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>并召唤一个法力值消耗为（3）的随从。如果你的牌库中没有随从牌，重复此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103348,
+    "flavor": "冰元素朋友，你们好吗？",
+    "health": 4,
+    "id": "TOY_375",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "滑冰元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "冻结一个敌方随从。",
+    "text": "<b>微缩</b>\n<b>战吼：</b><b>冻结</b>一个敌方随从，获得等同于其攻击力的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103350,
+    "flavor": "积累了大量以水为题的画作：湖泊，河流，还有自画像。",
+    "health": 3,
+    "id": "TOY_376",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "水彩美术家",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张冰霜法术牌，在你的回合开始时，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103352,
+    "flavor": "水人本身并不可怕，可怕的是它的主人！",
+    "id": "TOY_377",
+    "name": "霜巫十字绣",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FROST",
+    "text": "对一个角色造成$3点伤害。如果该角色死亡，召唤一个3/6的可以<b><b>冻结</b></b>攻击目标的水元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 103354,
+    "elite": true,
+    "flavor": "仔细观察这枚球体，你能看见宇宙的扩展，包括空间和时间。哦，其实只是影像而已。",
+    "id": "TOY_378",
+    "name": "星空投影球",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "再次施放你在本局对战中施放过的法术，每种法力值消耗各随机一个。<i>（尽可能以敌人为目标）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103491,
+    "flavor": "那些紫色黏土你应该不用了吧。",
+    "health": 7,
+    "id": "TOY_380",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE",
+      "TAUNT"
+    ],
+    "name": "黏土巢母",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ELUSIVE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>嘲讽</b>。<b>亡语：</b>召唤一条4/4并具有<b>扰魔</b>的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103492,
+    "flavor": "死亡之翼，自由之翼，现在又有了天使纸艺。",
+    "health": 3,
+    "id": "TOY_381",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "纸艺天使",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "你的英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103493,
+    "flavor": "要不你也来试试，只许用三根手指！",
+    "health": 3,
+    "id": "TOY_382",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "粗心的匠人",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>\n获取两张法力值消耗为（0）的可以恢复3点生命值的绷带。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103494,
+    "elite": true,
+    "flavor": "经典传说爆款，10周年特别再版！",
+    "health": 5,
+    "id": "TOY_383",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "重封者拉兹",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>将本局对战中死亡的5个随机友方随从的复制洗入你的牌库，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 108518,
+    "flavor": "我当然愿意让我的随从变得更好！",
+    "id": "TOY_384",
+    "name": "净化之力",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "HOLY",
+    "text": "<b>沉默</b>所有友方随从，然后使其获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>每局对战限一次。如果你使用过8张其他龙牌，获得一个额外回合。",
+    "cost": 5,
+    "dbfId": 103529,
+    "elite": true,
+    "flavor": "因为威兹班的退货政策非常宽松，扎里米忙得不得了。",
+    "health": 6,
+    "id": "TOY_385",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时空扭曲者扎里米",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>每局对战限一次。如果你使用过8张其他龙牌，获得一个额外回合。@<i>（还剩{0}张！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103530,
+    "flavor": "别忘了给箱子钻透气孔，不然小龙要发火了！",
+    "health": 1,
+    "id": "TOY_386",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "礼盒雏龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，使该龙牌和本随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103531,
+    "flavor": "你看明白了吗？这两条龙都是按照原型制作的模型，所以是临摹；而龙身上又长着鳞，所以叫鳞摹。同音字！",
+    "id": "TOY_387",
+    "name": "对照鳞摹",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽取你法力值消耗最低和最高的龙牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103566,
+    "flavor": "这不是龙，也不是恐龙。这是艺术。",
+    "health": 3,
+    "id": "TOY_388",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "粉笔美术家",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张随从牌，将其变形成为随机<b>传说</b>随从牌<i>（保留其原始属性值和法力值消耗）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103509,
+    "flavor": "“抱歉，狼人欺诈者手办全都卖完了。”",
+    "health": 2,
+    "id": "TOY_390",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "清仓销售员",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>使你手牌中两张法术牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103520,
+    "flavor": "“噗……你长得太搞笑了！我还没画胡子呢！”",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_391",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "漫画美术家",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张法力值消耗大于或等于（5）点的随从牌，给它画上滑稽的小胡子！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103079,
+    "flavor": "超科学！",
+    "id": "TOY_500",
+    "mechanics": [
+      "LIFESTEAL",
+      "OVERLOAD",
+      "ImmuneToSpellpower"
+    ],
+    "name": "苏打火山",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FIRE",
+    "text": "<b>吸血</b>。造成$10点伤害，随机分配到所有随从身上。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103080,
+    "elite": true,
+    "flavor": "我，芽尖笊利！",
+    "health": 5,
+    "id": "TOY_501",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "沙德木刻",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>你的下一个<b>战吼</b>会触发3次，但无法伤害敌方英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103119,
+    "flavor": "我歪了3回，刷了8192次，终于抓到了闪光的岩哨兵！",
+    "health": 7,
+    "id": "TOY_503",
+    "mechanics": [
+      "BATTLECRY",
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "闪岩哨兵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>\n<b>战吼：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103124,
+    "elite": true,
+    "flavor": "汤来喽！",
+    "health": 3,
+    "id": "TOY_504",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘女巫哈加莎",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽两张法力值消耗大于或等于（5）点的法术牌，并将其变形成为会施放对应法术的泥浆怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103164,
+    "flavor": "一回合连拍七张，试试吧。",
+    "health": 3,
+    "id": "TOY_505",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "玩具船",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你召唤一个海盗后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103330,
+    "flavor": "……有一只小小的松鼠受命前去击败恶龙，它在土灵朋友的帮助下救出了鱼人公主。讲完了。",
+    "id": "TOY_506",
+    "name": "很久以前……",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "随机召唤法力\n值消耗为（3）的野兽，龙，元素和鱼人各一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103332,
+    "flavor": "哇，巫师杜格塔什，我希望童话里都是<i>真的</i>。",
+    "health": 2,
+    "id": "TOY_507",
+    "name": "童话林地",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103336,
+    "flavor": "什么是体书？",
+    "id": "TOY_508",
+    "name": "立体书",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "造成$2点伤害。召唤两只0/1并具有<b>嘲讽</b>的青蛙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103340,
+    "flavor": "可以帮你把对手奏一顿。",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_509",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "发条演奏家",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "造成@点伤害。",
+    "text": "<b>可交易</b>\n<b>战吼：</b>对所有敌方随从造成1点伤害。<i>（<b>交易</b>后升级！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103341,
+    "flavor": "“哇！我挖出来一个海盗，太棒啦！”",
+    "id": "TOY_510",
+    "name": "挖掘宝藏",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽一张随从牌。如果是海盗牌，获取一张幸运币。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103343,
+    "elite": true,
+    "flavor": "“啊哈！干了这一票，四颗牙船长生娃的份子就不愁了！”",
+    "health": 5,
+    "id": "TOY_511",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "大盗金胡子",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你召唤一个海盗后，召唤一个它的复制并使其攻击随机敌人然后死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103346,
+    "flavor": "出于某种奇怪的原因，水晶海湾的每位游客都叫同一个名字……",
+    "health": 3,
+    "id": "TOY_512",
+    "name": "水晶海湾",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在本回合中，你召唤的下一个随从的属性值变为5/5。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103379,
+    "flavor": "这幅画好伤人！",
+    "health": 4,
+    "id": "TOY_513",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "沙画元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>在本回合中，使你的英雄获得+1攻击力和<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103433,
+    "flavor": "也可以用来喝雨燕草茶或无咖啡因花茶。",
+    "id": "TOY_514",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "菊花茶具",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>一张另一职业的法术牌，并获取一张它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103434,
+    "elite": true,
+    "flavor": "你想与水共舞？",
+    "health": 3,
+    "id": "TOY_515",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "水上舞者索尼娅",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你使用一张法力值消耗为（1）的随从牌后，获取一张它的法力值消耗为（0）点的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103488,
+    "flavor": "旧货店的海盗最地道。",
+    "health": 2,
+    "id": "TOY_516",
+    "mechanics": [
+      "COMBO",
+      "RUSH"
+    ],
+    "name": "折价区海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>连击：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103547,
+    "flavor": "不是每个人都能成为伟大的画家，但伟大的画家可能来自世界的每个角落。",
+    "health": 3,
+    "id": "TOY_517",
+    "mechanics": [
+      "BATTLECRY",
+      "POISONOUS"
+    ],
+    "name": "泼漆彩鳍鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>剧毒</b>。<b>战吼：</b>抽一张<b>突袭</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103548,
+    "flavor": "不识字的海盗往往称自己的行为是“无‘私’的‘私掠’”。",
+    "health": 2,
+    "id": "TOY_518",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "宝藏经销商",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你召唤一个海盗后，使其获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 104864,
+    "flavor": "不留？那要搬到哪儿？",
+    "id": "TOY_519",
+    "name": "一件不留",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机召唤两个法力值消耗为（4）的随从。在本回合中你每抽过一张牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103549,
+    "flavor": "他的奥秘尚处于试玩模式：试，就完了。",
+    "health": 2,
+    "id": "TOY_520",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "秘迹观测者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>\n随机施放2个<b>奥秘</b>。在你的回合开始时，摧毁这些奥秘。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103603,
+    "flavor": "“啊？又是塑料假宝石？”",
+    "health": 3,
+    "id": "TOY_521",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "沙箱恶霸",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>在本回合中，你的下一张牌法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103627,
+    "durability": 0,
+    "flavor": "每颗水弹里都困着一个小小的海盗，快来解救他们！",
+    "health": 3,
+    "id": "TOY_522",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "水弹枪",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的英雄攻击后，召唤一个1/1的海盗，并使其随机攻击一个敌人。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104852,
+    "elite": true,
+    "flavor": "“巨石坠落，把所有人都砸死啦。好遗憾呀！”",
+    "health": 6,
+    "id": "TOY_524",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "游戏主持奈姆希",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张恶魔牌。<b>亡语：</b>与其交换位置。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104860,
+    "flavor": "原本只是一枚禁卫棋子，可惜走上了邪能的邪路。",
+    "health": 6,
+    "id": "TOY_526",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凶魔城堡",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>攻击<b>你的</b>\n英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104862,
+    "flavor": "这支团队从狗头人时代就开始筹划旅途的下一阶段了。",
+    "id": "TOY_527",
+    "name": "诅咒之旅",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "使一个友方随从获得“<b>亡语：</b>召唤本随从的两个<b>休眠</b>2回合的复制。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104866,
+    "flavor": "其中一个按钮可以把你的声音变得和拉格纳罗斯一样。唱吧，虫子！",
+    "health": 4,
+    "id": "TOY_528",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "伴唱机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "你的英雄技能会触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 104938,
+    "elite": true,
+    "flavor": "所有的轮盘都是反派的，什么时候轮到正面角色？",
+    "id": "TOY_529",
+    "name": "死亡轮盘",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "摧毁你的牌库。5回合后，消灭敌方英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 20,
+    "dbfId": 104976,
+    "flavor": "警告：非游乐设施，请勿攀爬。",
+    "health": 8,
+    "howToEarnGolden": "购买<i>威兹班的工坊</i>炉石通行证后开放解锁。",
+    "id": "TOY_530",
+    "name": "游乐巨人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在本局对战中\n你每抽过一张牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104977,
+    "elite": true,
+    "flavor": "日常的文书工作总得<i>有人</i>来做。",
+    "health": 3,
+    "howToEarn": "收集30张<i>威兹班的工坊</i>卡牌后开放解锁。",
+    "howToEarnGolden": "购买<i>威兹班的工坊</i>炉石通行证后开放解锁。",
+    "id": "TOY_531",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "商店经理莉娜",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "每当你施放一个法术，用法力值消耗相同的随机随从填满你\n的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 103431,
+    "flavor": "我称之为微型的我。",
+    "health": 7,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_601",
+    "mechanics": [
+      "MINIATURIZE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "工厂装配机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n在你的回合结束时，召唤一个6/7的机器人并使其攻击一个随机敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103439,
+    "flavor": "我是让你露一手，不是让你漏一宿！",
+    "id": "TOY_602",
+    "name": "化工泄漏",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "从你的手牌中召唤法力值消耗最高的随从，然后对其造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103440,
+    "flavor": "……看看有没有死灰复燃。",
+    "id": "TOY_603",
+    "name": "炮灰出动",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "选择一个友方机械，召唤一个它的复制并使其攻击随机敌人然后死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103444,
+    "durability": 0,
+    "flavor": "发明家砰砰他懂维修？他不懂！",
+    "health": 2,
+    "id": "TOY_604",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE"
+    ],
+    "name": "砰砰扳手",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>亡语：</b>随机触发一个友方机械的<b>亡语</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103441,
+    "flavor": "向你保证，这张牌绝对有质量。",
+    "id": "TOY_605",
+    "name": "质量保证",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽两张<b>嘲讽</b>随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103442,
+    "flavor": "不用担心，这个项目嗨<i>爆了</i>。灭哈哈哈哈！",
+    "health": 8,
+    "id": "TOY_606",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "测试假人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>造成8点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 103443,
+    "elite": true,
+    "flavor": "发明的精髓是爆炸！",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TOY_607",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "发明家砰砰",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>复活两个不同的法力值消耗大于或等于（5）点的友方机械，并使其随机攻击敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104507,
+    "flavor": "距离上一次事故：[0]天。",
+    "id": "TOY_640",
+    "mechanics": [
+      "OUTCAST",
+      "ImmuneToSpellpower"
+    ],
+    "name": "工坊事故",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$5点伤害，相邻的随从均会受到超过其生命值的伤害。<b>流放：</b>获得<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104510,
+    "durability": 0,
+    "flavor": "裁判邪会指定拳套。",
+    "health": 2,
+    "id": "TOY_641",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "裁判拳套",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>抽一张恶魔牌，并使其法力值消耗减少（2）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104511,
+    "flavor": "“猪队友……再见了！把球给我，我要回家！”",
+    "health": 3,
+    "id": "TOY_642",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "球霸野猪人",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>吸血</b>。<b>战吼，亡语：</b>对生命值最低的敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104514,
+    "flavor": "三个烈焰小鬼？我的保底呢？",
+    "id": "TOY_643",
+    "mechanics": [
+      "DISCOVER",
+      "OUTCAST"
+    ],
+    "name": "盲盒",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机获取2张恶魔牌。<b>流放：</b>改为<b>发现</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 104515,
+    "flavor": "恶魔猎手的色域广度终获大幅提升，颜色数量现已达到两种！",
+    "id": "TOY_644",
+    "name": "红牌",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "使一个随从<b>休眠</b>2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104518,
+    "flavor": "“追寻荣耀与力量的人啊，不要轻信吞噬者阿扎里。欧珀能为弱者带来胜利，也能让人的灵魂满是疮痍。”——《魔石》",
+    "id": "TOY_645",
+    "name": "小型法术欧珀石",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽一张牌。<i>（用你的英雄攻击2次后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104519,
+    "flavor": "人生中最痛苦的1点伤害。",
+    "health": 3,
+    "id": "TOY_646",
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "捣蛋林精",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>吸血</b>。<b>嘲讽</b>\n<b>亡语：</b>对所有敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 12,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 104521,
+    "elite": true,
+    "flavor": "擅自使用本卡即可能被判处最高两年的有期徒刑。请耐心等待正式发售。",
+    "health": 12,
+    "id": "TOY_647",
+    "name": "玛瑟里顿（未发售版）",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>休眠</b>2回合。<b>休眠</b>状态下，在你的回合结束时，对所有敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103448,
+    "flavor": "实验室奴隶主一旦辍学，就会变成恐怖的奴隶主。",
+    "health": 3,
+    "id": "TOY_651",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "实验室奴隶主",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "每当你获得护甲值，召唤另一个实验室奴隶主<i>（每回合一次）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104652,
+    "flavor": "我的天呐，这就是我！",
+    "health": 5,
+    "id": "TOY_652",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "MINIATURIZE"
+    ],
+    "name": "橱窗看客",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b><b>发现</b>一张恶魔牌，将其属性值与法力值消耗变为与本随从相同。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105112,
+    "flavor": "“嘿嘿嘿，嘻嘻，哈哈哈哈。”——制作玩具时的我",
+    "health": 1,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_670",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "欢乐的玩具匠",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>召唤两个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的\n机械。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104819,
+    "elite": true,
+    "flavor": "离开砰砰实验室之后，他把砰砰博士教给他的东西用在了最重要的发明领域上，那就是——玩具！！",
+    "health": 5,
+    "id": "TOY_700",
+    "name": "酷炫的威兹班",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "你改用威兹班的一副试验套牌来开始\n对战！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 105522,
+    "elite": true,
+    "flavor": "画作是内心的外在表现！而可丽菲罗本身就是一幅画作。",
+    "health": 5,
+    "howToEarn": "打开<i>威兹班的工坊</i>卡牌包后可解锁。",
+    "howToEarnGolden": "购买<i>威兹班的工坊</i>炉石通行证后开放解锁。",
+    "id": "TOY_703",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "美术家可丽菲罗",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张随从牌，将所有其他友方随从变形成为它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 109662,
+    "flavor": "不行啊威兹班，玩具大促和牧师法术完全凑不到一起去。",
+    "id": "TOY_714",
+    "name": "飞速离架",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "对所有敌方随从造成$1点伤害。你手牌中每有一张龙牌，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105822,
+    "flavor": "你好……你好……好便宜！",
+    "id": "TOY_716",
+    "name": "光速抢购",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "召唤一个1/2并具有<b>圣盾</b>和<b>嘲讽</b>的机械。使你的随从获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104575,
+    "flavor": "水瓶仍待提高。",
+    "id": "TOY_800",
+    "name": "闪光试剂瓶",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "造成$2点伤害。在本回合中，你的下一张牌减少与伤害量相同的法力值消耗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104583,
+    "flavor": "哈！绿植传说！",
+    "health": 4,
+    "id": "TOY_801",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "MINIATURIZE"
+    ],
+    "name": "绿植幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>抉择：</b>获得<b>法术伤害+1</b>；或者抽一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104594,
+    "flavor": "“我是发条树苗。”",
+    "health": 1,
+    "id": "TOY_802",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "发条树苗",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>可交易</b>\n<b>战吼：</b>复原1个法力水晶。<i>（<b>交易</b>后升级！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 104598,
+    "flavor": "玉莲帮每年发布的其实都是同一款产品，只是摄像功能稍有提升。",
+    "health": 1,
+    "id": "TOY_803",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "青玉展品",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>在本局对战中，你的青玉展品拥有+1/+1。将2张青玉展品洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104615,
+    "flavor": "这究竟是战斗，还是又一场除虫行动？",
+    "id": "TOY_804",
+    "name": "林中奇遇",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER",
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "召唤两只2/5并具有<b>嘲讽</b>的甲虫。如果你拥有<b>法术伤害</b>，本牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104617,
+    "flavor": "小小的也很可爱。",
+    "id": "TOY_805",
+    "name": "缩小术",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "使你牌库中随从牌的法力值消耗和攻击力减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104618,
+    "elite": true,
+    "flavor": "看，是小鸟！看，是飞机！看！是10张火车王！",
+    "health": 5,
+    "id": "TOY_806",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天空慈母艾维娜",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>随机将10张<b>传说</b>随从牌洗入你的牌库，其法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 104619,
+    "elite": true,
+    "flavor": "看起来像猫头鹰，但叫起来好像鸥鹭。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "TOY_807",
+    "name": "欧洛尼乌斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>法术伤害+1</b>。你的法术受到的<b>法术伤害</b>增益效果翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103629,
+    "flavor": "叮，工匠精神+3。",
+    "id": "TOY_808",
+    "name": "工匠光环",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "HOLY",
+    "text": "在你的回合结束时，随机召唤一个法力值消耗为（6）的随从。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103630,
+    "flavor": "长得……很有创造力。",
+    "health": 4,
+    "id": "TOY_809",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纸板魔像",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>使你手牌，牌库和战场上的光环持续时间提高1回合。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103632,
+    "durability": 0,
+    "flavor": "用这支笔能把圣光以特定角度打在作品上。",
+    "health": 3,
+    "id": "TOY_810",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "画师的美德",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的英雄攻击后，使你手牌中的随从牌获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103633,
+    "flavor": "新一代的萌虎之神。",
+    "health": 2,
+    "id": "TOY_811",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "MINIATURIZE",
+      "RUSH"
+    ],
+    "name": "绒绒虎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>突袭</b>，<b>吸血</b>，<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103634,
+    "elite": true,
+    "flavor": "“大地母亲指引着我的笔触，赐予我点睛之笔。”",
+    "health": 4,
+    "id": "TOY_812",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "皮普希·彩蹄",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>随机从你的牌库中召唤<b>圣盾</b>，<b>突袭</b>和<b>嘲讽</b>随从各一个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103635,
+    "elite": true,
+    "flavor": "安戈洛现在属于威兹班。",
+    "health": 7,
+    "id": "TOY_813",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE",
+      "TAUNT"
+    ],
+    "name": "玩具队长塔林姆",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "将一个随从的攻击力和生命值变为与本随从相同。",
+    "text": "<b>微缩</b>\n<b>嘲讽</b>。<b>战吼：</b>将一个随从的攻击力和生命值变为与本随从相同。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103631,
+    "flavor": "人生就像一盒玩具兵，你永远不知道下一个效果是什么。",
+    "health": 2,
+    "id": "TOY_814",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "玩具兵盒",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>召唤五个1/1并具有随机<b>额外效果</b>的士兵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103628,
+    "flavor": "他一定还会回来的。",
+    "health": 6,
+    "id": "TOY_820",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "废弃电子玩偶",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的回合结束时，消灭一个攻击力低于本随从的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Taylor Smith",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104987,
+    "flavor": "没有他的毛绒宝宝，巫妖王根本睡不着。",
+    "health": 2,
+    "id": "TOY_821",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "毛绒暴暴狗",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>\n在你施放一个冰霜法术后，获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104632,
+    "flavor": "蜘蛛的精英缝纫俱乐部极为排外，其团队口号是“圈子不同，不必强缝”。",
+    "id": "TOY_822",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "蛛丝缝纫",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "选择一个友方随从，为其<b>发现</b>一个法力值消耗小于或等于（4）点的法术，当该随从死亡时会施放。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104633,
+    "flavor": "优秀好卡，裁艺丰富。",
+    "health": 3,
+    "id": "TOY_823",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "彩虹裁缝",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "LIFESTEAL",
+      "REBORN",
+      "RUSH"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>如果你的套牌中有鲜血，冰霜或邪恶符文牌，则对应获得<b>吸血</b>，<b>复生</b>或<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104634,
+    "flavor": "未能加入蜘蛛缝纫俱乐部，至今怀恨在心。",
+    "health": 4,
+    "id": "TOY_824",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑棘针线师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的回合结束时，造成等同于本随从攻击力的伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105355,
+    "flavor": "“狗头人的故事悄然停息。但还有一块法术石，连阿扎里都已忘记。它被当作玩物卖到了市集，无人知晓其中的黑暗之力。”——《魔石》",
+    "id": "TOY_825",
+    "name": "小型法术尖晶石",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "使你手牌中的亡灵牌获得+1/+1。<i>（获得5份<b>残骸</b>后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ryan Bowlin",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104635,
+    "flavor": "妈，我吐了……",
+    "id": "TOY_826",
+    "name": "绝望线缕",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "使所有随从获得“<b>亡语：</b>对所有随从造成1点伤害。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104636,
+    "flavor": "状态不佳的蜘蛛坦克。",
+    "health": 2,
+    "id": "TOY_827",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "蹒跚的僵尸坦克",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>消耗5份<b>残骸</b>以召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104694,
+    "flavor": "“我成了真正的玩具！”",
+    "health": 6,
+    "id": "TOY_828",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE",
+      "TAUNT"
+    ],
+    "name": "业余傀儡师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>嘲讽</b>。<b>亡语：</b>使你手牌中的亡灵牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Grafit",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104637,
+    "elite": true,
+    "flavor": "趣文应当切题，押韵更合心意！开头两句还可以，但后面你也看到了结尾不怎么样。",
+    "health": 30,
+    "heroPowerDbfId": 109196,
+    "id": "TOY_829",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无头骑士",
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>消灭攻击力最高的敌方<i>随从</i>！将我的头洗入牌库，你必须找到它的<i>行踪</i>！",
+    "type": "HERO"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104641,
+    "elite": true,
+    "flavor": "没病先找病。",
+    "health": 4,
+    "id": "TOY_830",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "DISCOVER"
+    ],
+    "name": "玩具医生斯缔修",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b><b>发现</b>法力值消耗为（5），（3）和（1）点的随从各一个，缝合到本随从上。<b>亡语：</b>召唤发现的法力值消耗为（5）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 104596,
+    "flavor": "打造自己的玩具屋，只需3步！1.修建一座城堡。2.微缩城堡。3.加光效！",
+    "health": 3,
+    "id": "TOY_850",
+    "name": "魔法妙妙屋",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在本回合中获得<b>法术伤害+1</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104665,
+    "flavor": "没错，放在玩具箱里就对了。",
+    "id": "TOY_851",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "无底玩具箱",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "从你的牌库中<b>发现</b>一张牌。如果你拥有<b>法术伤害</b>，复制发现的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105100,
+    "flavor": "工坊之中我深潜，换牌之际我流连。而今身价更轻贱。你猜对了，通道之内我沉眠。",
+    "health": 5,
+    "id": "TOY_866",
+    "name": "通道沉眠者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "起始<b>休眠</b>状态。在7个随从死亡后唤醒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 105473,
+    "flavor": "“你想许个什么愿望呢？”“我想提高我的攻击力和生命值，一丁点就可以！”“……哦？你不想多加一点吗，比方说，加个一百万？”",
+    "id": "TOY_877",
+    "name": "星空祈愿",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "使你手牌，牌库和战场上的所有随从获得+2/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105481,
+    "flavor": "这位是瓦莉拉模仿大赛的冠军！第二名是瓦莉拉。",
+    "health": 4,
+    "id": "TOY_878",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "扮装选手",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的对手使用一张随从牌后，变形成为它的3/4的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 105472,
+    "flavor": "我再也不跟你们玩了。",
+    "id": "TOY_879",
+    "name": "重新打包",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "将所有随从封入一个法力值消耗为（2）的箱子，然后将其洗入对手的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104796,
+    "flavor": "6404.5号条例规定，所有执行者必须在包装中休眠，直到受权人员将其唤醒。",
+    "health": 5,
+    "id": "TOY_880",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "发条执行者",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>可交易</b>\n<b>战吼：</b>召唤本随从的1个复制。<i>（<b>交易</b>后升级！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 104869,
+    "flavor": "哇哦，这张牌价值极高！但前提是不要拆包。",
+    "id": "TOY_881",
+    "name": "光鲜包装",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "使一个具有<b>圣盾</b>的随从获得+2/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104870,
+    "flavor": "在逃离阿古斯的漫长旅程中，许多德莱尼找到了新的爱好。",
+    "health": 3,
+    "id": "TOY_882",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "装饰美术家",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张<b>圣盾</b>随从牌和一张光环牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 105097,
+    "flavor": "“裁判！”",
+    "id": "TOY_883",
+    "name": "掀桌子",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "对所有敌方随从造成$3点伤害。你每有一张其他手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 105098,
+    "flavor": "这台娃娃机有问题！我抓到的都是会咬人的恶魔！",
+    "id": "TOY_884",
+    "name": "抓娃娃",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "召唤你牌库中两个恶魔的各一个复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106652,
+    "flavor": "2：29：55",
+    "id": "TOY_886",
+    "name": "决胜时刻",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "复活上一个死亡的你的恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105489,
+    "flavor": "魔法工坊的保洁员，竟然只能用普通的正常扫把？这不合理。",
+    "health": 5,
+    "id": "TOY_891",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "工坊保洁员",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>如果你控制着地标，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105490,
+    "flavor": "肉——肉！！咦……怎么感觉不一样了。",
+    "health": 3,
+    "id": "TOY_893",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "套娃傀儡",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>再次召唤本随从并具有-1/-1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105491,
+    "flavor": "想制作这个生动的舌头部分，请自备胶带！",
+    "health": 4,
+    "id": "TOY_894",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "折纸青蛙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "与另一个随从交换攻击力。",
+    "text": "<b>突袭</b>。<b>战吼：</b>与另一个随从交换攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105493,
+    "flavor": "命薄如纸，悬于1线。",
+    "health": 1,
+    "id": "TOY_895",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "折纸仙鹤",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "与另一个随从交换生命值。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>与另一个随从交换生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105494,
+    "flavor": "纸龙吐出的火其实是纸，但纸又可以生火，那么它吐的也能算是火吧？",
+    "health": 1,
+    "id": "TOY_896",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD",
+      "LIFESTEAL"
+    ],
+    "name": "折纸巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "与另一个随从交换属性值。",
+    "text": "<b>圣盾</b>，<b>吸血</b>\n<b>战吼：</b>与另一个随从交换属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105495,
+    "flavor": "砍掉一个头，还会长出一个双倍可爱的头！",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>威兹班的工坊</i>奖励路线中获得该奖励。",
+    "id": "TOY_897",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "软软多头蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>将本随从的一张永久具有翻倍攻击力和生命值的复制洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 102405,
+    "elite": true,
+    "flavor": "“谁都不许叫我机械腐面！”——机械腐面",
+    "health": 12,
+    "id": "TOY_906",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "机械腐面",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。在本随从受到伤害后，随机获取两张<b>微型</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102407,
+    "flavor": "实验室内请时刻保持安全意识，避免遭受伤害！*护目镜抽在脸上好疼*",
+    "id": "TOY_907",
+    "name": "安全护目镜",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "获得6点护甲值。如果你没有护甲值，本牌的法力值消耗为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102408,
+    "flavor": "做这份工作，最好不要擦出什么灵机一动的火花。",
+    "health": 5,
+    "id": "TOY_908",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "焰火机师",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>\n召唤两个1/1的砰砰机器人。<i>警告：该机器人随时可能爆炸。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103169,
+    "elite": true,
+    "flavor": "她买过一张孤品萨拉斯语版金色古尔丹之颅，花了足足2000000金。",
+    "health": 4,
+    "id": "TOY_913",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "OUTCAST"
+    ],
+    "name": "希希集",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼，流放，\n亡语：</b>随机获取一张初版恶魔猎手卡牌<i>（品相完美）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 104854,
+    "flavor": "陪在这位皇后身边，务必小心自己的脑袋。",
+    "health": 4,
+    "id": "TOY_914",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "邪鬼皇后",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>\n<b>亡语：</b>召唤两个4/6并具有<b>嘲讽</b>的骑士。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104855,
+    "flavor": "“然后……我要，我要对它施加诅咒……呃……有了！我要诅咒它说话必须押韵，不然就会变成螃蟹！”",
+    "health": 3,
+    "id": "TOY_915",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "桌游角色扮演玩家",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "使一个友方恶魔获得+2攻击力和免疫。",
+    "text": "<b>微缩</b>\n<b>战吼：</b>在本回合中，使一个友方恶魔获得+2攻击力和<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104858,
+    "flavor": "永远不要问一位画师完成了多少作品。",
+    "health": 3,
+    "id": "TOY_916",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "速写美术家",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张暗影法术牌，获取一张它的<b>临时</b>复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106092,
+    "flavor": "旅店挤得够呛，但只要有新游戏我都欢迎！",
+    "health": 5,
+    "id": "TOY_943",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "大作战狂热玩家",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你使用最左或最右边的一张手牌后，随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 106697,
+    "elite": true,
+    "flavor": "欢乐术（名词）：通过魔法为他人带来欢乐的行为。（另见：道德伦理）",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "TOY_960",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "欢乐术师耶比托",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>获取你在本局对战中使用过的每个生命值为1点或攻击力为1点的随从的各一张复制。",
+    "type": "MINION"
+  }
+]

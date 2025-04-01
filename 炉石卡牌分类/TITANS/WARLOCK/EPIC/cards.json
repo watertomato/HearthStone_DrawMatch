@@ -1,0 +1,32 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 97614,
+    "flavor": "监狱生活彻底改变了杰夫。",
+    "health": 4,
+    "id": "TTN_462",
+    "name": "被禁锢的恐魔",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在本局对战中，你每在你的回合受到一点伤害，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98030,
+    "flavor": "缺少食物时，你就不是你了。",
+    "id": "TTN_932",
+    "name": "混乱吞噬",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "消灭一个友方随从以消灭一个敌方随从。",
+    "type": "SPELL"
+  }
+]

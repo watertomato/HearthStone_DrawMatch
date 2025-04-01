@@ -1,0 +1,57 @@
+[
+  {
+    "artist": "L. Lullabi & I. Campelo da Silva",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114217,
+    "flavor": "你疯了吗兄弟？",
+    "id": "EDR_455",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "屈从疯狂",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>发现</b>一条在本局对战中死亡的友方的龙，并再次召唤它。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114218,
+    "flavor": "早在腐蚀还没有蔓延到翡翠梦境的时候，他的名字叫做：骑士。",
+    "health": 1,
+    "id": "EDR_456",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "黑暗的龙骑士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，<b>发现</b>一张具有<b>黑暗之赐</b>的龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116684,
+    "flavor": "不了，谢谢。这个都归你，兄弟。",
+    "id": "EDR_531",
+    "name": "虹吸生长",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "消灭一个友方随从以获得8点护甲值。",
+    "type": "SPELL"
+  }
+]

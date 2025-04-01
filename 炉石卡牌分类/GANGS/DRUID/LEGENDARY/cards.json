@@ -1,0 +1,26 @@
+[
+  {
+    "artist": "Jon Neimeister",
+    "attack": 7,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 40416,
+    "elite": true,
+    "flavor": "艾雅抽取了库恩的些许灵魂，用以激活她的青玉大军。这可不是抽点血那么简单，遗忘之王得休息好一阵子了。",
+    "health": 7,
+    "id": "CFM_308",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "遗忘之王库恩",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>抉择：</b>获得10点护甲值；或者复原你的法力水晶。",
+    "type": "MINION"
+  }
+]

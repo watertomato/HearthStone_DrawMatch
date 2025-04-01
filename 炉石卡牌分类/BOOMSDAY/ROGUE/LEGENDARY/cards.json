@@ -1,0 +1,45 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48487,
+    "elite": true,
+    "flavor": "你一定是疯了才会这么做……",
+    "id": "BOT_242",
+    "name": "迈拉的不稳定元素",
+    "rarity": "LEGENDARY",
+    "set": "BOOMSDAY",
+    "text": "抽取你牌库剩下的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 48159,
+    "elite": true,
+    "flavor": "她上班第一天，就把实验室的烟雾报警器给拆了。",
+    "health": 2,
+    "id": "BOT_243",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "迈拉·腐泉",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张<b>亡语</b>随从牌，并获得其<b>亡语</b>。",
+    "type": "MINION"
+  }
+]

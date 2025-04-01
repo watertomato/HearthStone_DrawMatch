@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40373,
+    "flavor": "你一定是疯了才会去喝它！",
+    "id": "CFM_603",
+    "name": "疯狂药水",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "spellSchool": "SHADOW",
+    "text": "直到回合结束，获得一个攻击力小于或等于2的敌方随从的控制权。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40432,
+    "flavor": "如何为鸦人做纹身，这难倒了索莉娅。",
+    "health": 4,
+    "id": "CFM_626",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗金教鸦人祭司",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "targetingArrowText": "获得+3生命值。",
+    "text": "<b>战吼：</b>使一个友方随从获得+3生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40929,
+    "flavor": "这位鸦人曾荣获加基森年度最佳作词作曲奖。",
+    "health": 5,
+    "id": "CFM_657",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗金教窃歌者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "GANGS",
+    "targetingArrowText": "沉默一个随从。",
+    "text": "<b>战吼：</b>\n<b>沉默</b>一个随从。",
+    "type": "MINION"
+  }
+]

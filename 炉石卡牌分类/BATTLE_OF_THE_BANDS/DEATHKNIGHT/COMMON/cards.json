@@ -1,0 +1,97 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97528,
+    "flavor": "拇指向内表示“魔鬼之角”，拇指向外表示“我爱你”。这点区别在金属乐现场非常重要。",
+    "health": 1,
+    "id": "ETC_209",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "硬核信徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>造成2点伤害。<b>压轴：</b>改为对所有敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91412,
+    "flavor": "我攒了好多金属盘，可没有一张的声音是悦耳的。",
+    "id": "ETC_427",
+    "name": "悦耳金属",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "随机使你手牌中的4张随从牌获得+2/+2。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90648,
+    "flavor": "嗨到死去活来！",
+    "health": 2,
+    "id": "ETC_533",
+    "name": "狂欢舞台",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "消耗3份<b>残骸</b>，使一个友方随从获得<b>复生</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94736,
+    "flavor": "好消息：他成了迪斯科发烧友！:D\n坏消息：因为他感染了迪斯科病毒。:(",
+    "health": 1,
+    "id": "JAM_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "REBORN"
+    ],
+    "name": "酷炫的食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>圣盾</b>，<b>复生</b>",
+    "type": "MINION"
+  }
+]

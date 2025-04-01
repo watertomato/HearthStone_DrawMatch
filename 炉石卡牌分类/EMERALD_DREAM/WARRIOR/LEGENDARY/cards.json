@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114340,
+    "elite": true,
+    "flavor": "伊森德雷流尽了一生的泪。",
+    "health": 5,
+    "id": "EDR_465",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "伊森德雷",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>在本局对战中伊森德雷每死亡过一次，随机召唤一条龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 114353,
+    "elite": true,
+    "flavor": "托尔托拉在燃烧军团的入侵中毫发无损，但梦魇的腐蚀却深深地穿透了他的防备。",
+    "health": 30,
+    "id": "EDR_471",
+    "mechanics": [
+      "ELUSIVE",
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "托尔托拉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>\n在本随从受到伤害后，获得1点护甲值并使本随从获得+1攻击力。",
+    "type": "MINION"
+  }
+]

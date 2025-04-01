@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "James Zhang",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2635,
+    "flavor": "骑着雷象去参加枪术比赛真是棒极了！",
+    "health": 2,
+    "id": "AT_058",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "皇家雷象",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>战吼：</b>揭示双方牌库里的一张随从牌。如果你的牌法力值消耗较大，抽这张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2642,
+    "flavor": "当她拈弓搭箭时，你的命运就已掌握在她的手中。",
+    "health": 1,
+    "id": "AT_059",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "神勇弓箭手",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>激励：</b>如果你没有其他手牌，则对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Richard Wright",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2641,
+    "flavor": "得多大尺寸的陷阱才能捕住一头熊，只有熊知道。",
+    "id": "AT_060",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "捕熊陷阱",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TGT",
+    "text": "<b>奥秘：</b>在你的英雄受到攻击后，召唤一个3/3并具有<b>嘲讽</b>的灰熊。",
+    "type": "SPELL"
+  }
+]

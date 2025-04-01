@@ -1,0 +1,74 @@
+[
+  {
+    "artist": "Terese Nielsen",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 1650,
+    "flavor": "她们帮助被压迫和沮丧的人们。她们也卖饼干。",
+    "health": 3,
+    "id": "CS2_235",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "北郡牧师",
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "text": "每当一个随从获得治疗时，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Pavelec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1361,
+    "flavor": "加倍的付出会得到加倍的收获！",
+    "id": "CS2_236",
+    "name": "神圣之灵",
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "spellSchool": "HOLY",
+    "text": "使一个随从的生命值翻倍。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 545,
+    "flavor": "这个法术直接震爆你的心灵。",
+    "id": "DS1_233",
+    "name": "心灵震爆",
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "spellSchool": "SHADOW",
+    "text": "对敌方英雄造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113182,
+    "flavor": "它们也不全是嘎嘎怪叫的鬼。",
+    "health": 3,
+    "id": "LEG_CS3_013",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暗影之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "text": "<b>亡语：</b>对敌方英雄造成3点伤害。",
+    "type": "MINION"
+  }
+]

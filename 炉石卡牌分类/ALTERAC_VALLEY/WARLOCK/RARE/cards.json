@@ -1,0 +1,81 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69986,
+    "flavor": "种下毁灭，收获恐惧。",
+    "id": "AV_277",
+    "name": "毁灭之种",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "将四张裂隙洗入你的牌库。当抽到裂隙时，召唤一个3/3的恐惧小鬼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70107,
+    "flavor": "这不是普通的邪恶，这是深入骨髓的邪恶。",
+    "id": "AV_285",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "邪恶入骨",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "造成$5点伤害，随机分配到所有敌方随从身上。在本回合可以重复使用。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72440,
+    "flavor": "死了都要来，想来得要死。",
+    "id": "AV_657",
+    "name": "被亵渎的墓园",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你的回合结束时，消灭你的攻击力最低的随从，召唤一个4/4的影魔。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 67758,
+    "flavor": "快去请小鬼终结者！",
+    "id": "ONY_033",
+    "isMiniSet": true,
+    "name": "小鬼侵染",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "每有一个敌方随从，便召唤一个3/3的恐惧小鬼并使其攻击对应敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 71292,
+    "flavor": "蠢货！现在，你们也会领受到我背后的痛苦！",
+    "id": "ONY_034",
+    "isMiniSet": true,
+    "name": "痛苦诅咒",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "SHADOW",
+    "text": "将三张痛苦洗入你对手的牌库。抽到痛苦时会造成疲劳伤害。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "artist": "Gabriel Lopes",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114511,
+    "flavor": "为什么龙族擅长后期对战？因为龙鳞特别厚！",
+    "id": "EDR_251",
+    "name": "龙鳞军备",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "HOLY",
+    "text": "抽取你套牌中和套牌之外的法术牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114632,
+    "durability": 0,
+    "flavor": "巧熊难挥五米之槌。",
+    "health": 2,
+    "id": "EDR_253",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨熊之槌",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "在你的英雄攻击后，抽取你\n法力值消耗最高的牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116675,
+    "flavor": "“收紧队形！箭越来越密了！”",
+    "id": "EDR_264",
+    "name": "圣光护盾",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT",
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "HOLY",
+    "text": "随机召唤一个法力值消耗为（1）的随从并使其获得<b>嘲讽</b>。<b>灌注</b>你的英雄技能。",
+    "type": "SPELL"
+  }
+]

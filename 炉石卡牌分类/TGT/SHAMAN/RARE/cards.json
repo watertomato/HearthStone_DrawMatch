@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "RK Post",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2613,
+    "flavor": "现如今能看到历史如此悠久的图腾，以及技艺如此精湛的匠人，实属不易。",
+    "health": 5,
+    "id": "AT_047",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "德莱尼图腾师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>每有一个友方图腾，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2612,
+    "flavor": "恢复系萨满最钟爱的技能之一。治疗效果出众，广受盟友好评。",
+    "id": "AT_048",
+    "name": "治疗波",
+    "rarity": "RARE",
+    "set": "TGT",
+    "spellSchool": "NATURE",
+    "text": "恢复#8点生命值。揭示双方牌库里的一张随从牌。如果你的牌法力值\n消耗较大，改为恢复#16点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2615,
+    "flavor": "用图腾做武器并不算犯规。至少赛事规则里没提到过这点。",
+    "health": 6,
+    "id": "AT_049",
+    "mechanics": [
+      "BATTLECRY",
+      "INSPIRE"
+    ],
+    "name": "雷霆崖勇士",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼，激励：</b>使你的图腾获得+2攻击力。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,303 @@
+[
+  {
+    "artist": "Peter Stapleton",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102662,
+    "flavor": "“他好可爱啊！我真想把他捏碎了用来做青玉魔像！”——艾雅·黑掌",
+    "health": 3,
+    "id": "WON_118",
+    "mechanics": [
+      "BATTLECRY",
+      "JADE_GOLEM",
+      "JADE_LOTUS"
+    ],
+    "name": "青玉之灵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>召唤一个{0}的<b>青玉魔像</b>。0<b>战吼：</b>召唤一个\n<b>青玉魔像</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102668,
+    "flavor": "那里有块风水宝地，用来召唤克苏恩真是再合适不过了。",
+    "health": 4,
+    "id": "WON_124",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "暮光地卜师",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>使你的克苏恩获得+1/+1和<b>嘲讽</b><i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102669,
+    "flavor": "克苏恩曾许以她永生不灭。那她到底会不会死呢？打一顿就知道了。",
+    "health": 2,
+    "id": "WON_125",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD"
+    ],
+    "name": "克苏恩的侍从",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>圣盾</b>，<b>战吼：</b>使你的克苏恩获得+3/+3<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102684,
+    "flavor": "“记住，你打鲨鱼时要打它的鼻子。”“懂了。我拿鲨鱼时要打塌你的鼻子。”“不对，是——嗷！”",
+    "health": 2,
+    "id": "WON_138",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "鲨鱼拳击手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>随机使一个友方海盗获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102685,
+    "flavor": "未来已来，就是现在！不必等待，就是现在！",
+    "health": 2,
+    "id": "WON_139",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时间线加速机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>抽一张机械牌，并使其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102686,
+    "flavor": "当姆诺兹多向过去进攻之际，诺兹多姆选择向未来求援，甚至前往了遥远的禁忌离岛。",
+    "health": 4,
+    "id": "WON_140",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "未来特使",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>使你手牌中所有龙牌的法力值消耗减少（1）点，并使它们获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi & C. Luechaiwattasopon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102687,
+    "flavor": "和他家的老壶像是一个模子扣出来的。",
+    "health": 3,
+    "id": "WON_141",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "展馆茶杯",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>随机使三个不同类型的友方随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi & Nutchapol",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102688,
+    "flavor": "这件艺术品取材于战棋。而战棋取材于生活。",
+    "health": 3,
+    "id": "WON_142",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "展馆茶壶",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>随机使三个不同类型的友方随从获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103231,
+    "flavor": "相比一般的猩猩而言，他显得稳重多了。",
+    "health": 3,
+    "id": "WON_328",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "穆克拉的勇士",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>激励：</b>使你的其他随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Greg Staples",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103232,
+    "flavor": "当他把几本漫画书和几张摇滚碟片带回黑石山的时候，他就获得了“腐蚀者”的称号。",
+    "health": 4,
+    "id": "WON_329",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑翼腐蚀者",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103233,
+    "flavor": "即便是异教徒也得找人看病吃药。",
+    "health": 4,
+    "id": "WON_330",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "异教药剂师",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>每有一个敌方随从，便为你的英雄恢复#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Kendall",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106559,
+    "flavor": "在他年轻的时候，他经受的是“快乐侍僧”的训练，但是训练成果并不如他想象的那么好。",
+    "health": 4,
+    "id": "WON_357",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "苦痛侍僧",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "每当本随从受到伤害，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106568,
+    "flavor": "他最得意的戏法，就是让你的钱包消失不见！",
+    "health": 7,
+    "id": "WON_365",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "杂耍小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106578,
+    "flavor": "他的薪水有79%都拿去买发蜡了。",
+    "health": 5,
+    "id": "WON_366",
+    "name": "狼人欺诈者",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "type": "MINION"
+  }
+]

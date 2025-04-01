@@ -1,0 +1,3929 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 87639,
+    "flavor": "她是吉他界的英雄。吉他英雄™。",
+    "health": 3,
+    "id": "ETC_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吉他独演者",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，抽一张法术牌，一张随从牌和一张武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 87642,
+    "flavor": "魔术师从不会揭示自己的奥秘，但乐师就不一样了……",
+    "health": 2,
+    "id": "ETC_028",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "口琴独演者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，<b>发现</b>并施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 87648,
+    "flavor": "现场的观众，挥动你们的双手！两双手也可以！",
+    "health": 4,
+    "id": "ETC_029",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "键盘独演者",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，召唤两个1/2并具有<b>法术伤害+1</b>的扩音器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 87681,
+    "flavor": "好戏还没完呢，小鬼妈妈还没开唱。",
+    "health": 6,
+    "id": "ETC_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "歌剧独演者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，对所有敌方随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 87682,
+    "flavor": "“该你上场了，冲啊！你是龙吗？”",
+    "health": 5,
+    "id": "ETC_035",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "鼓乐独演者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你没有控制其他随从，获得+2/+2和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90439,
+    "flavor": "你一定听过他的神曲《Epic Sax Guy》。",
+    "health": 2,
+    "id": "ETC_068",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "次中音号小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>受到疲劳伤害。获得等量的攻击力和生命值。0<b>战吼：</b>受到{0}点疲劳伤害。获得等量的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90440,
+    "flavor": "指挥摆臂越猛，乐团的表现越强！一定是这样的！",
+    "id": "ETC_069",
+    "name": "渐强声浪",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "受到疲劳伤害。对所有敌人造成等量的伤害。0受到{0}点疲劳伤害。对所有敌人造成等量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90461,
+    "flavor": "“扭曲虚空在向我歌唱……这是什么旋律！？”",
+    "health": 4,
+    "id": "ETC_070",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂的指挥",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>受到疲劳伤害。召唤相同数量的3/3的小鬼。0<b>战吼：</b>受到{0}点疲劳伤害。召唤相同数量的3/3的小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 90463,
+    "elite": true,
+    "flavor": "林恩是管弦界的绝顶。顶班的候补召唤就到，所以在这个团队里你必须尽力。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "ETC_071",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "末日管弦家林恩",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>双方玩家各抽两张牌，各弃两张牌，并各摧毁牌库顶的两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90561,
+    "flavor": "“错误。无法识别‘表演过程中禁止打拍’。”",
+    "health": 3,
+    "id": "ETC_072",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "B-Box拳手",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>连击：</b>造成4点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90572,
+    "flavor": "没有押“冰”字，只限这一次！",
+    "health": 3,
+    "id": "ETC_073",
+    "mechanics": [
+      "COMBO",
+      "RUSH"
+    ],
+    "name": "押韵狂人",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>连击：</b>在本局对战中，你每使用过一张其他<b>连击</b>牌，便获得+1/+1。0<i>（已使用0张）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90583,
+    "flavor": "这盘磁带上没有豁口，迦罗娜。注意，不留豁口。",
+    "id": "ETC_074",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "串烧磁带",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FIRE",
+    "text": "<b>发现</b>一张你的对手在本局对战中使用过的牌的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90586,
+    "flavor": "最适合在发表情之后使用的一张牌。",
+    "id": "ETC_075",
+    "name": "闭麦收工",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "抽两张牌。<b>压轴：</b>使你的武器获得+2攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90591,
+    "flavor": "“老大！呃……我……我才刚开始混啊？我没怎么学过这个。”",
+    "id": "ETC_076",
+    "name": "街舞起跳",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "将一个友方随从移回你的手牌。召唤一个具有其属性值和<b>突袭</b>的舞者。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90600,
+    "flavor": "曝光率有限。",
+    "health": 1,
+    "id": "ETC_077",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "八爪碟机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>连击：</b>随机将一张<b>连击</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 90603,
+    "elite": true,
+    "flavor": "如果这就是机器人觉醒的后果，那我也要觉醒！",
+    "health": 5,
+    "id": "ETC_078",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "MC布林顿",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>双方玩家各装备一把1/2的麦克风。你对手的麦克风使其受到的所有伤害增加1点！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90606,
+    "elite": true,
+    "flavor": "再来一个。",
+    "id": "ETC_079",
+    "name": "舞动全场（ft.迦罗娜）",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "将所有友方随从移回你的手牌。在本回合中，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90749,
+    "elite": true,
+    "flavor": "“有请下一支登场的乐队！鼓手：独一无二的M.C.技师！键盘手：菌王洛欧塞布！人声采样来则来自让人盛赞绝口的歌手：破法者！”",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "howToEarn": "打开<i>传奇音乐节</i>卡牌包后可解锁。",
+    "howToEarnGolden": "购买<i>传奇音乐节</i>炉石通行证后开放解锁。",
+    "id": "ETC_080",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "乐队经理精英牛头人酋长",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在构筑你的套牌时，用3张牌组建一支乐队。<b>战吼：发现</b>其中一张！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90854,
+    "flavor": "这身行头有点意思。",
+    "health": 3,
+    "id": "ETC_081",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "虚空协奏者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合中，你的英雄<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 90993,
+    "flavor": "谁说站在牌库里的不算英雄？",
+    "id": "ETC_082",
+    "name": "绝望哀歌",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "对一个角色造成$3点伤害。如果消灭该角色，从你的牌库中召唤一个恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90994,
+    "flavor": "蓝鬼乐团可是表演的行家！",
+    "id": "ETC_083",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "邪魔修音",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "<b>发现</b>两张恶魔牌。<b>压轴：</b>使其获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90996,
+    "durability": 0,
+    "flavor": "这把竖琴会灼痛你的手指，伤及你的灵魂。但好在它永远都不用换弦！",
+    "health": 3,
+    "id": "ETC_084",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪弦竖琴",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "每当你的英雄即将在你的回合受到伤害，改为恢复2点生命值。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 91001,
+    "elite": true,
+    "flavor": "最终首领的经典配乐。",
+    "id": "ETC_085",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "罪孽交响曲",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>发现</b>并演奏一段乐章。将其他六段乐章洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 91076,
+    "flavor": "在演出继续之前，我们必须先处理房间里的大象。",
+    "health": 12,
+    "id": "ETC_086",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "强音雷象",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>对所有敌方随从造成3点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91078,
+    "flavor": "你以为我们会把野性之心古夫放进核心系列？才不会呢！*眨眼示意*",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>传奇音乐节</i>奖励路线中获得该奖励。",
+    "id": "ETC_087",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "扩音机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>将你的法力值上限和手牌上限变为11。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 91080,
+    "flavor": "这个古怪的铭文师受到了诅咒。在他死后，他的才华永远不会受到认可！哇哈哈哈！",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>传奇音乐节</i>奖励路线中获得该奖励。",
+    "id": "ETC_088",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "幽灵写手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。<b>压轴：</b>再<b>发现</b>一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91175,
+    "flavor": "让我<i>看</i>到你的尖叫！！",
+    "health": 6,
+    "id": "ETC_089",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "静滞波形",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在每个回合开始时，失去1点攻击力或生命值<i>（随机而定）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kami Johnson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91511,
+    "flavor": "“我让你带把家伙来，你带了把诅咒之刃！？”",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>传奇音乐节</i>奖励路线中获得该奖励。",
+    "id": "ETC_098",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狼人场务",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>为你的对手召唤一个0/3的乐器箱。<i>（打破乐器箱可以获得一张随机武器牌！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 91659,
+    "flavor": "为什么它选择后台增强而不是前台登场？因为这是一条迷诗始祖幼龙。",
+    "health": 8,
+    "id": "ETC_099",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "公演增强幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "<b>可交易</b>\n<b>压轴：</b>消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91885,
+    "flavor": "最新锐评：乐圈大牛应为新人让路。",
+    "health": 2,
+    "id": "ETC_101",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "牛铃独演者",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 91986,
+    "flavor": "举轻若重，声如微风。",
+    "health": 1,
+    "id": "ETC_102",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "空气吉他手",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>使你的武器获得+1耐久度。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91989,
+    "flavor": "你说你喜欢炉石？你把所有法术牌的名字背一遍我就信你。",
+    "health": 3,
+    "id": "ETC_103",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "风潮浪客",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b><b>发现</b>一张不在对手牌库中的对手职业的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 92243,
+    "flavor": "这事应该是舞台上的演员干的。不过你玩你的吧小兄弟。",
+    "health": 1,
+    "howToEarnGolden": "购买<i>传奇音乐节</i>炉石通行证后开放解锁。",
+    "id": "ETC_104",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "人潮冲浪者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>使任意一个其他随从获得+1/+1和此<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 92246,
+    "flavor": "音效太牛了！",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>传奇音乐节</i>奖励路线中获得该奖励。",
+    "id": "ETC_105",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "立体声图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合结束时，随机使你手牌中的一张随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 92249,
+    "flavor": "公司法务让我们换掉这条卡牌趣文，以免遭受诉讼。",
+    "health": 1,
+    "id": "ETC_106",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "频率振荡机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>你的下一张机械牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 92250,
+    "flavor": "“这首歌太棒了，听得我想打人！！”",
+    "health": 5,
+    "id": "ETC_107",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "喧哗歌迷",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "本随从存活时，使其获得+4攻击力。",
+    "text": "<b>战吼：</b>选择一个随从。当本随从存活时，选中的随从拥有+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 92252,
+    "flavor": "“痴迷？才不是！我只是非常非常非常非常非常非常非常非常非常非常喜欢精英牛头人酋长的歌，不管他说什么，做什么，想什么，他的一举一动，他的每一次呼吸，我都喜欢！”",
+    "health": 6,
+    "id": "ETC_108",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "痴醉歌迷",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "本随从存活时，使其获得潜行。",
+    "text": "<b>战吼：</b>选择一个随从。当本随从存活时，选中的随从拥有<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 92254,
+    "flavor": "不不不，吵吵，你的喇叭不是乐器。",
+    "health": 2,
+    "id": "ETC_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吵吵歌迷",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "本随从存活时，使其获得“无法攻击”",
+    "text": "<b>战吼：</b>选择一个随从。当本随从存活时，选中的随从无法攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 92256,
+    "flavor": "作为尤格-萨隆的仆从，无面者们以人们的恐惧为食，而现在他们的菜谱中包括我们对“玩家发现我们偷懒复用旧趣文”的担心和忧虑。",
+    "health": 3,
+    "id": "ETC_110",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "封面艺人",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "变形成为3/3的复制。",
+    "text": "<b>战吼：</b>变形成为一个随从的3/3的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 92258,
+    "flavor": "“抱歉，中码的没有了。现在只剩下侏儒码，超大码和安尼赫兰码。”",
+    "health": 5,
+    "id": "ETC_111",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "商品卖家",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合结束时，随机将一张法术牌置于你对手的牌库顶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 92332,
+    "elite": true,
+    "flavor": "看这张照片。",
+    "health": 3,
+    "id": "ETC_113",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摄影师菲兹尔",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>拍摄你当前的手牌，并将照片洗入你的牌库。<i>（每局对战限一次）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 94248,
+    "elite": true,
+    "flavor": "当场烤焦多位观众之后，沃恩的队伍重心不全在龙身上了。",
+    "health": 3,
+    "id": "ETC_121",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摇滚教父沃恩",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>复制你手牌中每个不同类型的随从牌各一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97003,
+    "flavor": "左边的鲨鱼，该你上场了！",
+    "id": "ETC_200",
+    "name": "突进舞台",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "抽两张<b>突袭</b>随从牌，使其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96996,
+    "flavor": "牵枝丫，递支蕉……支蕉半零落。",
+    "id": "ETC_201",
+    "name": "一串香蕉",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "使一个随从获得+1/+1。<i>（还剩3根香蕉！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97360,
+    "flavor": "加大音量还要消耗法力值？我以为在菜单里设置一下就好了！",
+    "id": "ETC_205",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "加大音量",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "ARCANE",
+    "text": "抽三张法术牌。<b>压轴：</b>从中<b>发现</b>一张复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97361,
+    "elite": true,
+    "flavor": "如果你的作品是纯音乐，那么词句不通也就没什么关系了。",
+    "id": "ETC_206",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "巅峰无限",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>发现</b>一张法术牌，其法力值消耗减少（1）点。<b>压轴：</b>在回合结束时将本牌移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97362,
+    "flavor": "四只小猴四张嘴，噗通一只跳下水。",
+    "id": "ETC_207",
+    "name": "一桶欢猢",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "召唤一只1/4并具有<b>嘲讽</b>的猴子。<i>（还剩3只猴子！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97363,
+    "elite": true,
+    "flavor": "荆棘谷的心灵之诫：知足常乐。",
+    "id": "ETC_208",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "荆棘谷之心",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>可交易</b>\n复活所有法力值消耗大于或等于（5）点的友方野兽。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97528,
+    "flavor": "拇指向内表示“魔鬼之角”，拇指向外表示“我爱你”。这点区别在金属乐现场非常重要。",
+    "health": 1,
+    "id": "ETC_209",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "硬核信徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>造成2点伤害。<b>压轴：</b>改为对所有敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 97532,
+    "elite": true,
+    "flavor": "标志越抽象，乐队就越硬核。",
+    "id": "ETC_210",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "通灵最强音",
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>吸血</b>。造成${0}点伤害。召唤{1}个{2}/{3}的灵魂。<i>（随你消耗过的<b>残骸</b>数量随机提升）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90366,
+    "flavor": "在音乐中故意使用失真特效的话，你就会引来数百只壁虎。原因未知。",
+    "id": "ETC_305",
+    "name": "暗弦术：改",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得-5/-5。如果该随从拥有0点攻击力，将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90681,
+    "durability": 0,
+    "flavor": "爱豆不是豆。这也不是爱，是麦克风。",
+    "health": 2,
+    "id": "ETC_312",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "爱豆的爱",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "你的英雄技能法力值消耗为（0）点。在你使用技能后，失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 90683,
+    "flavor": "“陪你去看流星落在这地球上！”——德莱尼流行歌",
+    "id": "ETC_314",
+    "name": "悦耳流行歌",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "对所有随从造成$3点伤害。召唤一个6/6的流行歌星。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90687,
+    "flavor": "你本以为联盟和部落之间的争斗已经够脏了……",
+    "id": "ETC_316",
+    "name": "粉丝互动",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "选择两个敌方随从，使其互相攻击！将死亡的随从的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90688,
+    "durability": 0,
+    "flavor": "不，不磕战槌，直接磕脸。",
+    "health": 2,
+    "id": "ETC_317",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迪斯科战槌",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>随机使一个友方随从获得+1/+1。<i>（装备期间，使用随从牌以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90689,
+    "flavor": "无论如何，都不要向右滑步。",
+    "id": "ETC_318",
+    "name": "布吉舞乐",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "从你的牌库中召唤两个法力值消耗为（1）的随从。<b>压轴：</b>再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90694,
+    "flavor": "灯光，眼光，全都汇聚在你身上！嗯，也有一部分观众在看那个聚光灯元素，但主要还是看你！",
+    "id": "ETC_320",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "光芒汇聚",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "<b>可交易</b>\n将一个友方<b>圣盾</b>转化为一个5/5的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 90695,
+    "flavor": "某些职业有虚空领主，而某些职业有吵吵领主。",
+    "health": 6,
+    "id": "ETC_321",
+    "mechanics": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "吵吵演艺团",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>，<b>圣盾</b>。<b>亡语：</b>召唤三个1/2并具有<b>嘲讽</b>和<b>圣盾</b>的机械。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90698,
+    "flavor": "这款游戏没有任何bug。除了它，它是故意保留的。",
+    "health": 3,
+    "id": "ETC_324",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "摇摆舞虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>圣盾</b>。在一个友方角色失去<b>圣盾</b>后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90699,
+    "flavor": "表演者还在舞台坚守，望周知！",
+    "health": 3,
+    "id": "ETC_325",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "音乐治疗师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>压轴：</b>获得<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90700,
+    "flavor": "一旦你成了传说随从，你就能收获一枚橙色的宝石，一块龙形的徽记，还有一百多个随时随地跟着你的狗仔队。",
+    "health": 4,
+    "id": "ETC_326",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "狗仔队",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b><b>发现</b>一张<b>传说</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 90941,
+    "flavor": "“跟我一起跳！”*断气*",
+    "health": 2,
+    "id": "ETC_328",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "领舞",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>从你的牌库中召唤一个攻击力小于本随从攻击力的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 90944,
+    "elite": true,
+    "flavor": "砰砰博士加入怪盗军团之后，坎格尔与砰砰实验室彻底割席，开始追求自己的真爱——迪斯科！！！",
+    "health": 3,
+    "id": "ETC_329",
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "舞王坎格尔",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>吸血</b>。<b>亡语：</b>将本随从与你手牌中的一个随从互换，并使其获得<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90945,
+    "elite": true,
+    "flavor": "在宇宙空间中其实没人能听到你的节律。",
+    "id": "ETC_330",
+    "name": "星光节律",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "使你的英雄获得<b>圣盾</b>。在本局对战的剩余时间内，使用神圣法术牌会复原此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90952,
+    "flavor": "帕兹是“毒花少年”唯一能在水下演唱的成员，曾在辛艾萨莉巡演中力挽狂澜。",
+    "health": 2,
+    "id": "ETC_332",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "梦中男神",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>为所有其他友方随从恢复#3点生命值。每有一个被<b>过量治疗</b>，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dez Bencosme",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90956,
+    "elite": true,
+    "flavor": "赫达尼斯征服了艾泽拉斯万千歌迷的心灵！这跟暗影魔法有什么关系——完全不知道你在说什么。",
+    "hasDiamondSkin": true,
+    "health": 8,
+    "id": "ETC_334",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERHEAL"
+    ],
+    "name": "碎心歌手赫达尼斯",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>对本随从造成4点伤害。<b>过量治疗：</b>随机对一个敌人造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90959,
+    "elite": true,
+    "flavor": "“毒花少年”被控抄袭，歌中词句“哦，这还得熬多久（哦耶）”疑似来自老派组合：萨隆苦囚。",
+    "id": "ETC_335",
+    "name": "真爱永恒",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "你每个回合使用的第一张法术牌的法力值消耗减少（2）点。此效果持续到你在你的回合中未使用法术牌为止。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniele Orizio",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90972,
+    "flavor": "像风一样自由。",
+    "health": 2,
+    "id": "ETC_336",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "自由飞鸟",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>冲锋</b>。<b>战吼：</b>在本局对战中，你每使用过一张其他自由飞鸟，便获得+1/+1。0<i>（已使用0张）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91066,
+    "flavor": "让我们一鳍摇摆！",
+    "health": 2,
+    "id": "ETC_337",
+    "mechanics": [
+      "AURA",
+      "DIVINE_SHIELD"
+    ],
+    "name": "放克鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>圣盾</b>。你的<b>圣盾</b>随从拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91067,
+    "flavor": "“这首歌献给你，姑娘。一万六千岁生日快乐。”",
+    "id": "ETC_338",
+    "name": "真弦术：合",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "选择一个随从，将一张它的复制置入你的手牌。<b>压轴：</b>使其均获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91079,
+    "flavor": "亡灵不会心动，心动的只有观众。",
+    "health": 5,
+    "id": "ETC_339",
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "心动歌手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>过量治疗：</b>随机召唤一个法力值消耗等同于<b>过量治疗</b>量的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 91872,
+    "flavor": "我跟你讲，她可是海怪年最火的大腕。真想再看一遍她当年的演出……",
+    "health": 5,
+    "id": "ETC_349",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "过气明星",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>随机召唤一个来自过去的法力值消耗为（5）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91874,
+    "flavor": "他就是派对上的枭熊！",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>传奇音乐节</i>奖励路线中获得该奖励。",
+    "id": "ETC_350",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "派对动物",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>使你手牌中每个不同类型的各一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 91888,
+    "flavor": "野猪人的鲜血里饱是摇滚。野猪人的摇滚靠鲜血宝石。",
+    "health": 3,
+    "id": "ETC_355",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "剃刀沼泽摇滚明星",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你获得护甲值后，再获得2点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 92222,
+    "flavor": "我始终不明白，为什么乐队能容忍这种……走调。想听听大家的看法。",
+    "id": "ETC_356",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "变音和弦",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "NATURE",
+    "text": "<b>吸血</b>。对一个随从造成$6点伤害。如果你有<b>过载</b>的法力水晶，本牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 92225,
+    "flavor": "你负责水，风暴大地和火焰就交给它了。",
+    "health": 3,
+    "id": "ETC_357",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "RUSH",
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "name": "铜管元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>，<b>圣盾</b>，<b>嘲讽</b>，<b>风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 92227,
+    "flavor": "二十年前，台下鱼人观者如堵；二十年后，破馆昏灯遗恨悠悠。旧日时光，觅之何处？一切名利梦想，皆如案头微烛，焰心闪烁，倏忽幻灭。唯余轻烟，随风而去。",
+    "health": 2,
+    "id": "ETC_358",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "萨克斯独演者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，将一张萨克斯独演者置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 92228,
+    "flavor": "她的歌有点水，要在水下才听得清。",
+    "health": 1,
+    "id": "ETC_359",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "驭流骑士",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你有<b>过载</b>的法力水晶，从你的牌库中<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 92232,
+    "elite": true,
+    "flavor": "“为什么没人跳？我特意点了这支舞曲！”",
+    "id": "ETC_362",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "跳吧，虫子！",
+    "overload": 2,
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FIRE",
+    "text": "将一个随从变形成为炎魔之王拉格纳罗斯。<b>过载：</b>（2）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 92266,
+    "flavor": "不管弹成什么样，反正唱的都是狼嚎。",
+    "id": "ETC_363",
+    "name": "主歌乐句",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在本回合中，使你的英雄获得+2攻击力。获得2点护甲值。<b>压轴：</b>演奏你的上一个乐句。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 92267,
+    "flavor": "你说这句要，这句要，这句要，要要要，演奏演奏好几遍是什么意思？",
+    "id": "ETC_364",
+    "name": "副歌乐句",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "抽一张随从牌，使其获得+3/+3。<b>压轴：</b>演奏你的上一个乐句。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 92268,
+    "flavor": "不一定非要在渡口演奏。",
+    "id": "ETC_365",
+    "name": "过渡乐句",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "召唤一个3/4并具有<b>嘲讽</b>的乐手和一个4/3并具有<b>突袭</b>的乐手。<b>压轴：</b>演奏你的上一个乐句。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 92276,
+    "flavor": "我们小声一点，是不是也算隐约狂欢？",
+    "id": "ETC_367",
+    "name": "音乐狂欢",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在本回合中，每当你使用一张随从牌，随机将一张萨满祭司法术牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 92325,
+    "flavor": "“你正在收听的是萨满祭司广播电台FM47.7。聆听音乐，放松心情。”",
+    "id": "ETC_369",
+    "name": "清冷音韵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FROST",
+    "text": "恢复#8点生命值。<b>压轴：</b>召唤一个3/3并具有<b>嘲讽</b>的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 92335,
+    "flavor": "观众聚集导致馆中巨挤。",
+    "id": "ETC_370",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "聚集观众",
+    "overload": 2,
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "随机召唤法力值消耗为（6），（5），（4）和（3）的随从各一个。<b>过载：</b>（2）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 92338,
+    "elite": true,
+    "flavor": "因扎要一个人演奏小号，萨克斯，钢琴，吉他和贝斯。难怪他过载成这样。",
+    "health": 5,
+    "id": "ETC_371",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "因扎",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，你的<b>过载</b>牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 92340,
+    "flavor": "此处应有掌声。",
+    "id": "ETC_372",
+    "name": "掌声雷动",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "抽一张牌。你每控制一个不同类型的随从，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 94201,
+    "flavor": "与其说是“圈”，它更像是个五边形，真的。",
+    "id": "ETC_373",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "集会鼓圈",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤五个2/2的树人；或者使你的所有随从获得+2/+4和<b>嘲讽</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 94204,
+    "flavor": "“在艾泽拉斯这颗星球上，还有什么能比爱与和平更珍贵？”",
+    "health": 1,
+    "id": "ETC_375",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "沉静的吹笛人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>抉择：</b>抽一张野兽牌；或者<b>发现</b>一张野兽牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 94205,
+    "flavor": "“那些老气横秋的成年人根本听不懂我们的音乐。”",
+    "health": 5,
+    "id": "ETC_376",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盛夏花童",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>抽两张法力值消耗大于或等于（6）点的牌。<b>压轴：</b>使其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 94210,
+    "flavor": "在本回合中，使霓的英雄获得+2攻击力。",
+    "id": "ETC_379",
+    "name": "悦耳轻音乐",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在本回合中，使你的英雄获得+2攻击力。获得4点护甲值。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 94218,
+    "flavor": "他的灵魂本该去往炽蓝仙野，但自由的灵魂注定不受拘束。",
+    "health": 2,
+    "id": "ETC_382",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "自由之魂",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼，亡语：</b>在本局对战中，你的英雄技能多获得1点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94225,
+    "flavor": "消        息",
+    "id": "ETC_384",
+    "name": "散布消息",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "抽两张牌。你的英雄每有一点攻击力，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 94249,
+    "flavor": "“想象一下，兄弟，我们都是卡牌，活在这个叫《炉石传说》的小盒子里。”",
+    "health": 1,
+    "id": "ETC_385",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "潮流猎豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼，亡语：</b>在本局对战中，你的英雄技能使你的英雄多获得1点攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 94250,
+    "elite": true,
+    "flavor": "别看佐克每只手只有三根手指，他弹贝斯时就像长了五根一样。",
+    "health": 6,
+    "id": "ETC_386",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "佐克·雾鼻",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>召唤两个{0}/{1}并具有<b>嘲讽</b>的野猪人。<i>（随你的英雄本回合获得的攻击力和护甲值提升！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94251,
+    "elite": true,
+    "flavor": "佐克在新歌里描绘了他的寻根之旅。真正的根。树根。",
+    "id": "ETC_387",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "根音古韵",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "NATURE",
+    "text": "<b>秘密抉择：</b>2回合后召唤三棵5/5的古树；或者4回合后召唤三个8/8的巨人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Cynthia  Garcia",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94381,
+    "durability": 0,
+    "flavor": "有事就请摇摇铃！",
+    "health": 3,
+    "id": "ETC_388",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "实木手鼓",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>召唤1棵5/5的古树。<i>（装备期间，使用法力值消耗5点或以上的卡牌以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96946,
+    "flavor": "好辣！",
+    "id": "ETC_394",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "混乱品味",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$2点伤害。<b>压轴：</b><b>发现</b>一张邪能法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 8,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 96992,
+    "elite": true,
+    "flavor": "不要错过他的“侏儒区深度浩室”系列——绝对是传说级别的杰作。",
+    "health": 8,
+    "id": "ETC_395",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "DJ法力风暴",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>将你手牌中的法术牌法力值消耗变为（0）点。在你使用其中一张后，其余的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 96997,
+    "flavor": "写卡牌趣文有时就和给它画眼影一样难。",
+    "health": 3,
+    "id": "ETC_398",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "暗影之眼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "你的英雄拥有<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 96999,
+    "elite": true,
+    "flavor": "这个名字听起来就像个字体，酷。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "ETC_399",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "哈维利亚·墨鸦",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。在一个友方<b>突袭</b>随从攻击后，使你的随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90441,
+    "flavor": "她玩的是吉他？不，是打击乐。",
+    "health": 6,
+    "id": "ETC_400",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "乐器杀手",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "每当你的武器被摧毁时，随机装备一把恶魔猎手武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90532,
+    "durability": 0,
+    "flavor": "可能还需要打磨，我觉得还有一点尖。",
+    "health": 2,
+    "id": "ETC_405",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "战刃吉他",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>抽1张牌。<i>（装备期间，使用<b>流放</b>牌以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90541,
+    "flavor": "战斧和吉他斧之间的区别可大了。一个是用来战斗的，而另一个不仅能战斗，还能摇滚。",
+    "health": 3,
+    "id": "ETC_408",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "滑铲铁腿",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>战吼：</b>在本局对战中，你每使用过一个不同类型的随从牌，便获得+1/+1。0<i>（已使用0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 90543,
+    "elite": true,
+    "flavor": "既然能全部精通，为什么还要选择？",
+    "health": 6,
+    "id": "ETC_409",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "融合独奏团",
+    "race": "ALL",
+    "races": [
+      "ALL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>在本局对战中，你每使用过一个不同类型的随从牌，便随机获得一项<b>额外效果</b>。0<i>（已使用0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90608,
+    "flavor": "台上台下眼神互动，现场观众纷纷石化。",
+    "health": 1,
+    "id": "ETC_410",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "蛇啮鼓手",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>战吼：</b>在本回合中每有一个随从死亡，便获得+1/+1。0<i>（已死亡0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90612,
+    "flavor": "请勾选所有包含“复仇”的框格以使用这张牌。",
+    "id": "ETC_411",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "保安！！",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "召唤两个1/1并具有<b>突袭</b>的伊利达雷。<b>流放：</b>再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90615,
+    "elite": true,
+    "flavor": "哈维利亚曾因过于前卫而被吉尔尼斯流放。而她把这件事当成一项成就。",
+    "id": "ETC_413",
+    "name": "低沉摇摆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在本回合中，使你的英雄获得+2攻击力和<b>免疫</b>，然后攻击每个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 90678,
+    "elite": true,
+    "flavor": "黑石山的山呢？删了。",
+    "id": "ETC_417",
+    "name": "黑石摇滚",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FIRE",
+    "text": "使你牌库中的所有随从牌获得等同于其法力值消耗的攻击力和生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90808,
+    "flavor": "一个地精技师，竟然不会交易？丢人。",
+    "health": 2,
+    "id": "ETC_418",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乐器技师",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>\n抽一张武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 90966,
+    "flavor": "在狂欢舞台，死去的亡灵感到了前所未有的活力。",
+    "health": 10,
+    "howToEarnGolden": "可以在<i>传奇音乐节</i>奖励路线中获得该奖励。",
+    "id": "ETC_419",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "摇滚缝合怪",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。在本随从攻击后，获得+1攻击力并随机攻击一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90968,
+    "flavor": "她在工作时有个坏习惯：吃拉丝奶酪。",
+    "health": 2,
+    "id": "ETC_420",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "服装裁缝",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "使其获得等同于本随从的属性值。",
+    "text": "<b>战吼：</b>使一个友方随从获得等同于本随从的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91215,
+    "flavor": "这位是“快抖”红人。",
+    "health": 4,
+    "id": "ETC_422",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "计拍侏儒",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你使用一张法力值消耗为（{0}）的卡牌后，抽一张法力值消耗为（{1}）的牌。<i>（然后调高！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91232,
+    "durability": 0,
+    "flavor": "吉他配骷髅——最适合摇头。",
+    "health": 2,
+    "id": "ETC_423",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奥金利斧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>召唤一个1/1并具有<b>吸血</b>的亡灵。<i>（装备期间，在你的回合中使你的生命值发生变化以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 91251,
+    "flavor": "嗷嗷嗷嗷气死我了！因为我真的死了！",
+    "id": "ETC_424",
+    "name": "死亡嘶吼",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "选择一个随从。将其<b>亡语</b>传播到相邻随从上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 91252,
+    "elite": true,
+    "flavor": "“我留在地面上，演出过程中所有出问题的侏儒工程学设备都是我来修。菲兹尔那个小丑不过是在天上拍了几张照片。你说说，谁才是优秀的工程师！”",
+    "health": 4,
+    "howToEarn": "收集30张<i>传奇音乐节</i>卡牌后开放解锁。",
+    "howToEarnGolden": "购买<i>传奇音乐节</i>炉石通行证后开放解锁。",
+    "id": "ETC_425",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "音响工程师普兹克",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>将两张3/3的机器人置入你对手的手牌。<b>亡语：</b>为你自己召唤这些机器人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91412,
+    "flavor": "我攒了好多金属盘，可没有一张的声音是悦耳的。",
+    "id": "ETC_427",
+    "name": "悦耳金属",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "随机使你手牌中的4张随从牌获得+2/+2。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 91493,
+    "flavor": "这是他化的妆？还是他本身的花纹？",
+    "health": 4,
+    "id": "ETC_428",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "碎骨速弹吉他手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>消耗5份<b>残骸</b>，触发并获得一个在本局对战中死亡的友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97403,
+    "flavor": "“说来奇怪。我走进俱乐部，找到会长，他噼里啪啦唠叨了大概10分钟，然后给了我一张自行车兑换券……”",
+    "health": 2,
+    "id": "ETC_449",
+    "name": "粉丝俱乐部",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "为所有友方角色恢复#3点生命值。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 88580,
+    "flavor": "“何必忧虑，音乐节的观众们！迪斯科的圣典之中没有惊慌二字！”",
+    "id": "ETC_506",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "悦耳迪斯科",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "<b>发现</b>一张法力值消耗为（5）的随从牌。召唤该随从并使其获得+1/+1。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90356,
+    "durability": 0,
+    "flavor": "潜行者最喜欢的声部就是刺中音。",
+    "health": 2,
+    "id": "ETC_518",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "搓盘机",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>复原1个法力水晶。<i>（装备期间，使用<b>连击</b>牌以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90359,
+    "durability": 0,
+    "flavor": "从德鲁伊的鼓圈里偷出来的，如今却用来导人向善。",
+    "health": 2,
+    "id": "ETC_520",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "科多兽皮组鼓",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>对所有随从造成1点伤害。<i>（装备期间，获得护甲值以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 0,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90368,
+    "durability": 0,
+    "flavor": "我这架琴上有奥尔加隆的亲笔签名。",
+    "health": 3,
+    "id": "ETC_521",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "星界键盘",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你施放一个法术后，召唤一个属性值等同于其法力值消耗的元素。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 90481,
+    "flavor": "她的歌声一定能唤醒你。由内而外地唤醒。",
+    "health": 6,
+    "id": "ETC_522",
+    "mechanics": [
+      "LIFESTEAL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "尖叫女妖",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>吸血</b>。在你的英雄获得生命值后，召唤一个具有等量攻击力与生命值的灵魂。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90484,
+    "flavor": "他更喜欢死板的录播，不喜欢鲜活的现场。",
+    "health": 4,
+    "id": "ETC_523",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "死亡金属骑士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>。在本回合中，如果你的英雄受到治疗，本牌改为消耗生命值而非法力值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 90497,
+    "elite": true,
+    "flavor": "脑袋卡进笼子一阵子，新绰号跟你一辈子。",
+    "health": 1,
+    "id": "ETC_526",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "凯吉·海德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE",
+      "TAUNT"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>召唤一只9/9并具有<b>冲锋</b>和<b>嘲讽</b>的凋零野猪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90534,
+    "flavor": "搞艺术要时刻记得四个字，和光同尘。和是和平，同是协同，尘表示谦卑。光嘛，是激光！！",
+    "id": "ETC_528",
+    "name": "灯光表演",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "ARCANE",
+    "text": "向敌人发射2道可以造成$2点伤害的灯光。你此后的灯光表演多发射一道。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90592,
+    "flavor": "如果没找到想要的法术，不如试试倒带重来。",
+    "id": "ETC_532",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "倒带",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>你在本局对战中施放过的其他法术的一张复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90648,
+    "flavor": "嗨到死去活来！",
+    "health": 2,
+    "id": "ETC_533",
+    "name": "狂欢舞台",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "消耗3份<b>残骸</b>，使一个友方随从获得<b>复生</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90671,
+    "flavor": "照亮了别人，黯淡了自己。",
+    "health": 4,
+    "id": "ETC_534",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "全息技师",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在任意随从受到刚好1点伤害后，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90738,
+    "flavor": "元素混音技术问世之后，艾泽拉斯进入了合成乐的时代。",
+    "id": "ETC_535",
+    "name": "元素混合",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "随机将法力值消耗为（1），（2）和（3）的元素牌各一张置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90856,
+    "flavor": "“我向他提出过建设性的意见，可他只说了一句：‘切！’”",
+    "health": 2,
+    "id": "ETC_536",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "音频切分机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>复制你手牌中法力值消耗最高的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 92235,
+    "flavor": "烟火技师和火焰狂人之间的差别只有薪水。",
+    "health": 5,
+    "id": "ETC_540",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "烟火技师",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你施放一个法术后，随机将一张火焰法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 92237,
+    "elite": true,
+    "flavor": "托尼还在航海的时候就只喜欢白漂。",
+    "health": 6,
+    "id": "ETC_541",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盗版之王托尼",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>将你的牌库替换成对手牌库的复制。<b>压轴：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 92240,
+    "flavor": "“狂欢舞台有情况？收到。一年后就到。”",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>传奇音乐节</i>奖励路线中获得该奖励。",
+    "id": "ETC_542",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "音乐节保安",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>。<b>压轴：</b>迫使所有敌方随从攻击本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 92242,
+    "flavor": "你能想象这样的场景吗，亿万个狗头人随着食人魔的节奏，点亮了整个世界……",
+    "health": 3,
+    "id": "ETC_543",
+    "mechanics": [
+      "DIVINE_SHIELD"
+    ],
+    "name": "举烛观众",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>圣盾</b>。<b>压轴：</b>使相邻的随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 88403,
+    "flavor": "我能想到四种和“橙子”押韵的东西：绳子，棚子，凳子，还有，呃……小橙子。",
+    "id": "ETC_717",
+    "name": "悦耳嘻哈",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "造成$1点伤害。使你的武器获得+3攻击力。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 88982,
+    "flavor": "他参加过一支街头乐队，可惜已经土崩瓦解。",
+    "health": 2,
+    "id": "ETC_742",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "摇滚巨石",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>战吼：</b>如果你使用的上一张牌法力值消耗为（1）点，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90781,
+    "durability": 0,
+    "flavor": "没有鸟类，<i>注意是类别而非个体</i>，在制作此贝斯的过程中受到伤害。",
+    "health": 2,
+    "id": "ETC_813",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "爵士贝斯",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>你的下一张法术牌法力值消耗减少（1）点。<i>（装备期间，<b>过载</b>以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 91494,
+    "flavor": "她说那只小土狼是她的“料理狼王”。搞不懂那是什么意思。",
+    "health": 3,
+    "id": "ETC_831",
+    "name": "刺鬃乐师",
+    "race": "QUILBOAR",
+    "races": [
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>压轴：</b>你召唤的下一只野兽获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cynthia  Garcia",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 91495,
+    "durability": 0,
+    "flavor": "被问到自己愿意变成什么动物的时候，人们一般会说，“狼和狮子一半一半吧，当个丛林之王，凶猛而又善于交际。”省省吧，你其实是只老鼠。",
+    "health": 2,
+    "id": "ETC_832",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "丛林弹唱琴",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>随机召唤一只法力值消耗为（1）的野兽。<i>（装备期间，施放法术以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91496,
+    "flavor": "“你说这是<i>小提琴</i>弓！？！”",
+    "health": 3,
+    "id": "ETC_833",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "箭矢工匠",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你施放一个法术后，对生命值最低的敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 10,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 91498,
+    "elite": true,
+    "flavor": "音乐是穆克拉暂时摆脱愤怒的法宝。当他站在舞台上时，简直像是换了一只猩猩……直到有人起哄。",
+    "health": 10,
+    "id": "ETC_836",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "穆克拉先生",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>战吼：</b>用香蕉填满你对手的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 92296,
+    "flavor": "在那遥远的牦牛村，有个孤独的……牛头人",
+    "id": "ETC_838",
+    "name": "宏大梦想",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "从你的手牌中召唤法力值消耗最高的野兽，使其<b>休眠</b>2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 92328,
+    "flavor": "暴龙也想要抱抱。",
+    "health": 6,
+    "id": "ETC_840",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "班卓龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。每当本随从攻击时，抽一张野兽牌并获得其属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 94727,
+    "flavor": "“我的这台免费送了我两块钱！”“我的这台免费送了我冰淇淋！”“……我的这台送了我两只羊，自爆的羊。确实免费，但我还是想让它退钱。”",
+    "health": 3,
+    "id": "JAM_000",
+    "isMiniSet": true,
+    "name": "混搭派送机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的手牌中时会获得一项额外效果，该效果每回合都会改变。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "classes": [
+      "HUNTER",
+      "MAGE"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95336,
+    "flavor": "可能哪个叫不上来名字的脸熟过气名人还穿过这套服装，谁知道呢！",
+    "health": 1,
+    "id": "JAM_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "盛装歌手",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合结束时，抽一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "MAGE",
+    "classes": [
+      "HUNTER",
+      "MAGE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 96627,
+    "flavor": "多名追星观众被星倒追。",
+    "id": "JAM_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "星辰能量",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "ARCANE",
+    "text": "随机对一个敌方随从造成$5点伤害。重复此效果，每次伤害减少1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 96618,
+    "flavor": "我跟你说，如果你把这首歌用三倍速倒放，你仔细听，穆克拉唱的绝对是燃烧军团。",
+    "id": "JAM_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "暗藏深意",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>奥秘：</b>当你的对手在没有法力值的情况下结束其回合时，随机召唤一个法力值消耗为（3）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 94735,
+    "flavor": "啊哦，它从笼子里跑出来了！不过不用怕，它很乖的哦。",
+    "health": 4,
+    "id": "JAM_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "name": "镂骨恶犬",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>吸血</b>，<b>突袭</b>。同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95344,
+    "flavor": "恐怖图腾毁掉<i>某些</i>音乐未尝不是好事。",
+    "health": 4,
+    "id": "JAM_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "约德尔狂吼歌手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "触发一个友方随从的亡语两次。",
+    "text": "<b>战吼：</b>\n触发一个友方随从的\n<b>亡语</b>，触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98390,
+    "flavor": "舞者还需热身。",
+    "id": "JAM_006",
+    "isMiniSet": true,
+    "name": "冻感舞步",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FROST",
+    "text": "下个回合，敌方随从牌的法力值消耗增加（5）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94736,
+    "flavor": "好消息：他成了迪斯科发烧友！:D\n坏消息：因为他感染了迪斯科病毒。:(",
+    "health": 1,
+    "id": "JAM_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "REBORN"
+    ],
+    "name": "酷炫的食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>圣盾</b>，<b>复生</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98410,
+    "flavor": "直播突发事故，我们先听听现场飘荡的观众怎么说。",
+    "id": "JAM_008",
+    "isMiniSet": true,
+    "name": "直播事故",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "消灭你的亡灵。再次召唤它们。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98411,
+    "flavor": "场内禁止奔跑突袭。",
+    "health": 2,
+    "id": "JAM_009",
+    "isMiniSet": true,
+    "name": "闪亮舞池",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "使你的所有随从获得<b>突袭</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 0,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95345,
+    "flavor": "如果你真的喜爱《炉石传说》，那么就给图腾再投个币吧！",
+    "health": 4,
+    "id": "JAM_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "点唱机图腾",
+    "race": "TOTEM",
+    "races": [
+      "MECHANICAL",
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的回合结束时，召唤一个1/1的白银之手新兵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "classes": [
+      "PALADIN",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 95350,
+    "durability": 0,
+    "flavor": "萨克斯风！听我号令！",
+    "health": 4,
+    "id": "JAM_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL",
+      "WINDFURY"
+    ],
+    "name": "风领主的管号",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>风怒</b>。每当你的英雄攻击随从时，将被攻击随从的属性值变为3/3。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95454,
+    "flavor": "老式木音箱，听歌就是棒。",
+    "health": 2,
+    "id": "JAM_012",
+    "isMiniSet": true,
+    "name": "混搭图腾师",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的手牌中时会获得一项额外效果，该效果每回合都会改变。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "WARRIOR",
+    "classes": [
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 96628,
+    "flavor": "即兴演奏，献给急性的你。",
+    "id": "JAM_013",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "即兴演奏",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FIRE",
+    "text": "使一个友方随从获得+3/+3。对所有其他随从造成$1点伤害。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "classes": [
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94821,
+    "flavor": "不认识你。也不认识名单上的字。",
+    "health": 5,
+    "id": "JAM_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "后台保镖",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "将一个友方随从变形成为本随从的复制。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将一个友方随从变形成为本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95408,
+    "durability": 0,
+    "flavor": "你能为音叉调音，却不能鲔鱼调音。",
+    "health": 2,
+    "id": "JAM_015",
+    "isMiniSet": true,
+    "name": "混搭音叉",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的手牌中时会获得一项额外效果，该效果每回合都会改变。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "WARRIOR",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 94819,
+    "flavor": "打入恶魔的深渊，推向音乐的高潮！",
+    "health": 7,
+    "id": "JAM_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "渊狱贝斯手",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>，<b>吸血</b>。在本局对战中你每装备过一把武器，本牌的法力值消耗便减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "WARRIOR",
+    "classes": [
+      "WARRIOR",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 94820,
+    "flavor": "邪火邪火，既是邪能，也是火焰。",
+    "id": "JAM_017",
+    "isMiniSet": true,
+    "name": "突破邪火",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "使一个随从获得<b>突袭</b>。<b>压轴：</b>以及+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95856,
+    "flavor": "“这是真的吗？”“不，这只是个卡牌游戏。”",
+    "id": "JAM_018",
+    "isMiniSet": true,
+    "name": "混搭狂想曲",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "对所有随从造成$3点伤害。在你的手牌中时会获得一项额外效果，该效果每回合都会改变。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "classes": [
+      "ROGUE",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94802,
+    "elite": true,
+    "flavor": "向左一个暗影步！向右一个二段跳！这就是交叉职业！",
+    "health": 5,
+    "id": "JAM_019",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "踏韵舞者丽萨",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。在你的英雄攻击后，将本随从移回你的手牌并使其法力值消耗变为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "classes": [
+      "ROGUE",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95374,
+    "flavor": "“烂歌，烂人，你就该有个烂心情。”",
+    "health": 1,
+    "id": "JAM_020",
+    "isMiniSet": true,
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "挑剔的观众",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "将一个随从移回其拥有者的\n手牌。",
+    "text": "<b>流放：</b>将一个随从移回其拥有者的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95377,
+    "flavor": "试图凭借最新单曲《圣盾》争得一线生机。",
+    "health": 1,
+    "id": "JAM_021",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO",
+      "RUSH"
+    ],
+    "name": "单曲流星",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>连击：</b>\n获得<b><b>剧毒</b>。</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98377,
+    "flavor": "沃萨特，我们都听不到你的声音。你静音了。",
+    "id": "JAM_022",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "致聋术",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "<b>沉默</b>一个随从。<b>连击：</b>并对其造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95825,
+    "flavor": "正在开发XX传说扩展包：史诗音乐节。",
+    "health": 3,
+    "id": "JAM_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盗版海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>获取你对手牌库顶的一张\n牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97579,
+    "flavor": "一定要让它弱于你的其他光耀之子，这样打光效果才好。",
+    "health": 4,
+    "id": "JAM_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "布景光耀之子",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>压轴，过量治疗：</b>随机使另一个友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95394,
+    "flavor": "说了这么多年……结果就这么大一点！",
+    "id": "JAM_025",
+    "isMiniSet": true,
+    "name": "漏斗蛋糕",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "为一个随从及其相邻随从恢复#3点生命值。每有一个随从受到<b>过量治疗</b>，便复原一个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95395,
+    "flavor": "人气树精，倾情流行。",
+    "health": 3,
+    "id": "JAM_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "人气树精",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>抉择：</b>复原你的英雄技能；或者使你的下一个英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98413,
+    "flavor": "他叫什么名字？Stan。",
+    "health": 2,
+    "id": "JAM_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "饭圈迷弟",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>抉择：</b>使一个友方随从获得+2攻击力和<b>突袭</b>；或者+2生命值和<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 94798,
+    "flavor": "敌人的鲜血就是我最好的肥料！",
+    "health": 2,
+    "id": "JAM_028",
+    "isMiniSet": true,
+    "name": "鲜血树人",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "消耗生命值，而非法力值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98382,
+    "flavor": "这种德才叫缺德。",
+    "health": 5,
+    "id": "JAM_029",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "末日枭兽",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>夺取你对手的一个空的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 15,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 30,
+    "dbfId": 95404,
+    "elite": true,
+    "flavor": "引人入胜的交响曲需要创作时间。一般需要二十多个回合。",
+    "health": 15,
+    "id": "JAM_030",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "歌剧魔神范诺登",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>，<b>吸血</b>。本牌的法力值消耗等同于你的牌库中卡牌的数量。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98417,
+    "flavor": "虚空环境下混响效果更佳。",
+    "id": "JAM_031",
+    "isMiniSet": true,
+    "name": "回荡混响",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个随从的复制。复制和本体都会在受到伤害后死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 94852,
+    "flavor": "恐怖图腾点燃了舞台，大多数人都觉得危险，只有他认为这个场面相当完美！",
+    "health": 3,
+    "id": "JAM_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "燃琴小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>随机将法师和术士的各一张火焰法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95464,
+    "flavor": "典型的吟游诗人：混乱中立，多项全能。",
+    "health": 3,
+    "id": "JAM_033",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "混搭乐师",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。在你的手牌中时会获得一项额外效果，该效果每回合都会改变。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95405,
+    "flavor": "知名蹄踏武艺术家。",
+    "health": 4,
+    "id": "JAM_034",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "音箱践踏者",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>可交易</b>\n<b>战吼：</b>下个回合敌方法术的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95630,
+    "flavor": "你要是叫我“扫兴怪”，那我就扫给你看。",
+    "health": 4,
+    "id": "JAM_035",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐怖图腾扫兴怪",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>弃一张武器牌以抽三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 94822,
+    "elite": true,
+    "flavor": "不要和“那个什么加莎”搞混了。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "JAM_036",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乐坛灾星玛加萨",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>抽五张牌。将抽到的法术牌交给你的对手。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 96621,
+    "elite": true,
+    "flavor": "他的拨片，是艾泽拉斯第一道火光的余烬；他的独奏能撕开双耳，轰击心灵，直冲大脑。精英牛头人酋长用音乐击败了玛加萨及其邪恶势力，大手一挥，为音乐界奠定了数百年的安宁。",
+    "health": 5,
+    "id": "JAM_037",
+    "isMiniSet": true,
+    "name": "精英牛头人歌王",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>压轴：</b>开启摇滚对决！玩家每回合必须消耗所有法力值，否则其英雄会受到8点<i>（或更高）</i>伤害！",
+    "type": "MINION"
+  }
+]

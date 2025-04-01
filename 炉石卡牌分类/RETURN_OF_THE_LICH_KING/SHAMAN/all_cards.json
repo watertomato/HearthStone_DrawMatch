@@ -1,0 +1,286 @@
+[
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86502,
+    "flavor": "做好寿司，冰鲜鱼人是关键。",
+    "health": 3,
+    "id": "NX2_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "霜鳍咀嚼者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>\n如果你在上个回合使用过元素牌，则召唤三个1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86504,
+    "flavor": "恭喜！你的随从进化成了火属性随从！",
+    "id": "NX2_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "炽焰变幻",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FIRE",
+    "text": "选择一个随从，将其变形成为你<b>发现</b>的法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86505,
+    "flavor": "萨菲隆最爱的零食永远是冰棍。",
+    "id": "NX2_009",
+    "isMiniSet": true,
+    "name": "冰冷贮藏",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，将一张它的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 86132,
+    "elite": true,
+    "flavor": "夏日版：伏鳃。少年版：雏鳃。其他生物：无鳃。",
+    "health": 6,
+    "id": "RLK_550",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐鳃",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>使你的其他随从获得“<b>亡语：</b>使你的所有随从获得+1/+1。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 86136,
+    "flavor": "牙都断了，求求他挂个牙科吧。还有皮肤科。还有精神科。",
+    "health": 8,
+    "id": "RLK_551",
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL",
+      "REBORN",
+      "TAUNT"
+    ],
+    "name": "瘟血狂战士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>，<b>吸血</b>，<b>复生</b>，<b>亡语：</b>随机对一个敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86147,
+    "flavor": "无息？无呼！",
+    "health": 2,
+    "id": "RLK_552",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无息的勇士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果在你的上回合之后有友方亡灵死亡，召唤两个3/2的僵尸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 86150,
+    "flavor": "别换台！我就爱看这个。",
+    "id": "RLK_553",
+    "name": "先知先觉",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "抽两张随从牌。每有一张法力值消耗大于或等于（5）点的牌，召唤一个2/3并具有<b>嘲讽</b>的幽灵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 86186,
+    "flavor": "但愿它能带来好消息！",
+    "health": 2,
+    "id": "RLK_554",
+    "mechanics": [
+      "DEATHRATTLE",
+      "REBORN",
+      "TAUNT"
+    ],
+    "name": "恐惧感知者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b><b>嘲讽</b>，复生</b> \n<b>亡语：</b>召唤一个4/4并具有<b>嘲讽</b>的亡灵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84209,
+    "flavor": "编织本身是一项人畜无害的爱好，但如果你织的是……",
+    "id": "RLK_909",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "织亡者光环",
+    "overload": 1,
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得“<b>亡语：</b>召唤两个3/2的僵尸。”<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84212,
+    "flavor": "发现弥漫性阴影，建议复查。",
+    "id": "RLK_910",
+    "name": "暗影弥漫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "使你的所有随从获得“<b>亡语：</b>随机对一个敌人造成3点伤害。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 84219,
+    "flavor": "达库鲁为什么要过马路？",
+    "id": "RLK_911",
+    "name": "彼界来客",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "召唤你手牌中每一个随从的复制。使其随机攻击敌方随从，然后死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84229,
+    "flavor": "我的亡语效果就写在这里——如果我有的话。",
+    "health": 3,
+    "id": "RLK_912",
+    "name": "天灾巨魔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "techLevel": 2,
+    "text": "本随从获得的<b>亡语</b>会触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 84234,
+    "elite": true,
+    "flavor": "<b>王语：过宰：</b>（1）",
+    "health": 8,
+    "id": "RLK_913",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL",
+      "WINDFURY"
+    ],
+    "name": "达库鲁大王",
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>，<b>风怒</b>。\n在本随从攻击并消灭随从后，为你复活被消灭的随从。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 12,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 104521,
+    "elite": true,
+    "flavor": "擅自使用本卡即可能被判处最高两年的有期徒刑。请耐心等待正式发售。",
+    "health": 12,
+    "id": "TOY_647",
+    "name": "玛瑟里顿（未发售版）",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>休眠</b>2回合。<b>休眠</b>状态下，在你的回合结束时，对所有敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103169,
+    "elite": true,
+    "flavor": "她买过一张孤品萨拉斯语版金色古尔丹之颅，花了足足2000000金。",
+    "health": 4,
+    "id": "TOY_913",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "OUTCAST"
+    ],
+    "name": "希希集",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼，流放，\n亡语：</b>随机获取一张初版恶魔猎手卡牌<i>（品相完美）</i>。",
+    "type": "MINION"
+  }
+]

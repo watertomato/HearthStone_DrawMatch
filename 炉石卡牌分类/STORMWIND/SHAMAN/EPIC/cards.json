@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64355,
+    "flavor": "妈！快看！是可动玩具！",
+    "id": "SW_034",
+    "name": "小巧玩具",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "随机召唤四个法力值消耗为（5）的随从，使其变为2/2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64773,
+    "flavor": "等等，我透支法力水晶还要花法力水晶？！",
+    "id": "SW_114",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "TRADEABLE"
+    ],
+    "name": "强行透支",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n解锁你<b>过载</b>的法力水晶，并造成等量的\n伤害。",
+    "type": "SPELL"
+  }
+]

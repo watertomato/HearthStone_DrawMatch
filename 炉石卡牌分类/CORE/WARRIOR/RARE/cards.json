@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Simon Bisley",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69645,
+    "flavor": "在投身狂战士这份很有前途的工作之前，他是一个会计。",
+    "health": 4,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_EX1_604",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暴乱狂战士",
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "每当一个随从\n受到伤害，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111459,
+    "flavor": "纳斯利亚堡的衣橱里或许没有骷髅，但地下深处是真的关着灵魂。",
+    "health": 3,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_REV_990",
+    "name": "赤红深渊",
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "对一个随从造成1点伤害，并使其获得+2攻击力。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Jialuan Li & Junru Zhuo",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113117,
+    "flavor": "呜呼——甲！",
+    "health": 4,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_SW_030",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "货物保镖",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "在你的回合结束时，获得3点护甲值。",
+    "type": "MINION"
+  }
+]

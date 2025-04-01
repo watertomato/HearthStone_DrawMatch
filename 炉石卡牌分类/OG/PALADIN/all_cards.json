@@ -1,0 +1,182 @@
+[
+  {
+    "artist": "Jerry Mascho",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38227,
+    "flavor": "这个鱼人掌握了很多审判技巧，待会你就知道厉害了！",
+    "health": 3,
+    "id": "OG_006",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恶鳍审判者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n你的英雄技能变为“召唤一个1/1的鱼人”。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Franchina",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 38666,
+    "flavor": "人人都爱治疗术。可禁忌治疗……听起来有些不靠谱。",
+    "id": "OG_198",
+    "name": "禁忌治疗",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "消耗你所有的法力值，恢复等同于所消耗法力值数量两倍的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38740,
+    "flavor": "“别担心，即便我倒下了，也会祝福你们。向着胜利……前进！”",
+    "health": 1,
+    "id": "OG_221",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "无私的英雄",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "OG",
+    "text": "<b>亡语：</b>随机使一个友方随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jeremy Cranford",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38745,
+    "durability": 0,
+    "flavor": "就一把武器而言，它的确还蛮振奋人心的。",
+    "health": 2,
+    "id": "OG_222",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "集结之刃",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>使你具有<b>圣盾</b>的随从获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38749,
+    "flavor": "每年总会有个别圣骑士在西部荒野举重大赛上偷偷使用这一招，导致因作弊而被淘汰出局。",
+    "id": "OG_223",
+    "name": "神圣之力",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38758,
+    "elite": true,
+    "flavor": "根据负负得正定理，当你去腐化一个已被腐化的炎魔之王，其结果就是他变成了你们口中所谓的“好人”。",
+    "health": 8,
+    "id": "OG_229",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光耀之主拉格纳罗斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "OG",
+    "text": "在你的回合结束时，为一个受伤的友方角色恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38843,
+    "flavor": "对抗黑暗，伸张正义，是每一位圣骑士的毕生信念。",
+    "id": "OG_273",
+    "name": "惩黑除恶",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "召唤五个1/1的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38911,
+    "flavor": "大量优质圣盾批发价甩卖，要的带价密。",
+    "health": 3,
+    "id": "OG_310",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜色镇执法官",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "OG",
+    "text": "每当你召唤一个生命值为1的随从，便使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38913,
+    "flavor": "即便在最黑暗的岁月里，圣骑士也依然保持着他们的赤诚之心，誓要将光明与正义挥洒到世间的每一个角落。",
+    "id": "OG_311",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗曙光",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "<b>发现</b>一张圣骑士随从牌。使其获得+2/+2。",
+    "type": "SPELL"
+  }
+]

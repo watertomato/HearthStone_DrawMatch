@@ -1,0 +1,87 @@
+[
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105281,
+    "flavor": "出厂时只保留了极少的电量，帮你营造灯火阑珊的氛围。",
+    "health": 3,
+    "id": "MIS_918",
+    "isMiniSet": true,
+    "mechanics": [
+      "GIGANTIFY"
+    ],
+    "name": "灯火机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n在本局对战中，你每施放一个神圣法术，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103629,
+    "flavor": "叮，工匠精神+3。",
+    "id": "TOY_808",
+    "name": "工匠光环",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "HOLY",
+    "text": "在你的回合结束时，随机召唤一个法力值消耗为（6）的随从。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104796,
+    "flavor": "6404.5号条例规定，所有执行者必须在包装中休眠，直到受权人员将其唤醒。",
+    "health": 5,
+    "id": "TOY_880",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "发条执行者",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>可交易</b>\n<b>战吼：</b>召唤本随从的1个复制。<i>（<b>交易</b>后升级！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104870,
+    "flavor": "在逃离阿古斯的漫长旅程中，许多德莱尼找到了新的爱好。",
+    "health": 3,
+    "id": "TOY_882",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "装饰美术家",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张<b>圣盾</b>随从牌和一张光环牌。",
+    "type": "MINION"
+  }
+]

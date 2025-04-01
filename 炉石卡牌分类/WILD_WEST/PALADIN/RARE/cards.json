@@ -1,0 +1,89 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102728,
+    "flavor": "他其实没那么差。如果你第4回合没死的话。",
+    "health": 4,
+    "id": "DEEP_033",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "EXCAVATE"
+    ],
+    "name": "化石水晶龙",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>随机获得两项<b>额外效果</b>。<b>发掘</b>一个宝藏。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100195,
+    "flavor": "你是我最喜欢的警……哦，你死了啊，我开玩笑的，那位才是我最喜欢的警官。",
+    "id": "WW_341",
+    "name": "警务光环",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WILD_WEST",
+    "spellSchool": "HOLY",
+    "text": "你最左边的随从拥有+1攻击力和<b>吸血</b>。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. Gimaldinov & J. Nelson",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100284,
+    "flavor": "这张牌原来有3000点攻击力！",
+    "health": 1,
+    "id": "WW_344",
+    "mechanics": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD"
+    ],
+    "name": "威猛银翼巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>圣盾</b>。<b>亡语：</b>抽一张神圣法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101142,
+    "flavor": "“乖乖听话！”的另类说法。",
+    "id": "WW_365",
+    "mechanics": [
+      "QUICKDRAW",
+      "TRADEABLE"
+    ],
+    "name": "不许乱动",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "HOLY",
+    "text": "<b>可交易</b>\n将一个随从的攻击力和生命值变为1。<b>快枪：</b>然后对其造成$1点伤害。",
+    "type": "SPELL"
+  }
+]

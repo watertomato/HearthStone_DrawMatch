@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Alex Garner",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1801,
+    "flavor": "您的本次卡牌复制行为不会导致账号被封停！",
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁制作。",
+    "id": "FP1_018",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "复制",
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "spellSchool": "ARCANE",
+    "text": "<b>奥秘：</b>当一个友方随从死亡时，将两张该随从的复制置入你的手牌。",
+    "type": "SPELL"
+  }
+]

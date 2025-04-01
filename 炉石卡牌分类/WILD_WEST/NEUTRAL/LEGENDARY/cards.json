@@ -1,0 +1,168 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 104573,
+    "elite": true,
+    "flavor": "你们都以为我们把她忘了，是吧？*尬笑*",
+    "health": 5,
+    "id": "DEEP_036",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "塞拉赞恩",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>使你手牌和牌库中的所有元素牌属性值翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102741,
+    "elite": true,
+    "flavor": "玛鲁特是世界之柱的保护者，曾英勇地抗击暮光之锤，帮助塞拉赞恩抵御大灾变。",
+    "health": 6,
+    "id": "DEEP_037",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "玛鲁特·缚石",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，<b>发现</b>一个元素并召唤，并将其余的置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Mooncolony",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 103471,
+    "elite": true,
+    "flavor": "雷诺的过去成谜，前途未卜。他是多么的幸运，能在这片荒原上找到自己的家。",
+    "health": 30,
+    "heroPowerDbfId": 103472,
+    "id": "WW_0700",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "孤胆游侠雷诺",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，将所有敌方随从移出对战。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100641,
+    "elite": true,
+    "flavor": "那位就是荒芜之地桶屋的主人，桶沿警长吗？",
+    "health": 4,
+    "howToEarn": "收集30张<i>决战荒芜之地</i>卡牌后开放解锁。",
+    "howToEarnGolden": "购买<i>决战荒芜之地</i>炉石通行证后开放解锁。",
+    "id": "WW_359",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "桶沿警长",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的生命值小于或等于20点，开启荒芜之地监狱。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101476,
+    "elite": true,
+    "flavor": "你肯定猜不到大家为什么要叫他这个名字。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "WW_379",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "弗林特·枪臂",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "QUICKDRAW"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>随机获取一张<b>快枪</b>牌。如果你在本回合使用获取的牌，重复此效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101555,
+    "elite": true,
+    "flavor": "好人，坏人，经典身材的带头人。",
+    "health": 7,
+    "id": "WW_421",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "帮派头领普德",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>复活你的食人魔帮众，使其获得\n<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 102902,
+    "elite": true,
+    "flavor": "好马喝水不能强按头。可要是它喝起水来，电翻了水里的各种生物，更是按都按不住。",
+    "health": 6,
+    "howToEarn": "完成学徒阶段后解锁。",
+    "howToEarnGolden": "购买<i>决战荒芜之地</i>炉石通行证后开放解锁。",
+    "id": "WW_440",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "奔雷骏马",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>从你的牌库中召唤一个元素和一只野兽。",
+    "type": "MINION"
+  }
+]

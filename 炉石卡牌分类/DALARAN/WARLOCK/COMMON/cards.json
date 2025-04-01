@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 51371,
+    "flavor": "“谋略不够……小鬼来凑。”",
+    "id": "DAL_007",
+    "name": "拉法姆的阴谋",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "spellSchool": "FIRE",
+    "text": "召唤1个1/1的小鬼。<i>（每回合都会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 52058,
+    "flavor": "孩子多了，脾气也大。",
+    "health": 6,
+    "id": "DAL_185",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "阿兰纳丝蛛后",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>嘲讽</b>\n当你抽到该牌时，为你的英雄恢复#4点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rudy Siswanto",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52872,
+    "flavor": "没人愿意被这个天才当枪使。",
+    "health": 2,
+    "id": "DAL_606",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怪盗天才",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从，随机将两张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

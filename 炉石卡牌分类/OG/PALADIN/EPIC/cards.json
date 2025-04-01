@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Jerry Mascho",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38227,
+    "flavor": "这个鱼人掌握了很多审判技巧，待会你就知道厉害了！",
+    "health": 3,
+    "id": "OG_006",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恶鳍审判者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n你的英雄技能变为“召唤一个1/1的鱼人”。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Franchina",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 38666,
+    "flavor": "人人都爱治疗术。可禁忌治疗……听起来有些不靠谱。",
+    "id": "OG_198",
+    "name": "禁忌治疗",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "HOLY",
+    "text": "消耗你所有的法力值，恢复等同于所消耗法力值数量两倍的生命值。",
+    "type": "SPELL"
+  }
+]

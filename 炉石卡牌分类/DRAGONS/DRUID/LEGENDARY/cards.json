@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 55031,
+    "elite": true,
+    "flavor": "战斗到底，永不认树。",
+    "health": 10,
+    "id": "DRG_319",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "强力巨树格鲁",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽，战吼：</b>在本局对战的剩余时间内，你的树人拥有+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 55030,
+    "elite": true,
+    "flavor": "把龙放出来！",
+    "health": 12,
+    "id": "DRG_320",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "觉醒巨龙伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将七张“梦境之门”洗入你的牌库。当抽到梦境之门时，随机召唤一条龙。",
+    "type": "MINION"
+  }
+]

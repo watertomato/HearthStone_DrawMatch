@@ -1,0 +1,254 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 62871,
+    "flavor": "剥灵者和洋葱一样，都可以剥。",
+    "health": 4,
+    "id": "BAR_307",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "剥灵者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>你手牌中每有一张法术牌，便随机对一个敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 62872,
+    "flavor": "许多年过去了，女祭司仍然没有等到2级的真言术：韧。",
+    "id": "BAR_308",
+    "name": "真言术：韧",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+3/+5。你手牌中每有一张法术牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 62873,
+    "flavor": "哇哦，我们就快成功了，哇哦……",
+    "id": "BAR_309",
+    "name": "绝望祷言",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "spellSchool": "HOLY",
+    "text": "为双方英雄恢复#5点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 62874,
+    "flavor": "气象节目说，外面的天气可以洗澡了。你带好了伞，发现是日光浴。",
+    "health": 6,
+    "id": "BAR_310",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "光沐元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>为所有友方角色恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 62875,
+    "flavor": "我们的程序又病了，是01病。",
+    "id": "BAR_311",
+    "mechanics": [
+      "LIFESTEAL",
+      "ImmuneToSpellpower"
+    ],
+    "name": "噬灵疫病",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n造成$4点伤害，随机分配到所有敌方随从\n身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kai Zhong",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62876,
+    "flavor": "车棚坏了的时候，占卜者就成了粘补者。",
+    "health": 3,
+    "id": "BAR_312",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "占卜者车队",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "在你的回合开始时，从你对手的牌库中复制一张法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 62877,
+    "flavor": "太阳神的名字为什么要叫“暗色”呢？",
+    "health": 5,
+    "id": "BAR_313",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "安瑟祭司",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你在本回合中恢复过生命值，便获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62878,
+    "flavor": "“我无意伤害你们，但你们实在过于残忍，以圣光之名，我要向你们施加罪罚！”泽瑞拉大声喊着，却没有意识到自己的“狠话”其实一点也不狠。",
+    "id": "BAR_314",
+    "name": "罪罚（等级1）",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "spellSchool": "HOLY",
+    "text": "对所有敌方随从造成$1点伤害。<i>（当你有5点法力值时升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62879,
+    "elite": true,
+    "flavor": "塞瑞娜人脉奇广，把无数的低等级部落玩家介绍给了灵魂医者。",
+    "health": 1,
+    "id": "BAR_315",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "塞瑞娜·血羽",
+    "rarity": "LEGENDARY",
+    "set": "THE_BARRENS",
+    "targetingArrowText": "偷取攻击力和生命值。",
+    "text": "<b>战吼：</b>选择一个敌方随从，偷取其攻击力和生命值，直至本随从的攻击力和生命值高于目标随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63188,
+    "elite": true,
+    "flavor": "星陨之夜，泽瑞拉预见了一幅景象。是一个破碎的纳鲁。“去贫瘠之地，”它说，“寻找我的碎片，治愈我的身体。而我，会治愈你的女儿。”",
+    "health": 4,
+    "id": "BAR_735",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泽瑞拉",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>在本回合中，如果你恢复过生命值，则对所有敌方随从造成等量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63346,
+    "flavor": "“别，别拉这么多，这是我第一次当治疗。”",
+    "health": 3,
+    "id": "WC_013",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虔诚地下城历险家",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>抽一张法术牌。如果是神圣法术牌，则使其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63347,
+    "flavor": "看这群家伙的样子平平无奇……",
+    "id": "WC_014",
+    "isMiniSet": true,
+    "name": "除奇致胜",
+    "rarity": "EPIC",
+    "set": "THE_BARRENS",
+    "spellSchool": "HOLY",
+    "text": "消灭所有攻击力为奇数的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63464,
+    "flavor": "高端的牛头人，往往只需要最朴素的烹饪方式：圣光灼烤。",
+    "health": 2,
+    "id": "WC_803",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "安瑟教士",
+    "rarity": "COMMON",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>在本回合中，如果你恢复过生命值，便从你的牌库中<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  }
+]

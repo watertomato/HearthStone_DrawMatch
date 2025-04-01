@@ -1,0 +1,80 @@
+[
+  {
+    "artist": "Alex Garner",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 78332,
+    "flavor": "爱情伤人呐。",
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得50场对战后解锁。",
+    "id": "RLK_034",
+    "name": "心脏打击",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "PLACEHOLDER_202204",
+    "text": "对一个随从造成$3点伤害。如果消灭该随从，获得一份<b>残骸</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 78357,
+    "durability": 0,
+    "flavor": "信仰死亡吧！",
+    "health": 2,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得50场对战后解锁。",
+    "id": "RLK_067",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "堕落的灰烬使者",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>吸血</b>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78633,
+    "flavor": "除掉旧首脑，出任新首脑，再给所有人洗脑。",
+    "health": 3,
+    "howToEarn": "与死亡骑士职业一同解锁。",
+    "howToEarnGolden": "使用死亡骑士赢得50场对战后解锁。",
+    "id": "RLK_077",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔心操纵者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN",
+      "RUSH"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n召唤两个1/1并具有<b>突袭</b>和<b>复生</b>的斗士。",
+    "type": "MINION"
+  }
+]

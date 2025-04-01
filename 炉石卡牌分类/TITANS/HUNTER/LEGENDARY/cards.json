@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97495,
+    "elite": true,
+    "flavor": "阿格拉玛曾是萨格拉斯信赖的副官，在萨格拉斯堕落之前与他一道扫荡诸界，对战恶魔大军。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TTN_092",
+    "mechanics": [
+      "BATTLECRY",
+      "TITAN"
+    ],
+    "name": "复仇者阿格拉玛",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>战吼：</b>装备一把3/3的泰沙拉克。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 98560,
+    "elite": true,
+    "flavor": "各位巨人女士，这位可是真爱的守护者。",
+    "health": 8,
+    "id": "TTN_752",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨人之父霍迪尔",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>将你使用的下三张随从牌的属性值变为8/8。",
+    "type": "MINION"
+  }
+]

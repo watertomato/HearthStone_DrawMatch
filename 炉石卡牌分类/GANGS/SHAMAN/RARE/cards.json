@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40285,
+    "flavor": "玉莲帮正是看中了水语者预见未来的能力，才派他们潜伏在加基森的股票交易所。",
+    "health": 6,
+    "id": "CFM_061",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD"
+    ],
+    "name": "锦鱼人水语者",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "GANGS",
+    "targetingArrowText": "恢复6点生命值。",
+    "text": "<b>战吼：</b>恢复#6点生命值。<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40694,
+    "flavor": "鱼人宣称，该技能充分表明所有物种的祖先都是鱼人！",
+    "id": "CFM_696",
+    "name": "衰变",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "spellSchool": "NATURE",
+    "text": "随机将所有\n敌方随从变形成为法力值消耗减少（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40529,
+    "durability": 0,
+    "flavor": "“造价昂贵，只配强者拥有！”——艾雅·黑掌",
+    "health": 2,
+    "id": "CFM_717",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERLOAD"
+    ],
+    "name": "青玉之爪",
+    "overload": 1,
+    "rarity": "RARE",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "GANGS",
+    "text": "<b>战吼：</b>召唤一个{0}的<b>青玉魔像</b>。\n<b>过载：</b>（1）0<b>战吼：</b>召唤一个<b>青玉魔像</b>。\n<b>过载：</b>（1）",
+    "type": "WEAPON"
+  }
+]

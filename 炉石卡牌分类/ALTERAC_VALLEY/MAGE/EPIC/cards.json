@@ -1,0 +1,31 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 67224,
+    "flavor": "一群披着霜狼皮的羊。",
+    "id": "AV_218",
+    "name": "群体变形",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "ARCANE",
+    "text": "使所有随从变形成为1/1的绵羊。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 70011,
+    "flavor": "“这不是什么赌运气的老虎机！我们潜心研究多年，观测庞杂的宇宙，方才揭开现实的秘密。单是其中的奥术学识，就足以让最聪明的头脑相形失色。请给予这个法术应有的尊重。这是<i>魔法</i>老虎机。”",
+    "id": "AV_283",
+    "name": "大法师的符文",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "text": "对敌人施放消耗总计20点法力值的法师法术。",
+    "type": "SPELL"
+  }
+]

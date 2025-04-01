@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84385,
+    "flavor": "这不是戏法！这是幻术！",
+    "health": 4,
+    "id": "RLK_217",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "天灾幻术师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>将你牌库中另一个<b>亡语</b>随从的4/4复制置入你的手牌，其法力值消耗减少（4）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86119,
+    "flavor": "甘草口味，邪恶加倍！",
+    "health": 4,
+    "id": "RLK_571",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶药剂师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你的回合结束时，随机将一份药剂置入你的手牌。",
+    "type": "MINION"
+  }
+]

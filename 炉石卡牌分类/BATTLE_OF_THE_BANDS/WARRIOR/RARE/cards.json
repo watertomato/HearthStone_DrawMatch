@@ -1,0 +1,128 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 92267,
+    "flavor": "你说这句要，这句要，这句要，要要要，演奏演奏好几遍是什么意思？",
+    "id": "ETC_364",
+    "name": "副歌乐句",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "抽一张随从牌，使其获得+3/+3。<b>压轴：</b>演奏你的上一个乐句。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90541,
+    "flavor": "战斧和吉他斧之间的区别可大了。一个是用来战斗的，而另一个不仅能战斗，还能摇滚。",
+    "health": 3,
+    "id": "ETC_408",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "滑铲铁腿",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>战吼：</b>在本局对战中，你每使用过一个不同类型的随从牌，便获得+1/+1。0<i>（已使用0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90359,
+    "durability": 0,
+    "flavor": "从德鲁伊的鼓圈里偷出来的，如今却用来导人向善。",
+    "health": 2,
+    "id": "ETC_520",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "科多兽皮组鼓",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>对所有随从造成1点伤害。<i>（装备期间，获得护甲值以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "classes": [
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94821,
+    "flavor": "不认识你。也不认识名单上的字。",
+    "health": 5,
+    "id": "JAM_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "后台保镖",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "将一个友方随从变形成为本随从的复制。",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将一个友方随从变形成为本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95408,
+    "durability": 0,
+    "flavor": "你能为音叉调音，却不能鲔鱼调音。",
+    "health": 2,
+    "id": "JAM_015",
+    "isMiniSet": true,
+    "name": "混搭音叉",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "在你的手牌中时会获得一项额外效果，该效果每回合都会改变。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "WARRIOR",
+    "classes": [
+      "WARRIOR",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 94820,
+    "flavor": "邪火邪火，既是邪能，也是火焰。",
+    "id": "JAM_017",
+    "isMiniSet": true,
+    "name": "突破邪火",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "使一个随从获得<b>突袭</b>。<b>压轴：</b>以及+1/+1。",
+    "type": "SPELL"
+  }
+]

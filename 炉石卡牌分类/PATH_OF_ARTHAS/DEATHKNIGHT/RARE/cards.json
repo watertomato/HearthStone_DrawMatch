@@ -1,0 +1,202 @@
+[
+  {
+    "artist": "Ian Ameling",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78348,
+    "flavor": "都来抱一个！",
+    "id": "RLK_056",
+    "name": "邪恶狂热",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "PATH_OF_ARTHAS",
+    "text": "选择一个敌方随从，使你的所有随从攻击该随从。再次召唤死亡的友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dez Bencosme",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78356,
+    "flavor": "就让她来帮你！重塑！形体！",
+    "health": 3,
+    "id": "RLK_066",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鲜血魔术师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "PATH_OF_ARTHAS",
+    "text": "<b>战吼：</b>消耗一份<b>残骸</b>，<b>发现</b>一张鲜血符文牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78649,
+    "flavor": "死亡本就是冰冷的，朋友……放松，躺好，别的什么都不用做。",
+    "health": 3,
+    "id": "RLK_083",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "死亡寒冰",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "PATH_OF_ARTHAS",
+    "text": "在你施放一个法术后，随机对两个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 80085,
+    "flavor": "感受这绝对的颤栗。",
+    "id": "RLK_118",
+    "name": "坟墓守卫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "REBORN",
+      "TAUNT"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "PATH_OF_ARTHAS",
+    "spellSchool": "SHADOW",
+    "text": "召唤两个2/2并具有<b>嘲讽</b>的僵尸。消耗4份<b>残骸</b>，使其获得<b>复生</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelina Chernyak",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 80820,
+    "flavor": "百年好合，不死，不休。",
+    "health": 4,
+    "id": "RLK_504",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "僵尸新娘",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PATH_OF_ARTHAS",
+    "text": "<b>战吼：</b>消耗最多10份<b>残骸</b>，召唤一个攻击力和生命值等同于消耗残骸数并具有<b>嘲讽</b>的复活的新郎。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 80822,
+    "flavor": "还能帮你补钙，足足1000毫克。",
+    "health": 5,
+    "id": "RLK_505",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "髓骨使御者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "PATH_OF_ARTHAS",
+    "text": "<b>战吼：</b>消耗最多5份<b>残骸</b>。每消耗一份残骸，随机对一个敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 80663,
+    "flavor": "有点凶，又有点黏人。",
+    "health": 2,
+    "id": "RLK_711",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凶恶的血虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "PATH_OF_ARTHAS",
+    "text": "<b>战吼：</b>\n使你手牌中的一张随从牌获得等同于本随从攻击力的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 80664,
+    "flavor": "欢迎来到酒馆！本店有各种分馏饮品。没错，图上那种都有。",
+    "id": "RLK_712",
+    "name": "活力分流",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "PATH_OF_ARTHAS",
+    "spellSchool": "SHADOW",
+    "text": "使你手牌中的所有随从牌获得+1/+1。消耗2份<b>残骸</b>，再获得+1/+1。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2284,
+    "flavor": "大家都知道龙能够喷吐火焰，但你知道其实它们也能喷吐棉花糖吗？只是通常来说，它们缺少一个喷吐棉花糖的理由而已。",
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑石深渊中解锁制作。",
+    "id": "BRM_003",
+    "name": "龙息术",
+    "rarity": "COMMON",
+    "set": "BRM",
+    "spellSchool": "FIRE",
+    "text": "造成$4点伤害。在本回合中每有一个随从死亡，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  }
+]

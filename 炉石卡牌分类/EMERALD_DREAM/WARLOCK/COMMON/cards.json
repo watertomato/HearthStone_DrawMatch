@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115025,
+    "flavor": "树犹如此，果何以堪。",
+    "id": "EDR_482",
+    "name": "烂苹果",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "为你的英雄恢复#12点生命值。在下2个回合中，每回合对你的英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115086,
+    "flavor": "传统的园艺太土了。",
+    "id": "EDR_488",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "前卫园艺",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>发现</b>一张具有<b>黑暗之赐</b>的<b>亡语</b>随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 117498,
+    "flavor": "园艺界的恐怖元素。",
+    "health": 7,
+    "id": "EDR_494",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "饥饿古树",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，吞食一个你的牌库中的随从，并获得其属性值。<b>亡语：</b>将被吞食的随从置入手牌。",
+    "type": "MINION"
+  }
+]

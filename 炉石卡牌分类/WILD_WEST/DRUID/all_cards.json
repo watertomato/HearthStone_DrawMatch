@@ -1,0 +1,283 @@
+[
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102427,
+    "flavor": "前有<b>抉择</b>，后有<b>绝择</b>。",
+    "health": 8,
+    "id": "DEEP_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE",
+      "FORGE",
+      "TAUNT"
+    ],
+    "name": "暗石守卫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>抉择：</b>弃两张牌；或者摧毁你的一个法力水晶。<b>锻造：</b>无需弃牌或摧毁。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102432,
+    "flavor": "结晶不积极，元素有问题。",
+    "id": "DEEP_028",
+    "isMiniSet": true,
+    "name": "晶体结积",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WILD_WEST",
+    "text": "获得三个空的法力水晶，每有一个超过上限的法力水晶，召唤一个3/7并具有<b>嘲讽</b>的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102434,
+    "flavor": "别！用这么值钱的宝石丢我！不要！停！",
+    "health": 2,
+    "id": "DEEP_029",
+    "isMiniSet": true,
+    "name": "穴居人宝石投掷者",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>压轴：</b>你每有一个法力水晶，随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101975,
+    "flavor": "比冲向天空更进一步。",
+    "id": "WW_816",
+    "name": "飞向天空",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "抽两张龙牌，使其获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101976,
+    "flavor": "“我不是玛法里奥！\n我是仙人掌大王！”",
+    "id": "WW_818",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "仙人掌构造术",
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张法力值消耗为（2）的随从牌，召唤一个它的1/2的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101051,
+    "flavor": "小小雏龙乐呵呵，法力水晶\n多又多。",
+    "health": 1,
+    "id": "WW_819",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "戏水雏龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，获得一个空的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101052,
+    "flavor": "仙人掌割水工的死对头。",
+    "health": 4,
+    "id": "WW_820",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "棘尾幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "targetingArrowText": "对一个敌方随从造成5点伤害。",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，则对一个敌方随从造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101369,
+    "flavor": "“很久很久以前，有一间魔——法玩具店，各种奇迹和巨龙都会在那里出现！”",
+    "id": "WW_821",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "巨龙传说",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>抉择：</b>获取两张法力值消耗小于或等于（5）点的随机龙牌；或者获取两张法力值消耗大于（5）点的随机龙牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 101053,
+    "flavor": "我有条巨龙。我有个魔像。啊~巨龙魔像！",
+    "health": 4,
+    "id": "WW_822",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "巨龙魔像",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>你手牌中每有一张龙牌，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101054,
+    "flavor": "《炉石传说》开发团队“提醒喝水小助手”提醒您及时补水！",
+    "id": "WW_823",
+    "mechanics": [
+      "QUICKDRAW"
+    ],
+    "name": "补水",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "恢复#7点生命值。<b>快枪：</b>复原两个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 8,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 101055,
+    "elite": true,
+    "flavor": "瑞亚丝塔萨不仅忠于自己所属的红龙军团，更忠于所有的巨龙军团。她坚信各族巨龙都理应存续，她也甘愿为后来的黑龙王子献出自己的生命。",
+    "health": 8,
+    "id": "WW_824",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瑞亚丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则召唤纯净龙巢。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101057,
+    "elite": true,
+    "flavor": "在血石深处，有一条名为“落日”的巨龙。",
+    "health": 12,
+    "id": "WW_825",
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "落日灵龙菲伊",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>嘲讽</b>。在本局对战中，你每召唤一条龙，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101978,
+    "flavor": "不如砂糖巢母甜，但依旧很温馨！",
+    "health": 5,
+    "id": "WW_826",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "沙漠巢母",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的手牌中有龙牌，复原四个法力水晶。",
+    "type": "MINION"
+  }
+]

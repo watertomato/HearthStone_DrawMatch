@@ -1,0 +1,199 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69558,
+    "flavor": "“我们要什么？”\n“混乱！”\n“什么时候要？”\n“最意外的时候！”",
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_BT_035",
+    "name": "混乱打击",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellSchool": "FEL",
+    "text": "在本回合中，使你的英雄获得+2攻击力。抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69586,
+    "flavor": "看到这个斧头斧脑的家伙没，这是我的战友。",
+    "health": 3,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_BT_351",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "战斗邪犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "在你的英雄攻击后，获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69683,
+    "flavor": "在某些网站上只能显示为“火**印奔行者”。",
+    "health": 1,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_BT_480",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "火色魔印奔行者",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>流放：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69684,
+    "flavor": "“选一张牌，随意选！最好是最左或最右边的。”",
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_BT_491",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "幽灵视觉",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "抽一张牌。<b>流放：</b>再抽一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97379,
+    "flavor": "没有金刚钻，别往火里站。",
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_BT_514",
+    "name": "献祭光环",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellSchool": "FEL",
+    "text": "对所有随从造成$1点伤害两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69507,
+    "durability": 0,
+    "flavor": "远古的奥达奇人曾是宇宙中最强的战斗部族。试想如果他们把刀柄老老实实地安在武器的一端，那该有多强。",
+    "health": 2,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_BT_921",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "奥达奇战刃",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>吸血</b>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 63407,
+    "dbfId": 117030,
+    "flavor": "亡语响起，陷入危险的却是<b>你</b>。",
+    "health": 2,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_WC_701",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "邪能响尾蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>突袭</b>，<b>亡语：</b>对所有敌方随从造成\n1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97377,
+    "flavor": "“请勿在驾驶期间研习。”",
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CORE_YOP_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "伊利达雷研习",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "CORE",
+    "text": "<b>发现</b>一张<b>流放</b>牌。你的下一张<b>流放</b>牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64465,
+    "flavor": "流放产生距离，距离产生攻击力。",
+    "health": 3,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得50场对战后解锁。",
+    "id": "CS3_017",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "甘尔葛战刃铸造师",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>流放：</b>在本回合中，使你的英雄获得+3攻击力。",
+    "type": "MINION"
+  }
+]

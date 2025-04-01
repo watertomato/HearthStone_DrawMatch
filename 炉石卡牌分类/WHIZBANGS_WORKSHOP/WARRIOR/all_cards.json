@@ -1,0 +1,252 @@
+[
+  {
+    "artist": "Studio Hive",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105505,
+    "flavor": "嘲讽。嘲讽。嘲讽。嘲讽。嘲讽。",
+    "id": "MIS_705",
+    "isMiniSet": true,
+    "name": "标准的卡牌包",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "随机将五张<b>嘲讽</b>随从牌置入你的手牌。这些牌为<b>临时</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 105570,
+    "flavor": "切记：当身上捆有大量炸药时，请务必戴好安全帽。",
+    "health": 8,
+    "id": "MIS_711",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "安全专家",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>亡语：</b>将三张“炸弹” 牌洗入你对手的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102376,
+    "flavor": "“再见！再见！再见！”",
+    "id": "MIS_902",
+    "isMiniSet": true,
+    "name": "零件破拆",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "失去最多5点护甲值，你的下一张机械牌减少等量的法力值消耗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103439,
+    "flavor": "我是让你露一手，不是让你漏一宿！",
+    "id": "TOY_602",
+    "name": "化工泄漏",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "从你的手牌中召唤法力值消耗最高的随从，然后对其造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103440,
+    "flavor": "……看看有没有死灰复燃。",
+    "id": "TOY_603",
+    "name": "炮灰出动",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "选择一个友方机械，召唤一个它的复制并使其攻击随机敌人然后死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103444,
+    "durability": 0,
+    "flavor": "发明家砰砰他懂维修？他不懂！",
+    "health": 2,
+    "id": "TOY_604",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE"
+    ],
+    "name": "砰砰扳手",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>亡语：</b>随机触发一个友方机械的<b>亡语</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103441,
+    "flavor": "向你保证，这张牌绝对有质量。",
+    "id": "TOY_605",
+    "name": "质量保证",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽两张<b>嘲讽</b>随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103442,
+    "flavor": "不用担心，这个项目嗨<i>爆了</i>。灭哈哈哈哈！",
+    "health": 8,
+    "id": "TOY_606",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "测试假人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>造成8点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 103443,
+    "elite": true,
+    "flavor": "发明的精髓是爆炸！",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TOY_607",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "发明家砰砰",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>复活两个不同的法力值消耗大于或等于（5）点的友方机械，并使其随机攻击敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103448,
+    "flavor": "实验室奴隶主一旦辍学，就会变成恐怖的奴隶主。",
+    "health": 3,
+    "id": "TOY_651",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "实验室奴隶主",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "每当你获得护甲值，召唤另一个实验室奴隶主<i>（每回合一次）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 102405,
+    "elite": true,
+    "flavor": "“谁都不许叫我机械腐面！”——机械腐面",
+    "health": 12,
+    "id": "TOY_906",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "机械腐面",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。在本随从受到伤害后，随机获取两张<b>微型</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102407,
+    "flavor": "实验室内请时刻保持安全意识，避免遭受伤害！*护目镜抽在脸上好疼*",
+    "id": "TOY_907",
+    "name": "安全护目镜",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "获得6点护甲值。如果你没有护甲值，本牌的法力值消耗为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 102408,
+    "flavor": "做这份工作，最好不要擦出什么灵机一动的火花。",
+    "health": 5,
+    "id": "TOY_908",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "焰火机师",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>\n召唤两个1/1的砰砰机器人。<i>警告：该机器人随时可能爆炸。</i>",
+    "type": "MINION"
+  }
+]

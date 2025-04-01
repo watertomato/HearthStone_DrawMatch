@@ -1,0 +1,56 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 50070,
+    "flavor": "纳兹米尔有名的血豆腐西施。",
+    "health": 8,
+    "id": "TRL_257",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鲜血巨魔工兵",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "在一个友方随从\n死亡后，对敌方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50863,
+    "flavor": "“随地弃牌怎么了，因为我没素质啊！”",
+    "health": 6,
+    "id": "TRL_551",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "粗暴的恐怖巨魔",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>嘲讽，战吼：</b>弃掉你手牌中法力值消耗最低的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 50991,
+    "flavor": "“我不管，反正我人多！”",
+    "id": "TRL_555",
+    "name": "恶魔之箭",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从。你每控制一个随从，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  }
+]

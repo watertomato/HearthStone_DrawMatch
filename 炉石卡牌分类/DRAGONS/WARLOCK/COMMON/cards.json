@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54893,
+    "flavor": "秋天的天气你懂的。古云：七月硫火……",
+    "id": "DRG_206",
+    "name": "火焰之雨",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellSchool": "FEL",
+    "text": "对所有角色造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 54894,
+    "flavor": "可是侏儒的手太小了，根本握不住几张牌……",
+    "health": 2,
+    "id": "DRG_207",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深渊召唤者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55251,
+    "flavor": "“你有权在仪式中献祭一个友方随从。如果你没有准备友方随从，系统会为你指定一个。”",
+    "id": "DRG_250",
+    "name": "邪鬼仪式",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>祈求</b>迦拉克隆。使你的所有随从获得+1攻击力。",
+    "type": "SPELL"
+  }
+]

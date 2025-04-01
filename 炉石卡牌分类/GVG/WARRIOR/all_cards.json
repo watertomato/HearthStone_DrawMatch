@@ -1,0 +1,166 @@
+[
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2018,
+    "flavor": "只有地精曾经认为这是一项很棒的发明；而现在，连他们也开始有点怀疑了。",
+    "id": "GVG_050",
+    "name": "弹射之刃",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "随机对一个随从造成$1点伤害。重复此效果，直到某个随从死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2019,
+    "flavor": "战斗机器人的量产计划因为其“样本产品”的体型过大而流产。",
+    "health": 3,
+    "id": "GVG_051",
+    "mechanics": [
+      "ENRAGED"
+    ],
+    "name": "战斗机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "受伤时拥有+1攻\n击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Michael Sutfin",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2020,
+    "flavor": "“使用这张卡牌时的感觉将令你毕生难忘。”许多野蛮人都会这么对你说。",
+    "id": "GVG_052",
+    "name": "重碾",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "消灭一个随从。如果你控制任何受伤的随从，该法术的法力值消耗减少（4）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2021,
+    "flavor": "对于侏儒战士来说，一块盾牌可以对其进行全方位的保护。",
+    "health": 5,
+    "id": "GVG_053",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盾甲侍女",
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>战吼：</b>\n获得5点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Richard Wright",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2022,
+    "durability": 0,
+    "flavor": "简单、鲁莽、危险，就像一切和食人魔有关的东西一样。",
+    "health": 2,
+    "id": "GVG_054",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "食人魔战槌",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "50%几率攻击错误的敌人。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 59501,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2023,
+    "flavor": "如果它坏了，踢它几下然后再骂一句：“什么破玩意儿！”",
+    "health": 5,
+    "id": "GVG_055",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "废旧螺栓机甲",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "GVG",
+    "targetingArrowText": "使一个友方机械获得+2/+2。",
+    "techLevel": 3,
+    "text": "<b>战吼：</b>使一个友方机械获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 2024,
+    "elite": true,
+    "flavor": "钢铁战蝎守护着奥格瑞玛，并在最近刚获得“月度最佳员工”称号！",
+    "health": 5,
+    "id": "GVG_056",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "钢铁战蝎",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "<b>战吼，亡语：</b>将一张“地雷” 牌洗入你对手的牌库。当抽到“地雷”时，便会受到10点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zero",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2054,
+    "flavor": "冬拥堡垒的城墙一般都会用最坚固的材料在两个半小时内修筑起来。但这并不能阻止攻城战车的长驱直入。",
+    "health": 5,
+    "id": "GVG_086",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "重型攻城战车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "每当你获得\n护甲值，使本随从获得+1攻击力。",
+    "type": "MINION"
+  }
+]

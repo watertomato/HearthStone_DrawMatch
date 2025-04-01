@@ -1,0 +1,113 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 45988,
+    "elite": true,
+    "flavor": "我是“老狐狸”马林。你动了我的财宝，那就去死吧。",
+    "health": 6,
+    "howToEarn": "打开“狗头人与地下世界”卡牌包后可解锁。",
+    "howToEarnGolden": "通过2017年暴雪嘉年华的虚拟门票解锁获得。",
+    "id": "LOOT_357",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "“老狐狸”马林",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>为你的对手召唤一个0/8的宝箱。<i>（打破宝箱可以获得惊人的战利品！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46403,
+    "elite": true,
+    "flavor": "挑战她需要一面光洁的盾牌，或者自残双目。",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "id": "LOOT_516",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蛇发女妖佐拉",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "targetingArrowText": "将一张金色复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一个友方随从。将它的金色复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 46449,
+    "elite": true,
+    "flavor": "他的冒险小队成员包括：闪金镇步兵、霜狼步兵、哈多诺克斯。",
+    "health": 5,
+    "id": "LOOT_521",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "欧克哈特大师",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RECRUIT"
+    ],
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>\n<b>招募</b>攻击力为1，2，3的随从各一个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 20,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46454,
+    "elite": true,
+    "flavor": "与其诅咒黑暗，不如点亮蜡烛。不过我还是喜欢两件事一起做。",
+    "health": 20,
+    "id": "LOOT_526",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑暗之主",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "起始<b>休眠</b>状态。\n<b>战吼：</b>将三张蜡烛牌洗入对手的牌库。抽到三张蜡烛牌后唤醒本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 46589,
+    "elite": true,
+    "flavor": "要想管理好狗头人帝国，就必须在缺乏同情心和缺少社会责任感之间找到平衡。",
+    "health": 5,
+    "id": "LOOT_541",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "托瓦格尔国王",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>与你的对手交换牌库。你的对手获得一张“赎金”法术牌，可以将牌库交换回来。",
+    "type": "MINION"
+  }
+]

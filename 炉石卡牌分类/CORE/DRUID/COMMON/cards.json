@@ -1,0 +1,223 @@
+[
+  {
+    "artist": "Dan Brereton",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76289,
+    "flavor": "两个树苗举手表决，支持你选择召唤树苗。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_AT_037",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "活体根须",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>造成$2点伤害；或者召唤两个1/1的树苗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 111354,
+    "flavor": "专业技能推出之后，科多兽的种群数量遭到了毁灭性打击。",
+    "health": 5,
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_BAR_535",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "厚皮科多兽",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>获得5点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean O’Daniels",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111351,
+    "flavor": "当一只熊向后仰身张开它的前臂时，他就要横扫！...或者拥抱你了。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_CS2_012",
+    "name": "横扫",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "对一个敌人造成$4点伤害，并对所有其他敌人\n造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76288,
+    "flavor": "棘齿城酒馆里的人们纷纷表示，这张牌太强了，应该是传说级别的。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_EX1_154",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "愤怒",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>\n对一个随从造成$3点伤害；或者造成$1点伤害并抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Tappin",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69593,
+    "flavor": "在灰谷的树林中，猎豹的毛皮漆黑油亮，数量众多。那为什么这地方要叫灰谷，而不是黑谷呢？",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_EX1_160",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "野性之力",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>抉择：</b>使你的所有随从获得+1/+1；或者召唤一只3/2的\n猎豹。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102188,
+    "flavor": "一天一苹果，狼人远离我。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_GIL_663",
+    "name": "女巫森林苹果",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "将两张2/2的树人置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 113109,
+    "flavor": "乌鸦通常代表着不祥之兆，竟然还有人对其顶礼膜拜……",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "Core_LOE_115",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "DISCOVER"
+    ],
+    "name": "乌鸦神像",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>抉择：</b>\n<b>发现</b>一张随从牌；或者<b>发现</b>一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 111355,
+    "flavor": "橡树代表着荣誉与力量，所以它们都被砍倒建房子了。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_LOOT_309",
+    "name": "橡树的召唤",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "获得6点护甲值。从你的牌库中召唤一个法力值消耗小于或等于（4）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69688,
+    "flavor": "老实说，其中一个选择比另一个野性多了。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_OG_047",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "野性之怒",
+    "rarity": "COMMON",
+    "set": "CORE",
+    "text": "<b>抉择：</b>使你的英雄在本回合中获得+4攻击力；或者获得8点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 108357,
+    "flavor": "补货速度特别慢。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_SW_429",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "紧壳商品",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "CORE",
+    "text": "<b>可交易</b>\n召唤两只2/7并具有<b>嘲讽</b>的龟。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 73462,
+    "dbfId": 117037,
+    "flavor": "尽管海底条件恶劣，但还是能找到好朋友。",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得50场对战后解锁。",
+    "id": "CORE_TSC_650",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "划水好友",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "CORE",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤一只6/6并具有<b>嘲讽</b>的虎鲸；或者六只1/1并具有<b>突袭</b>的海獭。",
+    "type": "SPELL"
+  }
+]

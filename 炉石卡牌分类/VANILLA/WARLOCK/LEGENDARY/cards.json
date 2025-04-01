@@ -1,0 +1,27 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 69925,
+    "elite": true,
+    "flavor": "“渺小的侏儒！你的傲慢会招致灭亡！”",
+    "health": 15,
+    "heroPowerDbfId": 1178,
+    "id": "VAN_EX1_323",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "加拉克苏斯大王",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "VANILLA",
+    "text": "<b>战吼：</b>消灭你的英雄，并用加拉克苏斯大王替换之。",
+    "type": "MINION"
+  }
+]

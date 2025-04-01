@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63010,
+    "elite": true,
+    "flavor": "“快，宝贝儿！敌人数量太多了！到处都是蛇！它们看起来是有点萌，但那毕竟是凶猛的蛇！”——塔维什·雷矛",
+    "health": 5,
+    "id": "BAR_038",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "塔维什·雷矛",
+    "rarity": "LEGENDARY",
+    "set": "THE_BARRENS",
+    "text": "在一只友方野兽攻击后，从你的牌库中召唤一只法力值消耗减少（1）点的野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63461,
+    "elite": true,
+    "flavor": "他们都说他是马背上的神射手。",
+    "health": 5,
+    "id": "BAR_551",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巴拉克·科多班恩",
+    "rarity": "LEGENDARY",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>\n抽取法力值消耗为（1），（2）和（3）点的法术牌各一张。",
+    "type": "MINION"
+  }
+]

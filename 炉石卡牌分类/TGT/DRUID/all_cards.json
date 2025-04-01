@@ -1,0 +1,171 @@
+[
+  {
+    "artist": "Dan Brereton",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2792,
+    "flavor": "两个树苗举手表决，支持你选择召唤树苗。",
+    "id": "AT_037",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "活体根须",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>造成$2点伤害；或者召唤两个1/1的树苗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Laurel Austin",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2782,
+    "flavor": "她对法力水晶是又爱又恨。女人心，海底针！",
+    "health": 3,
+    "id": "AT_038",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "达纳苏斯豹骑士",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>战吼：</b>获得一个空的法力水晶。\n<b>亡语：</b>失去一个法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Pascenko",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2780,
+    "flavor": "或许哼个小曲会让他安静下来……不信你试试。",
+    "health": 4,
+    "id": "AT_039",
+    "mechanics": [
+      "INSPIRE"
+    ],
+    "name": "狂野争斗者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "<b>激励：</b>在本回合中，使你的英雄获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2786,
+    "flavor": "她拥有与生俱来的过人之处，只不过她现在还没搞清楚而已。",
+    "health": 4,
+    "id": "AT_040",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒野行者",
+    "rarity": "COMMON",
+    "set": "TGT",
+    "text": "<b>战吼：</b>使一个友方野兽获得+3生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 2788,
+    "flavor": "他既是骑手又是坐骑，所以入场门票给打了折扣。",
+    "health": 6,
+    "id": "AT_041",
+    "name": "荒野骑士",
+    "rarity": "RARE",
+    "set": "TGT",
+    "text": "在本局对战中，你每召唤过一只野兽，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2783,
+    "flavor": "刃牙极其锋利，绝非一般的海盗刀剑所能比拟。俗话说牙好胃口就好，吃什么都香。",
+    "health": 1,
+    "id": "AT_042",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "刃牙德鲁伊",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE",
+      "STEALTH"
+    ],
+    "set": "TGT",
+    "text": "<b>抉择：</b>变形成为2/1并具有<b>冲锋</b>；或者变形成为3/2并具有<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Christopher Moeller",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2785,
+    "flavor": "伟大的艾露恩，赐予我法力水晶吧！",
+    "id": "AT_043",
+    "name": "星界沟通",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "spellSchool": "ARCANE",
+    "text": "获得十个法力水晶。弃掉\n你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2793,
+    "flavor": "腐根到底有多疼，怕是没机会知道了。",
+    "id": "AT_044",
+    "name": "腐根",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "spellSchool": "NATURE",
+    "text": "消灭一个随从。随机将一张随从牌置入对手的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Velvet Engine",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 2796,
+    "elite": true,
+    "flavor": "她最喜欢别人说她像翠迪了，我保证。",
+    "health": 5,
+    "id": "AT_045",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "艾维娜",
+    "rarity": "LEGENDARY",
+    "set": "TGT",
+    "text": "你的随从牌的法力值消耗为（1）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110110,
+    "flavor": "如果把原版星舰炸掉，那这就不算抄袭了。",
+    "id": "GDB_102",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "星舰详图",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>发现</b>一张\n另一职业的<b>星舰组件</b>，其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111263,
+    "flavor": "“我还能再潜一次！”",
+    "health": 3,
+    "id": "GDB_870",
+    "mechanics": [
+      "COMBO",
+      "SPELLBURST"
+    ],
+    "name": "艾瑞达潜藏者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "SPACE",
+    "text": "<b>连击，<b>法术迸发</b>：</b>获得+2攻击力和<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111475,
+    "flavor": "你听说过“五指穿心掌”吗？",
+    "id": "GDB_881",
+    "name": "正中要害",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "SPACE",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$3点伤害。使你手牌中的<b>连击</b>牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 113165,
+    "flavor": "*戳**戳**戳*“咦，我的SCV呢？”",
+    "health": 3,
+    "id": "SC_752",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑暗圣堂武士",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "<b>潜行</b>。<b>战吼：</b>消灭一个敌方随从。<i>再使用一张圣堂武士即可融合为执政官！</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 113739,
+    "flavor": "就算当不成圣堂武士，我也有退路，可以去当灵能风暴预报员。",
+    "health": 5,
+    "id": "SC_765",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "高阶圣堂武士",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>对所有敌人造成2点伤害。<i>再使用一张圣堂武士即可融合为执政官！</i>",
+    "type": "MINION"
+  }
+]

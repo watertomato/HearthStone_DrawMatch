@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2096,
+    "flavor": "它真是太可爱了！哦我的天呐，它为什么要咬我的脸？",
+    "health": 2,
+    "id": "GVG_030",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "TAUNT"
+    ],
+    "name": "电镀机械熊仔",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>嘲讽，抉择：</b>\n+1攻击力；或者+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brandon Kitkouski",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2048,
+    "flavor": "毒牙德鲁伊生活在哀嚎洞穴里，于是那里成为了大部分部落冒险者第一次遇到暗夜精灵的地方。",
+    "health": 4,
+    "id": "GVG_080",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "毒牙德鲁伊",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>战吼：</b>如果你控制任何野兽，将本随从变形成为7/7。",
+    "type": "MINION"
+  }
+]

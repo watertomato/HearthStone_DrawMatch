@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 9,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 70261,
+    "flavor": "这种情况我见过。掌握好时间，躲开那条龙就行了。",
+    "health": 7,
+    "id": "AV_340",
+    "mechanics": [
+      "HONORABLE_KILL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "亮铜之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你的回合结束时，对所有敌人造成2点伤害。<b>荣誉消灭：</b>为你的英雄恢复4点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70265,
+    "flavor": "“真正的力量源自你的套牌”，这话听着就不是很给劲。",
+    "health": 1,
+    "id": "AV_343",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "石炉守备官",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>抽一张法力值消耗小于或等于（3）点的法术牌。在本回合中，其法力值消耗为（0）点。",
+    "type": "MINION"
+  }
+]

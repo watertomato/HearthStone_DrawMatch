@@ -1,0 +1,69 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 7,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55104,
+    "elite": true,
+    "flavor": "蜡烛巨龙，为王而战。翻过原野，万物焦烂！",
+    "health": 5,
+    "id": "DRG_036",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "蜡烛巨龙",
+    "race": "DRAGON",
+    "races": [
+      "ELEMENTAL",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>将一支蜡烛洗入你的牌库。抽到蜡烛时，重新召唤蜡烛巨龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55105,
+    "elite": true,
+    "flavor": "初级探险者搜寻着夜空，生怕看见她头顶的烛火！",
+    "health": 4,
+    "id": "DRG_037",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "菲里克·飞刺",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "targetingArrowText": "消灭一个随从及其复制。",
+    "text": "<b>战吼：</b>消灭一个随从及其所有的复制<i>（无论它们在哪）</i>。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57419,
+    "elite": true,
+    "flavor": "恶龙张开了毒液淋漓的恐怖巨爪。托瓦格尔国王面露喜色，但心下仍有些许失望，因为梦魇巨龙拒绝在头顶戴上蜡烛。",
+    "health": 30,
+    "heroPowerDbfId": 55806,
+    "id": "DRG_610",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "梦魇巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>抽一张牌，其法力值消耗为（0）点。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

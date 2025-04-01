@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56091,
+    "flavor": "要是飞艇上没有水果，空中的日子一定不好过。",
+    "health": 3,
+    "id": "YOD_016",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "空中私掠者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>潜行</b>\n<b>亡语：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56093,
+    "faction": "HORDE",
+    "flavor": "手影艺术界的又一场灾难。",
+    "health": 2,
+    "id": "YOD_017",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "暗影塑形师",
+    "rarity": "EPIC",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lloyd Hoshide",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56094,
+    "flavor": "精烧细作两手间，\n火蜡交织塑浑圆。\n旁人不解说疯子，\n只因随从省蜡钱。",
+    "id": "YOD_018",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "蜡烛学",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>发现</b>一张<b>战吼</b>随从牌。其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  }
+]

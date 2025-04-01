@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 84207,
+    "elite": true,
+    "flavor": "你好啊，黑暗，我的老朋友。",
+    "health": 6,
+    "id": "RLK_816",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女武神席瓦娜",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>\n将一张黑暗幻象<i>永久</i>置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84857,
+    "elite": true,
+    "flavor": "“我们不是什么教派！这只是个亡灵爱好者的小团体，办一办仪式，大家都愿意听我命令。仅此而已。”",
+    "health": 5,
+    "id": "RLK_832",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高阶教徒巴萨莱弗",
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>复活在你的上回合之后死亡的所有友方亡灵。",
+    "type": "MINION"
+  }
+]

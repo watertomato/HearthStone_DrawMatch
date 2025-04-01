@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 67241,
+    "flavor": "一步踏错，步步踏错。",
+    "id": "AV_224",
+    "name": "布置陷阱",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "HONORABLE_KILL",
+      "SECRET"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "对一个随从造成$3点伤害，从你的牌库中施放一个<b>奥秘</b>。<b>荣誉消灭：</b>改为施放两个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 67243,
+    "flavor": "我眼睁睁地看着猎人在我面前布下了陷阱，却还是踩了上去。",
+    "id": "AV_226",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "冰霜陷阱",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FROST",
+    "text": "<b>奥秘：</b>当你的对手施放一个法术时，改为将其移回拥有者的手牌，并且法力值消耗增加（1）点。",
+    "type": "SPELL"
+  }
+]

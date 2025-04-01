@@ -1,0 +1,2835 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59619,
+    "flavor": "为何他能在班级中名列前茅？全靠牵线搭桥掌握了控制权！",
+    "health": 6,
+    "id": "SCH_120",
+    "mechanics": [
+      "SPELLBURST",
+      "TAUNT"
+    ],
+    "name": "秘教侍僧",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>嘲讽，法术迸发：</b>随机获得一个攻击力小于或等于2的敌方随从的控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59623,
+    "elite": true,
+    "flavor": "“他从不按什么正态曲线打分，直接在零分那里画条竖线，把所有人都挂在上面。”",
+    "health": 6,
+    "id": "SCH_126",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "教导主任加丁",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "在你使用一张随从牌后，将其消灭并召唤一个4/4的挂掉的\n学生。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59170,
+    "flavor": "学园的学生在美酒节玩得实在是太过分了。",
+    "health": 1,
+    "id": "SCH_133",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鹿角小飞兔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59569,
+    "elite": true,
+    "flavor": "“愿邪恶在正义面前退散；愿弱者在和平之中安居。我愿终有一天，所有人都无需恐惧。而为了那一天，我愿献出我的生命。”",
+    "health": 12,
+    "id": "SCH_135",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "终身教授图拉扬",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭</b>\n每当其攻击一个随从，将目标的攻击力和生命值变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59572,
+    "flavor": "有些人入学是为了举世闻名的学术项目，有些人则是为了吃自助。",
+    "id": "SCH_136",
+    "name": "真言术：宴",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "使一个随从获得+2/+2。在本回合结束时，使其恢复所有生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59579,
+    "flavor": "三更灯火五更鸡，新生眼皮抬不起。",
+    "health": 4,
+    "id": "SCH_137",
+    "name": "疲倦的大一新生",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59583,
+    "flavor": "心怀荣耀的圣骑士在战斗中从不屑于打脸……直到下个回合！",
+    "id": "SCH_138",
+    "name": "威能祝福",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+8/+8，在本回合中无法攻击英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59584,
+    "flavor": "圣光自带的照明效果使得阅读体验愈加轻松。",
+    "health": 5,
+    "id": "SCH_139",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "虔诚的学徒",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>圣盾，嘲讽</b>\n在本局对战中，你每对友方角色施放一个法术，本牌的法力值消耗便减少\n（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 8,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 59585,
+    "flavor": "这是个“巨大”的错误。",
+    "health": 8,
+    "id": "SCH_140",
+    "name": "血肉巨人",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "你的英雄的生命值每在你的回合中变化一次，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59587,
+    "elite": true,
+    "flavor": "法术书对她来说很有吸引力。字面意义的吸引力。",
+    "health": 6,
+    "id": "SCH_141",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "高阶修士奥露拉",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>从你的牌库中施放一张法术牌<i>（尽可能以本随从为目标）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59590,
+    "flavor": "但其中有多少是一目十行翻过去的呢？",
+    "health": 3,
+    "id": "SCH_142",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "贪婪的书虫",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，抽若干牌，直至手牌数量达到3张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59595,
+    "flavor": "冲冠一怒为何事？圣光容易把人抛。",
+    "health": 1,
+    "id": "SCH_143",
+    "mechanics": [
+      "DIVINE_SHIELD"
+    ],
+    "name": "神圣暴怒者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 59599,
+    "flavor": "喝最多的墨水，做最懂的小鬼。",
+    "health": 1,
+    "id": "SCH_145",
+    "name": "课桌小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59601,
+    "flavor": "警告：防护长袍仅适用于指向性效果，不能有效抵御烈焰风暴，扭曲虚空或其他范围攻击。",
+    "health": 4,
+    "id": "SCH_146",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "防护长袍",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ELUSIVE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "你的随从拥有<b>扰魔</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59605,
+    "flavor": "今年找彩蛋的时候一定特别刺激！",
+    "health": 2,
+    "id": "SCH_147",
+    "mechanics": [
+      "DEATHRATTLE",
+      "InvisibleDeathrattle"
+    ],
+    "name": "骨网之卵",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>亡语：</b>召唤两只2/1的蜘蛛。如果你弃掉这张牌，触发其<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59616,
+    "flavor": "不知道他有什么可吹的，并列第一而已。",
+    "health": 1,
+    "id": "SCH_149",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "银色自大狂",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将本随从的攻击力与生命值分别变为与战场上最高的数值相同。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt O'Connor",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59627,
+    "flavor": "大锅喝可乐。",
+    "health": 6,
+    "id": "SCH_157",
+    "name": "魔化大锅",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SPELLBURST"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>随机施放一个法力值消耗相同的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59628,
+    "flavor": "“听说你想召唤一个恶魔？我这里有啊！”",
+    "id": "SCH_158",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "恶魔研习",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张恶魔牌。你的下一张恶魔牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59643,
+    "elite": true,
+    "flavor": "“……后来我就这么被换到了鱼人文化研究专业。”",
+    "health": 3,
+    "id": "SCH_159",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "裂心者伊露希亚",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>直到回合结束，将你的手牌替换成对手手牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59646,
+    "flavor": "图中各种物美价廉的魔杖都是她亲手制作的。但猫头鹰不是，猫头鹰是纯野生的。",
+    "health": 2,
+    "id": "SCH_160",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔杖工匠",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>随机将一张你职业的法力值消耗为（1）的法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59658,
+    "elite": true,
+    "flavor": "不要害怕这些黑暗魔法。他会确保顺利孵化不会搞砸。",
+    "health": 4,
+    "id": "SCH_162",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "维克图斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>召唤两条1/1的雏龙。每条雏龙获得一个本局对战中死亡的友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59252,
+    "elite": true,
+    "flavor": "一个恶魔努力，全员共享成绩。",
+    "health": 5,
+    "id": "SCH_181",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高阶女巫维洛",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>随机从你的手牌和牌库中召唤一个恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59253,
+    "elite": true,
+    "flavor": "如果一个讲师在森林中发表了一次无人倾听的演讲，那么实际上她是否发出了声音？",
+    "health": 4,
+    "id": "SCH_182",
+    "mechanics": [
+      "RUSH",
+      "SPELLBURST",
+      "WINDFURY"
+    ],
+    "name": "演讲者吉德拉",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭，风怒</b>\n<b>法术迸发：</b>获得等同于法术法力值消耗的攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58947,
+    "flavor": "哦，想想你要去的地方！有许多战斗等你来打响！许多的面板等你探索。还有许多的梦展翅飞翔。",
+    "health": 2,
+    "howToEarn": "打开<i>通灵学园</i>卡牌包后可解锁。",
+    "howToEarnGolden": "解开转校生的来历之谜。",
+    "id": "SCH_199",
+    "name": "转校生",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "根据你当前的\n对战面板，拥有不同的效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 58931,
+    "elite": true,
+    "flavor": "“你想知道我的秘密，嗯？我在长袍的袖子里藏了一点金枪鱼，他最喜欢那个了。哦，你说那些复活的死者？那只是小事，小事。”",
+    "health": 6,
+    "id": "SCH_224",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "校长克尔苏加德",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>如果法术消灭了任意随从，召唤被消灭的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 58971,
+    "flavor": "舍不得法术，套不着法术。",
+    "health": 9,
+    "id": "SCH_230",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "黑岩法术抄写员",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>随机将两张你职业的法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58972,
+    "flavor": "你还想有好果子吃？",
+    "health": 2,
+    "id": "SCH_231",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "新生刺头",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58973,
+    "flavor": "对法术是真的热爱。",
+    "health": 6,
+    "id": "SCH_232",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "赤红急先锋",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>获得+1攻击力和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58974,
+    "flavor": "参加龙族研习项目的学生大概率会被烧得油尽灯枯。",
+    "id": "SCH_233",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "龙族研习",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>发现</b>一张龙牌。你的下一张龙牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58975,
+    "flavor": "稍有资历便调皮，资历尚浅露形迹。",
+    "health": 4,
+    "id": "SCH_234",
+    "mechanics": [
+      "SPELLBURST",
+      "STEALTH"
+    ],
+    "name": "调皮的大二学妹",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>潜行，法术迸发：</b>将一张<b>连击</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58976,
+    "flavor": "校内法术对决赛总是以满地的小精灵收场。",
+    "id": "SCH_235",
+    "name": "衰变飞弹",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "ARCANE",
+    "text": "随机向敌方随从发射三枚飞弹，使其变形成为法力值消耗减少（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58977,
+    "flavor": "你永远想不到考试会考哪张牌。",
+    "health": 3,
+    "id": "SCH_236",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "笔记能手",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>将法术牌移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58978,
+    "flavor": "适合考前突击。",
+    "id": "SCH_237",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "体能研习",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>发现</b>一张<b>突袭</b>随从牌。你的下一张<b>突袭</b>随从牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58979,
+    "durability": 0,
+    "flavor": "死吧，死吧，死吧。",
+    "health": 2,
+    "id": "SCH_238",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "收割之镰",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>在本回合中同时对攻击目标相邻的随从造成伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58980,
+    "flavor": "有一次我的朋友闲得去给三叶虫翻身……就再也没回来！",
+    "health": 5,
+    "id": "SCH_239",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "裂树三叶虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59000,
+    "flavor": "你好烧啊。",
+    "health": 4,
+    "id": "SCH_241",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "火印火妖",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>造成4点伤害，随机分配到所有敌方随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59001,
+    "flavor": "“作为语言学专业的学生，我对聒噪怪颇有研究。我确信，它们说的话就是——怪话。”",
+    "health": 1,
+    "id": "SCH_242",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "聒噪怪",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>召唤一个聒噪怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Bios Studio",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59002,
+    "flavor": "浮夸的学长最终留校；萨莉去了加基森当警员；我去永歌森林培养浮龙：我们都有光明的前途。",
+    "health": 5,
+    "id": "SCH_243",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "浮龙培养师",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b><b>法术迸发</b>：</b>召唤两条1/3的法力浮龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59026,
+    "flavor": "不是干活这只，是会说话那只。",
+    "health": 5,
+    "id": "SCH_244",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "教师的爱宠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>嘲讽，亡语：</b>随机召唤一只法力值消耗为（3）的野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ware Lee",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59027,
+    "flavor": "完蛋了，我把墨水元素洒在小论文上了！",
+    "health": 4,
+    "id": "SCH_245",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "SPELLPOWER"
+    ],
+    "name": "卷轴管理者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n<b>战吼：</b><b>发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59038,
+    "flavor": "“教材请到书店购买。药剂请在炼金师处购买。魔杖的购买地点是……制杖室？”",
+    "id": "SCH_247",
+    "name": "新生入学",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "随机将两张法力值消耗为（1）的随从牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoe Feng",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59039,
+    "flavor": "笔确实胜于长剑，特别是在短距离投射打击时的空气动力学性能方面。",
+    "health": 1,
+    "id": "SCH_248",
+    "mechanics": [
+      "BATTLECRY",
+      "SPELLBURST"
+    ],
+    "name": "甩笔侏儒",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "targetingArrowText": "造成1点伤害。",
+    "text": "<b>战吼：</b>对一个随从造成1点伤害。<b>法术迸发：</b>将本随从移回你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59083,
+    "flavor": "“卡牌趣文？唉。不想写了，累了。”",
+    "id": "SCH_250",
+    "name": "倦怠光波",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "直到你的下个回合，将所有敌方随从的攻击力变为1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59089,
+    "durability": 0,
+    "flavor": "非常适合用来对付冰冠堡垒的第一个首领。",
+    "health": 2,
+    "id": "SCH_252",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "切髓之刃",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将两张灵魂残片洗入你的\n牌库。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 59092,
+    "flavor": "用两张仇恨之轮，能不能组成一辆仇恨之自行车？",
+    "id": "SCH_253",
+    "name": "仇恨之轮",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "对所有随从造成$3点伤害。每消灭一个随从，召唤一个3/3的怨魂。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59151,
+    "durability": 0,
+    "elite": true,
+    "flavor": "当一张牌沉入牌库底，当一局牌成了谜。",
+    "health": 4,
+    "id": "SCH_259",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "感知宝珠",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合开始时，检视你牌库顶的卡牌。你可以将其置于牌库底，并失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59213,
+    "flavor": "被世人遗忘的秘典，由内而外魔法充盈。神秘作者倾力打造，作者的名字叫……四十尘。",
+    "id": "SCH_270",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "始生研习",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>一张<b>法术伤害</b>随从牌。你的下一张<b>法术伤害</b>随从牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59214,
+    "flavor": "那么，考试周结束后，<b>你</b>想怎么庆祝？！",
+    "id": "SCH_271",
+    "name": "岩浆爆裂",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害，召唤相同数量的1/1的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59216,
+    "elite": true,
+    "flavor": "尽管其他教职员工总是对莱斯冷语相向，他一直都是克尔苏加德校长最欣赏的那一个。",
+    "health": 6,
+    "id": "SCH_273",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莱斯·霜语",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，对所有敌人造成$1点伤害<i>（受<b>法术伤害</b>加成影响）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59230,
+    "flavor": "奔袭如火。讨厌话多。喜欢紫色。",
+    "health": 3,
+    "id": "SCH_276",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "法师猎手",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭</b>\n每当本随从攻击一个随从时，将其<b>沉默</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59233,
+    "durability": 0,
+    "flavor": "一支穿云箭，千军万马来相见。",
+    "health": 4,
+    "id": "SCH_279",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "引月长弓",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "在你的英雄攻击一个随从后，你的所有随从也会攻击该随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59259,
+    "flavor": "主要食物有法力，水晶猫粮，还有你吃了一半的零食。",
+    "health": 3,
+    "id": "SCH_283",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食魔影豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>在本回合中，如果你使用过你的英雄技能，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58782,
+    "flavor": "看，这就是传说中的毛边书。",
+    "id": "SCH_300",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "腐食研习",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>发现</b>一张<b>亡语</b>随从牌。你的下一张<b>亡语</b>随从牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58790,
+    "durability": 0,
+    "flavor": "实验表明，被戳中之后会让人更容易受到法术伤害。",
+    "health": 3,
+    "id": "SCH_301",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "符文匕首",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你的英雄攻击后，在本回合中获得<b>法术伤害+1</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 58791,
+    "flavor": "圣光会赐给你一份小纪念品，一个小雪花球，里面装着微缩版的你。",
+    "id": "SCH_302",
+    "name": "流光之赐",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得<b>圣盾</b>，并召唤一个1/1的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58794,
+    "flavor": "到了夜里，我就用这条通道偷偷溜进厨房，做点黑暗料理。",
+    "id": "SCH_305",
+    "name": "秘密通道",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "将你的手牌替换为你牌库中的4张牌。下回合换回。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steven Prescott",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 58796,
+    "flavor": "“……密……封……线……内……不……要……答……题……”",
+    "id": "SCH_307",
+    "name": "校园精魂",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "SHADOW",
+    "text": "对所有随从造成$2点伤害。将两张灵魂残片洗入你的\n牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59013,
+    "flavor": "“老师，我的作业被一个侏儒烧掉了！”",
+    "health": 3,
+    "id": "SCH_310",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "研究伙伴",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59029,
+    "flavor": "“哇哦，是层云1000型！”",
+    "health": 1,
+    "id": "SCH_311",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "活化扫帚",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭，战吼：</b>使你的其他随从获得<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59035,
+    "flavor": "“请看，这是学园的原始设计图！别在意什么所谓的小黑屋……那是旅途的终点。”",
+    "health": 1,
+    "id": "SCH_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巡游向导",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>\n你的下一个英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59036,
+    "flavor": "“要是你喜欢我的辅导，那你也一定会喜欢我那当美术老师的妹妹，当司机的父亲，还有当管家的母亲。”",
+    "health": 5,
+    "id": "SCH_313",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "失心辅导员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>对所有其他随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59101,
+    "flavor": "“计划是这样的：你走左边，我走右边，让那个受伤的去扛伤害。”",
+    "health": 3,
+    "id": "SCH_317",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "团伙核心",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你使用一张<b>突袭</b>随从牌后，召唤一个剩余生命值为1的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59163,
+    "flavor": "“我有一本初版的！看看，看这上面的年轮。”",
+    "id": "SCH_333",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "自然研习",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张法术牌。你的下一张法术牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59175,
+    "flavor": "“既然你诚心诚意地发问了！”“我们就大发慈悲地告诉你！”",
+    "health": 8,
+    "id": "SCH_337",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "问题学生",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，召唤两个3/3的无赖并使其攻击随机敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59188,
+    "flavor": "import 倒霉的管理员\nprint (\"已获取管理员权限\")",
+    "health": 2,
+    "id": "SCH_340",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "饱腹巨蟒",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>亡语：</b>召唤一个4/4的倒霉的管理员。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59192,
+    "flavor": "虚空和吸食者的共同点：尝不出味道。",
+    "health": 5,
+    "id": "SCH_343",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "虚空吸食者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>嘲讽，战吼：</b>摧毁一张你牌库中的灵魂残片，获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59540,
+    "flavor": "萨莉有三个朋友，都是白银之手新兵，并以任意次序站成一排。在施放这个法术后，她还剩几个朋友？（请在空白处作答。）",
+    "id": "SCH_348",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "燃烧",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$4点伤害，相邻的随从均会受到超过其生命值的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59556,
+    "flavor": "“想来点什么？”",
+    "health": 2,
+    "id": "SCH_350",
+    "mechanics": [
+      "COMBO",
+      "DISCOVER"
+    ],
+    "name": "魔杖窃贼",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>连击：</b><b>发现</b>一张法师法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59609,
+    "elite": true,
+    "flavor": "整座学园都属于她的父母。所以她当然要和学生们好好玩玩！",
+    "hasDiamondSkin": true,
+    "health": 1,
+    "id": "SCH_351",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "詹迪斯·巴罗夫",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>召唤两个法力值消耗为（5）的随从。秘密选择其中一个，使其在受到伤害时死亡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59621,
+    "flavor": "悲剧的是，目前还没有能消除这些幻觉怪脸的药剂。",
+    "id": "SCH_352",
+    "name": "幻觉药水",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "ARCANE",
+    "text": "将你的所有随从的1/1的复制置入你的手牌，并使其法力值消耗变为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59639,
+    "flavor": "教材上的奥术字体能赋予你近乎无穷的威力与能量！但它不能让你保持清醒，提神还得靠咖啡。",
+    "id": "SCH_353",
+    "name": "考前刷夜",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "ARCANE",
+    "text": "抽$1张牌<i>（受<b>法术伤害</b>加成影响）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 10,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 60143,
+    "flavor": "我的1/1的虚空狗狗怎么这样了？还有，刚才那伙人呢？！",
+    "health": 10,
+    "id": "SCH_354",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "上古虚空恶犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，从所有敌方随从处偷取1点攻击力和生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 60151,
+    "flavor": "感受这震撼灵魂的伤害吧。",
+    "health": 2,
+    "id": "SCH_355",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "残片震爆秘术师",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>摧毁一张你牌库中的灵魂残片，对所有其他随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 60153,
+    "flavor": "“我的爱好是滑雪，你呢？”\n“滑翔……”",
+    "id": "SCH_356",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "滑翔",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "将你的手牌洗入你的牌库，抽四张牌。<b>流放：</b>使你的对手做出相同行为。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 60164,
+    "flavor": "什么东西能保护恶魔的蹄子？邪能。",
+    "id": "SCH_357",
+    "name": "邪能护卫",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FEL",
+    "text": "召唤三个1/2并具有<b>嘲讽</b>的恶魔。每当一个友方随从死亡，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 58770,
+    "elite": true,
+    "flavor": "对待学生就像对待旗鼓相当的对手，所谓的决斗其实是单方面的碾压。",
+    "health": 8,
+    "id": "SCH_400",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "决斗大师莫扎奇",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "在你施放一个法术后，获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59606,
+    "flavor": "各种速通的关键技能。",
+    "id": "SCH_422",
+    "name": "二段跳",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "从你的牌库中抽一张<b>流放</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59690,
+    "elite": true,
+    "flavor": "给我刀！",
+    "health": 4,
+    "id": "SCH_425",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "卡斯迪诺夫教授",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭</b>\n每当本随从攻击时，使你的武器获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59691,
+    "elite": true,
+    "flavor": "她决心彻查此地，哪怕要付出生命的代价，付两次！",
+    "health": 2,
+    "id": "SCH_426",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STEALTH"
+    ],
+    "name": "渗透者莉莉安",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>潜行，亡语：</b>召唤一个4/2的被遗忘者莉莉安，并使其随机攻击一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 60016,
+    "flavor": "神奇的是，这种花不会在同一个地方绽放两次。",
+    "id": "SCH_427",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "雷霆绽放",
+    "overload": 2,
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "复原两个法力水晶。<b>过载：</b>（2）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 60278,
+    "elite": true,
+    "flavor": "quicksort [] = []\nquicksort (x:xs) = quicksort small ++ (x : quicksort large)\nwhere\nsmall = [y | y <- xs, y <= x]\nlarge = [y | y <- xs, y > x]",
+    "health": 5,
+    "id": "SCH_428",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "博学者普克尔特",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将你的牌库按法力值消耗由高到低重新排序。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59164,
+    "elite": true,
+    "flavor": "当心中的火焰燃起，就连死亡也阻止不了你。",
+    "health": 3,
+    "id": "SCH_507",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "导师火心",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b><b>发现</b>一张法力值消耗大于或等于（1）点的法术牌。如果你在本回合使用这张法术牌，重复此效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59207,
+    "flavor": "“教授让我回答问题，我直接凉了！”",
+    "id": "SCH_509",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "冰冷智慧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从。<b>连击：</b>并对其造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59221,
+    "flavor": "这是鱼人毕业前逃不掉的一劫……",
+    "id": "SCH_512",
+    "name": "通窍",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$4点伤害。如果消灭该随从，召唤一个新的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59222,
+    "flavor": "再要十斤寸金软骨，细细地剁做臊子，不要见些肉在上面！",
+    "health": 3,
+    "id": "SCH_513",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "脆骨破坏者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>在本回合中，如果你的英雄的生命值发生变化，消灭一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 59223,
+    "flavor": "从专业角度讲，这个算是迟到的治疗法术。",
+    "id": "SCH_514",
+    "name": "亡者复生",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "SHADOW",
+    "text": "对你的英雄造成$3点伤害。将两个在本局对战中死亡的友方随从移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59263,
+    "flavor": "掌握了灵魂魔法，你就能用它解决断电后的阅读灯光问题。",
+    "health": 4,
+    "id": "SCH_517",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "影光学者",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>摧毁一张你牌库中的灵魂残片，造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59400,
+    "flavor": "武器本身已经很好用了……这只是以防万一。",
+    "health": 3,
+    "id": "SCH_519",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "狐人淬毒师",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "你的武器拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59402,
+    "flavor": "“把午饭钱交出来，不然就拿三明治来抵！”",
+    "id": "SCH_521",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "胁迫",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "消灭一个受伤的随从。<b>连击：</b>消灭任意随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59403,
+    "flavor": "刀尖之舞，最为致命。",
+    "health": 4,
+    "id": "SCH_522",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "钢铁舞者",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>随机召唤一个法力值消耗等同于你的武器攻击力的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59408,
+    "durability": 0,
+    "flavor": "专为纪律委员设计。",
+    "health": 2,
+    "id": "SCH_523",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "仪式重槌",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>召唤一个属性值等同于法术法力值消耗的并具有<b>嘲讽</b>的学生。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59409,
+    "flavor": "“老师，这个盾在上回合更有用啊！”",
+    "id": "SCH_524",
+    "name": "荣誉护盾",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "HOLY",
+    "text": "使一个受伤的随从获得+3攻击力和<b>圣盾</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59410,
+    "flavor": "“这次为什么只考了十分？”“两块盾丢了一块……”",
+    "id": "SCH_525",
+    "name": "保持阵型",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "随机将两张<b>嘲讽</b>随从牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59411,
+    "elite": true,
+    "flavor": "阿雷克斯·巴罗夫把学院交给了克尔苏加德，却仍留在这里。他说是为了“监督”。",
+    "health": 2,
+    "id": "SCH_526",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "巴罗夫领主",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将所有其他随从的生命值变为1。<b>亡语：</b>对所有随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Agatha Zhou",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59576,
+    "flavor": "我的替身的替身还是我的替身。",
+    "health": 6,
+    "id": "SCH_530",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巫术替身",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>如果你拥有<b>法术伤害</b>，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59594,
+    "flavor": "考试当天带上一根油条和两块盾，你也能成为优等生。",
+    "health": 2,
+    "id": "SCH_532",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "SPELLBURST"
+    ],
+    "name": "双盾优等生",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>圣盾，法术迸发：</b>获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 59602,
+    "flavor": "“毕业生，你要记住——今后你肩上的分量会很重。”",
+    "id": "SCH_533",
+    "name": "毕业仪式",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "从你的牌库中召唤一个随从。使其获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59694,
+    "flavor": "巨浪，巨浪，不断地增长！",
+    "id": "SCH_535",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "潮汐奔涌",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "<b>吸血</b>\n对所有随从造成\n$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59703,
+    "flavor": "神奇！就像雷诺那么神奇！",
+    "health": 3,
+    "id": "SCH_537",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "戏法图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，随机施放一个法力值消耗小于或等于（3）点的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 60003,
+    "elite": true,
+    "flavor": "大师级猎手，喜好赢得比赛和吃冰淇淋。",
+    "health": 4,
+    "id": "SCH_538",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "金牌猎手克里",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "你的其他角色在攻击时<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 60004,
+    "elite": true,
+    "flavor": "“别怕，很快就结束了。可能你感觉起来会无比漫长，但我向你保证，其实真的很快！”",
+    "health": 4,
+    "id": "SCH_539",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "斯雷特教授",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "你的法术具有<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59394,
+    "flavor": "养了宠物之后，有时就会感觉自己在和恶魔作伴。",
+    "id": "SCH_600",
+    "name": "恶魔伙伴",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "随机召唤一个恶魔伙伴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59395,
+    "elite": true,
+    "flavor": "所谓作弊，不过是“合理”地利用了你的资源。",
+    "health": 3,
+    "id": "SCH_603",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "明星学员斯特里娜",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>流放：</b>检视你对手的三张手牌。将其中一张洗入对手的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59449,
+    "flavor": "成吨、成吨的鹿角小飞兔，学园的学生在美酒节玩得实在是太太太过分了。",
+    "id": "SCH_604",
+    "name": "数量压制",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "对一个随从造成$2点伤害。你每控制一只野兽，便多造成一点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59452,
+    "flavor": "“湖里有个怪物？！”\n“那不是怪物，那是龙哥。”",
+    "health": 6,
+    "id": "SCH_605",
+    "name": "止水湖蛇颈龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59456,
+    "flavor": "每个小组都要有几条大腿。",
+    "id": "SCH_606",
+    "name": "分配组员",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "随机将法力值消耗为（2）和（3）的野兽牌各一张置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59457,
+    "elite": true,
+    "flavor": "她同时占据着校园里的两块板：黑板和猫抓板。",
+    "health": 3,
+    "id": "SCH_607",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "大导师野爪",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>抉择：</b>使你牌库中的所有野兽牌获得+1/+1；或者变形成为一只友方野兽的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 59450,
+    "flavor": "足够聪明的物种才能存续。看到七个6/6的树人就快跑吧。",
+    "id": "SCH_609",
+    "name": "优胜劣汰",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "使你手牌，牌库和战场上的所有随从获得+4/+4。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 59539,
+    "flavor": "入学须知中明确指出：“学生可携带一只铁喙猫头鹰，一只猫或一只蟾蜍。”但他们可没说是多大的动物。",
+    "id": "SCH_610",
+    "name": "动物保镖",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "从你的牌库中召唤两只法力值消耗小于或等于（5）点的野兽，并使其获得<b>突袭</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59542,
+    "flavor": "“多美的图腾，就这么被你刻毁了……真是符了！”",
+    "id": "SCH_612",
+    "mechanics": [
+      "CHOOSE_ONE",
+      "OVERLOAD"
+    ],
+    "name": "雕琢符文",
+    "overload": 2,
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤四个2/2的树人图腾；或者<b>过载：</b>（2）召唤四个2/2并具有<b>突袭</b>的树人图腾。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59553,
+    "flavor": "想让树妖在不踩到花花草草的前提下管理园地，实在有点难。",
+    "health": 5,
+    "id": "SCH_613",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "园地管理员",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "targetingArrowText": "恢复5点生命值。",
+    "text": "<b>嘲讽，战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，恢复5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59555,
+    "elite": true,
+    "flavor": "她许愿所有的生命都能在通灵学园破土而出，永葆生机。要是她知道后来……",
+    "health": 4,
+    "id": "SCH_614",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "林地守护者欧穆",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>复原你的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59558,
+    "flavor": "这原本是个美术项目，没人知道它的终点在哪。",
+    "health": 5,
+    "id": "SCH_615",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "图腾巨怪",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>亡语：</b>召唤全部四种基础图腾。\n<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59614,
+    "flavor": "每天早上你都会在家门前发现两张死掉的卡牌。",
+    "health": 4,
+    "id": "SCH_616",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜行虎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>潜行</b>\n每当本随从攻击，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "HUNTER",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59705,
+    "flavor": "有的卡牌强是因为超模，有的卡牌强是因为可爱。",
+    "id": "SCH_617",
+    "name": "萌物来袭",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "使一个随从获得+1/+1。召唤一个1/1的魔鼠宝宝。将一张魔鼠宝宝置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59720,
+    "flavor": "“红血饮料，给你一双翅膀。”",
+    "health": 1,
+    "id": "SCH_618",
+    "multiClassGroup": "HUNTER_DEMONHUNTER",
+    "name": "嗜血传令官",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "如果这张牌在你的手牌中，每当一个友方随从死亡，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 9,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 59947,
+    "elite": true,
+    "flavor": "他现在是丑，但他当年20/20的时候，也是鲜肉一块。",
+    "health": 9,
+    "id": "SCH_621",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "血骨傀儡",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "<b>亡语：</b>再次召唤本随从并具有-1/-1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59989,
+    "durability": 0,
+    "flavor": "有了它，考试时再也不用准备两把削笔刀了！",
+    "health": 4,
+    "id": "SCH_622",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "自砺之锋",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "在你的英雄攻击后，获得+1攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 60023,
+    "flavor": "这门课能教你什么叫“砍费”。",
+    "id": "SCH_623",
+    "name": "劈砍课程",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "抽两张牌。你的武器每有1点攻击力，该牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ben Olson",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59724,
+    "flavor": "“当然了，它们确实被关在你的牌库里。但思想，才更像是真正的监牢。”",
+    "health": 3,
+    "id": "SCH_700",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "精魂狱卒",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将两张灵魂残片洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59725,
+    "flavor": "“再往边上靠一点，再靠一点。”",
+    "id": "SCH_701",
+    "name": "灵魂剥离",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$3点伤害。将两张灵魂残片洗入你的\n牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Adam Byrne",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59726,
+    "flavor": "不要再念邪音了，要扣钱的。",
+    "id": "SCH_702",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "邪能学说",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FEL",
+    "text": "复制你手牌中法力值消耗最低的恶魔牌。<b>流放：</b>使这两张恶魔牌获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steven Prescott",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 59727,
+    "elite": true,
+    "flavor": "珍爱生命，别说她的研究领域是“软科学”。",
+    "health": 5,
+    "id": "SCH_703",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灵魂学家玛丽希亚",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>你的牌库中每有一张灵魂残片，召唤一个3/3并具有<b>突袭</b>的灵魂。0<i>（召唤0个）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59732,
+    "flavor": "宝石匠点燃了一张残片。残片发出强烈的光，她的英雄从没有像现在这样高大。",
+    "health": 5,
+    "id": "SCH_704",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "铸魂宝石匠",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>摧毁一张你牌库中的灵魂残片，在本回合中使你的英雄获得+5攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59753,
+    "flavor": "我的训练师给了我一双新跑鞋，比我的Air Gul'dan强多了！",
+    "health": 4,
+    "id": "SCH_705",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "邪犬训练师",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>流放：</b>召唤两个1/1的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59877,
+    "flavor": "所谓抄袭，不过是“合理”地利用了你的资源。",
+    "id": "SCH_706",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "抄袭",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>奥秘：</b>在你对手的回合结束时，将其使用的卡牌的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59911,
+    "flavor": "表现堪称如鱼离水。",
+    "health": 3,
+    "id": "SCH_707",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "鱼人飞骑",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>突袭，亡语：</b>将一个4/3并具有<b>突袭</b>的幽灵置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59914,
+    "flavor": "别闹了，快打开你的箱盖，说，“啊——”。",
+    "health": 1,
+    "id": "SCH_708",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STEALTH"
+    ],
+    "name": "少年惯偷",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>潜行，亡语：</b>将一个3/1并具有<b>潜行</b>的幽灵置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59916,
+    "flavor": "今日浮夸何足道？但看毕业五年期。",
+    "health": 7,
+    "id": "SCH_709",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "浮夸的大四学长",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>嘲讽，亡语：</b>将一个5/7并具有<b>嘲讽</b>的幽灵置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Olson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59918,
+    "flavor": "第三次试验之后，萨格开始怀疑克鲁尔是在故意召唤骷髅。",
+    "health": 7,
+    "id": "SCH_710",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "食人魔巫术师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "每当你的对手施放一个法术，召唤一个2/2并具有<b>嘲讽</b>的骷髅。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59948,
+    "flavor": "“始祖龙里有什么？！始祖龙里到底有什么？！”",
+    "health": 8,
+    "id": "SCH_711",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "魔药始祖龙",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>亡语：</b>随机召唤一个法力值消耗为（7）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Browning",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59963,
+    "flavor": "就业难，升学苦，且迷且罔且努力。",
+    "health": 9,
+    "id": "SCH_712",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "踏实的大三学姐",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 60043,
+    "flavor": "新手牧师，让对手无法可施。",
+    "health": 2,
+    "id": "SCH_713",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "异教低阶牧师",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>下个回合你的对手法术的法力值消耗增加（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cheng Hao",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 60090,
+    "flavor": "“一看到它，我想起一句俗语，‘雷象永远不会……’什么来着。后面我忘了。”",
+    "health": 4,
+    "id": "SCH_714",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "驯化的雷象",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "每当使用一张法术牌，本随从会记住法术。<b>亡语：</b>将记住的法术牌洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61174,
+    "elite": true,
+    "flavor": "成为钥匙专家的关键：多准备复制品。",
+    "health": 8,
+    "id": "SCH_717",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "钥匙专家阿拉巴斯特",
+    "rarity": "LEGENDARY",
+    "set": "SCHOLOMANCE",
+    "text": "每当你的对手抽一张牌时，将一张复制置入你的手牌，其法力值消耗变为（1）点。",
+    "type": "MINION"
+  }
+]

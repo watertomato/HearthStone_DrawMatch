@@ -1,0 +1,77 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65606,
+    "flavor": "凿开船身坚硬的外壳，走进船体柔软的内心。",
+    "health": 3,
+    "id": "DED_505",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "碎舰恶魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼，亡语：</b>抽一张法术牌。你的英雄受到等同于法术牌法力值消耗的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63677,
+    "durability": 0,
+    "flavor": "“谢谢，这些绿装我要，我要拆。”所有附魔师都说过这种话。",
+    "health": 2,
+    "id": "SW_003",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "符文秘银杖",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你抽四张牌后，使你的手牌法力值消耗减少（1）点。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64894,
+    "flavor": "“有了你的帮助，我终于可以给这条巷子带来光明。”",
+    "id": "SW_085",
+    "name": "暗巷契约",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的邪魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64899,
+    "flavor": "“你要把灵魂献给我？我大受触动。”",
+    "id": "SW_090",
+    "name": "纳斯雷兹姆之触",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$2点伤害。如果该随从死亡，则为你的英雄恢复3点生命值。",
+    "type": "SPELL"
+  }
+]

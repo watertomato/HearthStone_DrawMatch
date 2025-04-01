@@ -1,0 +1,25 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 36,
+    "elite": true,
+    "flavor": "“当它们还是种子的时候，我便认识它们了……”",
+    "health": 8,
+    "id": "EX1_573",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "塞纳留斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "EXPERT1",
+    "text": "<b>抉择：</b>使你的所有其他随从获得+2/+2；或者召唤两个2/2并具有<b>嘲讽</b>的树人。",
+    "type": "MINION"
+  }
+]

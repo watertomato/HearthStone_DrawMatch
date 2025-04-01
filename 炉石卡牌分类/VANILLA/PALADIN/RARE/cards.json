@@ -1,0 +1,81 @@
+[
+  {
+    "artist": "Lucas Graciano",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69932,
+    "flavor": "这可是神的恩赐，就好像有人在关键时刻向你伸出援手。",
+    "id": "VAN_EX1_349",
+    "name": "神恩术",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "抽若干数量的牌，直到你的手牌数量等同于你对手的手牌数量。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69935,
+    "flavor": "“攻击翻倍，快乐加倍！”",
+    "id": "VAN_EX1_355",
+    "name": "受祝福的勇士",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "使一个随从的攻击力翻倍。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Justin Sweet",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69938,
+    "flavor": "来个熔核巨人吧！！",
+    "id": "VAN_EX1_365",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "神圣愤怒",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "抽一张牌，并造成等同于其法力值消耗的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69941,
+    "flavor": "奥尔多痛恨两样东西：占星者和湿鳞蜥蜴的眼睛。",
+    "health": 3,
+    "id": "VAN_EX1_382",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥尔多卫士",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "targetingArrowText": "使其攻击力变为1。",
+    "text": "<b>战吼：</b>使一个敌方随从的攻击力变为1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Michal Ivan",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 70057,
+    "flavor": "正因为我们都是独一无二的，所以我们都是平等的。",
+    "id": "VAN_EX1_619",
+    "name": "生而平等",
+    "rarity": "RARE",
+    "set": "VANILLA",
+    "text": "将所有随从的生命值变为1。",
+    "type": "SPELL"
+  }
+]

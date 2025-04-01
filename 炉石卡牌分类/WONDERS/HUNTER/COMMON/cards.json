@@ -1,0 +1,86 @@
+[
+  {
+    "artist": "Lorenzo Minaca",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102541,
+    "flavor": "伟大的狙击手总是能够正中目标。就像吃下一整块猪肋排。嗯，味道好极了。",
+    "id": "WON_018",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "狙击",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，对该随从造成$6点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102549,
+    "flavor": "永恒龙军团的刺客等候时机，要在萨尔成为大酋长之前把他干掉。",
+    "health": 3,
+    "id": "WON_026",
+    "name": "敦霍尔德卧底",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "WONDERS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张法力值消耗为（3）并获得<b>剧毒</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Howard Lyon",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103196,
+    "flavor": "戴眼镜的蛇当然会瞄的更准一点。",
+    "id": "WON_306",
+    "name": "眼镜蛇射击",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "对一个随从和敌方英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103197,
+    "flavor": "污手党提供的装备稳定性不怎么好，误伤事件屡有发生。",
+    "health": 3,
+    "id": "WON_307",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "豺狼人土枪手",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>随机使你手牌中的一张随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 105901,
+    "flavor": "污手党声称不对质量问题承担任何责任。",
+    "id": "WON_347",
+    "name": "走私货物",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "随机使你手牌中的一张野兽牌获得+2/+2。",
+    "type": "SPELL"
+  }
+]

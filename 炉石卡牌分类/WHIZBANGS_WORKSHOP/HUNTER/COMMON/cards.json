@@ -1,0 +1,79 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105564,
+    "flavor": "过去里面装的都是狼人欺诈者。直到后来*有人*把它加强了，这才炒了起来。",
+    "id": "MIS_105",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "折价篓",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从，法术或武器牌后，你抽取其余两种类型的牌各一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103146,
+    "flavor": "接住了，嘻嘻。",
+    "id": "TOY_352",
+    "name": "抛接嬉戏",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽一张随从牌。如果是野兽牌，抽一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 7,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103162,
+    "faction": "ALLIANCE",
+    "flavor": "破坏力强，现已禁售。故又名罢玩龙。",
+    "health": 7,
+    "id": "TOY_356",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "玩具暴龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>\n<b>亡语：</b>随机对一个敌人造成7点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103167,
+    "durability": 0,
+    "flavor": "不知道为什么，我的小狗一直想咬它。",
+    "health": 3,
+    "id": "TOY_358",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "遥控器",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的英雄攻击后，召唤一只1/1的猎犬。",
+    "type": "WEAPON"
+  }
+]

@@ -1,0 +1,3474 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65580,
+    "flavor": "“哇，下面还有一座完整的沉没之城！”",
+    "health": 1,
+    "id": "DED_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "暗礁德鲁伊",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>抉择：</b>变形成为3/1并具有<b>突袭</b>的鲨鱼；或者变形成为1/3并具有<b>嘲讽</b>的海龟。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 65583,
+    "flavor": "古夫总要等到半夜2点之后才能做出最佳决定。",
+    "id": "DED_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "月光指引",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>你牌库中一张牌的复制。如果你在本回合中使用这张复制，则抽取本体。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 65584,
+    "flavor": "<b>抉择三选二：</b>好，省，快。",
+    "health": 1,
+    "id": "DED_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "应急木工",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张<b>抉择</b>法术牌并将其拆分。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65597,
+    "durability": 0,
+    "flavor": "享誉暴风城的砍价利器。",
+    "health": 2,
+    "id": "DED_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "黑水弯刀",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n在你<b>交易</b>此牌后，使你手牌中的一张法术牌的法力值消耗减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65598,
+    "flavor": "双方在不怎么友好的氛围中充分交换了意见。",
+    "id": "DED_005",
+    "isMiniSet": true,
+    "name": "海盗谈判",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "交换此牌与你对手牌库中的一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 65599,
+    "elite": true,
+    "flavor": "“重拳先生是我父亲。我是约里克。”",
+    "health": 5,
+    "id": "DED_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "重拳先生",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "STORMWIND",
+    "text": "你的海盗拥有<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65601,
+    "flavor": "这是位特别劲爆的钓鱼训练师。",
+    "health": 2,
+    "id": "DED_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迪菲亚炸鱼手",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n随机对一个敌人造成2点伤害。每有一只你的野兽，重复一次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65602,
+    "flavor": "你喂了什么饼干，把它喂成了这个样子？",
+    "health": 4,
+    "id": "DED_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨型鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>获取上一个死亡的友方<b>亡语</b>随从的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jialuan Li",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 65603,
+    "flavor": "专供艾德温最爱的狗：走狗。",
+    "id": "DED_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "狗狗饼干",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n使一个随从获得+2/+3。在你<b>交易</b>此牌后，使一个友方随从获得<b>突袭</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65579,
+    "flavor": "你想套现吗？\n[  ]呀哈        [  ]哟吼",
+    "health": 8,
+    "id": "DED_500",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "分赃专员",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>交换攻击力最高和最低的随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65590,
+    "flavor": "大多数鹦鹉只能学会诅咒，学不会祝福。",
+    "health": 4,
+    "id": "DED_501",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "金翼鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n重复你上一个对友方随从施放的法术，施放在本随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samche Chen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65591,
+    "flavor": "圣骑士嘛……就喜欢抢别人的风头。还有属性值。",
+    "id": "DED_502",
+    "isMiniSet": true,
+    "name": "正义防御",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "HOLY",
+    "text": "将一个随从的攻击力和生命值变为1，并使你手牌中的一张随从牌获得其失去的属性值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65604,
+    "flavor": "术士练习飞刀的过程并不容易。很疼。",
+    "health": 1,
+    "id": "DED_503",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影之刃飞刀手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "targetingArrowText": "对一个敌方随从造成伤害。",
+    "text": "<b>战吼：</b>如果你在本回合中受到过伤害，则对一个敌方随从造成等量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65605,
+    "flavor": "如果你在手牌上发现两个小鬼，说明你的牌库里已经住满了小鬼。",
+    "id": "DED_504",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "邪恶船运",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n召唤2个1/1的小鬼。<i>（被<b>交易</b>时会升级，增加2个！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65606,
+    "flavor": "凿开船身坚硬的外壳，走进船体柔软的内心。",
+    "health": 3,
+    "id": "DED_505",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "碎舰恶魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼，亡语：</b>抽一张法术牌。你的英雄受到等同于法术牌法力值消耗的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65608,
+    "flavor": "抱歉各位，我刚刚是真的想点贪婪。",
+    "id": "DED_506",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "贪婪需求",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n抽三张牌。如果在本回合被抽到，则法力值消耗为（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65609,
+    "flavor": "额外多看几眼，总有额外收获。",
+    "health": 2,
+    "id": "DED_507",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "桅台观察员",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>对最左边和最右边的敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 65610,
+    "flavor": "来跟我单挑吧，仅限恶魔猎手，禁道具，四条命。",
+    "id": "DED_508",
+    "isMiniSet": true,
+    "name": "试炼场",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "从你的牌库中召唤两个随从，并使其互相攻击！",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65619,
+    "flavor": "他把一首船歌反反复复连唱了一个月。上星期，四名海盗自愿走了跳板。就在大海中央，就那么走下去了。",
+    "health": 3,
+    "id": "DED_509",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艳丽的金刚鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>重复你使用的上一个<b>战吼</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65645,
+    "elite": true,
+    "flavor": "他不会拆毁暴风城的围墙。仅限荣誉室周围的那段。",
+    "health": 4,
+    "id": "DED_510",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾德温，迪菲亚首脑",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张牌。如果你在本回合中使用抽到的牌，则获得+2/+2并重复此效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65655,
+    "flavor": "和“吸盘胡子”比起来，稍稍不那么让人反胃。",
+    "health": 6,
+    "id": "DED_511",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "吸盘钩手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，将你的武器变形成为法力值消耗增加（1）点的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65676,
+    "flavor": "戴在这家伙身上好像没什么作用。",
+    "id": "DED_512",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "不朽护符",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "<b>可交易</b>\n复活1个友方<b>亡语</b>随从。<i>（被<b>交易</b>时会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 65677,
+    "flavor": "千万不要吃曲奇的“海鲜惊人套餐”。",
+    "health": 2,
+    "id": "DED_513",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迪菲亚麻风侏儒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有暗影法术牌，则造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65678,
+    "flavor": "无论如何，一定不要让两只猫猫面对面。",
+    "health": 4,
+    "id": "DED_514",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "仿冒猫猫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>将你对手使用的下一张牌的一张复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 65682,
+    "flavor": "最可怕的场景——鹦鹉大叫一声：“炎爆！”",
+    "health": 5,
+    "id": "DED_515",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灰贤鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n重复你施放的上一个法力值消耗大于或等于（6）点的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65683,
+    "flavor": "“船长！我们撞上冰山了！……不，不怪我！”",
+    "health": 4,
+    "id": "DED_516",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深水唤醒师",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张法术牌，并获得等同于其法力值消耗的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65684,
+    "flavor": "在这艘船上，如果随从不能保持完整形体，就只能被扔到海里。变成浮点型随从。",
+    "id": "DED_517",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "奥术溢爆",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "ARCANE",
+    "text": "对一个敌方随从造成$8点伤害。召唤一滩残渣，属性值等同于超过目标生命值的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 65691,
+    "flavor": "这才叫溅射伤害！",
+    "id": "DED_518",
+    "isMiniSet": true,
+    "name": "操纵火炮",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "对一个随从造成$3点伤害，并对所有其他随从造成$1点\n伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65692,
+    "flavor": "“……三。”",
+    "health": 3,
+    "id": "DED_519",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迪菲亚炮手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "在你的英雄攻击后，随机对一个敌人造成2点伤害，触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 65699,
+    "flavor": "卡牌名限制卡牌设计空间的实例。",
+    "health": 8,
+    "id": "DED_521",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "最疯狂的爆破者",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>造成12点伤害，随机分配到所有其他角色身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65700,
+    "elite": true,
+    "flavor": "没人喜欢“海鲜惊人套餐”。这个事实一点也不惊人。",
+    "health": 3,
+    "id": "DED_522",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "厨师曲奇",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>吸血</b>，<b>亡语：</b>装备一把2/3并具有<b>吸血</b>的搅汤棒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65702,
+    "flavor": "杀害上一任厨师的凶手就在图中。",
+    "health": 3,
+    "id": "DED_523",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "葛拉卡蟹杀手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "targetingArrowText": "消灭一只野兽。",
+    "text": "<b>战吼：</b>消灭一只野兽，并获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65704,
+    "flavor": "天赋树点得很迷。",
+    "health": 4,
+    "id": "DED_524",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "多系施法者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n在本局对战中，你每施放过一个不同派系的法术，抽一张牌。0<i>（抽0张牌）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 65705,
+    "elite": true,
+    "flavor": "“听好了，这台宝贝儿上装着火箭，锯刃，还有火箭动力锯刃。它只缺一项功能：油耗控制。”",
+    "health": 8,
+    "id": "DED_525",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哥利亚，斯尼德的杰作",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "targetingArrowText": "造成2点伤害。（还剩@次！）",
+    "text": "<b>战吼：</b>对敌方随从发射五枚火箭，每枚火箭造成2点伤害。<i>（目标由你选定！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64197,
+    "durability": 0,
+    "flavor": "历经无数代铁匠之手。以及无数代铁匠的仇人的头。",
+    "health": 1,
+    "id": "DED_527",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "铁匠锤",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n在你<b>交易</b>此牌后，获得+2耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63673,
+    "durability": 0,
+    "flavor": "“亲爱的妈妈，\n我手上的法术和爆发已经够多啦，下次还是寄一点护甲和治疗过来吧。\n爱你的孩子”",
+    "health": 2,
+    "id": "SW_001",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "星空墨水套装",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你消耗5点法力值用于法术牌上后，使你手牌中的一张法术牌法力值消耗减少（5）点。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63677,
+    "durability": 0,
+    "flavor": "“谢谢，这些绿装我要，我要拆。”所有附魔师都说过这种话。",
+    "health": 2,
+    "id": "SW_003",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "符文秘银杖",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你抽四张牌后，使你的手牌法力值消耗减少（1）点。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63712,
+    "flavor": "他不停念叨着：“我不会说的……”可实际上并没有人问他问题。",
+    "health": 3,
+    "id": "SW_006",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "顽固的嫌疑人",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>亡语：</b>随机召唤一个法力值消耗为（3）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63732,
+    "durability": 0,
+    "flavor": "针脚细密，暗不透光。",
+    "health": 3,
+    "id": "SW_012",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗影布缝针",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你施放一个暗影法术后，对所有敌人造成1点伤害。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Dave Greco",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64196,
+    "flavor": "这不是懦弱，这叫有勇有谋。",
+    "health": 2,
+    "id": "SW_021",
+    "name": "怯懦的步兵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>亡语：</b>从你的牌库中召唤一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 64198,
+    "flavor": "“嗬，你好。嗬，你好。嗬，你好。我要粉碎你！”",
+    "id": "SW_023",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "挑衅",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n选择一个友方随从，使所有敌方随从攻击该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64199,
+    "elite": true,
+    "flavor": "他出道的时候还没有圣骑士这个职业，更没有什么机械圣骑士。",
+    "health": 7,
+    "id": "SW_024",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "洛萨",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，随机攻击一个敌方随从。如果目标随从死亡，获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64214,
+    "durability": 0,
+    "flavor": "“我能当法官！还能当拍卖师！就给我买一个小锤子嘛！”",
+    "health": 2,
+    "id": "SW_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "拍卖行木槌",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "在你的英雄攻击后，使你手牌中一张<b>战吼</b>随从牌的法力值消耗减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ware Lee",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64215,
+    "flavor": "就和现实世界一样，幽灵狼族群中的先锋派也要把毛发染成亮紫色。",
+    "health": 5,
+    "id": "SW_026",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "幽灵狼前锋",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD",
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "在你使用一张<b>过载</b>牌后，召唤一只2/3并具有<b>嘲讽</b>的幽灵狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64279,
+    "flavor": "当时那把剑离我的喉咙只有0.01码……",
+    "id": "SW_027",
+    "name": "海上威胁",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "对一个随从造成$2点伤害。如果你控制一个海盗，则改为造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64280,
+    "elite": true,
+    "flavor": "赢得了一年一度的棘齿城帆船大赛，他们真的很开心。",
+    "id": "SW_028",
+    "name": "开进码头",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用三张海盗牌。<b>奖励：</b>抽一张武器牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64277,
+    "flavor": "这就叫鱼木混侏……",
+    "health": 2,
+    "id": "SW_029",
+    "name": "港口匪徒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张海盗牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jialuan Li & Junru Zhuo",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64278,
+    "flavor": "呜呼——甲！",
+    "health": 4,
+    "id": "SW_030",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "货物保镖",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64322,
+    "elite": true,
+    "flavor": "这里可是暴风城，萨满祭司怎么可能和风暴做对呢？",
+    "id": "SW_031",
+    "name": "号令元素",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用三张<b>过载</b>牌。\n<b>奖励：</b>解锁你<b>过载</b>的法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64320,
+    "flavor": "要是他不中用了，还可以改装成橱柜台面。",
+    "health": 5,
+    "id": "SW_032",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "花岗岩熔铸体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>使你手牌和牌库中的元素牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64321,
+    "flavor": "“又到周一了吗？开始划水。”",
+    "health": 4,
+    "id": "SW_033",
+    "name": "运河慢步者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL",
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>突袭</b>，<b>吸血</b>\n<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64355,
+    "flavor": "妈！快看！是可动玩具！",
+    "id": "SW_034",
+    "name": "小巧玩具",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "随机召唤四个法力值消耗为（5）的随从，使其变为2/2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64356,
+    "flavor": "首充即可召唤风领主奥拉基尔和四位风神。确定付费吗？",
+    "id": "SW_035",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "充能召唤",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一个法力值消耗为（1）的随从并召唤它。<i>（在本局对战中你每使用一张<b>过载</b>牌都会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64357,
+    "flavor": "真不该启用那个共用账户……",
+    "health": 4,
+    "id": "SW_036",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "双面投资者",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，使你的一张手牌法力值消耗减少（1）点。<i>（50%的几率改为消耗增加。）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64373,
+    "flavor": "“你不懂……在复仇和仇恨领域，食人魔可是一大块蓝海市场！”",
+    "health": 7,
+    "id": "SW_037",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "怒缚蛮兵",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>\n在本回合中每抽一张牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64375,
+    "elite": true,
+    "flavor": "终于到了最后的决战。炉石传说的最后一张牌。",
+    "id": "SW_039",
+    "name": "一决胜负",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>在一回合中抽四张牌。<b>奖励：</b>使抽到的牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64393,
+    "flavor": "库尔特鲁斯飞身跃过一块墓碑，冲向入侵的恶魔，口中高喊着“哔又！哔又！”，用邪能将它们射倒在地。",
+    "id": "SW_040",
+    "name": "邪能弹幕",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellSchool": "FEL",
+    "text": "对生命值最低的敌人造成$2点伤害两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64394,
+    "flavor": "红灯停，绿灯行。紫灯表示特别行！",
+    "id": "SW_041",
+    "name": "敏捷咒符",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "在你的下个回合开始时，抽一张牌，并使其法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64395,
+    "flavor": "爱好：多层传销，骑车跑路。",
+    "health": 3,
+    "id": "SW_042",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRADEABLE"
+    ],
+    "name": "固执的商贩",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>亡语：</b>从你的牌库中召唤一个固执的商贩。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64396,
+    "flavor": "信奉“纯绿色”饮食。",
+    "health": 3,
+    "id": "SW_043",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪能吞食者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张邪能法术牌，使其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64397,
+    "elite": true,
+    "flavor": "对于一个曾经的法师来说，把火焰转化成邪火相当轻松。",
+    "health": 5,
+    "id": "SW_044",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "杰斯·织暗",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n施放你在本局对战中使用过的所有邪能法术<i>（尽可能以敌人为目标）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64487,
+    "elite": true,
+    "flavor": "“十成新小精灵一张，谁有意向？全新未拆啊朋友们！从来没上过场……”",
+    "health": 3,
+    "id": "SW_045",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "拍卖师亚克森",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER",
+      "TRADEABLE"
+    ],
+    "set": "STORMWIND",
+    "text": "每当你<b>交易</b>时，将抽牌改为从你的牌库中<b>发现</b>一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64523,
+    "flavor": "一成白银送你手，九成真金皇家藏。",
+    "id": "SW_046",
+    "mechanics": [
+      "LIFESTEAL",
+      "TRADEABLE"
+    ],
+    "name": "城建税",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>吸血</b>，对所有敌方随从造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64546,
+    "elite": true,
+    "flavor": "“我的信仰和勇气，会保护我。而我的荣耀和牺牲，会为我找到继任者。”",
+    "health": 5,
+    "id": "SW_047",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "大领主弗塔根",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>圣盾</b>\n在一个友方随从失去<b>圣盾</b>后，使你手牌中的一张随从牌获得+5/+5。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 0,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64554,
+    "durability": 0,
+    "flavor": "用来切磋可以，打架就算了。",
+    "health": 3,
+    "id": "SW_048",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "棱彩珠宝工具",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "STORMWIND",
+    "text": "在一个友方随从失去<b>圣盾</b>后，使你手牌中的随从牌获得+1/+1。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64661,
+    "flavor": "福袋中绝对不包含鬼灵玩偶，诅咒戒指，已腐蚀的符文剑，以及退款服务。",
+    "id": "SW_049",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "受祝福的货物",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "SECRET"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "HOLY",
+    "text": "<b>发现</b>一张<b>奥秘</b>牌，武器牌或<b>圣盾</b>随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64673,
+    "elite": true,
+    "flavor": "截至导演评论版发行前，没人能看穿她的变装。",
+    "health": 2,
+    "id": "SW_050",
+    "name": "变装大师",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "你改用另一职业开始对战，直到你使用潜行者牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64678,
+    "elite": true,
+    "flavor": "押多少钱都行，内鬼肯定是国王那个坏兮兮的顾问。",
+    "id": "SW_052",
+    "name": "探查内鬼",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用两张军情七处牌。<b>奖励：</b>将一张间谍小工具置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64702,
+    "flavor": "1%的工作时间用来保卫暴风城，剩下的99%都在指路。",
+    "health": 5,
+    "id": "SW_054",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "暴风城卫兵",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>使相邻的随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64703,
+    "flavor": "“嘿！我们这儿可不是博物馆，美女。”",
+    "health": 3,
+    "id": "SW_055",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "不耐烦的店长",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64704,
+    "flavor": "香料面包的独门配料，是爱。还有巨量的黄油。",
+    "health": 2,
+    "howToEarnGolden": "完成成就“黄油管够”后解锁。",
+    "id": "SW_056",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "香料面包师",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>为你的英雄恢复等同于你手牌数量的生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Agatha Zhou",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64705,
+    "flavor": "速递员！速递员立功了！他不是一个人在战斗，他不是一个人！",
+    "health": 6,
+    "id": "SW_057",
+    "name": "包裹速递员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "除非你有至少八张手牌，否则无法进行\n攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cheng Hao",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64707,
+    "flavor": "矿道地铁工程操作说明：300000个零件，600000道工序。",
+    "health": 2,
+    "id": "SW_059",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "矿道工程师",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b><b>发现</b>一张机械牌，并使其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64708,
+    "flavor": "小小姑娘，清早起床，提着花篮上战场。",
+    "health": 3,
+    "id": "SW_060",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "卖花女郎",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，使你手牌中的一张自然法术牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Yoahua Xu & Junru Zhuo",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64709,
+    "flavor": "由于未知原因，她掌握了六种不同的专业技能。",
+    "health": 4,
+    "id": "SW_061",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRADEABLE"
+    ],
+    "name": "公会商人",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellDamage": 1,
+    "text": "<b>可交易</b>\n<b>法术伤害+2</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 64710,
+    "flavor": "他们在寻找一枚金戒指。据可靠消息，就在闪金镇。",
+    "health": 4,
+    "id": "SW_062",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "闪金镇豺狼人",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>突袭</b>\n你每有一张其他手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64711,
+    "flavor": "都去农场！等等……去矿洞！不对……铁匠铺去三个人——他们去占农场了，现在去农场！",
+    "health": 5,
+    "id": "SW_063",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "战场军官",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "STORMWIND",
+    "text": "相邻的随从拥有\n<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64712,
+    "flavor": "这其实是张双职业牌。农民和牧人双职业。",
+    "health": 3,
+    "id": "SW_064",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "北郡农民",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "targetingArrowText": "选择一只友方野兽。",
+    "text": "<b>战吼：</b>选择一只友方野兽，将它的三张3/3的复制洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samche Chen",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64713,
+    "flavor": "你不想要的东西她都有！",
+    "health": 3,
+    "howToEarnGolden": "完成成就“没带就是没有”后解锁。",
+    "id": "SW_065",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "熊猫人进口商",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b><b>发现</b>一张你的套牌之外的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jun Yan & Zhefei Hou",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64714,
+    "flavor": "讲拍卖行刷金的书都在那边。",
+    "health": 4,
+    "id": "SW_066",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "王室图书管理员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "STORMWIND",
+    "targetingArrowText": "<b>沉默</b>一个随从。",
+    "text": "<b>可交易</b>\n<b>战吼：</b><b>沉默</b>一个\n随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Aaron Su",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64715,
+    "flavor": "“你，过来！你要用你的生命来保卫这座监狱。我要休假了。”",
+    "health": 3,
+    "id": "SW_067",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "监狱守卫",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "targetingArrowText": "使一个友方随从获得<b>嘲讽</b>。",
+    "text": "<b>战吼：</b>使一个友方随从获得<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64716,
+    "flavor": "他不是因为邪能才变得暴躁，而是因为鼻子痒没法抓。",
+    "health": 8,
+    "id": "SW_068",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "莫尔葛熔魔",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>获得8点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64717,
+    "flavor": "她这里的利率是0%。",
+    "health": 3,
+    "id": "SW_069",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "热情的柜员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，储存一张你牌库中的牌。<b>亡语：</b>将储存的牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64718,
+    "flavor": "就因为他，我们在这个区设置了七个邮箱。",
+    "health": 2,
+    "howToEarnGolden": "完成成就“为舞者投币”后解锁。",
+    "id": "SW_070",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "邮箱舞者",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>将一张幸运币置入你的手牌。<b>亡语：</b>使你的对手获得一张幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juyoung Oh",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64719,
+    "flavor": "军功章也有狮子的一半。",
+    "health": 6,
+    "id": "SW_071",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雄狮卫士",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>如果你的生命值小于或等于15点，则获得+2/+4和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zhefei Hou",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64720,
+    "flavor": "这也是剧毒，针对武器的剧毒。",
+    "health": 4,
+    "howToEarnGolden": "完成成就“刀剑摧蛇”后解锁。",
+    "id": "SW_072",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "锈烂蝰蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>战吼：</b>摧毁对手的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64721,
+    "flavor": "军情七处指定合作商，拥有丰富的间谍芝士。",
+    "health": 6,
+    "id": "SW_073",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奶酪商贩",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "每当你的对手施放一个法术，随机将一张法力值消耗相同的法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64722,
+    "flavor": "“我是人族，你呢？”\n“贵族。”",
+    "health": 3,
+    "id": "SW_074",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "贵族",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n制作你的一张随机手牌的金色复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64723,
+    "flavor": "集齐七笼猪，就能实现愿望。",
+    "health": 1,
+    "howToEarnGolden": "完成成就“斯人已逝”后解锁。",
+    "id": "SW_075",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "艾尔文野猪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>亡语：</b>在本局对战中如果有7只你的艾尔文野猪死亡，装备一把15/3的锯齿符文剑。0<i>（0/7）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64724,
+    "flavor": "“哦，等等，我把图纸拿倒了。这应该是座塔。”",
+    "health": 4,
+    "id": "SW_076",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "城市建筑师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n召唤两个0/5并具有<b>嘲讽</b>的城堡石墙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Yewon Park",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64725,
+    "flavor": "她因撬锁而被捕。现在这种羁押方式似乎有些欠考虑。",
+    "health": 4,
+    "id": "SW_077",
+    "name": "监狱囚徒",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "起始<b>休眠</b>状态。在你使用三张牌后唤醒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64726,
+    "elite": true,
+    "flavor": "多亏了她，国王才有了最好的保镖：变装后的龙。",
+    "health": 7,
+    "howToEarn": "打开“暴风城下的集结”卡牌包后可解锁。",
+    "id": "SW_078",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "普瑞斯托女士",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>随机使你牌库中的所有随从牌变形成为龙牌。<i>（保留其原始属性值和法力值消耗。）</I>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64727,
+    "elite": true,
+    "flavor": "飞行旅途有点颠簸，但好在放腿的空间很宽敞。",
+    "health": 3,
+    "howToEarnGolden": "购买暴风城下的集结炉石通行证后开放解锁。",
+    "id": "SW_079",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "飞行管理员杜加尔",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n选择一条航线，进入<b>休眠</b>。当你完成飞行时唤醒并获得特效！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64728,
+    "elite": true,
+    "flavor": "抚养了两个普普通通的女儿。其中一个死了，还在死后给暴风城带来了灭顶之灾。",
+    "health": 5,
+    "id": "SW_080",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "考内留斯·罗姆",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "在每个玩家的回合开始和结束时，\n抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64729,
+    "elite": true,
+    "flavor": "天呐，这家伙太酷了。希望他一切平安。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "SW_081",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦里安，暴风城国王",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张<b>突袭</b>随从牌以获得<b>突袭</b>。依此法检定是否可获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64893,
+    "flavor": "一定，一定，一定要仔细阅读每一条细则。",
+    "health": 5,
+    "id": "SW_084",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "血缚小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "每当本随从攻击时，对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64894,
+    "flavor": "“有了你的帮助，我终于可以给这条巷子带来光明。”",
+    "id": "SW_085",
+    "name": "暗巷契约",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的邪魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64895,
+    "flavor": "一杯“罪汤力”，马上就来。",
+    "health": 4,
+    "id": "SW_086",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "阴暗的酒保",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>战吼：</b>使你的所有恶魔获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64896,
+    "flavor": "这便是无休无尽的召唤啊，我的朋友……",
+    "id": "SW_087",
+    "name": "恐惧坐骑",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+1/+1。当该随从死亡时，召唤一匹无尽的恐惧战马。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64897,
+    "flavor": "冷知识：虚空行者会追逐绿色光点。",
+    "id": "SW_088",
+    "name": "恶魔来袭",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "FEL",
+    "text": "造成$3点伤害。召唤两个1/3并具有<b>嘲讽</b>的虚空行者。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64898,
+    "flavor": "“你知不知道我在你们店里花了多少法力水晶？6个。”",
+    "health": 2,
+    "id": "SW_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "资深顾客",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>对所有其他随从造成等同于你手牌数量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64899,
+    "flavor": "“你要把灵魂献给我？我大受触动。”",
+    "id": "SW_090",
+    "name": "纳斯雷兹姆之触",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$2点伤害。如果该随从死亡，则为你的英雄恢复3点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64900,
+    "elite": true,
+    "flavor": "这个仪式只需要一点点力气。哦，还有你的灵魂。",
+    "id": "SW_091",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "恶魔之种",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>在你的回合中受到12点伤害。<b>奖励：</b><b>吸血</b>。对敌方英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64903,
+    "elite": true,
+    "flavor": "领导了历次恶魔入侵。希望这次的结局能比世界之树那次好一点。",
+    "health": 6,
+    "id": "SW_092",
+    "name": "安纳塞隆",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "如果你的手牌数量达到上限，该牌的法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64975,
+    "flavor": "“别伤了他的腿！那双靴子我要了！”",
+    "health": 4,
+    "id": "SW_093",
+    "name": "暴风城海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>在本回合中，使你的英雄获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65656,
+    "flavor": "“是你说的，要那种护住全身，不动如山的重甲——真搞不懂你有什么不满意的。”",
+    "id": "SW_094",
+    "name": "厚重板甲",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n获得8点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Greco",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 66288,
+    "flavor": "“欲购从速，咻咻升值。修一修就能升值。”",
+    "id": "SW_095",
+    "name": "投资良机",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "抽一张<b>过载</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65693,
+    "flavor": "某人在发明开罐器的时候嗨过了头。",
+    "health": 6,
+    "id": "SW_097",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "遥控傀儡",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "在本随从受到伤害后，将两张傀儡部件洗入你的牌库。当抽到傀儡部件时，召唤一个2/1的机械。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64423,
+    "flavor": "库房失火，五折甩卖，全场商品一律五折。",
+    "id": "SW_107",
+    "name": "火热促销",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TRADEABLE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "<b>可交易</b>\n对所有随从造成\n$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64430,
+    "flavor": "你还是那么喜欢火。",
+    "id": "SW_108",
+    "name": "初始之火",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$2点伤害。将“传承之火”置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64433,
+    "flavor": "不！我的奶酪火锅！",
+    "health": 5,
+    "id": "SW_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "笨拙的信使",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>从你的手牌中施放法力值消耗最高的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64434,
+    "flavor": "“当年下死亡矿井的时候，我一把掐住了范克里夫的脖子，正要给他个痛快……*嗅*什么味？”",
+    "id": "SW_110",
+    "name": "点燃",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。将一张伤害提高一点的“点燃”洗入\n你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64435,
+    "flavor": "为了保证圣殿的照明，他忙得一根蜡烛两头烧。",
+    "health": 5,
+    "id": "SW_111",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣殿蜡烛商",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你施放一个火焰法术后，抽一张\n法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64436,
+    "flavor": "哈，这家伙，他肯定也不是伪装起来的恶龙。",
+    "health": 3,
+    "id": "SW_112",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "普瑞斯托的炎术师",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>你的下一个火焰法术拥有<b>法术伤害+2</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 6,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64438,
+    "elite": true,
+    "flavor": "吉安娜成了冰法，他真的很失望。",
+    "health": 6,
+    "id": "SW_113",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "首席法师安东尼达斯",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>如果你在上三个回合中都施放过火焰法术，随机对敌人施放三个火球术。0<i>（0/3）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64773,
+    "flavor": "等等，我透支法力水晶还要花法力水晶？！",
+    "id": "SW_114",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "TRADEABLE"
+    ],
+    "name": "强行透支",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n解锁你<b>过载</b>的法力水晶，并造成等量的\n伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64774,
+    "elite": true,
+    "flavor": "只要给他演示一次就够了，他能完美复现无数次。但仅限本回合。",
+    "health": 4,
+    "id": "SW_115",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伯尔纳·锤喙",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "在你使用一张<b>战吼</b>\n随从牌后，重复一次本回合使用的第一个<b>战吼</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64007,
+    "flavor": "骑士学校的毕业生代表。",
+    "health": 5,
+    "id": "SW_305",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD"
+    ],
+    "name": "乌瑞恩首席剑士",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>圣盾</b>，<b>战吼：</b>如果本随从拥有至少4点攻击力，获得<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64008,
+    "flavor": "“这下我终于能把杂七杂八的东西全都带在身边啦。”",
+    "health": 3,
+    "howToEarnGolden": "完成成就“药水还在它背上”后解锁。",
+    "id": "SW_306",
+    "name": "劳累的驮骡",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>\n当你抽到该牌时，将它的一张复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64010,
+    "flavor": "诺森德最重要的出口产品：漏斗蛋糕。",
+    "health": 3,
+    "id": "SW_307",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "旅行商人",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>战吼：</b>你每控制一个其他友方随从，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64013,
+    "durability": 0,
+    "flavor": "别怕，刀刃捅一下就能缩进刀柄！",
+    "health": 2,
+    "id": "SW_310",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伪造的匕首",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>获取在本局对战中死亡的一个随机友方<b>亡语</b>随从的一张复制。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64014,
+    "flavor": "“叫吧，叫破喉咙也没有人会来救你的。”",
+    "id": "SW_311",
+    "name": "锁喉",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "对敌方英雄造成$2点伤害，将三张流血洗入你的牌库。抽到流血时，再造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64308,
+    "elite": true,
+    "flavor": "信仰不会消逝，只会变通。",
+    "id": "SW_313",
+    "name": "挺身而出",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用三张不同的法力值消耗为（1）的牌。<b>奖励：</b>装备一把1/4的圣光的正义。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64367,
+    "durability": 0,
+    "flavor": "必须净化整座城市。至少随从必须死。",
+    "health": 2,
+    "id": "SW_314",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "光明使者之锤",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>吸血</b>\n无法攻击英雄。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64368,
+    "flavor": "想当年我们上战场的时候，都要自己扛旗。",
+    "health": 2,
+    "id": "SW_315",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "联盟旗手",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>抽一张随从牌。使你手牌中的随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64525,
+    "flavor": "还记得凯瑞尔获准带宠物上班的那一天。部落恨死那一天了。",
+    "id": "SW_316",
+    "name": "神圣坐骑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+1/+1和<b>圣盾</b>。当该随从死亡时，召唤一匹战马。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64371,
+    "flavor": "行于黑暗，侍奉光明。",
+    "health": 4,
+    "id": "SW_317",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "古墓卫士",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "targetingArrowText": "对一个敌方随从造成等同于本随从攻击力的伤害。",
+    "text": "<b>吸血</b>，<b>战吼：</b>对一个敌方随从造成等同于本随从攻击力的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Greco",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64372,
+    "flavor": "最好不要拖欠工资，不然他们就去投奔迪菲亚。",
+    "health": 1,
+    "id": "SW_319",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "农夫",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "在你的回合开始时，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64627,
+    "flavor": "你信，或者不信，它们就在那里，不增不减。",
+    "id": "SW_320",
+    "name": "硕鼠成群",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "召唤七只1/1的老鼠。战场上放不下的老鼠会进入你的手牌，并获得+4/+4。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Aaron Su",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64631,
+    "flavor": "等等，之前的射击你都不瞄准的吗？！",
+    "id": "SW_321",
+    "name": "瞄准射击",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "造成$3点伤害。你的下一个英雄技能会额外造成2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64637,
+    "elite": true,
+    "flavor": "悄悄地进去，打枪的不要。",
+    "id": "SW_322",
+    "name": "保卫矮人区",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>通过三张法术牌造成伤害。<b>奖励：</b>你的英雄技能能够以随从为目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64970,
+    "elite": true,
+    "flavor": "“我就是鼠界之王！”",
+    "health": 5,
+    "id": "SW_323",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "鼠王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>突袭</b>，<b>亡语：</b>进入<b>休眠</b>状态。在5个友方随从死亡后复活。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63821,
+    "flavor": "“如果你是卫兵，那你就得告诉我；要不然，这就是个陷阱。”",
+    "health": 4,
+    "howToEarnGolden": "完成成就“内部线人”后解锁。",
+    "id": "SW_400",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "被困的女巫",
+    "rarity": "RARE",
+    "referencedTags": [
+      "QUEST"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>如果你控制一个<b>任务</b>，<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63955,
+    "flavor": "“鸳鸯茶，鸳鸯tea。”“你跟我，我跟你。”",
+    "id": "SW_405",
+    "name": "简略情报",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "抽一张法力值消耗小于或等于（4）点的<b>亡语</b>牌。触发其\n<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64031,
+    "flavor": "整天摆着一张臭脸坐在酒馆里也是很累的。但这种工作总要有人做。",
+    "health": 3,
+    "id": "SW_411",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "军情七处线人",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>在本局对战中，你每使用过一张其他军情七处牌，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cheng Hao",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64033,
+    "flavor": "“外面的世界是很危险的。要是一不小心，你的保护费到期了，那可就难办了……”",
+    "id": "SW_412",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "军情七处的要挟",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n对一个未受伤的角色造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64034,
+    "flavor": "什么，你们这没有小马？",
+    "health": 4,
+    "id": "SW_413",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "军情七处探员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>突袭</b>\n在本随从攻击一个随从后，获得<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64163,
+    "flavor": "保持街面平静整洁，难免就要弄脏双手。",
+    "health": 4,
+    "id": "SW_417",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "军情七处刺客",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "在本局对战中，你每使用过一张军情七处牌，本牌的法力值消耗便减少（1）点。<b>连击：</b>消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64166,
+    "flavor": "嘘，别吼。别忘了你是潜伏者！",
+    "health": 2,
+    "id": "SW_418",
+    "mechanics": [
+      "BATTLECRY",
+      "STEALTH"
+    ],
+    "name": "军情七处潜伏者",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>潜行</b>，<b>战吼：</b>你抽到的下一张牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64201,
+    "flavor": "月神托我给你带个话……",
+    "health": 4,
+    "id": "SW_419",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "艾露恩神谕者",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "在你使用一张法力值消耗小于或等于（2）点的随从牌后，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jun Yan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64236,
+    "flavor": "“我们的播种师真的不胖！”",
+    "id": "SW_422",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "播种施肥",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>使你的所有随从获得+1攻击力；或者召唤一个2/2的树人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64291,
+    "elite": true,
+    "flavor": "先生，你看见我的大德鲁伊了吗？",
+    "id": "SW_428",
+    "name": "游园迷梦",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使你的英雄获得4点攻击力。<b>奖励：</b>获得5点\n护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64292,
+    "flavor": "补货速度特别慢。",
+    "id": "SW_429",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "紧壳商品",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n召唤两只2/7并具有<b>嘲讽</b>的龟。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64337,
+    "flavor": "有人通知过动物管理中心，但好像没什么作用。",
+    "health": 4,
+    "id": "SW_431",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "花园猎豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>突袭</b>\n每当本随从攻击时，使你的英雄在本回合中获得+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64346,
+    "flavor": "不管它们的身材长到多大，也不管你训练了它们多少次，科多兽就是不肯放过沙发。",
+    "id": "SW_432",
+    "name": "科多兽坐骑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+4/+2和<b>突袭</b>。当该随从死亡时，召唤一只科多兽。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64349,
+    "elite": true,
+    "flavor": "泽瑞拉本想寻求精神层面的指引，结果却找到了套牌构筑攻略。",
+    "id": "SW_433",
+    "name": "寻求指引",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用法力值消耗为（2），（3），（4）的牌各一张。<b>奖励：</b>从你的牌库中<b>发现</b>一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64363,
+    "flavor": "赶快付账，不然我就让鱼儿吃到腹胀。",
+    "health": 4,
+    "id": "SW_434",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "放贷的鲨鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>使你的对手获得一张幸运币。\n<b>亡语：</b>使你获得两张幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64384,
+    "flavor": "人们常说，宠物越养越像主人。",
+    "health": 4,
+    "id": "SW_436",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "柳魔锐爪兽",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "在你的英雄获得攻击力后，本随从获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64385,
+    "flavor": "树人的一生：鞠躬尽瘁，死而不已。",
+    "id": "SW_437",
+    "name": "堆肥",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得“<b>亡语：</b>抽一张牌。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64388,
+    "flavor": "别看它们现在萌萌的，等你听到野蛮咆哮，就晚了。",
+    "health": 1,
+    "id": "SW_439",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "活泼的松鼠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>亡语：</b>将四张橡果洗入你的牌库。当抽到橡果时，召唤一只2/1的松鼠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64390,
+    "flavor": "通灵术其实就是给死者听的励志演讲。",
+    "id": "SW_440",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "墓园召唤",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张<b>亡语</b>随从牌。如果你有足够的法力值使用这张随从牌，触发其<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64391,
+    "flavor": "呦，从天上掉下来的？我出十金币，不能再多了。",
+    "id": "SW_441",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "纳鲁碎片",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "HOLY",
+    "text": "<b>可交易</b>\n<b>沉默</b>所有敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Nelson",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64392,
+    "flavor": "圣光易躲，虚空难熬。",
+    "id": "SW_442",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "虚空碎片",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64416,
+    "flavor": "粉色雷象在游荡！",
+    "id": "SW_443",
+    "name": "雷象坐骑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+4/+7和<b>嘲讽</b>。当该随从死亡时，召唤一只雷象。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64419,
+    "flavor": "拿好文件夹，没人会怀疑你的。",
+    "health": 3,
+    "id": "SW_444",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光欺诈者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>如果有英雄在本回合中受到伤害，抽一张暗影法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64425,
+    "flavor": "虚空碎片分两半，你一半，我一半。",
+    "health": 4,
+    "id": "SW_445",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "灵能魔",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你施放一个暗影法术后，对双方英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64429,
+    "flavor": "不要乱摸虚空。你知道它有多脏吗？",
+    "health": 3,
+    "id": "SW_446",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "虚触侍从",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "双方英雄受到的所有伤害提高一点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64439,
+    "elite": true,
+    "flavor": "沙德拉斯真的会去花园区朝圣。",
+    "health": 5,
+    "id": "SW_447",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "沙德拉斯·月树",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>使你接下来抽到的三张法术牌获得<b>抽到时施放</b>效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64443,
+    "elite": true,
+    "flavor": "黑暗主教干掉了圣光士兵。将军！",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "id": "SW_448",
+    "name": "黑暗主教本尼迪塔斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>对战开始时：</b>如果你的套牌中所有法术牌都是暗影法术牌，则进入暗影形态。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64488,
+    "elite": true,
+    "flavor": "在“那次事故”之后，暴风城监狱真的应该重新评估一下《反法师条例》了。",
+    "id": "SW_450",
+    "name": "巫师的计策",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>施放火焰，冰霜和奥术法术各一个。<b>奖励：</b>抽一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64629,
+    "flavor": "梦想是加入恐龙战队，成为绿衣战士。",
+    "health": 2,
+    "id": "SW_451",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "魔变鱼人",
+    "race": "MURLOC",
+    "races": [
+      "DEMON",
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你在本回合中施放过邪能法术，获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64665,
+    "flavor": "抽这个，这个劲儿大！",
+    "id": "SW_452",
+    "mechanics": [
+      "LIFESTEAL",
+      "OUTCAST"
+    ],
+    "name": "混乱吸取",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从造成$3点伤害。<b>流放：</b>改为\n造成$5点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 0,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64688,
+    "durability": 0,
+    "flavor": "就像陀螺一样，越抽越快。",
+    "health": 2,
+    "id": "SW_454",
+    "name": "雄狮之怒",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "攻击力等同于\n你在本回合中抽牌的数量。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64960,
+    "flavor": "猪圈？不，不，这是老鼠窝。",
+    "health": 2,
+    "id": "SW_455",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "老鼠窝",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>亡语：</b>召唤五只1/1的老鼠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 0,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64964,
+    "durability": 0,
+    "flavor": "标本学和裁缝相结合的专业。",
+    "health": 3,
+    "id": "SW_457",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "制皮工具",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在三个友方野兽死亡后，抽一张野兽牌并使其获得+1/+1。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64965,
+    "flavor": "塔维什的路怒症该改一改了。",
+    "id": "SW_458",
+    "name": "山羊坐骑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "IMMUNE"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+2/+2和攻击时具有<b>免疫</b>。当该随从死亡时，召唤一只山羊。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64968,
+    "flavor": "经常和鼠王一起结成疯狂的派对——雨天除外。",
+    "health": 6,
+    "id": "SW_459",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暴风城吹笛人",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "在本随从攻击后，使你的野兽获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 65044,
+    "flavor": "采集……精华。",
+    "id": "SW_460",
+    "name": "集群撕咬",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "选择一个敌方随从，使你的所有随从攻击该随从，并将死亡的友方随从移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 65140,
+    "flavor": "容易在上火的时候触发。",
+    "id": "SW_462",
+    "name": "炽热连击",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellSchool": "FIRE",
+    "text": "在本回合中，你的下一张火焰法术牌法力值消耗减少\n（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 65159,
+    "flavor": "你在哪片禁林里抓到的这玩意？",
+    "health": 5,
+    "id": "SW_463",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRADEABLE"
+    ],
+    "name": "进口狼蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "POISONOUS",
+      "RUSH"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>亡语：</b>召唤两只1/1并具有<b>剧毒</b>和<b>突袭</b>的\n蜘蛛。",
+    "type": "MINION"
+  }
+]

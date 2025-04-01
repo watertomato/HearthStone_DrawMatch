@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Jeff Haynie",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2093,
+    "flavor": "如果你想要构筑一套简单粗暴的套牌，这张牌就是很好的选择。",
+    "id": "GVG_015",
+    "name": "暗色炸弹",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "spellSchool": "SHADOW",
+    "text": "对一个角色造成$3点伤害。如果该角色死亡，抽一张暗影法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Lockwood",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2068,
+    "flavor": "和他对话时，你很难与之进行眼神交流。",
+    "health": 4,
+    "id": "GVG_100",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "漂浮观察者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "每当你的英雄在你的回合受到伤害，便获得+2/+2。",
+    "type": "MINION"
+  }
+]

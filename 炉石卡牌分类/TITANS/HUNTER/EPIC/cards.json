@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97380,
+    "flavor": "你的野兽补铁补得这么好，你喂它们吃什么了？",
+    "health": 1,
+    "id": "TTN_087",
+    "mechanics": [
+      "MAGNETIC",
+      "RUSH"
+    ],
+    "name": "吸附寄生体",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>突袭</b>。可以<b>磁力</b>吸附在机械和野兽上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cynthia  Garcia",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97404,
+    "durability": 0,
+    "flavor": "为人当怀摘星之志。即便摘不到，还可以去摘敌方英雄的首级。",
+    "health": 2,
+    "id": "TTN_088",
+    "name": "牵星短弓",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "TITANS",
+    "text": "在本局对战中，每触发一个友方<b>奥秘</b>，本牌的法力值消耗便减少（1）点。",
+    "type": "WEAPON"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 1805,
+    "durability": 0,
+    "flavor": "“让死神品味你的血肉。”——死亡领主麦克斯卡夫",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_021",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "死亡之咬",
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>对所有随从造成1点伤害。",
+    "type": "WEAPON"
+  }
+]

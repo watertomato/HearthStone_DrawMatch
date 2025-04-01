@@ -1,0 +1,222 @@
+[
+  {
+    "artist": "Brian Despain",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42712,
+    "flavor": "不论是石油大亨、铁路大亨还是黑金大亨，最后都会变成白骨大亨。",
+    "health": 5,
+    "id": "ICC_065",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨大亨",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>\n将两张1/1的“骷髅”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42560,
+    "flavor": "说吧，你选字还是花…",
+    "id": "ICC_201",
+    "name": "命运骨骰",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "text": "抽一张牌。如果这张牌有<b>亡语</b>，则再次施放本法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ben Thompson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42665,
+    "flavor": "本品为纯天然制剂，未添加任何有毒有害物质。",
+    "id": "ICC_221",
+    "name": "吸血药膏",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，你的武器获得\n<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42801,
+    "flavor": "保证武器可直接回到你的手上！（注意佩戴手套，要加厚的。）",
+    "id": "ICC_233",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "末日回旋镖",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "text": "对一个随从投掷你的武器。武器会造成伤害，然后移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42819,
+    "flavor": "别担心，他会用一只眼睛帮你盯着的。",
+    "health": 3,
+    "id": "ICC_240",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "符文熔铸游魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "在你的回合时，你的武器不会失去\n耐久度。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43028,
+    "flavor": "如果很痛，就说明起效了。",
+    "health": 3,
+    "id": "ICC_809",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "瘟疫科学家",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "获得<b>剧毒</b>。",
+    "text": "<b>连击：</b>使一个友方随从获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 43031,
+    "elite": true,
+    "flavor": "她不会可惜，不会后悔，不会恐惧。她也绝不会停止……直到死灵法师全部死去。",
+    "health": 5,
+    "id": "ICC_811",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "莉莉安·沃斯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>随机将你手牌中所有的法术牌替换成<i>（你对手职业的）</i>法术牌。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 43392,
+    "elite": true,
+    "flavor": "“尽管逃吧。躲进你的宝贝要塞里，躲到高墙和你的守卫后面。黑夜总要降临，暗影会占据你空洞的大厅。终有一天，其中一片暗影就是我。”",
+    "health": 30,
+    "heroPowerDbfId": 43188,
+    "id": "ICC_827",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚空之影瓦莉拉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>获得<b>潜行</b>直到你的下个回合。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45338,
+    "durability": 0,
+    "flavor": "叫“暗影匕首”就有点俗气了。",
+    "health": 2,
+    "id": "ICC_850",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影之刃",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>在本回合中，你的英雄<b>免疫</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45975,
+    "flavor": "你也可以把她和赃物一起带走。",
+    "health": 5,
+    "id": "ICC_910",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "鬼灵匪贼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "targetingArrowText": "在本回合中，你每使用一张其他牌，便造成2点伤害。",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便对一个随从造成2点伤害。",
+    "type": "MINION"
+  }
+]

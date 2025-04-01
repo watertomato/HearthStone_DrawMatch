@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64896,
+    "flavor": "这便是无休无尽的召唤啊，我的朋友……",
+    "id": "SW_087",
+    "name": "恐惧坐骑",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+1/+1。当该随从死亡时，召唤一匹无尽的恐惧战马。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64898,
+    "flavor": "“你知不知道我在你们店里花了多少法力水晶？6个。”",
+    "health": 2,
+    "id": "SW_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "资深顾客",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>对所有其他随从造成等同于你手牌数量的伤害。",
+    "type": "MINION"
+  }
+]

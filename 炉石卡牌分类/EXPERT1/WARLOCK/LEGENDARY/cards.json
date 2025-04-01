@@ -1,0 +1,23 @@
+[
+  {
+    "armor": 5,
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 777,
+    "elite": true,
+    "flavor": "“渺小的侏儒！你的傲慢会招致灭亡！”",
+    "health": 30,
+    "heroPowerDbfId": 1178,
+    "id": "EX1_323",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "加拉克苏斯大王",
+    "rarity": "LEGENDARY",
+    "set": "EXPERT1",
+    "text": "<b>战吼：</b>装备一把3/8的血怒。",
+    "type": "HERO"
+  }
+]

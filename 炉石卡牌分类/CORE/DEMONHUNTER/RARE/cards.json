@@ -1,0 +1,98 @@
+[
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 63229,
+    "dbfId": 120785,
+    "durability": 0,
+    "flavor": "在贫瘠之地，万物皆有獠牙！野猪人长着獠牙，野猪长着獠牙，獠牙也长着獠牙。",
+    "health": 2,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得100场对战后解锁。",
+    "id": "CORE_BAR_330",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "獠牙锥刃",
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "<b>亡语：</b>抽一张<b>亡语</b>随从牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69588,
+    "flavor": "吼得再响也减不了非恶魔牌的消耗。",
+    "health": 4,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得100场对战后解锁。",
+    "id": "CORE_BT_416",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴怒邪吼者",
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "<b>战吼：</b>你的下一张恶魔牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Bayard Wu",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "countAsCopyOfDbfId": 58455,
+    "dbfId": 120878,
+    "flavor": "怒了！她只有六把战刃，盲眼监视者有八把！人家的邪能都比她的绿。",
+    "health": 7,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得100场对战后解锁。",
+    "id": "CORE_BT_493",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "愤怒的女祭司",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "在你的回合结束时，造成6点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 66176,
+    "flavor": "摄人的恐惧，大大的眼睛，无情的效率，还有对英雄那近乎狂热的献身精神，这些都是他的武器。还有这件上好的棕色长袍。",
+    "health": 8,
+    "howToEarn": "与恶魔猎手职业一同解锁。",
+    "howToEarnGolden": "使用恶魔猎手赢得100场对战后解锁。",
+    "id": "CS3_020",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伊利达雷审判官",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "<b>突袭</b>\n在你的英雄攻击一个敌人后，本随从也会攻击。",
+    "type": "MINION"
+  }
+]

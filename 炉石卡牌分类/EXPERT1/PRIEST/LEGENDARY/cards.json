@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Wei Wang",
+    "attack": 7,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 9,
+    "elite": true,
+    "flavor": "他被逐出了他的家园，他的兄弟们都变成了邪恶的主宰......但是除此之外，他好像也没有什么别的可以抱怨的了。",
+    "health": 7,
+    "id": "EX1_350",
+    "name": "先知维伦",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EXPERT1",
+    "text": "使你的法术和英雄技能的伤害和治疗效果翻倍。",
+    "type": "MINION"
+  }
+]

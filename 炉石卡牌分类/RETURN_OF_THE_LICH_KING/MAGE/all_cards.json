@@ -1,0 +1,267 @@
+[
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 86438,
+    "flavor": "有一次，我开出了一张黑色的花，一张会笑的壶，还有一张初版龙希尔闪卡。",
+    "id": "NX2_001",
+    "isMiniSet": true,
+    "name": "撕裂现实",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "ARCANE",
+    "text": "随机将2张来自过去的法师法术牌置入你的手牌，其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86439,
+    "flavor": "通灵学院排名第一的毕业生，获得了奖学金以及留学纳克萨玛斯的机会。期限是永久。",
+    "health": 4,
+    "id": "NX2_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鬼灵学徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你施放一个法术后，对所有敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86440,
+    "flavor": "在构造区的所有造物中，纳迦和水的组合看上去是最自然的那一种。",
+    "health": 3,
+    "id": "NX2_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "织漩者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果你在上回合施放过法术，<b>发现</b>一张元素牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 84390,
+    "elite": true,
+    "flavor": "他只能多施放一次——不然就成了维仨鲁斯。",
+    "health": 5,
+    "id": "RLK_541",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "维萨鲁斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "你的奥术法术会施放两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84421,
+    "flavor": "有喷闪电的，有喷奥术的，还有喷什么的？",
+    "health": 2,
+    "id": "RLK_542",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "奥能散射机",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>将2张奥术箭置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84426,
+    "flavor": "“你每天也做这种工作吗？那我不太想变得像你这么‘强’了……”",
+    "health": 2,
+    "id": "RLK_543",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "魔导师学徒",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "你的奥术法术的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 84428,
+    "flavor": "注：防御范围不包括奥术战吼",
+    "id": "RLK_544",
+    "name": "奥术防御者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "ARCANE",
+    "text": "召唤两个5/6并具有<b>嘲讽</b>和<b>扰魔</b>的魔像。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84736,
+    "flavor": "“我给你捏条蛇吧？”",
+    "health": 4,
+    "id": "RLK_545",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "能量塑形师",
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>将你手牌中的所有法术牌变形成为法力值消耗增加（3）点的法术牌。<i>（保留其原始法力值消耗。）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84752,
+    "flavor": "我太聪明了，我会数三！",
+    "id": "RLK_546",
+    "name": "广阔智慧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>发现</b>两张法力值消耗小于或等于（3）点的法术牌。交换其法力值消耗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 85034,
+    "flavor": "没能入选魔法守护者，心情很失落。",
+    "health": 3,
+    "id": "RLK_547",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "棱光元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张任意职业的法术牌，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 85035,
+    "flavor": "这位是木栏的守护神龙，木虚。",
+    "health": 2,
+    "id": "RLK_548",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥术浮龙",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>将一张奥术箭置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 84003,
+    "elite": true,
+    "flavor": "强大的法师，精通火焰，冰霜，还有“奥数”。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "RLK_803",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大法师罗曼斯",
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>再次施放你在本局对战中施放的每个套牌之外的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86274,
+    "flavor": "你等着，等到我有8点法力值的时候！",
+    "id": "RLK_843",
+    "mechanics": [
+      "MANATHIRST"
+    ],
+    "name": "奥术箭",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "ARCANE",
+    "text": "造成$2点伤害。<b>法力渴求（8）：</b>改为造成$3点伤害。",
+    "type": "SPELL"
+  }
+]

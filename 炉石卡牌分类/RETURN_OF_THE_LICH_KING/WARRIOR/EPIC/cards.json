@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 84299,
+    "flavor": "血精灵一族的牙医究竟是谁？",
+    "health": 6,
+    "id": "RLK_607",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "搅局破法者",
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你的回合结束时，你的对手弃掉一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84301,
+    "flavor": "血精灵烧烤大赛连续12届冠军。",
+    "health": 3,
+    "id": "RLK_609",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "日怒勇士",
+    "rarity": "EPIC",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你施放一个火焰法术后，对所有随从造成1点伤害。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,2870 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41076,
+    "flavor": "噢，它真的好可爱！想不想再喂它几根手指头？",
+    "health": 2,
+    "id": "UNG_001",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "翼手龙宝宝",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41120,
+    "flavor": "当溃疡长在背上时，你的脾气也不会好到哪去。",
+    "health": 6,
+    "id": "UNG_002",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火山龙",
+    "race": "BEAST",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n连续<b>进化</b>两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41130,
+    "flavor": "可免费升级套餐里的薯条跟可乐。",
+    "id": "UNG_004",
+    "name": "巨化术",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "将一个随从的属性值变为7/14。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41137,
+    "flavor": "并不是很想进化，除非边上有人看着…至少两个。",
+    "health": 2,
+    "id": "UNG_009",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴掠龙幼崽",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你控制至少两个其他随从，便获得<b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "battlegroundsPremiumDbfId": 58413,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41138,
+    "flavor": "昨晚的鱼人刺身实在是太美味了！",
+    "health": 8,
+    "id": "UNG_010",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "臃肿的蛇颈龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "techLevel": 5,
+    "text": "<b>嘲讽</b>。<b>亡语：</b>召唤三个1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41139,
+    "flavor": "绝大多数鱼人冲着就业前景报考了计算机专业，而报考水文学的则寥寥无几。",
+    "health": 2,
+    "id": "UNG_011",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "水文学家",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>发现</b>并施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41145,
+    "elite": true,
+    "flavor": "其实他最喜欢的数字是4，只可惜…",
+    "health": 7,
+    "id": "UNG_015",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "守日者塔林姆",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>将所有其他随从的攻击力和生命值变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Seaman",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41151,
+    "flavor": "火可以带来光明，也可以毁掉一切。",
+    "id": "UNG_018",
+    "name": "烈焰喷涌",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。\n将一张1/2的元素牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41152,
+    "faction": "HORDE",
+    "flavor": "那种没人在意你的感觉，是永远的痛。",
+    "health": 1,
+    "id": "UNG_019",
+    "mechanics": [
+      "ELUSIVE"
+    ],
+    "name": "空气元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41153,
+    "flavor": "你抽到什么了？嘘…那是个秘密。",
+    "health": 3,
+    "id": "UNG_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "秘法学家",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>抽一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41154,
+    "flavor": "身处野外的探险者会时不时地用他来泡茶。",
+    "health": 4,
+    "id": "UNG_021",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蒸汽涌动者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，将一张“烈焰喷涌”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41155,
+    "flavor": "闲暇时他会召唤一个幻象来陪自己玩炉石。",
+    "health": 3,
+    "id": "UNG_022",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幻象制造者",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "targetingArrowText": "召唤一个1/1的复制。",
+    "text": "<b>战吼：</b>选择一个随从，召唤一个它的1/1复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41158,
+    "flavor": "好厉害的法术，我也要！",
+    "id": "UNG_024",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "法术共鸣",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "ARCANE",
+    "text": "<b>奥秘：</b>当你的对手施放一个法术时，将该法术的一张复制置入你的手牌，其法力值消耗变为（0）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gustav Schmidt",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41159,
+    "flavor": "许多年轻的萨满喜欢以火山为主题来做毕业设计。",
+    "id": "UNG_025",
+    "mechanics": [
+      "OVERLOAD",
+      "ImmuneToSpellpower"
+    ],
+    "name": "火山喷发",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "造成$15点伤害，随机分配到所有随从身上。\n<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41162,
+    "elite": true,
+    "flavor": "如果你杀死她，她会变得更强，强到…变成6/6这样。",
+    "health": 2,
+    "id": "UNG_027",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "派烙斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将本随从移回你的手牌，并变为法力值消耗为（4）点的6/6随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41168,
+    "elite": true,
+    "flavor": "这个咒语看似复杂，但只要往左跳一小步，再往右跳一小步，就完成施法了。",
+    "id": "UNG_028",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "打开时空之门",
+    "questReward": "UNG_028t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>施放8个你的套牌之外的\n法术。\n <b>奖励：</b>时空扭曲。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nutchapol Thitinunthakorn",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41169,
+    "flavor": "听说念咒语不跳舞，成功概率要减半！",
+    "id": "UNG_029",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "暗影视界",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "SHADOW",
+    "text": "从你的牌库中<b>发现</b>一张法术牌的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41170,
+    "flavor": "接受本次治疗就意味着您默认接受了以下条款…",
+    "id": "UNG_030",
+    "name": "联结治疗",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "HOLY",
+    "text": "为你的英雄和一个随从恢复#5点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41173,
+    "faction": "HORDE",
+    "flavor": "他的心里藏不了任何事，所以看起来很阳光。",
+    "health": 2,
+    "id": "UNG_032",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "结晶预言者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>复制你对手的牌库中的一张牌，并将其置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41176,
+    "flavor": "这可是纯天然的熔岩灯！",
+    "health": 3,
+    "id": "UNG_034",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "光照元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "你的法术的法力值消耗减少（1）点<i>（但不能少于1点）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Servando Lupini",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41177,
+    "flavor": "好奇的不只有猫，还有萤根草。",
+    "health": 4,
+    "id": "UNG_035",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "好奇的萤根草",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>检视三张卡牌。猜中来自你对手套牌中的卡牌，则获取该牌的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 58374,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41180,
+    "flavor": "别看他现在拄着拐杖，年轻时可是大名鼎鼎的“乌龟队长”。",
+    "health": 5,
+    "id": "UNG_037",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "始祖龟执盾者",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "techLevel": 3,
+    "text": "<b>嘲讽，亡语：</b>随机使一个友方随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41191,
+    "flavor": "想让你的翼手龙变得更强壮吗？那就多喂一点低脂高纤维的随从。",
+    "health": 3,
+    "id": "UNG_047",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "饥饿的翼手龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>\n消灭一个友方随从，并连续<b>进化</b>两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41194,
+    "flavor": "潜了这么久，终于能上来冒个泡了…",
+    "health": 7,
+    "id": "UNG_049",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "焦油潜伏者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>\n在你对手的回合拥有+3攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chanchai Luechaiwattanasopon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41207,
+    "flavor": "经常不洗澡的人，会有头皮屑。经常不洗澡的花…",
+    "id": "UNG_057",
+    "name": "刀瓣齐射",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "将两张可造成2点伤害的“刀瓣”置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sojin Hwang",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41208,
+    "flavor": "难怪安戈洛没有僵尸。",
+    "health": 2,
+    "id": "UNG_058",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "刀瓣鞭笞者",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>将一张可造成2点伤害的“刀瓣”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41212,
+    "flavor": "妈妈常说，吃啥补啥！",
+    "id": "UNG_060",
+    "name": "拟态豆荚",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌，然后将一张它的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41213,
+    "durability": 0,
+    "flavor": "因为职业病的关系，潜行者只要看到尖锐的硬物就想拿来当匕首。",
+    "health": 3,
+    "id": "UNG_061",
+    "name": "黑曜石碎片",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "在本局对战中，你每将一张非潜行者的职业牌置入你的手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Craig Elliott",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41216,
+    "flavor": "它还有一个名字，叫“范克里夫草”。",
+    "health": 2,
+    "id": "UNG_063",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "食人草",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41217,
+    "flavor": "它会用舌头抽晕你，再把你吞下去。",
+    "health": 4,
+    "id": "UNG_064",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "邪脊吞噬者",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>连击：</b>\n消灭一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41218,
+    "elite": true,
+    "flavor": "始祖龟园丁的噩梦。",
+    "health": 3,
+    "id": "UNG_065",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "“尸魔花”瑟拉金",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>进入<b>休眠</b>状态。在一回合中使用4张牌可复活本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41222,
+    "elite": true,
+    "flavor": "其实洞穴就在旅店的下面。",
+    "id": "UNG_067",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "探索地下洞穴",
+    "questReward": "UNG_067t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>使用四张名称相同的随从牌。\n<b>奖励：</b>水晶核心。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41241,
+    "flavor": "他为了保持这副身材，花了大把的时间在塑形。",
+    "health": 6,
+    "id": "UNG_070",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "托维尔塑石师",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则获得<b>嘲讽</b>和<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chanchai Luechaiwattanasopon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 41242,
+    "flavor": "它直到如今还在为没能评上“乳齿年”而耿耿于怀。",
+    "health": 12,
+    "id": "UNG_071",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "巨型乳齿象",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mark Gibbons",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41243,
+    "flavor": "它最厉害的武器并非手中的剑盾，而是极尽讽刺挖苦之能事的嘴。",
+    "health": 5,
+    "id": "UNG_072",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "TAUNT"
+    ],
+    "name": "石丘防御者",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>\n<b>发现</b>一张具有<b>嘲讽</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41245,
+    "flavor": "他虽然怕螃蟹，却喜欢吃螃蟹肉。",
+    "health": 3,
+    "id": "UNG_073",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "石塘猎人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "targetingArrowText": "获得+1/+1。",
+    "text": "<b>战吼：</b>使一个友方鱼人获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41247,
+    "flavor": "它渴望成长，渴望到发狂。",
+    "health": 3,
+    "id": "UNG_075",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "凶恶的翼龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "在本随从攻击英雄后，<b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41249,
+    "flavor": "说出来怕你不信，他偷蛋只为拿来当枕头用。",
+    "health": 1,
+    "id": "UNG_076",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "卑劣的窃蛋者",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>召唤两个1/1的迅猛龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41252,
+    "flavor": "在始祖龟语里，“安戈洛”指的是“失落的世界”。",
+    "health": 2,
+    "id": "UNG_078",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "始祖龟劫掠者",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>随机将一张攻击力大于或等于5的随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41253,
+    "flavor": "他讲过的很多笑话，自己都觉得冷。",
+    "health": 8,
+    "id": "UNG_079",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "冰冻粉碎者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "UNGORO",
+    "text": "在本随从攻击后，<b>冻结</b>本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41257,
+    "flavor": "什么？都已经这样了，还需要进化？",
+    "health": 3,
+    "id": "UNG_082",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷霆蜥蜴",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则获得<b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41259,
+    "flavor": "漏斗蛋糕如此美味的秘诀，就是用魔暴龙蛋来和面。",
+    "health": 3,
+    "id": "UNG_083",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "魔暴龙蛋",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>召唤一个5/5的魔暴龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41260,
+    "flavor": "凤凰本非凡俗鸟，浴火重生凌云霄。",
+    "health": 4,
+    "id": "UNG_084",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火羽凤凰",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41261,
+    "faction": "HORDE",
+    "flavor": "伊瑟拉对于蜂后将自己的蜂巢命名为“翡翠梦境”感到怒不可遏，发誓要告到她倾家荡产。",
+    "health": 3,
+    "id": "UNG_085",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "翡翠蜂后",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "你的随从的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41262,
+    "flavor": "这条蛇在生前吃了个大家伙。",
+    "health": 3,
+    "id": "UNG_086",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "巨型蟒蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>从你手牌中召唤一个攻击力大于或等于5的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mark Gibbons",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41263,
+    "flavor": "其实只有中间的头口感苦涩，其他的头要么偏甜，要么偏辣。",
+    "health": 8,
+    "id": "UNG_087",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "苦潮多头蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "每当本随从受到伤害，对你的英雄造成\n3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 41264,
+    "flavor": "我在未来看到有吃不完的披萨。",
+    "health": 5,
+    "id": "UNG_088",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "始祖龟预言者",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张法术牌，并向随机目标施放。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41265,
+    "flavor": "廉价壳屋招租啦！房客仅限情感丰富，温良恭让的双足两栖人型生物，喜好流浪生活者更佳！",
+    "health": 4,
+    "id": "UNG_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "温顺的巨壳龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>进化</b>你所有的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41286,
+    "flavor": "瞧见没，这就是让恐龙吃跳跳糖喝可乐的下场！",
+    "health": 7,
+    "id": "UNG_099",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "狂奔的魔暴龙",
+    "race": "BEAST",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>冲锋，战吼：</b>在本回合中无法攻击英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40971,
+    "flavor": "因为脖子长的缘故，他总爱窥探别人的家长里短。",
+    "health": 5,
+    "id": "UNG_100",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "苍绿长颈龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40973,
+    "flavor": "他是玩三壳游戏的高手，你永远也猜不中球在哪个壳下面。",
+    "health": 3,
+    "id": "UNG_101",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "变形神龟",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH",
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>抉择：</b>变形成为5/3并具有<b>潜行</b>；或者变形成为3/5并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40991,
+    "flavor": "那些能让你变大的蘑菇通常都装在标有“？”的箱子里。",
+    "id": "UNG_103",
+    "name": "生长孢子",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "<b>进化</b>你所有的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41081,
+    "flavor": "其实你也可以拥有大地之鳞。第一步：在泥地里打滚；第二步：等自然风干。",
+    "id": "UNG_108",
+    "name": "大地之鳞",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "targetingArrowText": "使其获得+1/+1。",
+    "text": "使一个友方随从获得+1/+1，然后获得等同于其攻击力的\n护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41086,
+    "flavor": "一旦上了岁数，颈椎的问题就特别突出。",
+    "health": 1,
+    "id": "UNG_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "年迈的长颈龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n如果你的手牌中有攻击力大于或等于5的随从牌，便获得<b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Gaser",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41094,
+    "flavor": "你追我，如果你追到我，我就让你放魔法。",
+    "id": "UNG_111",
+    "name": "活体法力",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "将你所有的法力水晶变成2/2的树人，当它们死亡时恢复你的法力值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41096,
+    "flavor": "能让她眼前一亮的不光是珍稀物种，还有纸杯蛋糕！",
+    "health": 4,
+    "id": "UNG_113",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "热情的探险家",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>抽一张牌，使其法力值消耗变为（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41099,
+    "elite": true,
+    "flavor": "自从一脚踩出了葛拉卡盆地后，班纳布斯的跳舞生涯便宣告结束了。",
+    "id": "UNG_116",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "丛林巨兽",
+    "questReward": "UNG_116t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>召唤4个攻击力大于或等于5的随从。\n<b>奖励：</b>班纳布斯。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41105,
+    "flavor": "蛮鱼图腾会播放只有鱼人才能听到的声音，也还好只有他们能听到…",
+    "health": 3,
+    "id": "UNG_201",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "蛮鱼图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "在你的回合结束时，召唤一个1/1的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41107,
+    "flavor": "擅长召唤元素，更擅长烤棉花糖。",
+    "health": 1,
+    "id": "UNG_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火羽先锋",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>使你手牌中所有元素牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41111,
+    "flavor": "最爱榴莲味！",
+    "health": 1,
+    "id": "UNG_205",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰川裂片",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "UNGORO",
+    "targetingArrowText": "冻结一个敌人。",
+    "text": "<b>战吼：</b>\n<b>冻结</b>一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rudy Siswanto",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41116,
+    "flavor": "他只是想和他的小伙伴们一起摇摆。",
+    "health": 4,
+    "id": "UNG_208",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "岩石哨兵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则召唤两个2/3并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41331,
+    "elite": true,
+    "flavor": "炼金术师认为只要将土、气、水、火四种元素结合在一起，就能产生第五元素。",
+    "health": 7,
+    "id": "UNG_211",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荒蛮之主卡利莫斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则施放一个元素祈咒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Seaman",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41304,
+    "flavor": "他捉弄朋友的方式就是大吼一声，吓得对方半条命都没了。",
+    "health": 3,
+    "id": "UNG_800",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐鳞追猎者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "UNGORO",
+    "targetingArrowText": "触发一个<b>亡语</b>。",
+    "text": "<b>战吼：</b>触发一个友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41305,
+    "flavor": "双头鹏会用蛋来诱捕那些偷蛋贼。正所谓螳螂捕蝉，大鹏在后。",
+    "health": 7,
+    "id": "UNG_801",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "筑巢双头鹏",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你控制至少两个其他随从，便获得<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41309,
+    "flavor": "他想去加基森干一番事业，玉莲帮会是不错的选择。",
+    "health": 1,
+    "id": "UNG_803",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "翡翠掠夺者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>对每个英雄造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Laurel Austin",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 41315,
+    "flavor": "听说顺着他的脖子往上爬，会找到下金蛋的鹅。",
+    "health": 14,
+    "id": "UNG_806",
+    "name": "摩天龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41316,
+    "flavor": "海盗们闻之色变的究极克星！",
+    "health": 3,
+    "id": "UNG_807",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "葛拉卡爬行蟹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "targetingArrowText": "消灭一个<b>海盗</b>。",
+    "text": "<b>战吼：</b>消灭一个海盗，并获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Aaron Miller",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41318,
+    "flavor": "小小的天有大大的梦想，重重的壳裹着轻轻地仰望。",
+    "health": 3,
+    "id": "UNG_808",
+    "mechanics": [
+      "POISONOUS",
+      "TAUNT"
+    ],
+    "name": "倔强的蜗牛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>\n<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41323,
+    "faction": "ALLIANCE",
+    "flavor": "拿着空瓶的孩子们，是他们的天敌。",
+    "health": 2,
+    "id": "UNG_809",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火羽精灵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>将一张1/2的元素牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41324,
+    "flavor": "升到40级的圣骑士被要求去驯服一头剑龙，所以这世界上并不存在41级的圣骑士。",
+    "health": 6,
+    "id": "UNG_810",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "剑龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41415,
+    "flavor": "它喜欢用始祖龟的骨头来剔牙。",
+    "health": 2,
+    "id": "UNG_812",
+    "mechanics": [
+      "STEALTH"
+    ],
+    "name": "剑齿追猎者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>潜行</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41327,
+    "flavor": "他的另一份工作是气象预报员。",
+    "health": 8,
+    "id": "UNG_813",
+    "mechanics": [
+      "WINDFURY"
+    ],
+    "name": "风暴看守",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>风怒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41328,
+    "flavor": "像蝴蝶一样飞舞，像黄蜂一样出击！",
+    "health": 2,
+    "id": "UNG_814",
+    "mechanics": [
+      "POISONOUS",
+      "STEALTH"
+    ],
+    "name": "巨型黄蜂",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>潜行</b>\n<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41410,
+    "flavor": "唉…要是当初在学校好好念书，就轮到卡利莫斯来当仆从了。",
+    "health": 5,
+    "id": "UNG_816",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "卡利莫斯的仆从",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则<b>发现</b>一张元素牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41521,
+    "flavor": "水流强劲，祛渍无残留。",
+    "id": "UNG_817",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "海潮涌动",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "<b>吸血</b>\n对一个随从造成$5点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41524,
+    "flavor": "他和暴怒的狼人，格罗玛什·地狱咆哮还有愤怒的小鸡一同报了情绪管理课，但似乎没什么帮助。",
+    "health": 1,
+    "id": "UNG_818",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "不稳定的元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>随机对一个敌方随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41834,
+    "flavor": "毒液取自安戈洛的当地植物，威力惊人。",
+    "id": "UNG_823",
+    "name": "浸毒武器",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "使你的武器获得<b>剧毒</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41856,
+    "elite": true,
+    "flavor": "探险者：“但是，古尔丹，代价是什么呢？”\n古尔丹：“弃掉…六张牌…”",
+    "id": "UNG_829",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "拉卡利献祭",
+    "questReward": "UNG_829t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>弃掉六张牌。\n<b>奖励：</b>虚空传送门。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41869,
+    "flavor": "一旦你选择了这个行当，就别指望交什么朋友了。",
+    "health": 5,
+    "id": "UNG_830",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "残暴的恐龙统领",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>随机召唤一个你在本局对战中弃掉的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41871,
+    "flavor": "寂静的山岭荒无人烟，恐怖的阴霾无处不在。",
+    "id": "UNG_831",
+    "name": "腐化迷雾",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "SHADOW",
+    "text": "诅咒所有随从，在你的下个回合开始时将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41872,
+    "flavor": "你还在用法力施法？早就过时啦！",
+    "id": "UNG_832",
+    "name": "血色绽放",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "SHADOW",
+    "text": "在本回合中，你施放的下一个法术不再消耗法力值，转而消耗生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41873,
+    "flavor": "它这一头时髦的脏辫秘诀在于焦油。",
+    "health": 8,
+    "id": "UNG_833",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "拉卡利地狱犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>弃掉你手牌中法力值消耗最低的两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41874,
+    "flavor": "这帮小家伙只有1/1的身材，却有着4/4的食量！",
+    "id": "UNG_834",
+    "name": "喂食时间",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "对一个随从造成$3点伤害。召唤三只1/1的翼手龙并使其<b>进化</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41875,
+    "flavor": "幸好到目前为止，还没有法力值过大的法术…",
+    "health": 2,
+    "id": "UNG_835",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "聒噪的挖掘者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张法术牌。对你的英雄造成等同于其法力值消耗的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41876,
+    "elite": true,
+    "flavor": "主人弃我千百遍，我待主人如初恋。",
+    "health": 2,
+    "id": "UNG_836",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "萨瓦丝女王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "每当你弃掉这张牌时，使其获得+2/+2，并将其移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41881,
+    "flavor": "焦油兽王，老兄…我可是传奇怪物啊！噢，算了吧。",
+    "health": 11,
+    "id": "UNG_838",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "焦油兽王",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>\n在你对手的回合拥有+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41885,
+    "elite": true,
+    "flavor": "虽然地精旅行社弄丢了他的行李，不过赫米特在安戈洛还是度过了一个美好的假期！",
+    "health": 6,
+    "id": "UNG_840",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "“丛林猎人”赫米特",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n摧毁你牌库中所有法力值消耗小于或等于（3）点的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jimmy Lo",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41913,
+    "elite": true,
+    "flavor": "我是沃拉斯，我为自己代言。",
+    "health": 4,
+    "id": "UNG_843",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沃拉斯",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "在你对本随从施放一个法术后，召唤一个1/1的植物，并对其施放相同的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41925,
+    "faction": "ALLIANCE",
+    "flavor": "最爱吃地精。鸡肉味，嘎嘣脆！",
+    "health": 8,
+    "id": "UNG_844",
+    "mechanics": [
+      "CANT_ATTACK"
+    ],
+    "name": "巨齿刀叶",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "无法攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41926,
+    "flavor": "那么问题来了，他到底算火元素，还是土元素呢？",
+    "health": 3,
+    "id": "UNG_845",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "火岩元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将两张1/2的烈焰元素置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41927,
+    "flavor": "他最讨厌被肯瑞托的法师拿来当派对的灯光特效。",
+    "health": 2,
+    "id": "UNG_846",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体风暴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>随机将一张法师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41928,
+    "flavor": "本来他想管自己叫金翼杀手的，可惜被人注册了。",
+    "health": 6,
+    "id": "UNG_847",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火焰使者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 41929,
+    "flavor": "它的一副公鸭嗓让自己在族群里独树一帜。",
+    "health": 8,
+    "id": "UNG_848",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "始生幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>\n对所有其他随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41935,
+    "elite": true,
+    "flavor": "雷诺教导她别老跟着藏宝图走，要勇敢地踏上未知的旅途。",
+    "health": 5,
+    "id": "UNG_851",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "“开拓者”伊莉斯",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n将一张<b>安戈洛</b>卡牌包洗入你的牌库。如果你的牌库里没有相同的牌，则抽取这张卡牌包。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 14,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 41954,
+    "elite": true,
+    "flavor": "历经数千年的演变后，它变成了我们现在所熟知的精灵龙。",
+    "health": 14,
+    "id": "UNG_852",
+    "mechanics": [
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "泰拉图斯",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Kagounkina",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 42009,
+    "flavor": "城镇猎人多，我要回丛林。丛林路也滑，地形更复杂。",
+    "id": "UNG_854",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "琥口脱险",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>发现</b>一张法力值消耗大于或等于（8）点的随从牌，并召唤该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42011,
+    "flavor": "是好的那种幻觉。",
+    "id": "UNG_856",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "孢子致幻",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张你对手职业的卡牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41289,
+    "elite": true,
+    "flavor": "听到她歌声的随从们纷纷选择了…死亡。",
+    "health": 4,
+    "id": "UNG_900",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "灵魂歌者安布拉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "UNGORO",
+    "text": "在你召唤一个随从后，触发其<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 41294,
+    "elite": true,
+    "flavor": "欧泽鲁克很在意自己的身材，是健身房里的常客。",
+    "health": 8,
+    "id": "UNG_907",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "欧泽鲁克",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>在上个回合，你每使用一张元素牌，便获得+5生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41350,
+    "flavor": "牙好，胃口就好，什么都想咬一口。",
+    "id": "UNG_910",
+    "name": "凶残撕咬",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "对一个随从造成$3点伤害，并对其相邻的随从\n造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41353,
+    "flavor": "地精珠宝商慕名而来，失望而归…",
+    "health": 2,
+    "id": "UNG_912",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "宝石鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>随机将一张野兽牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41354,
+    "flavor": "作战时以勇猛著称…特别是在宠物对战里。",
+    "health": 4,
+    "id": "UNG_913",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "托维尔守卫",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>从你的牌库中抽两张法力值消耗为（1）的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41357,
+    "flavor": "等它咬掉你的手指时，你就不会觉得它可爱了。",
+    "health": 1,
+    "id": "UNG_914",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "迅猛龙宝宝",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将一张4/5的“迅猛龙头领”洗入你的\n牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41358,
+    "flavor": "还不够聪明，都不会绕过通电的防护栏。",
+    "health": 2,
+    "id": "UNG_915",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷鸣刺喉龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "targetingArrowText": "<b>进化</b>一个野兽。",
+    "text": "<b>战吼：</b><b>进化</b>一个友方野兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 41360,
+    "flavor": "猎人们就喜欢这种乱哄哄一拥而上的感觉。",
+    "id": "UNG_916",
+    "name": "奔踏",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "在本回合中，每当你使用一张野兽牌，随机将一张野兽牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41363,
+    "flavor": "那些喜欢研究恐龙的人，多半都成了恐龙的晚餐。",
+    "id": "UNG_917",
+    "name": "恐龙学",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "将你的英雄技能替换为“使一只野兽获得+3/+3”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 9,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41366,
+    "elite": true,
+    "flavor": "常年生活在沼泽潮湿环境下的爵德，不可避免地患上了关节炎。",
+    "health": 9,
+    "id": "UNG_919",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沼泽之王爵德",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "在你的对手使用一张随从牌后，攻击该随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41368,
+    "elite": true,
+    "flavor": "是1个大恐龙可怕呢，还是20个小恐龙可怕呢？这是一个值得思考的…啊！它们来了！！",
+    "id": "UNG_920",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "湿地女王",
+    "questReward": "UNG_920t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>使用七张法力值消耗为（1）的随从牌。\n<b>奖励：</b>卡纳莎女王。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41400,
+    "flavor": "我就说卡牌是树上长出来的吧，你还不信！",
+    "id": "UNG_922",
+    "name": "探索安戈洛",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "UNGORO",
+    "text": "将你牌库里的所有卡牌替换成\n“<b>发现</b>一张牌”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phil Saunders",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41401,
+    "flavor": "第六周——我穿着这身外皮，没有人…噢不，是没有恐龙把我认出来。",
+    "id": "UNG_923",
+    "name": "铜皮铁甲",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "获得5点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41404,
+    "flavor": "“食草恐龙有什么好怕的？”——某位探险者的遗言",
+    "health": 6,
+    "id": "UNG_925",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "暴躁的恐角龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b><b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41406,
+    "flavor": "德莱尼高层开始考虑取消“带宠物一起上班”这项政策。",
+    "health": 6,
+    "id": "UNG_926",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "身陷绝境的哨卫",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>\n为你的对手召唤三只1/1的迅猛龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41407,
+    "flavor": "有些伤会让你变成另外一个人。",
+    "id": "UNG_927",
+    "name": "基因转接",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "复制所有受伤的友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41418,
+    "flavor": "它爬过的地方，路都出奇地好走。",
+    "health": 5,
+    "id": "UNG_928",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "焦油爬行者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>\n在你对手的回合拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41420,
+    "durability": 0,
+    "flavor": "造型很酷，但是要怎么拿起来呢？",
+    "health": 1,
+    "id": "UNG_929",
+    "name": "熔岩之刃",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "如果这张牌在你的手牌中，每个回合都会变成一张新的武器牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 9,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41425,
+    "elite": true,
+    "flavor": "摩什觉得没有什么问题是踩一脚不能解决的。如果有，踩两脚。",
+    "health": 7,
+    "id": "UNG_933",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴龙之王摩什",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>消灭所有受伤的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nate Bowden",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41427,
+    "elite": true,
+    "flavor": "是的，只要把这枚戒指丢下去，你的任务就完成了…很简单吧。",
+    "id": "UNG_934",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "火羽之心",
+    "questReward": "UNG_934t1",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>任务：</b>使用七张具有<b>嘲讽</b>的随从牌。\n<b>奖励：</b>萨弗拉斯。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41478,
+    "flavor": "他的鼻子像猎犬一样灵敏，总能嗅出其他鱼人的气味。",
+    "health": 2,
+    "id": "UNG_937",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "蛮鱼斥候",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>如果你控制着其他鱼人，<b>发现</b>一张鱼人牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gustav Schmidt",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41479,
+    "flavor": "他很怀念当年和他一起守关的299位小伙伴。",
+    "health": 4,
+    "id": "UNG_938",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "温泉守卫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "targetingArrowText": "恢复3点生命值。",
+    "text": "<b>嘲讽，战吼：</b>\n恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41494,
+    "elite": true,
+    "flavor": "他们唤醒造物者的方法就是不停地按门铃。",
+    "id": "UNG_940",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "唤醒造物者",
+    "questReward": "UNG_940t8",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "UNGORO",
+    "text": "<b>任务：</b>召唤6个<b>亡语</b>随从。<b>奖励：</b>希望守护者阿玛拉。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matthew O'Connor",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41496,
+    "flavor": "雕文上的符号翻译过来就是“抱歉”。",
+    "id": "UNG_941",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "远古雕文",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "ARCANE",
+    "text": "<b>发现</b>一张法术牌，使其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41499,
+    "elite": true,
+    "flavor": "山上的朋友，树上的朋友，水里的朋友，请举起你们的双蹼！让正义的鱼人来拯救艾泽拉斯！",
+    "id": "UNG_942",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "鱼人总动员",
+    "questReward": "UNG_942t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>召唤8个鱼人。\n<b>奖励：</b>老鲨嘴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41683,
+    "flavor": "三度蝉联“安戈洛吃武器大赛”的冠军。",
+    "health": 3,
+    "id": "UNG_946",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "贪食软泥怪",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>摧毁对手的武器，并获得等同于其攻击力的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41690,
+    "flavor": "加过特技后，我看起来棒极了！",
+    "id": "UNG_948",
+    "name": "熔岩镜像",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "选择一个友方随从，召唤一个该随从的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Joe Wilson",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41859,
+    "durability": 0,
+    "flavor": "乔治！卡尔！感谢圣光，终于找到你们了！",
+    "health": 3,
+    "id": "UNG_950",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "斩棘刀",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "在你的英雄攻击后，召唤两个1/1的白银之手\n新兵。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41864,
+    "flavor": "恐龙骑士唯一的遗憾，就是没能参加“冠军的试炼”。",
+    "id": "UNG_952",
+    "name": "剑龙骑术",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "使一个随从获得+2/+6和<b>嘲讽</b>。当该随从死亡时，召唤一只剑龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41866,
+    "flavor": "怎么，你想要回你的东西？除非我死了！",
+    "health": 3,
+    "id": "UNG_953",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "蛮鱼勇士",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>将你施放在本随从身上的所有法术移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41868,
+    "elite": true,
+    "flavor": "“不！这不可能！”白银之手新兵的眼神里充满了恐惧。乌瑟尔摇了摇头，用圣光将水晶点亮：“生命总能自己找到出路。”",
+    "id": "UNG_954",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "最后的水晶龙",
+    "questReward": "UNG_954t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>对你的随从施放5个法术。\n<b>奖励：</b>嘉沃顿。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Gaser",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41878,
+    "flavor": "引导时请注意落点的选择。",
+    "id": "UNG_955",
+    "name": "陨石术",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$15点伤害，并对其相邻的随从造成\n$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41879,
+    "flavor": "死亡不是终点，而是新的开始。",
+    "id": "UNG_956",
+    "name": "灵魂回响",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得“<b>亡语：</b>将本随从移回你的手牌”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41890,
+    "flavor": "打恐龙也要看妈妈。",
+    "health": 6,
+    "id": "UNG_957",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "恐角龙宝宝",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>\n将一张8/12并具有<b>嘲讽</b>的“恐角龙头领”洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41912,
+    "faction": "ALLIANCE",
+    "flavor": "再也没有人见到过乔治和卡尔。",
+    "id": "UNG_960",
+    "name": "迷失丛林",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "召唤两个1/1的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 41944,
+    "flavor": "要是祈求救赎没成功的话，就祈求长出更多的尖牙和利爪吧。",
+    "id": "UNG_961",
+    "name": "适者生存",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>进化</b>一个友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41945,
+    "flavor": "这样进化的好处是不担心走夜路了。",
+    "health": 3,
+    "id": "UNG_962",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光注剑龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>进化</b>你的白银之手新兵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42046,
+    "elite": true,
+    "flavor": "起来吧，美丽的太阳！赶走那妒忌的敌人，他们因为你的传说卡牌美得多，已经气得面色惨白了。",
+    "health": 5,
+    "id": "UNG_963",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "“太阳裂片”莱拉",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "每当你施放一个法术，随机将一张牧师法术牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

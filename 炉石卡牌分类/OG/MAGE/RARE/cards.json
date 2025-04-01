@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38412,
+    "flavor": "千万别带他去任何派对，因为他的冷场天赋太过强大……",
+    "health": 4,
+    "id": "OG_085",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "癫狂的唤冰者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "OG",
+    "text": "在你施放一个法术后，随机<b>冻结</b>\n一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38414,
+    "flavor": "尤格-萨隆总是在抱怨自己的仆从太多，每天起床一想到还有那么多张嘴等着它喂就头疼。",
+    "health": 4,
+    "id": "OG_087",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尤格-萨隆的仆从",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>随机施放一个法力值消耗大于或等于（5）点的法术<i>（目标随机而定）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Meyers & T. Washington",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38900,
+    "flavor": "不论我们告诫她多少回，她还是会偷偷拿东西去喂牌桌底下的克苏恩。",
+    "health": 2,
+    "id": "OG_303",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "异教女巫",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n在你施放一个法术后，使你的克苏恩获得+1/+1<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  }
+]

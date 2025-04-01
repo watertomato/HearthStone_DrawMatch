@@ -1,0 +1,392 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56841,
+    "flavor": "你是穴字！你是犬字！你是龙字！你是衣字！你们两个嘛，你们是感叹号！",
+    "id": "BT_173",
+    "name": "统率伊利达雷",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "召唤六个1/1并具有<b>突袭</b>的伊利达雷。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56928,
+    "flavor": "砍得好，砍得妙，两刀把你们全放倒。",
+    "id": "BT_175",
+    "name": "双刃斩击",
+    "rarity": "COMMON",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "在本回合中，使你的英雄获得+2攻击力。将“二次斩击”置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 56905,
+    "durability": 0,
+    "flavor": "讲道理，它引燃的火比斩灭的还多。",
+    "health": 3,
+    "id": "BT_271",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "斩炎",
+    "rarity": "EPIC",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "同时对其攻击目标相邻的随从\n造成伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58487,
+    "flavor": "看到这个斧头斧脑的家伙没，这是我的战友。",
+    "health": 3,
+    "id": "BT_351",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "战斗邪犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "在你的英雄攻击后，获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 58492,
+    "flavor": "在舞厅清场时最稳妥的办法。",
+    "id": "BT_354",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "刃舞",
+    "rarity": "RARE",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "随机对三个敌方随从造成等同于你的英雄攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ware Lee",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59710,
+    "flavor": "若你愿意投掷武器，召唤小弟置之死地。",
+    "health": 3,
+    "id": "BT_355",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "怒鳞纳迦",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "在一个友方随从死亡后，随机对一个敌人造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56739,
+    "flavor": "面面面面面对加拉克苏斯！",
+    "health": 1,
+    "id": "BT_407",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "乌祖尔恐魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "<b>亡语：</b>将一张2/1的“迷失之魂”置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56765,
+    "flavor": "吼得再响也减不了非恶魔牌的消耗。",
+    "health": 4,
+    "id": "BT_416",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴怒邪吼者",
+    "rarity": "RARE",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "<b>战吼：</b>你的下一张恶魔牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56873,
+    "flavor": "想抓住恶魔猎手的胃，先抓住恶魔的魂。",
+    "id": "BT_427",
+    "name": "灵魂盛宴",
+    "rarity": "RARE",
+    "set": "DEMON_HUNTER_INITIATE",
+    "spellSchool": "SHADOW",
+    "text": "在本回合中每有一个友方随从死亡，抽一张牌。0<i>（抽0张牌）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 8,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 58172,
+    "elite": true,
+    "flavor": "错过了巨龙降临的大潮，但它更为强大，更为灵动。",
+    "health": 8,
+    "id": "BT_481",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奈瑟兰达姆斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "<b>战吼：</b>随机召唤两个法力值消耗为（0）的随从。<i>\n（每有一个友方随从死亡都会升级！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Bayard Wu",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 58244,
+    "flavor": "身形巨大，也许还是恶魔：唉，麻烦就在这儿。",
+    "health": 10,
+    "id": "BT_487",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨型大恶魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "<b>突袭</b>\n在本随从攻击并消灭一个随从后，可再次攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58246,
+    "flavor": "剧透：这两个都是黑化的反派。",
+    "id": "BT_488",
+    "name": "灵魂分裂",
+    "rarity": "RARE",
+    "set": "DEMON_HUNTER_INITIATE",
+    "spellSchool": "SHADOW",
+    "text": "选择一个友方恶魔，召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58452,
+    "flavor": "吞噬生的或未熟的魔法时请注意安全。",
+    "id": "BT_490",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "吞噬魔法",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "DEMON_HUNTER_INITIATE",
+    "spellSchool": "SHADOW",
+    "text": "<b>沉默</b>一个敌方随从。<b>流放：</b>抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59865,
+    "flavor": "帮她抓背时会被她的背抓。",
+    "health": 6,
+    "id": "BT_510",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "怒刺蛮兵",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "<b>嘲讽</b>\n在本随从被攻击后，对所有敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 58607,
+    "flavor": "“你想说什么？告诉我，我能躲开大斧头？”“我想说的是，如果你是个恶魔猎手，你根本不用躲。”",
+    "id": "BT_752",
+    "name": "疾影",
+    "rarity": "COMMON",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "在本回合中，你的英雄无法受到伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58610,
+    "flavor": "确保让他们走向死路的方式之一。",
+    "id": "BT_753",
+    "name": "法力燃烧",
+    "rarity": "COMMON",
+    "set": "DEMON_HUNTER_INITIATE",
+    "spellSchool": "FEL",
+    "text": "下个回合，你的对手减少两个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 58183,
+    "flavor": "有时眼神也可以杀人。",
+    "id": "BT_801",
+    "mechanics": [
+      "LIFESTEAL",
+      "OUTCAST"
+    ],
+    "name": "眼棱",
+    "rarity": "EPIC",
+    "set": "DEMON_HUNTER_INITIATE",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>。\n对一个随从造成$3点伤害。<b>流放：</b>法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58524,
+    "flavor": "恶魔自有恶人磨。",
+    "health": 3,
+    "id": "BT_814",
+    "mechanics": [
+      "OUTCAST",
+      "RUSH"
+    ],
+    "name": "伊利达雷邪刃武士",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "<b>突袭</b>\n<b>流放：</b>在本回合中获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56587,
+    "durability": 0,
+    "flavor": "这大概是恶魔猎手眼中的棕红色。",
+    "health": 2,
+    "id": "BT_922",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "棕红之翼",
+    "rarity": "COMMON",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "<b>战吼：</b>召唤两只1/1的邪翼蝠。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56652,
+    "elite": true,
+    "flavor": "来左边跟我画条灵翼龙，在你右边画一道邪能。",
+    "health": 2,
+    "id": "BT_937",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "流放者奥图里斯",
+    "rarity": "LEGENDARY",
+    "set": "DEMON_HUNTER_INITIATE",
+    "text": "在你使用最左或最右边的一张手牌后，对所有敌人造成1点\n伤害。",
+    "type": "MINION"
+  }
+]

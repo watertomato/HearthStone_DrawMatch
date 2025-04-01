@@ -1,0 +1,153 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91232,
+    "durability": 0,
+    "flavor": "吉他配骷髅——最适合摇头。",
+    "health": 2,
+    "id": "ETC_423",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奥金利斧",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>召唤一个1/1并具有<b>吸血</b>的亡灵。<i>（装备期间，在你的回合中使你的生命值发生变化以提升此效果！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 91251,
+    "flavor": "嗷嗷嗷嗷气死我了！因为我真的死了！",
+    "id": "ETC_424",
+    "name": "死亡嘶吼",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "选择一个随从。将其<b>亡语</b>传播到相邻随从上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90484,
+    "flavor": "他更喜欢死板的录播，不喜欢鲜活的现场。",
+    "health": 4,
+    "id": "ETC_523",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "死亡金属骑士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>。在本回合中，如果你的英雄受到治疗，本牌改为消耗生命值而非法力值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95344,
+    "flavor": "恐怖图腾毁掉<i>某些</i>音乐未尝不是好事。",
+    "health": 4,
+    "id": "JAM_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "约德尔狂吼歌手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "targetingArrowText": "触发一个友方随从的亡语两次。",
+    "text": "<b>战吼：</b>\n触发一个友方随从的\n<b>亡语</b>，触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "cardClass": "DEATHKNIGHT",
+    "classes": [
+      "DEATHKNIGHT",
+      "PALADIN"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98390,
+    "flavor": "舞者还需热身。",
+    "id": "JAM_006",
+    "isMiniSet": true,
+    "name": "冻感舞步",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FROST",
+    "text": "下个回合，敌方随从牌的法力值消耗增加（5）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98410,
+    "flavor": "直播突发事故，我们先听听现场飘荡的观众怎么说。",
+    "id": "JAM_008",
+    "isMiniSet": true,
+    "name": "直播事故",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 1
+    },
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "消灭你的亡灵。再次召唤它们。",
+    "type": "SPELL"
+  }
+]

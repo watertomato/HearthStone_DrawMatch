@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Ben Zhang",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 2910,
+    "flavor": "要是她把钻研巫术的精神放在学习上该多好。",
+    "health": 5,
+    "howToEarn": "加入“探险者协会”冒险模式，在废墟之城中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在废墟之城中解锁制作。",
+    "id": "LOE_038",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "纳迦海巫",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "LOE",
+    "text": "你的卡牌法力值消耗为（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2925,
+    "flavor": "如果愿望没有实现，一定是你擦灯的方式不对。",
+    "health": 6,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥西斯神庙中解锁制作。",
+    "id": "LOE_053",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "西风灯神",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "LOE",
+    "text": "在你对一个其他友方随从施放法术后，将法术效果复制在本随从身上。",
+    "type": "MINION"
+  }
+]

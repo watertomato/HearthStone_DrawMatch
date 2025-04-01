@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 7,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你召唤过7个其他海盗，即可劫掠敌人！",
+    "cost": 7,
+    "dbfId": 72495,
+    "elite": true,
+    "flavor": "有一利，必有一毙。",
+    "health": 7,
+    "id": "TSC_934",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海盗将领钩牙",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>在本局对战中，如果你召唤过7个其他海盗，即可劫掠敌人！@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 72536,
+    "elite": true,
+    "flavor": "这只巨蟹喜欢弄沉整支舰队，不过饿极了的时候，一艘小艇也能凑合。",
+    "health": 5,
+    "id": "TSC_937",
+    "mechanics": [
+      "AURA",
+      "COLOSSAL"
+    ],
+    "name": "可拉巴托亚",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>巨型+2</b>\n你的可拉巴托亚的钳子拥有+2攻击力。",
+    "type": "MINION"
+  }
+]

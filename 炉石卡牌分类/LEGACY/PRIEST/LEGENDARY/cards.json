@@ -1,0 +1,25 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 60071,
+    "elite": true,
+    "flavor": "是她发现了萨拉塔斯，黑暗帝国之刃，暗影魔法的恐怖神器。可以生吞灵魂，<i>也能</i>将灵魂细细切丝。",
+    "health": 1,
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_198",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "娜塔莉·塞林",
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>消灭一个随从并获得其生命值。",
+    "type": "MINION"
+  }
+]

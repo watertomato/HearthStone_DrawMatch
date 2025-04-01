@@ -1,0 +1,83 @@
+[
+  {
+    "artist": "Bernie Kang",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 2882,
+    "flavor": "打蛇打七寸，可它的七寸在哪里……",
+    "health": 1,
+    "howToEarn": "加入“探险者协会”冒险模式，在废墟之城中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在废墟之城中解锁制作。",
+    "id": "LOE_010",
+    "mechanics": [
+      "POISONOUS"
+    ],
+    "name": "深渊巨蟒",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOE",
+    "text": "<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2884,
+    "flavor": "自从公会解散后，他只能自己单刷了。",
+    "health": 4,
+    "howToEarn": "加入“探险者协会”冒险模式，在探险者大厅中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在探险者大厅中解锁制作。",
+    "id": "LOE_012",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "盗墓匪贼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "LOE",
+    "techLevel": 3,
+    "text": "<b>亡语：</b>获取一张\n幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2891,
+    "flavor": "它至今还在寻找将其射杀的凶手。",
+    "health": 4,
+    "howToEarn": "加入“探险者协会”冒险模式，在奥达曼中解锁。",
+    "howToEarnGolden": "加入“探险者协会”冒险模式，在奥达曼中解锁制作。",
+    "id": "LOE_019",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "化石迅猛龙",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "LOE",
+    "targetingArrowText": "获得一个<b>亡语</b>。",
+    "text": "<b>战吼：</b>选择一个友方随从，获得其<b>亡语</b>的复制。",
+    "type": "MINION"
+  }
+]

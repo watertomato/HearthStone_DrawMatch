@@ -1,0 +1,206 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54261,
+    "flavor": "最强的捕鼠能手，上猫窝与下猫窝之王，红色光斑的征服者，全知全能的喵特谢普苏特。",
+    "health": 2,
+    "id": "ULD_186",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "法老御猫",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ULDUM",
+    "text": "<b>战吼：\n</b>随机将一张<b>复生</b>随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53627,
+    "flavor": "连-连-连击！",
+    "health": 2,
+    "id": "ULD_231",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "连环腿大师",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "ULDUM",
+    "text": "每当你使用一张<b>连击</b>牌时，随机将一张<b>连击</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54011,
+    "flavor": "“喏，你随从掉了。”",
+    "health": 4,
+    "id": "ULD_280",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "沙赫柯特工兵",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>亡语：</b>随机将一个敌方随从移回对手的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54015,
+    "durability": 0,
+    "flavor": "钩！钩！钩！哦嘞哦嘞哦嘞！",
+    "health": 2,
+    "id": "ULD_285",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "钩镰弯刀",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "<b>连击：</b>获得+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54016,
+    "flavor": "开棺有风险，交友须谨慎。",
+    "id": "ULD_286",
+    "name": "死亡之影",
+    "rarity": "EPIC",
+    "set": "ULDUM",
+    "spellSchool": "SHADOW",
+    "text": "选择一个随从。将三张“阴影”牌洗入你的牌库，当抽到“阴影”时，召唤该随从的一个复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54020,
+    "elite": true,
+    "flavor": "“你看着有点眼熟。你参加过我的第一次葬礼吗？”",
+    "health": 5,
+    "id": "ULD_288",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "被埋葬的安卡",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>使你手牌中所有具有<b>亡语</b>的随从牌变为1/1，且法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54311,
+    "elite": true,
+    "flavor": "你想想，你带着招牌，到了集市，“纯天然香薰蜡烛”，突然就被愚蠢的狗头人劫了！",
+    "id": "ULD_326",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "劫掠集市",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>任务：</b>将4张其他职业的卡牌置入你的手牌。\n<b>奖励：</b>远古刀锋。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54314,
+    "flavor": "金牌恶痞，特惠抢劫。",
+    "health": 5,
+    "id": "ULD_327",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "集市恶痞",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>突袭</b>\n<b>战吼：</b>随机将一张另一职业的随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ekaterina Shapovalova",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54317,
+    "flavor": "“是我！托瓦格尔！”",
+    "id": "ULD_328",
+    "name": "聪明的伪装",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "随机将另一职业的两张法术牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54426,
+    "flavor": "械斗的时候就别用蜡烛了。",
+    "id": "ULD_715",
+    "name": "疯狂之灾祸",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "ULDUM",
+    "spellSchool": "SHADOW",
+    "text": "每个玩家装备一把2/2并具有<b>剧毒</b>的刀。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 9,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41425,
+    "elite": true,
+    "flavor": "摩什觉得没有什么问题是踩一脚不能解决的。如果有，踩两脚。",
+    "health": 7,
+    "id": "UNG_933",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴龙之王摩什",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>消灭所有受伤的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nate Bowden",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41427,
+    "elite": true,
+    "flavor": "是的，只要把这枚戒指丢下去，你的任务就完成了…很简单吧。",
+    "id": "UNG_934",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "火羽之心",
+    "questReward": "UNG_934t1",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>任务：</b>使用七张具有<b>嘲讽</b>的随从牌。\n<b>奖励：</b>萨弗拉斯。",
+    "type": "SPELL"
+  }
+]

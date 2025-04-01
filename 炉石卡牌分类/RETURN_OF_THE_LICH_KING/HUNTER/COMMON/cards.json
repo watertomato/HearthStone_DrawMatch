@@ -1,0 +1,102 @@
+[
+  {
+    "artist": "Max Grecke",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 86567,
+    "flavor": "你存在我深深的脑海里。——致尸蜂",
+    "id": "NX2_013",
+    "isMiniSet": true,
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "僵尸蜂群",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，召唤四只1/1的尸蜂攻击它。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86570,
+    "flavor": "冲过大风雪，亡灵坐在雪橇上。奔驰过田野，他们追踪坠饰忙！",
+    "health": 1,
+    "id": "NX2_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "坠饰追踪者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>抽一张法力值消耗为（1）的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84250,
+    "flavor": "简单几何学？很难的啦。",
+    "id": "RLK_818",
+    "name": "弹溅射击",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "ARCANE",
+    "text": "随机对三个敌人造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84392,
+    "flavor": "那块蓝树莓糖酸炸了。",
+    "health": 3,
+    "id": "RLK_825",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哮雷龙鹰",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "targetingArrowText": "造成@点伤害。",
+    "text": "<b>战吼：</b>造成1点伤害。<i>（在本局对战中，你的英雄每攻击一次都会提升！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84398,
+    "flavor": "“别啊雷克萨，别打脸了，你看那么大的一个随从。对，就是那——别打了！”",
+    "health": 4,
+    "id": "RLK_827",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "锐眼侦察兵",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "每当你的英雄攻击随从时，将被攻击随从的生命值变为1。",
+    "type": "MINION"
+  }
+]

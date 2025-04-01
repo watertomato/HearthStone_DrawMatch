@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41350,
+    "flavor": "牙好，胃口就好，什么都想咬一口。",
+    "id": "UNG_910",
+    "name": "凶残撕咬",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "对一个随从造成$3点伤害，并对其相邻的随从\n造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41353,
+    "flavor": "地精珠宝商慕名而来，失望而归…",
+    "health": 2,
+    "id": "UNG_912",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "宝石鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>随机将一张野兽牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41358,
+    "flavor": "还不够聪明，都不会绕过通电的防护栏。",
+    "health": 2,
+    "id": "UNG_915",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷鸣刺喉龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "targetingArrowText": "<b>进化</b>一个野兽。",
+    "text": "<b>战吼：</b><b>进化</b>一个友方野兽。",
+    "type": "MINION"
+  }
+]

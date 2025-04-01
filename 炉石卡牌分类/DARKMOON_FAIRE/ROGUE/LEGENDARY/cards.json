@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Juyoung Oh",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61635,
+    "elite": true,
+    "flavor": "赤红如火，难知如烟。",
+    "health": 2,
+    "id": "DMF_071",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "“赤烟”腾武",
+    "rarity": "LEGENDARY",
+    "set": "DARKMOON_FAIRE",
+    "targetingArrowText": "将一个随从移回你的手牌。",
+    "text": "<b>战吼：</b>将一个友方随从移回你的手牌，在本回合中，其法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61162,
+    "elite": true,
+    "flavor": "大女皇究竟是指比女皇还大的女皇，还是说这个女皇体型特别大？",
+    "health": 7,
+    "id": "DMF_516",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大女皇夏柯扎拉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张牌，抽取它的所有复制。",
+    "type": "MINION"
+  }
+]

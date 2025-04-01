@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56603,
+    "flavor": "塞泰克鸦人善于利用他们的力量，还有浮夸的大帽子。否则也存活不了这么久。",
+    "health": 3,
+    "id": "BT_254",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "塞泰克织巢者",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "在你对一个随从施放法术后，随机将一张牧师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57688,
+    "flavor": "这条龙我要给差评，半个小时前刚刚买的。就是兀鹫那家店。",
+    "health": 9,
+    "id": "BT_341",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "骸骨巨龙",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，将一张龙牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

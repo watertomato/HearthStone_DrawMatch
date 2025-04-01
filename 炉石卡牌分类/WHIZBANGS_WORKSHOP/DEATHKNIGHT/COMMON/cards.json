@@ -1,0 +1,125 @@
+[
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106063,
+    "flavor": "原来恶鬼就是这样偷走冬幕节的！",
+    "health": 1,
+    "id": "MIS_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "GIGANTIFY"
+    ],
+    "name": "玩具盗窃恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n<b>战吼：</b><b>发现</b>一张亡灵牌，使其降低等同于本随从攻击力的法力值消耗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Taylor Smith",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104987,
+    "flavor": "没有他的毛绒宝宝，巫妖王根本睡不着。",
+    "health": 2,
+    "id": "TOY_821",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "毛绒暴暴狗",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>\n在你施放一个冰霜法术后，获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104634,
+    "flavor": "未能加入蜘蛛缝纫俱乐部，至今怀恨在心。",
+    "health": 4,
+    "id": "TOY_824",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑棘针线师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的回合结束时，造成等同于本随从攻击力的伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104636,
+    "flavor": "状态不佳的蜘蛛坦克。",
+    "health": 2,
+    "id": "TOY_827",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "蹒跚的僵尸坦克",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>消耗5份<b>残骸</b>以召唤一个本随从的复制。",
+    "type": "MINION"
+  }
+]

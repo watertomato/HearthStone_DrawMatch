@@ -1,0 +1,201 @@
+[
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114080,
+    "flavor": "我年轻的时候，好友请求都是这样发的。",
+    "health": 1,
+    "id": "EDR_449",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "月翼信使",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>吸血</b>。<b>战吼：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114299,
+    "flavor": "对着星星祈愿，那是上个扩展包的事了。",
+    "id": "EDR_460",
+    "name": "新月祈愿",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从\n造成$6点伤害。\n<i>（施放3个法术\n以获得<b>吸血</b>。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114300,
+    "flavor": "这种仪式没有任何作用。只有社交功能。",
+    "id": "EDR_461",
+    "name": "新月仪式",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "随机召唤两个法力值消耗为（3）的随从。<i>（施放3个法术以改为召唤法力值消耗为6的随从。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114308,
+    "flavor": "这张牌的攻击力本该是现在的几千倍吧？",
+    "health": 6,
+    "id": "EDR_462",
+    "mechanics": [
+      "ELUSIVE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "逐月幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>扰魔</b>。在你的回合结束时，随机获取一张龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114310,
+    "flavor": "“一定……要读……吸血鬼小说……”",
+    "id": "EDR_463",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "暮光侵扰",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
+    "text": "<b>抉择：</b>消灭一个攻击力小于或等于3的随从；或者随机召唤一个法力值消耗为（2）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114326,
+    "elite": true,
+    "flavor": "身为高阶月之女祭司，泰兰德曾亲往翡翠梦境去寻找玛法里奥。在发现了萨维斯的梦魇之后，她决心挫败试图腐蚀梦境的势力。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "EDR_464",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泰兰德",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>\n你使用的下三张法术牌会施放两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114373,
+    "flavor": "健身课程中的噩梦。",
+    "health": 3,
+    "id": "EDR_472",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "轮回编织者",
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，则造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 114627,
+    "flavor": "井底月是天上月，水边人为梦中人。",
+    "id": "EDR_476",
+    "name": "月亮井",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "对所有敌方\n角色造成$4点伤害。为所有友方角色恢复#4点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 7,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 115264,
+    "elite": true,
+    "flavor": "百鸟之神对所有的空中生物都抱有特别的兴趣。哪怕是那些生有翅膀却不能飞的生物。",
+    "health": 11,
+    "id": "EDR_895",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾维娜，艾露恩钦选者",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>开启为期三回合的月相演变。当满月升起时，在本局对战中你的卡牌法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115461,
+    "flavor": "艾露恩，我向您祈求……对战中的每次随机都有最好的结果，这样我就能100%胜率上传说啦。",
+    "health": 4,
+    "id": "EDR_970",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "卡多雷女祭司",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>直到你的下个回合，使所有敌方随从获得-2攻击力。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  }
+]

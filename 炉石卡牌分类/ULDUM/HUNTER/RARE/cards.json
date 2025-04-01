@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 53917,
+    "flavor": "“不听话就送你去荣誉室！”",
+    "health": 3,
+    "id": "ULD_151",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "拉穆卡恒驯兽师",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>随机复制一张你手牌中的野兽牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53922,
+    "flavor": "阳光所及的万物——只要是死物，都属于我们。",
+    "health": 3,
+    "id": "ULD_154",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "土狼头领",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便召唤两只2/2的土狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 54424,
+    "flavor": "蝗虫一拥而至，好事从不成群。",
+    "id": "ULD_713",
+    "name": "飞蝗虫群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ULDUM",
+    "text": "召唤七只1/1并具有<b>突袭</b>的\n蝗虫。",
+    "type": "SPELL"
+  }
+]

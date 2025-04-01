@@ -1,0 +1,88 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 87639,
+    "flavor": "她是吉他界的英雄。吉他英雄™。",
+    "health": 3,
+    "id": "ETC_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吉他独演者",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，抽一张法术牌，一张随从牌和一张武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96946,
+    "flavor": "好辣！",
+    "id": "ETC_394",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "混乱品味",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$2点伤害。<b>压轴：</b><b>发现</b>一张邪能法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90612,
+    "flavor": "请勾选所有包含“复仇”的框格以使用这张牌。",
+    "id": "ETC_411",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "保安！！",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "召唤两个1/1并具有<b>突袭</b>的伊利达雷。<b>流放：</b>再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "classes": [
+      "WARRIOR",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 94819,
+    "flavor": "打入恶魔的深渊，推向音乐的高潮！",
+    "health": 7,
+    "id": "JAM_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "渊狱贝斯手",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>嘲讽</b>，<b>吸血</b>。在本局对战中你每装备过一把武器，本牌的法力值消耗便减少（2）点。",
+    "type": "MINION"
+  }
+]

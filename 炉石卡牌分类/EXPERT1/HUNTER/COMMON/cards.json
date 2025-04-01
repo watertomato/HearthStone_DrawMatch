@@ -1,0 +1,109 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1281,
+    "flavor": "土狼偏爱科多兽和风蛇的骨头，但是其实他们什么都吃。甚至是抱子甘蓝。",
+    "health": 2,
+    "id": "EX1_531",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "食腐土狼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "每当一个友方野兽死亡，便获得+2/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Linggar Bramanty",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1243,
+    "flavor": "在你使用这张牌的时候，一定要喊出它的名字。",
+    "id": "EX1_538",
+    "name": "关门放狗",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "EXPERT1",
+    "text": "战场上每有一个敌方随从，便召唤一个\n1/1并具有<b>冲锋</b>的猎犬。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Lorenzo Minaca",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 814,
+    "flavor": "伟大的狙击手总是能够正中目标。就像吃下一整块猪肋排。嗯，味道好极了。",
+    "id": "EX1_609",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "狙击",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，对该随从造成$6点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brandon Kitkouski",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 585,
+    "flavor": "普通陷阱捉到的是猎物；爆炸陷阱捉到的是烤熟的食物！",
+    "id": "EX1_610",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "爆炸陷阱",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "FIRE",
+    "text": "<b>奥秘：</b>当你的英雄受到攻击，对所有敌人造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Gaser",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 519,
+    "flavor": "“呃，好冷。”——当你中了冰冻陷阱或是听到一个冷笑话时，通常都是这个反应。",
+    "id": "EX1_611",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "冰冻陷阱",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "spellSchool": "FROST",
+    "text": "<b>奥秘：</b>当一个敌方随从攻击时，将其移回拥有者的手牌，并且法力值消耗增加（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steven Prescott",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1093,
+    "flavor": "我们的弩炮手效率很高，但准度就……",
+    "id": "EX1_617",
+    "name": "致命射击",
+    "rarity": "COMMON",
+    "set": "EXPERT1",
+    "text": "随机消灭一个敌方随从。",
+    "type": "SPELL"
+  }
+]

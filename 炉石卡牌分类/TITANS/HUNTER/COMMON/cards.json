@@ -1,0 +1,74 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97051,
+    "flavor": "神迷动物饲养员走神的时候，由她来顶班。",
+    "health": 3,
+    "id": "TTN_080",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘动物饲养员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>战吼：</b>如果你控制一个攻击力大于或等于4的随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97096,
+    "flavor": "睡眠颤动之后的大动作。",
+    "id": "TTN_081",
+    "name": "颤地觉醒",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "获取三张4/1的冰虫，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101869,
+    "flavor": "我的天呐，这种套路怎么总有人上钩！",
+    "id": "TTN_504",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "诱骗诡计",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>奥秘：</b>当一个友方随从受到攻击时，使其获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97098,
+    "flavor": "这一箭确实是星体射的。",
+    "id": "YOG_082",
+    "isMiniSet": true,
+    "name": "星体射击",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TITANS",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害。你的下一个法术拥有<b>法术伤害+2</b>。",
+    "type": "SPELL"
+  }
+]

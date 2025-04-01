@@ -1,0 +1,110 @@
+[
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102623,
+    "flavor": "事实证明海象人对于图腾的样式一点都不挑剔。",
+    "health": 2,
+    "id": "WON_081",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海象人图腾师",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>随机召唤一个基础图腾。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102624,
+    "flavor": "你是电，你是光，你是唯一的传奇！",
+    "id": "WON_082",
+    "name": "青玉闪电",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "造成$3点伤害，召唤一个{0}的<b>青玉魔像</b>。0造成$3点伤害，召唤一个<b>青玉魔像</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102625,
+    "flavor": "对付女巫有两种办法：要么对她造成4点伤害，要么点燃她脚下的那堆柴火。",
+    "health": 4,
+    "id": "WON_083",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪恶的巫医",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "每当你施放一个法术，随机召唤一个基础图腾。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102626,
+    "flavor": "看着那些小家伙成长为身强体壮，仪表堂堂的青玉魔像时，他倍感骄傲。",
+    "health": 5,
+    "id": "WON_084",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "青玉酋长",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM",
+      "TAUNT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>召唤一个{0}的<b>青玉魔像</b>，使其获得<b>嘲讽</b>。0<b>战吼：</b>召唤一个<b>青玉魔像</b>，使其获得\n<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102628,
+    "flavor": "他们住在加基森的下水道，他们超爱吃披萨！",
+    "id": "WON_086",
+    "name": "神奇四鱼",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "召唤四个1/1的鱼人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103238,
+    "flavor": "这和出生时没什么两样，除了你生下来就是个成年人，除了你一秒钟之前还是个死人。",
+    "id": "WON_335",
+    "name": "转生",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "消灭一个随从，然后将其复活，并具有所有生命值。",
+    "type": "SPELL"
+  }
+]

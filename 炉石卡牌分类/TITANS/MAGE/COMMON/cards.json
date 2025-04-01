@@ -1,0 +1,93 @@
+[
+  {
+    "artist": "Max Grecke",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97005,
+    "flavor": "多次海岛度假之后，他发觉来风暴峭壁换换口味也不错。",
+    "health": 3,
+    "id": "TTN_077",
+    "mechanics": [
+      "MAGNETIC"
+    ],
+    "name": "酷冰机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102040,
+    "flavor": "别再召唤它了！不然我又得把打湿的卷轴放进米缸里。",
+    "health": 2,
+    "id": "TTN_095",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "流水档案管理员",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>你的下一张元素牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98123,
+    "flavor": "这是一件后上古现代现实主义新古典印象派的艺术作品。没人知道是什么意思。",
+    "id": "TTN_477",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "熔火符文",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "造成$3点伤害。随机获取一张法术牌。<b>锻造：</b>本牌施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 7,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101076,
+    "flavor": "辣眼的眼怪辣你的眼。",
+    "health": 4,
+    "id": "YOG_519",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐化残渣",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则造成7点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  }
+]

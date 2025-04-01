@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Kagi",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58979,
+    "durability": 0,
+    "flavor": "死吧，死吧，死吧。",
+    "health": 2,
+    "id": "SCH_238",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "收割之镰",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>在本回合中同时对攻击目标相邻的随从造成伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 59175,
+    "flavor": "“既然你诚心诚意地发问了！”“我们就大发慈悲地告诉你！”",
+    "health": 8,
+    "id": "SCH_337",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "问题学生",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "在你的回合结束时，召唤两个3/3的无赖并使其攻击随机敌人。",
+    "type": "MINION"
+  }
+]

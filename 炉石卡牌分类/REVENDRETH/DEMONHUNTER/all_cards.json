@@ -1,0 +1,233 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79549,
+    "flavor": "常言道，“正义是盲目的”。那么正义也有幽灵视觉吗？",
+    "health": 4,
+    "id": "MAW_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盲眼法官",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>双方玩家抽若干数量的牌，直到拥有5张手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79593,
+    "flavor": "我们是不是该把栏杆装得更密些……",
+    "id": "MAW_012",
+    "isMiniSet": true,
+    "name": "邪能之乱",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "INFUSE"
+    ],
+    "set": "REVENDRETH",
+    "spellSchool": "FEL",
+    "text": "召唤一个在本局对战中死亡的友方恶魔。\n<b>注能（3个恶魔）：</b>改为召唤三个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 79598,
+    "elite": true,
+    "flavor": "“法官大人，辩方律师何止是小丑。他自己就是一整个马戏团。”",
+    "health": 6,
+    "id": "MAW_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "公诉人梅尔特拉尼克斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>你的对手在其下回合中只能使用最左边和最右边的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78111,
+    "flavor": "大哥被标记了，怎么办？打灭。",
+    "id": "REV_506",
+    "name": "罪孽烙印",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "text": "标记一个敌方随从。每当该随从受到伤害，对敌方英雄造成1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 78117,
+    "flavor": "尽管是你干的，但你未必有罪。",
+    "id": "REV_507",
+    "name": "处理证据",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "在本回合中，使你的英雄获得+3攻击力。选择一张你的手牌洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78122,
+    "flavor": "战刃就是战刃，但神秘宝箱里可能有任何装备！甚至可能有把战刃！",
+    "id": "REV_508",
+    "name": "次元圣物",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "text": "抽两张牌并使其法力值消耗降低（1）点。提升你此后的圣物效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Hayes",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78123,
+    "durability": 0,
+    "flavor": "复仇！",
+    "health": 2,
+    "id": "REV_509",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "放大战刃",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "在你的英雄攻击后，抽牌，直到你拥有三张牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 78125,
+    "elite": true,
+    "flavor": "尝试过间歇性断食。没能坚持。",
+    "health": 7,
+    "id": "REV_510",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "贪食的克里克西斯",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>弃掉你的手牌。<b>亡语：</b>抽三张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78150,
+    "flavor": "听说你想要一个法术？他这里可没有。",
+    "health": 4,
+    "id": "REV_511",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "案卷书虫",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>选择一张你的手牌洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 78469,
+    "flavor": "比小行星还快，效果还差不多。",
+    "id": "REV_834",
+    "name": "灭绝圣物",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "随机对一个敌方随从造成$1点伤害，触发两次。提升你此后的圣物效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 77482,
+    "elite": true,
+    "flavor": "“我一直想玩玩这件圣物，都快想疯了！而你们的死，可以填补我多年的空虚。”",
+    "health": 8,
+    "id": "REV_937",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "INFUSE"
+    ],
+    "name": "圣物匠赛·墨克斯",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b><b>发现</b>并施放一个圣物。<b>注能（5）：</b>改为施放全部三个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77615,
+    "flavor": "内藏德纳修斯最珍视的宝物：他的泰迪熊，杰里米·贝里米。",
+    "health": 2,
+    "id": "REV_942",
+    "name": "圣物仓库",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "在本回合中你使用的下一个圣物将施放两次。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 77616,
+    "flavor": "赛·墨克斯笑了。“你指的是混沌宝石吗？”",
+    "id": "REV_943",
+    "name": "幻灭心能圣物",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "召唤两个1/1的灵魂。提升你此后的圣物效果。",
+    "type": "SPELL"
+  }
+]

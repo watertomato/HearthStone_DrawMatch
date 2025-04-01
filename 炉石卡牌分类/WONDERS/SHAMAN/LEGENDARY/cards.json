@@ -1,0 +1,58 @@
+[
+  {
+    "armor": 8,
+    "artist": "Kevin Sidharta",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102634,
+    "elite": true,
+    "flavor": "姆诺兹多在对抗青铜龙军团之时，找上的盟友非比寻常。",
+    "health": 30,
+    "heroPowerDbfId": 102635,
+    "id": "WON_092h",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "时光之风奥拉基尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE",
+      "DIVINE_SHIELD",
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>抽取具有<b>冲锋</b>，<b>圣盾</b>，<b>嘲讽</b>和\n<b>风怒</b>的随从牌\n各一张。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103239,
+    "elite": true,
+    "flavor": "根据能量守恒定律，你损失的生命值最终会转移到我身上。",
+    "health": 6,
+    "id": "WON_336",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "升腾者海纳泽尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "WONDERS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n你的法术拥有<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

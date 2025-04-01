@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "J. Cheung & A. Bozonnet",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 61228,
+    "flavor": "打来打去，都是为了最终的奖品毛绒玩具。",
+    "id": "DMF_706",
+    "name": "死斗场帐篷",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤一个3/2的决斗者。在本回合中，如果你的英雄进行过攻击，则再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61229,
+    "flavor": "最神奇的就是他从帽子里掏出死亡之翼的那一刻！",
+    "health": 4,
+    "id": "DMF_707",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鱼人魔术师",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "在一个友方鱼人死亡后，随机将一张<b>传说</b>随从牌置入你的\n手牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105573,
+    "flavor": "报错：这张牌功能完好，没有故障。",
+    "id": "MIS_107",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "玩具故障",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害，随机分配到所有敌方随从身上。如果你的牌库中没有随从牌，再造成$3点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108619,
+    "flavor": "雪赚！",
+    "id": "MIS_302",
+    "isMiniSet": true,
+    "name": "买一冻一",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个随从，召唤一个它的<b>被冻结</b>的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108620,
+    "flavor": "暗月魔术师能从帽子里变出兔子，还有……胜利。",
+    "health": 4,
+    "id": "MIS_303",
+    "mechanics": [
+      "ELUSIVE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗月魔术师",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扰魔</b>。在你施放一个法术后，随机施放一个法力值消耗增加（1）点的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102449,
+    "flavor": "图中共有99个侏儒，你能全部找出来吗？",
+    "id": "TOY_037",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "寻物解谜",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>一张<b>奥秘</b>牌，将其法力值消耗变为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103266,
+    "flavor": "你不能拿走我的蜡烛！第二支也不行。不过第三支可以。",
+    "health": 3,
+    "id": "TOY_370",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "三芯诡烛",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>随机对一个敌人造成2点伤害，触发三次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103269,
+    "flavor": "你肯定觉得生产这种只有9块的拼图不是什么难事，对吧？",
+    "id": "TOY_371",
+    "name": "加工失误",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽三张牌。如果你的牌库里没有随从牌，这三张牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 103270,
+    "flavor": "砰！上古之神！",
+    "id": "TOY_372",
+    "name": "匣中古神",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "随机施放5个法术。如果你的牌库里没有随从牌，则这些法术的法力值消耗大于或等于（5）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 108515,
+    "elite": true,
+    "flavor": "卡德加卡德加告诉我，这世上白头发高个子又帅气的法师当中最聪明的是哪一个？",
+    "health": 5,
+    "id": "TOY_373",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "益智大师卡德加",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>装备一个会施放有用的法师法术的0/6的魔法智慧之球！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103347,
+    "flavor": "啊，我总算看出来啦！右边画的是冰风雪人，左边是血精灵。",
+    "id": "TOY_374",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "找不同",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>发现</b>并召唤一个法力值消耗为（3）的随从。如果你的牌库中没有随从牌，重复此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103348,
+    "flavor": "冰元素朋友，你们好吗？",
+    "health": 4,
+    "id": "TOY_375",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "滑冰元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "冻结一个敌方随从。",
+    "text": "<b>微缩</b>\n<b>战吼：</b><b>冻结</b>一个敌方随从，获得等同于其攻击力的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103350,
+    "flavor": "积累了大量以水为题的画作：湖泊，河流，还有自画像。",
+    "health": 3,
+    "id": "TOY_376",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "水彩美术家",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张冰霜法术牌，在你的回合开始时，其法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103352,
+    "flavor": "水人本身并不可怕，可怕的是它的主人！",
+    "id": "TOY_377",
+    "name": "霜巫十字绣",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FROST",
+    "text": "对一个角色造成$3点伤害。如果该角色死亡，召唤一个3/6的可以<b><b>冻结</b></b>攻击目标的水元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 103354,
+    "elite": true,
+    "flavor": "仔细观察这枚球体，你能看见宇宙的扩展，包括空间和时间。哦，其实只是影像而已。",
+    "id": "TOY_378",
+    "name": "星空投影球",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "再次施放你在本局对战中施放过的法术，每种法力值消耗各随机一个。<i>（尽可能以敌人为目标）</i>",
+    "type": "SPELL"
+  }
+]

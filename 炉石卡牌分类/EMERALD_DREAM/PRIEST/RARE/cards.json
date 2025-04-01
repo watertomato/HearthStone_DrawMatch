@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114308,
+    "flavor": "这张牌的攻击力本该是现在的几千倍吧？",
+    "health": 6,
+    "id": "EDR_462",
+    "mechanics": [
+      "ELUSIVE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "逐月幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "<b>扰魔</b>。在你的回合结束时，随机获取一张龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114310,
+    "flavor": "“一定……要读……吸血鬼小说……”",
+    "id": "EDR_463",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "暮光侵扰",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "SHADOW",
+    "text": "<b>抉择：</b>消灭一个攻击力小于或等于3的随从；或者随机召唤一个法力值消耗为（2）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115461,
+    "flavor": "艾露恩，我向您祈求……对战中的每次随机都有最好的结果，这样我就能100%胜率上传说啦。",
+    "health": 4,
+    "id": "EDR_970",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "卡多雷女祭司",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>直到你的下个回合，使所有敌方随从获得-2攻击力。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  }
+]

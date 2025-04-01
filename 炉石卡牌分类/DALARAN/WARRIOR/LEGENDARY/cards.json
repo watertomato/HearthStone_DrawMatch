@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 51739,
+    "elite": true,
+    "flavor": "给他一点添加剂，他可以飞越整片天空。",
+    "health": 7,
+    "id": "DAL_064",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "爆破之王砰砰",
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>你对手的牌库中每有一张“炸弹”牌，便召唤两个1/1的砰砰机器人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 52086,
+    "elite": true,
+    "flavor": "“吃我一斧！”",
+    "health": 9,
+    "id": "DAL_070",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "砰砰机甲",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>\n召唤一个你牌库中的随从的复制，并使其获得<b>突袭</b>。",
+    "type": "MINION"
+  }
+]

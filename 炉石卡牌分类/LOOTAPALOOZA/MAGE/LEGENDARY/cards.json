@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Izzy Hoover",
+    "attack": 0,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 43426,
+    "durability": 0,
+    "elite": true,
+    "flavor": "不可阻挡的奥术之力……却被困在这么小的空间里。",
+    "health": 3,
+    "id": "LOOT_108",
+    "mechanics": [
+      "TRIGGER_VISUAL",
+      "InvisibleDeathrattle"
+    ],
+    "name": "艾露尼斯",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合结束时，抽三张牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 46499,
+    "elite": true,
+    "flavor": "召唤巨龙的秘密很简单：只要轻声细语，再拿一包热狗出来就行。",
+    "health": 3,
+    "id": "LOOT_535",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨龙召唤者奥兰纳",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>在本局对战中，你每施放过一个法力值消耗大于或等于（5）点的法术，便召唤一个5/5的龙。",
+    "type": "MINION"
+  }
+]

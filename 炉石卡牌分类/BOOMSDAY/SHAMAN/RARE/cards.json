@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48799,
+    "flavor": "三分天注定，七分靠打拼，九十分靠发牌员。",
+    "id": "BOT_099",
+    "name": "我找到了",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "随机召唤你手牌中的一张随从牌的一个复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48490,
+    "flavor": "追风追多了需要补充水分。",
+    "health": 4,
+    "id": "BOT_291",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风暴追逐者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>从你的牌库中抽一张法力值消耗大于或等于（5）点的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 49052,
+    "flavor": "电路负载过多就成了过载。",
+    "id": "BOT_451",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "流电爆裂",
+    "overload": 1,
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BOOMSDAY",
+    "spellSchool": "NATURE",
+    "text": "召唤两个1/1并具有<b>突袭</b>的“火花”。<b>过载：</b>（1）",
+    "type": "SPELL"
+  }
+]

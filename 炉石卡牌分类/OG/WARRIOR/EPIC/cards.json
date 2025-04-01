@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Alex Konstad",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38279,
+    "durability": 0,
+    "flavor": "要是打不赢仗，加尔鲁什会用这条钢铁触须抽死你。",
+    "health": 2,
+    "id": "OG_033",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "钢铁触须",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>亡语：</b>将这把武器移回你的手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38848,
+    "flavor": "复制过程画面血腥，未成年人和心脏病患者禁止观看。",
+    "id": "OG_276",
+    "name": "苦战傀儡",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "将每个受伤的友方随从的各一张复制置入你的手牌。",
+    "type": "SPELL"
+  }
+]

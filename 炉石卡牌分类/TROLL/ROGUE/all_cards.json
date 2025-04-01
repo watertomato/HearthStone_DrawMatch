@@ -1,0 +1,212 @@
+[
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 49838,
+    "flavor": "我的意中人是个盖世英雄，总有一天，他会驾着海盗船来把你大卸八块。",
+    "health": 1,
+    "id": "TRL_071",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "血帆啸猴",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "<b>突袭</b>，<b>战吼：</b>你每控制一个其他海盗，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 49843,
+    "durability": 0,
+    "flavor": "好痛！这也太真实了吧！",
+    "health": 3,
+    "id": "TRL_074",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "锯刃齿",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TROLL",
+    "text": "<b>亡语：</b>使你的所有随从获得<b>突袭</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 49847,
+    "flavor": "请再次举起你们的双手！什么？只有1费？",
+    "health": 7,
+    "id": "TRL_077",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "古拉巴什宣传员",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张具有<b>战吼</b>的随从牌的1/1复制，其法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 0,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 49972,
+    "flavor": "这个出场自带BGM的家伙很难不暴露行踪。",
+    "health": 3,
+    "id": "TRL_092",
+    "mechanics": [
+      "AURA",
+      "STEALTH"
+    ],
+    "name": "鲨鱼之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY",
+      "COMBO"
+    ],
+    "set": "TROLL",
+    "text": "<b>潜行</b>一回合。你的随从的<b>战吼</b>和<b>连击</b>触发两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50773,
+    "flavor": "严肃点，不许笑，我们这打劫呢！",
+    "id": "TRL_124",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "团伙劫掠",
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "从你的牌库中抽两张海盗牌。\n<b>连击：</b>并抽一张\n武器牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 50774,
+    "elite": true,
+    "flavor": "“你们仨儿！蹲大炮里去！”",
+    "health": 3,
+    "id": "TRL_126",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "钩牙船长",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TROLL",
+    "text": "<b>战吼：</b>从你的牌库中召唤三个海盗，并使其获得<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 50779,
+    "flavor": "既然能火力全开，干嘛还要省着点来？",
+    "id": "TRL_127",
+    "name": "火炮弹幕",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "随机对一个敌人造成$3点伤害。你每有一个海盗，就重复\n一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 50749,
+    "flavor": "谁叫萨尔不肯<i>借</i>我毁灭之锤的。",
+    "id": "TRL_156",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "盗取武器",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "<b>发现</b>一张<i>（另一职业的）</i>\n武器牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50766,
+    "flavor": "忍一时波涛汹涌，进一步海阔天空。",
+    "id": "TRL_157",
+    "name": "走跳板",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "消灭一个未受伤的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50775,
+    "elite": true,
+    "flavor": "“……我们需要更大的甲板。”",
+    "health": 2,
+    "id": "TRL_409",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "格罗尔，鲨鱼之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>吞食一个你的牌库中的随从，并获得其属性值。<b>亡语：</b>将被吞食的随从置入手牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61642,
+    "flavor": "织血者最初的艺名叫“茄织酱”，观众并不买账。",
+    "health": 5,
+    "id": "DMF_120",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "纳兹曼尼织血者",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你施放一个法术后，随机使你的一张手牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61283,
+    "flavor": "好运来，祝你好运来！好运带来了喜和爱！",
+    "id": "DMF_186",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "吉兆",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "随机召唤一个法力值消耗为（4）的随从。<b>腐蚀：</b>改为召唤法力值消耗为（7）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61282,
+    "flavor": "未来运势，触手可知。",
+    "id": "DMF_187",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "解读手相",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法术牌。使你手牌中所有法术牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61946,
+    "flavor": "治疗满满，热量减半。",
+    "health": 6,
+    "id": "YOP_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣光战马",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "你的治疗效果同时会使受到影响的随从获得+2生命值。",
+    "type": "MINION"
+  }
+]

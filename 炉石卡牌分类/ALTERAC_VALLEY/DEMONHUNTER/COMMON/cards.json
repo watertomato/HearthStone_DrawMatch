@@ -1,0 +1,99 @@
+[
+  {
+    "artist": "Melvin Chan",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69577,
+    "flavor": "“欢迎光临丹巴达尔邪翼烤翅！你想要微辣，中辣，还是燃烧军团火辣辣？”",
+    "health": 2,
+    "id": "AV_118",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "历战先锋",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你的英雄攻击后，召唤两只1/1的\n邪翼蝠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 67204,
+    "durability": 0,
+    "flavor": "把队友带在身边，把恶魔带在身上。",
+    "health": 3,
+    "id": "AV_209",
+    "mechanics": [
+      "HONORABLE_KILL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "恐惧牢笼战刃",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>荣誉消灭：</b>对敌方英雄造成等同于你英雄的攻击力的伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 67886,
+    "flavor": "我明白了你的观点……但你能不能旗帜鲜明一点？",
+    "health": 6,
+    "id": "AV_261",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "擎旗奔行者",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "每当一个友方随从死亡，便获得+1\n攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 71237,
+    "flavor": "奥妮克希亚的所有雏龙，都抵不过库尔特鲁斯的后空翻。",
+    "id": "ONY_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "HONORABLE_KILL"
+    ],
+    "name": "敏锐反应",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "对所有随从造成$1点伤害。<b>荣誉消灭：</b>在本回合中获得+1攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 68262,
+    "flavor": "狼人的爪子永远不嫌多。",
+    "health": 4,
+    "id": "ONY_036",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "爪刃哨兵",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你使用最左或最右边的一张手牌后，抽一张牌。",
+    "type": "MINION"
+  }
+]

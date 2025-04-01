@@ -1,0 +1,251 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97047,
+    "flavor": "“看！活生生的神话！”",
+    "health": 4,
+    "id": "TTN_078",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "神话观测者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在你召唤一个攻击力高于本随从的随从后，使所有友方随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97049,
+    "flavor": "虫外真的有虫，我看到了！又大，又蓝，又吓人！",
+    "id": "TTN_079",
+    "name": "虫外有虫",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "使一个随从获得+2攻击力和“超过目标生命值的攻击伤害会命中敌方英雄。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97051,
+    "flavor": "神迷动物饲养员走神的时候，由她来顶班。",
+    "health": 3,
+    "id": "TTN_080",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘动物饲养员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>战吼：</b>如果你控制一个攻击力大于或等于4的随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97096,
+    "flavor": "睡眠颤动之后的大动作。",
+    "id": "TTN_081",
+    "name": "颤地觉醒",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "获取三张4/1的冰虫，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97380,
+    "flavor": "你的野兽补铁补得这么好，你喂它们吃什么了？",
+    "health": 1,
+    "id": "TTN_087",
+    "mechanics": [
+      "MAGNETIC",
+      "RUSH"
+    ],
+    "name": "吸附寄生体",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>突袭</b>。可以<b>磁力</b>吸附在机械和野兽上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cynthia  Garcia",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97404,
+    "durability": 0,
+    "flavor": "为人当怀摘星之志。即便摘不到，还可以去摘敌方英雄的首级。",
+    "health": 2,
+    "id": "TTN_088",
+    "name": "牵星短弓",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "TITANS",
+    "text": "在本局对战中，每触发一个友方<b>奥秘</b>，本牌的法力值消耗便减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97495,
+    "elite": true,
+    "flavor": "阿格拉玛曾是萨格拉斯信赖的副官，在萨格拉斯堕落之前与他一道扫荡诸界，对战恶魔大军。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TTN_092",
+    "mechanics": [
+      "BATTLECRY",
+      "TITAN"
+    ],
+    "name": "复仇者阿格拉玛",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>战吼：</b>装备一把3/3的泰沙拉克。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95967,
+    "flavor": "一定要放在对面的急救包底下。",
+    "id": "TTN_302",
+    "mechanics": [
+      "DISCOVER",
+      "FORGE"
+    ],
+    "name": "泰坦锻造陷阱",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "TITANS",
+    "text": "<b>发现</b>并施放一个<b>奥秘</b>。<b>锻造：</b>发现并施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101869,
+    "flavor": "我的天呐，这种套路怎么总有人上钩！",
+    "id": "TTN_504",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "诱骗诡计",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>奥秘：</b>当一个友方随从受到攻击时，使其获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 98560,
+    "elite": true,
+    "flavor": "各位巨人女士，这位可是真爱的守护者。",
+    "health": 8,
+    "id": "TTN_752",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨人之父霍迪尔",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>将你使用的下三张随从牌的属性值变为8/8。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97098,
+    "flavor": "这一箭确实是星体射的。",
+    "id": "YOG_082",
+    "isMiniSet": true,
+    "name": "星体射击",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TITANS",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害。你的下一个法术拥有<b>法术伤害+2</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100989,
+    "flavor": "“不对！我们要挖的不是这个！”",
+    "id": "YOG_505",
+    "isMiniSet": true,
+    "name": "兽性癫狂",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "使你手牌，牌库和战场上的所有随从获得+1攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100992,
+    "flavor": "虽然扭曲变形，但目前无法用于幻变模式。",
+    "health": 3,
+    "id": "YOG_506",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "扭曲的霜翼龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>亡语：</b>召唤一只属性值等同于本随从攻击力的奇美拉。",
+    "type": "MINION"
+  }
+]

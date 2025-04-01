@@ -1,0 +1,140 @@
+[
+  {
+    "artist": "Sean O’Daniels",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69596,
+    "flavor": "年轻的暗夜精灵们喜欢一种叫做“谁能让战争古树站起来”的游戏。如果在它起身的时候你被踩死了，你还是输了。",
+    "health": 5,
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得250场对战后解锁。",
+    "id": "CORE_EX1_178",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "战争古树",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>抉择：</b>\n+5攻击力；或者+5生命值并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trevor Jacobs",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69597,
+    "flavor": "“我想我可以在这片树荫下打个盹儿。等等...啊啊啊啊啊！”——不幸的侏儒布林克菲兹",
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得250场对战后解锁。",
+    "id": "CORE_EX1_571",
+    "name": "自然之力",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "召唤三个2/2的树人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95702,
+    "flavor": "你问她那件衣服的材质？当然是纯丝制品。",
+    "health": 3,
+    "id": "CORE_ICC_047",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "命运织网蛛",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>秘密亡语：</b>\n<b>抉择：</b>对所有随从造成3点伤害；或者使所有随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 95772,
+    "flavor": "您预订的食尸鬼五合一大礼包正在送货途中，一切正常。",
+    "id": "CORE_ICC_085",
+    "name": "终极感染",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "造成$5点伤害。抽五张牌。获得5点护甲值。召唤一个5/5的食尸鬼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Hjelm",
+    "attack": 7,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 76291,
+    "flavor": "去吧，把你的名字刻在树皮上。",
+    "health": 7,
+    "howToEarn": "与德鲁伊职业一同解锁。",
+    "howToEarnGolden": "使用德鲁伊赢得250场对战后解锁。",
+    "id": "CORE_NEW1_008",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "知识古树",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>抉择：</b>抽两张牌；或者恢复#7点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 77761,
+    "dbfId": 118082,
+    "flavor": "园艺妙手，有时不如这双大蓝手。",
+    "health": 2,
+    "id": "CORE_REV_318",
+    "name": "孀花播种者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>抽一张自然法术牌。获得一个空的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 78509,
+    "dbfId": 118100,
+    "flavor": "每当热门八卦出现，万灵总会聚在一起。",
+    "id": "CORE_REV_365",
+    "name": "万灵之召",
+    "rarity": "EPIC",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "NATURE",
+    "text": "随机施放8个德鲁伊法术<i>（目标随机而定）</i>。",
+    "type": "SPELL"
+  }
+]

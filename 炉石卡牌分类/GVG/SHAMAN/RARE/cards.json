@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2004,
+    "durability": 0,
+    "flavor": "人们通常认为萨满祭司控制着元素，而事实上，他们必须经常恳求元素施舍一些它们根本不在意的东西。",
+    "health": 2,
+    "id": "GVG_036",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "动力战锤",
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>亡语：</b>随机使一个友方机械获得+2/+2。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Guangjian Huang",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2007,
+    "flavor": "在艾泽拉斯很多地区的古玩市场，你都能淘到一些很有收藏价值的老式图腾。",
+    "health": 3,
+    "id": "GVG_039",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "活力图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "在你的回合结束时，为你的英雄恢复#4点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "José Ladrönn",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2034,
+    "flavor": "他们的战斗信条是：闭上眼，然后享受打击的快感。",
+    "health": 4,
+    "id": "GVG_066",
+    "mechanics": [
+      "FORGETFUL",
+      "OVERLOAD",
+      "WINDFURY"
+    ],
+    "name": "砂槌萨满祭司",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>风怒，过载：</b>（1）\n50%几率攻击错误的敌人。",
+    "type": "MINION"
+  }
+]

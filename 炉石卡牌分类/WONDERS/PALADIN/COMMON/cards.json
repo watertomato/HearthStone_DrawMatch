@@ -1,0 +1,55 @@
+[
+  {
+    "artist": "Jimmy Lo",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103212,
+    "flavor": "和部落粗犷且朴素的整体风格相比，银月城可谓是东部王国的时尚之都。",
+    "id": "WON_309",
+    "name": "银月城传送门",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2/+2。随机召唤一个法力值消耗为（2）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103214,
+    "flavor": "只有死人才能离开奥达曼！",
+    "health": 4,
+    "id": "WON_311",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥达曼守护者",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "targetingArrowText": "变成3/3。",
+    "text": "<b>战吼：</b>\n将一个随从的攻击力和生命值变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103236,
+    "flavor": "即便在最黑暗的岁月里，圣骑士也依然保持着他们的赤诚之心，誓要将光明与正义挥洒到世间的每一个角落。",
+    "id": "WON_333",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗曙光",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "HOLY",
+    "text": "<b>发现</b>一张圣骑士随从牌。使其获得+2/+2。",
+    "type": "SPELL"
+  }
+]

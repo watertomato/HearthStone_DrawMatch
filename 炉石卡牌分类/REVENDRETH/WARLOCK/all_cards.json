@@ -1,0 +1,253 @@
+[
+  {
+    "artist": "Jason Kang",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79537,
+    "flavor": "我们中间有个内鬼。",
+    "health": 1,
+    "id": "MAW_000",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冒牌小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "targetingArrowText": "选择一个友方小鬼，变形成为一个它的复制。",
+    "text": "<b>战吼：</b>选择一个友方小鬼，变形成为一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79538,
+    "flavor": "不是我们点的火！",
+    "id": "MAW_001",
+    "isMiniSet": true,
+    "name": "纵火指控",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "spellSchool": "FIRE",
+    "text": "选择一个随从，在你的英雄受到伤害后将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79540,
+    "flavor": "坏了，第一个字写错了！",
+    "id": "MAW_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "尸身保护令",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>并复活一个友方随从，使其获得<b>突袭</b>。该随从会在回合结束时死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76922,
+    "flavor": "据说“读书对人有好处”。",
+    "id": "REV_239",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "窒息暗影",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "当你使用或弃掉这张牌时，随机消灭一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 76921,
+    "flavor": "逾期的案卷需要翻新。",
+    "id": "REV_240",
+    "name": "篡改卷宗",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "text": "将你手牌的复制洗入你的牌库，其法力值消耗为（1）点。然后弃掉你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 77057,
+    "flavor": "散发着知性的鬼未力。",
+    "health": 3,
+    "id": "REV_242",
+    "name": "慌乱的图书管理员",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "你每控制一个小鬼，拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77056,
+    "flavor": "为什么每次出事的时候，总是你们三个？",
+    "health": 3,
+    "id": "REV_244",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "调皮的小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>召唤一个本随从的复制。<b>注能（3）：</b>改为召唤两个复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77055,
+    "flavor": "小鬼负责灾祸，拉法姆负责降临。",
+    "id": "REV_245",
+    "name": "灾祸降临",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "抽一张牌。你每控制一个小鬼，重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79147,
+    "flavor": "这座图书馆肯定有鬼！",
+    "health": 2,
+    "id": "REV_371",
+    "name": "邪恶图书馆",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "使一个友方随从获得+1/+1。你每控制一个小鬼，重复一次。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Dave Greco",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79108,
+    "flavor": "这其实是林恩的恶魔交响曲。她的音乐作品现在可能还不火，不过等着瞧吧！",
+    "id": "REV_372",
+    "name": "暗影华尔兹",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个3/5并具有<b>嘲讽</b>的影子。如果在本回合中有随从死亡，再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79111,
+    "elite": true,
+    "flavor": "你心里好阴暗呐，你一定以为这条卡牌趣文与你有关。",
+    "health": 6,
+    "id": "REV_373",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗脉女勋爵",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>召唤两个2/1的阴影。每个阴影获得一个<b>亡语</b>以施放你的上一个暗影法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79142,
+    "flavor": "你还是不适应暗影。我就生在暗影里！",
+    "health": 3,
+    "id": "REV_374",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "影裔魔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>亡语：</b>使你手牌中法力值消耗最高的暗影法术牌的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 78363,
+    "elite": true,
+    "flavor": "即便是死了，拉法姆也要以犯罪为生。",
+    "health": 6,
+    "id": "REV_835",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "小鬼大王拉法姆",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>复活四个友方小鬼。<b>注能（5）：</b>使你的小鬼获得+2/+2。",
+    "type": "MINION"
+  }
+]

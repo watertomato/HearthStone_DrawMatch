@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110886,
+    "flavor": "歪比歪比？歪比巴卜！",
+    "health": 3,
+    "id": "GDB_116",
+    "mechanics": [
+      "OUTCAST",
+      "SPELLBURST"
+    ],
+    "name": "怪异奇物",
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "<b>流放，<b>法术迸发</b>：</b>洗混你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111075,
+    "flavor": "你们在飞船上安了那么大的一个红色大按钮，还指望我能忍住不按？",
+    "id": "GDB_119",
+    "name": "紧急会议",
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "获取两张4/4的乘务员。将一张法力值消耗小于或等于（3）点的随机恶魔牌置于两者之间。",
+    "type": "SPELL"
+  }
+]

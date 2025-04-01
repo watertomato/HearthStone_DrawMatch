@@ -1,0 +1,81 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63690,
+    "flavor": "没时间解释了，快上车！",
+    "health": 3,
+    "id": "BAR_871",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "士兵车队",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "在你的回合开始时，召唤两个1/1的白银之手新兵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 62926,
+    "durability": 0,
+    "flavor": "藏起来的奥秘不够精彩，不如全都侃出来。",
+    "health": 2,
+    "id": "BAR_875",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "逝者之剑",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "THE_BARRENS",
+    "text": "在你的英雄攻击后，从你的牌库中施放一个\n<b>奥秘</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Leonardo Santanna",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 62927,
+    "flavor": "北卫军原本牢不可破。直到某一天，狡猾的部落从南边摸了过来。",
+    "health": 4,
+    "id": "BAR_876",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "北卫军指挥官",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>\n如果你控制一个<b>奥秘</b>，抽一张随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Yaohua Xu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 63102,
+    "flavor": "随机？要是没有坦克可怎么办？",
+    "id": "WC_034",
+    "isMiniSet": true,
+    "name": "小队集合",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "召唤五个2/2并具有随机效果的冒险者。",
+    "type": "SPELL"
+  }
+]

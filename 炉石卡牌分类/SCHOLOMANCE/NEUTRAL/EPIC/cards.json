@@ -1,0 +1,124 @@
+[
+  {
+    "artist": "Matt O'Connor",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59627,
+    "flavor": "大锅喝可乐。",
+    "health": 6,
+    "id": "SCH_157",
+    "name": "魔化大锅",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SPELLBURST"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>随机施放一个法力值消耗相同的法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58947,
+    "flavor": "哦，想想你要去的地方！有许多战斗等你来打响！许多的面板等你探索。还有许多的梦展翅飞翔。",
+    "health": 2,
+    "howToEarn": "打开<i>通灵学园</i>卡牌包后可解锁。",
+    "howToEarnGolden": "解开转校生的来历之谜。",
+    "id": "SCH_199",
+    "name": "转校生",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "根据你当前的\n对战面板，拥有不同的效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58976,
+    "flavor": "校内法术对决赛总是以满地的小精灵收场。",
+    "id": "SCH_235",
+    "name": "衰变飞弹",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "ARCANE",
+    "text": "随机向敌方随从发射三枚飞弹，使其变形成为法力值消耗减少（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59621,
+    "flavor": "悲剧的是，目前还没有能消除这些幻觉怪脸的药剂。",
+    "id": "SCH_352",
+    "name": "幻觉药水",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "ARCANE",
+    "text": "将你的所有随从的1/1的复制置入你的手牌，并使其法力值消耗变为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59403,
+    "flavor": "刀尖之舞，最为致命。",
+    "health": 4,
+    "id": "SCH_522",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "钢铁舞者",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>随机召唤一个法力值消耗等同于你的武器攻击力的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cheng Hao",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 60090,
+    "flavor": "“一看到它，我想起一句俗语，‘雷象永远不会……’什么来着。后面我忘了。”",
+    "health": 4,
+    "id": "SCH_714",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "驯化的雷象",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "每当使用一张法术牌，本随从会记住法术。<b>亡语：</b>将记住的法术牌洗入你的牌库。",
+    "type": "MINION"
+  }
+]

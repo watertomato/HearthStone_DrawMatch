@@ -1,0 +1,22 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52255,
+    "flavor": "这个法术听起来很次，实际上并非如此。",
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_179",
+    "name": "冰刺",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "LEGACY",
+    "spellSchool": "FROST",
+    "text": "对一个随从造成$2点伤害。如果它已被<b>冻结</b>，抽一张牌。",
+    "type": "SPELL"
+  }
+]

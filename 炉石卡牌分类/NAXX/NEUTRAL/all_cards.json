@@ -1,0 +1,543 @@
+[
+  {
+    "artist": "E. M. Gist",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 1753,
+    "flavor": "僵尸。好吃的僵尸。",
+    "health": 3,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_001",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "肉用僵尸",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>为敌方英雄恢复#5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jeremy Cranford",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1781,
+    "flavor": "不管是看到真蜘蛛还是假蜘蛛，患有蜘蛛恐惧症的人都会发出令人毛骨悚然的尖叫。",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁制作。",
+    "id": "FP1_002",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "鬼灵爬行者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>召唤两只1/1的鬼灵蜘蛛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Browning",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1858,
+    "flavor": "分裂软泥怪……软泥怪……泥怪……怪……",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁制作。",
+    "id": "FP1_003",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "分裂软泥怪",
+    "rarity": "EPIC",
+    "set": "NAXX",
+    "text": "<b>战吼：</b>\n在回合结束时召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1783,
+    "flavor": "他的妈妈希望他成为一名法师或是一名术士，但是他没有。他必须踏上属于自己的道路，成为一个和他父亲一样的科学家。",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_004",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "疯狂的科学家",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "NAXX",
+    "text": "<b>亡语：</b>\n将一个<b>奥秘</b>从你的牌库中置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ittoku",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1784,
+    "flavor": "纳克萨玛斯这座浮空城那么大，我本以为它的影子也会很大。",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁制作。",
+    "id": "FP1_005",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "纳克萨玛斯之影",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "NAXX",
+    "text": "<b><b>潜行</b>。</b>在你的回合开始时，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Justin Thavirat",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1786,
+    "flavor": "蛛魔产的卵和鸡生的蛋都含有丰富的蛋白质。",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁制作。",
+    "id": "FP1_007",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "蛛魔之卵",
+    "rarity": "RARE",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>召唤一个4/4的蛛魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1789,
+    "flavor": "精灵龙和鬼灵骑士有什么共同之处？它们的名字里都有“灵”字！",
+    "health": 6,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁制作。",
+    "id": "FP1_008",
+    "mechanics": [
+      "ELUSIVE"
+    ],
+    "name": "鬼灵骑士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "<b>扰魔</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Olson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1790,
+    "flavor": "“从你的坟墓中醒来吧！”——克尔苏加德",
+    "health": 8,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁制作。",
+    "id": "FP1_009",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "死亡领主",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "NAXX",
+    "text": "<b>嘲讽，亡语：</b>你的对手将一个随从从其牌库置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Howard Lyon",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 63781,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 1791,
+    "elite": true,
+    "flavor": "每当人们用“蜘蛛三”称呼迈克斯纳的时候，它就会很生气。",
+    "health": 8,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁制作。",
+    "id": "FP1_010",
+    "mechanics": [
+      "POISONOUS"
+    ],
+    "name": "迈克斯纳",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "NAXX",
+    "techLevel": 6,
+    "text": "<b>剧毒</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nate Bowden",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1793,
+    "flavor": "千万别让他喝碳酸饮料！",
+    "health": 6,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁制作。",
+    "id": "FP1_012",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "淤泥喷射者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "NAXX",
+    "text": "<b>嘲讽，亡语：</b>召唤一个1/2并具有<b>嘲讽</b>的泥浆怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Robinson",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 1794,
+    "elite": true,
+    "flavor": "克尔苏加德迷恋于巫妖王的声音。即使是巫妖王在电话自动语音中的留言也让他甘之若饴。",
+    "health": 8,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在冰龙巢穴中解锁制作。",
+    "id": "FP1_013",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "克尔苏加德",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "NAXX",
+    "text": "在每个回合结束时，召唤所有在本回合中死亡的友方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1796,
+    "elite": true,
+    "flavor": "斯塔拉格想要亲自填写自己的卡牌趣文。“斯塔拉格棒极了！”",
+    "health": 4,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_014",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "斯塔拉格",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>如果费尔根也在本局对战中死亡，召唤塔迪乌斯。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1797,
+    "elite": true,
+    "flavor": "费尔根很悲伤，因为所有人都喜欢斯塔拉格。",
+    "health": 7,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_015",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "费尔根",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>如果斯塔拉格也在本局对战中死亡，召唤塔迪乌斯。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 1799,
+    "flavor": "只要他拿起麦克风，别人的声音都听不见了。",
+    "health": 5,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_016",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哀嚎的灵魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "NAXX",
+    "text": "<b>战吼：沉默</b>你的其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1800,
+    "flavor": "蛛网领主的工作就是每天制作超大型蹦床。",
+    "health": 4,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在蜘蛛区中解锁制作。",
+    "id": "FP1_017",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "尼鲁巴蛛网领主",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "NAXX",
+    "text": "具有<b>战吼</b>的随从法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Nicholson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1808,
+    "flavor": "最近，给食尸鬼喂食火箭燃料是各大死灵学院最为流行的玩法。",
+    "health": 3,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁制作。",
+    "id": "FP1_024",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "蹒跚的食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "<b>嘲讽，亡语：</b>对所有随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Smith",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1861,
+    "flavor": "岩肤石像鬼最喜欢玩的游戏就是：“我们都是木头人”。",
+    "health": 4,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁制作。",
+    "id": "FP1_027",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "岩肤石像鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "在你的回合开始时，为本随从恢复所有生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jonboy Meyers",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 1910,
+    "flavor": "在这样一个几乎每个人都能把同伴复活的世界，送葬者的工作其实很轻松。",
+    "health": 2,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在构造区中解锁制作。",
+    "id": "FP1_028",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "送葬者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "NAXX",
+    "text": "每当你召唤一个具有<b>亡语</b>的随从，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jon McConnell",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1913,
+    "flavor": "请欣赏他们的瑞格舞步。",
+    "health": 4,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁制作。",
+    "id": "FP1_029",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "舞动之剑",
+    "rarity": "COMMON",
+    "set": "NAXX",
+    "text": "<b>亡语：</b>你的对手抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1914,
+    "elite": true,
+    "flavor": "洛欧塞布原本只是头普通的沼泽兽。从它身上的变化可见矿业和农业给自然带来了多大的破坏。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在瘟疫区中解锁制作。",
+    "id": "FP1_030",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "洛欧塞布",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "NAXX",
+    "text": "<b>战吼：</b>下个回合敌方法术的法力值消耗增加（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 1915,
+    "elite": true,
+    "flavor": "整天和三个吵吵嚷嚷打打杀杀的男人们为伍，布劳缪克丝女士总是担心自己会老得很快。",
+    "health": 7,
+    "howToEarn": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁。",
+    "howToEarnGolden": "加入“纳克萨玛斯的诅咒”冒险模式，在军事区中解锁制作。",
+    "id": "FP1_031",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "瑞文戴尔男爵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "NAXX",
+    "text": "你的随从的<b>亡语</b>将触发两次。",
+    "type": "MINION"
+  }
+]

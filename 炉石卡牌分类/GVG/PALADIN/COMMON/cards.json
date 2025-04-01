@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Jason Chan",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2025,
+    "flavor": "圣光赐予我力量！",
+    "id": "GVG_057",
+    "name": "光明圣印",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "spellSchool": "HOLY",
+    "text": "为你的英雄恢复#4点生命值，并在本回合中\n获得+2攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2026,
+    "flavor": "他愿为他的信仰牺牲，因为他的控制程序就是这么写的。",
+    "health": 2,
+    "id": "GVG_058",
+    "mechanics": [
+      "DIVINE_SHIELD"
+    ],
+    "name": "护盾机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>圣盾</b>",
+    "type": "MINION"
+  }
+]

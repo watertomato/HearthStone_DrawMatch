@@ -1,0 +1,135 @@
+[
+  {
+    "artist": "Ryan Bowlin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107928,
+    "flavor": "雇她还不如雇只渡渡鸟。",
+    "health": 2,
+    "id": "VAC_438",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "旅行社职员",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：发现</b>一张任意职业的地标牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107931,
+    "flavor": "有什么要申报的吗？“是的……勇士！艾泽拉斯在哀求你的援助……”",
+    "health": 5,
+    "id": "VAC_440",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "海关执法者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "敌方套牌之外的敌方卡牌法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 107933,
+    "flavor": "邻居家的邮件总是出现在我家，周围各家的包裹也都会来到我的手里。但这并不怪分拣工，因为是我偷了快递。",
+    "health": 7,
+    "id": "VAC_441",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "包裹分拣工",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在你抽牌后，有50%的几率再抽一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106372,
+    "flavor": "请尊重他的全名：伊斯特搬·索里奥·嘶吼里卡多·甘霍探契亚·得·拉·格落撒·拉米洛兹。",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_521",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "笨拙的搬运工",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106718,
+    "flavor": "哦，爽，全都按在了痛点上。",
+    "health": 8,
+    "id": "VAC_936",
+    "name": "八爪按摩机",
+    "race": "BEAST",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "对随从造成\n八倍伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110853,
+    "flavor": "“哦，糟了！我把咖啡全洒在你的牌上了！怎么办！好丢人！”",
+    "health": 4,
+    "id": "WORK_040",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "笨拙的杂役",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在任意卡牌被抽到后，将其变为\n<b>临时</b>卡牌。",
+    "type": "MINION"
+  }
+]

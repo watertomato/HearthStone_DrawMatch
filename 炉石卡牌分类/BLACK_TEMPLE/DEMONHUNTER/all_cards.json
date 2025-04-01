@@ -1,0 +1,314 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58202,
+    "elite": true,
+    "flavor": "“护甲与治疗或许能暂缓我的狂热，但邪能和战刃总能鞭策着我！”",
+    "health": 5,
+    "id": "BT_187",
+    "mechanics": [
+      "AURA",
+      "CHARGE"
+    ],
+    "name": "凯恩·日怒",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>冲锋</b>\n所有友方攻击无视\n<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56985,
+    "flavor": "在学会虚空行走之前，先给我爬。",
+    "health": 2,
+    "id": "BT_321",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "虚无行者",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张恶魔牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56860,
+    "flavor": "恶魔夺去了众多灰舌德莱尼的生命。如今他肩上担着斧仇的重任。",
+    "health": 5,
+    "id": "BT_423",
+    "mechanics": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "灰舌将领",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽，吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56899,
+    "elite": true,
+    "flavor": "正如卑微的毛虫可以羽化成蝶，一个恶魔猎手也可以变成一尊散发着毁灭与混沌的庞然大物。",
+    "id": "BT_429",
+    "name": "恶魔变形",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "将你的英雄技能替换为“造成5点伤害。”使用两次后，换回原技能。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56900,
+    "durability": 0,
+    "flavor": "战刃在未见处青光湛湛，邪火的闪光中梦境黑暗。",
+    "health": 3,
+    "id": "BT_430",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "埃辛诺斯战刃",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "在攻击一个随从后，你的英雄可以再次攻击。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58170,
+    "flavor": "在某些网站上只能显示为“火**印奔行者”。",
+    "health": 1,
+    "id": "BT_480",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "火色魔印奔行者",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>流放：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 58243,
+    "flavor": "“深渊们！听从我的指挥！”",
+    "health": 9,
+    "id": "BT_486",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "深渊指挥官",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，从你的牌库中召唤一个恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58453,
+    "flavor": "“选一张牌，随意选！最好是最左或最右边的。”",
+    "id": "BT_491",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "幽灵视觉",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "抽一张牌。<b>流放：</b>再抽一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Bayard Wu",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 58455,
+    "flavor": "怒了！她只有六把战刃，盲眼监视者有八把！人家的邪能都比她的绿。",
+    "health": 7,
+    "id": "BT_493",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "愤怒的女祭司",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "在你的回合结束时，造成6点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58495,
+    "flavor": "招牌绝技包括眼鲮，鳞魂盛宴，还有鳄魔变形。",
+    "health": 2,
+    "id": "BT_496",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴怒的邪鳍",
+    "race": "MURLOC",
+    "races": [
+      "DEMON",
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>在本回合中，如果你的英雄进行过攻击，则获得+1攻击力和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 8,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59864,
+    "flavor": "看邪能与恶魔终成眷属。",
+    "health": 3,
+    "id": "BT_509",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "邪能召唤师",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>随机从你的手牌中召唤一个恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59869,
+    "flavor": "没有金刚钻，别往火里站。",
+    "id": "BT_514",
+    "name": "献祭光环",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "对所有随从造成$1点伤害两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 58201,
+    "flavor": "恶贯满盈之士，暗影缠身之徒。他曾千百次地蛊惑他的同族，如今想来，何其令人心生烦恶！",
+    "id": "BT_601",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "古尔丹之颅",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "抽三张牌。<b>流放：</b>这些牌的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "attack": 9,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 60280,
+    "flavor": "设法发射蛇发半人蛇！",
+    "health": 5,
+    "id": "BT_761",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "盘牙督军",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>突袭，亡语：</b>召唤一个5/9并具有<b>嘲讽</b>\n的督军。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 10,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56649,
+    "flavor": "能给我配一副超超超超超巨型的镣铐吗？",
+    "health": 6,
+    "id": "BT_934",
+    "name": "被禁锢的安塔恩",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>2回合。\n唤醒时，造成10点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  }
+]

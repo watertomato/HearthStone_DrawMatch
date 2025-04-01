@@ -1,0 +1,344 @@
+[
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106063,
+    "flavor": "原来恶鬼就是这样偷走冬幕节的！",
+    "health": 1,
+    "id": "MIS_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "GIGANTIFY"
+    ],
+    "name": "玩具盗窃恶鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n<b>战吼：</b><b>发现</b>一张亡灵牌，使其降低等同于本随从攻击力的法力值消耗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105511,
+    "flavor": "<低语>“……你的父亲，也是个鱼人。”",
+    "id": "MIS_100",
+    "isMiniSet": true,
+    "name": "屈辱头盔",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得-5/-5。使你手牌中的一张随从牌获得+5/+5。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105512,
+    "durability": 0,
+    "flavor": "不能再买了，宝贝，家里已经有一把影之哀伤了。",
+    "health": 1,
+    "id": "MIS_101",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "海绵斧",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "每当你的英雄攻击时，消耗3份\n<b>残骸</b>以获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Taylor Smith",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104987,
+    "flavor": "没有他的毛绒宝宝，巫妖王根本睡不着。",
+    "health": 2,
+    "id": "TOY_821",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "毛绒暴暴狗",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>\n在你施放一个冰霜法术后，获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104632,
+    "flavor": "蜘蛛的精英缝纫俱乐部极为排外，其团队口号是“圈子不同，不必强缝”。",
+    "id": "TOY_822",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "蛛丝缝纫",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "选择一个友方随从，为其<b>发现</b>一个法力值消耗小于或等于（4）点的法术，当该随从死亡时会施放。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104633,
+    "flavor": "优秀好卡，裁艺丰富。",
+    "health": 3,
+    "id": "TOY_823",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "彩虹裁缝",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "LIFESTEAL",
+      "REBORN",
+      "RUSH"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>如果你的套牌中有鲜血，冰霜或邪恶符文牌，则对应获得<b>吸血</b>，<b>复生</b>或<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104634,
+    "flavor": "未能加入蜘蛛缝纫俱乐部，至今怀恨在心。",
+    "health": 4,
+    "id": "TOY_824",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑棘针线师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "QUILBOAR"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "在你的回合结束时，造成等同于本随从攻击力的伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105355,
+    "flavor": "“狗头人的故事悄然停息。但还有一块法术石，连阿扎里都已忘记。它被当作玩物卖到了市集，无人知晓其中的黑暗之力。”——《魔石》",
+    "id": "TOY_825",
+    "name": "小型法术尖晶石",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "使你手牌中的亡灵牌获得+1/+1。<i>（获得5份<b>残骸</b>后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ryan Bowlin",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104635,
+    "flavor": "妈，我吐了……",
+    "id": "TOY_826",
+    "name": "绝望线缕",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "使所有随从获得“<b>亡语：</b>对所有随从造成1点伤害。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 104636,
+    "flavor": "状态不佳的蜘蛛坦克。",
+    "health": 2,
+    "id": "TOY_827",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "蹒跚的僵尸坦克",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>消耗5份<b>残骸</b>以召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104694,
+    "flavor": "“我成了真正的玩具！”",
+    "health": 6,
+    "id": "TOY_828",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MINIATURIZE",
+      "TAUNT"
+    ],
+    "name": "业余傀儡师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>嘲讽</b>。<b>亡语：</b>使你手牌中的亡灵牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Grafit",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104637,
+    "elite": true,
+    "flavor": "趣文应当切题，押韵更合心意！开头两句还可以，但后面你也看到了结尾不怎么样。",
+    "health": 30,
+    "heroPowerDbfId": 109196,
+    "id": "TOY_829",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无头骑士",
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>消灭攻击力最高的敌方<i>随从</i>！将我的头洗入牌库，你必须找到它的<i>行踪</i>！",
+    "type": "HERO"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 104641,
+    "elite": true,
+    "flavor": "没病先找病。",
+    "health": 4,
+    "id": "TOY_830",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "DISCOVER"
+    ],
+    "name": "玩具医生斯缔修",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b><b>发现</b>法力值消耗为（5），（3）和（1）点的随从各一个，缝合到本随从上。<b>亡语：</b>召唤发现的法力值消耗为（5）的随从。",
+    "type": "MINION"
+  }
+]

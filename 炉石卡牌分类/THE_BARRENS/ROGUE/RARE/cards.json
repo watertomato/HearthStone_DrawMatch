@@ -1,0 +1,100 @@
+[
+  {
+    "artist": "Maria Trepalina",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 62887,
+    "flavor": "距离上一次事故：0天",
+    "health": 4,
+    "id": "BAR_316",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "油井伏击者",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "targetingArrowText": "造成2点伤害。@造成4点伤害。",
+    "text": "<b>战吼：</b>造成2点伤害。如果本牌在本回合进入你的手牌，则改为造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 62888,
+    "flavor": "那叫什么刀……这才叫刀！",
+    "health": 2,
+    "id": "BAR_317",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "原野联络人",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY",
+      "COMBO"
+    ],
+    "set": "THE_BARRENS",
+    "text": "在你使用一张<b>战吼</b>牌或<b>连击</b>牌后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 62892,
+    "flavor": "其实只要锤子就够了。",
+    "id": "BAR_321",
+    "name": "麻痹药膏",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "THE_BARRENS",
+    "spellSchool": "NATURE",
+    "text": "使你的武器获得+1攻击力和“你的英雄在攻击时<b>免疫</b>。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63358,
+    "flavor": "这一页故意留白了。",
+    "id": "WC_016",
+    "isMiniSet": true,
+    "name": "潜伏帷幕",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "THE_BARRENS",
+    "spellSchool": "SHADOW",
+    "text": "抽两张随从牌，在本回合中使用则使其获得<b>潜行</b>一回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 63359,
+    "flavor": "美味风蛇这道菜里没有风蛇，正好比炉石传说里没有……",
+    "id": "WC_017",
+    "isMiniSet": true,
+    "name": "美味风蛇",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "THE_BARRENS",
+    "text": "将双方玩家手牌中的一张随从牌变形成为海盗或<b>潜行</b>随从牌。",
+    "type": "SPELL"
+  }
+]

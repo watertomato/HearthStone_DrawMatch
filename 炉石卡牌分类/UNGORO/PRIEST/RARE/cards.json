@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41155,
+    "flavor": "闲暇时他会召唤一个幻象来陪自己玩炉石。",
+    "health": 3,
+    "id": "UNG_022",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幻象制造者",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "targetingArrowText": "召唤一个1/1的复制。",
+    "text": "<b>战吼：</b>选择一个随从，召唤一个它的1/1复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41173,
+    "faction": "HORDE",
+    "flavor": "他的心里藏不了任何事，所以看起来很阳光。",
+    "health": 2,
+    "id": "UNG_032",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "结晶预言者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>复制你对手的牌库中的一张牌，并将其置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Kagounkina",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 42009,
+    "flavor": "城镇猎人多，我要回丛林。丛林路也滑，地形更复杂。",
+    "id": "UNG_854",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "琥口脱险",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "<b>发现</b>一张法力值消耗大于或等于（8）点的随从牌，并召唤该随从。",
+    "type": "SPELL"
+  }
+]

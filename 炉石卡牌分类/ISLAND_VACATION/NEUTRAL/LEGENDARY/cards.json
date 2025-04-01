@@ -1,0 +1,169 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106301,
+    "elite": true,
+    "flavor": "“那次爆发不怪我！我甚至都没见过科赞迪奥斯！”",
+    "health": 10,
+    "id": "VAC_321",
+    "mechanics": [
+      "BATTLECRY",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伊辛迪奥斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "在你的回合结束时，你的爆发升级。\n<b>战吼：</b>将5张爆发洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 108499,
+    "elite": true,
+    "flavor": "她现在忙着呢。忙着喝茶。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "VAC_446",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "挂机的阿凯",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "在你的回合结束时，使所有其他未攻击的友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106682,
+    "elite": true,
+    "flavor": "今天我们大家之所以欢聚在这里，是因为我们的老朋友——马林。",
+    "health": 6,
+    "howToEarn": "打开<i>胜地历险记</i>卡牌包后可解锁。",
+    "howToEarnGolden": "购买<i>胜地历险记</i>炉石通行证后开放解锁。",
+    "id": "VAC_702",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "经理马林",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>选择一张神奇宝藏。将其余3张洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108346,
+    "elite": true,
+    "flavor": "别把这张牌移出你的套牌，不然他会气死。",
+    "health": 4,
+    "howToEarn": "收集30张<i>胜地历险记</i>卡牌后开放解锁。",
+    "howToEarnGolden": "购买<i>胜地历险记</i>炉石通行证后开放解锁。",
+    "id": "VAC_955",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "戈贡佐姆",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>获取一张\n法力值消耗为（2）的奶酪。奶酪可以召唤三个法力值消耗为（1）的随从，且每回合都会升级。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108967,
+    "elite": true,
+    "flavor": "“提基酒杯适合所有家装风格，永不过时！”",
+    "health": 5,
+    "id": "VAC_959",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "诚信商家格里伏塔",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b><b>发现</b>一款神奇的护符，赠予双方玩家。<i>（敌人的护符为伪劣版本！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110796,
+    "elite": true,
+    "flavor": "“我尽量满足你的出行愿望！”",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "id": "WORK_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "梦想策划师杰弗里斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>\n选择一条旅行路线，从中获取两张可能会表现完美的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 110859,
+    "elite": true,
+    "flavor": "我们的旅行方案不仅能把你送到历险胜地，还有更广阔的未知领域！",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "WORK_043",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "旅行管理员杜加尔",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>从你的牌库中召唤三个来自不同扩展包的随从。",
+    "type": "MINION"
+  }
+]

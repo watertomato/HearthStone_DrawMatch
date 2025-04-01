@@ -1,0 +1,108 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102602,
+    "flavor": "所到之处，寸草不生。",
+    "health": 1,
+    "id": "WON_067",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STEALTH"
+    ],
+    "name": "青玉游荡者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "WONDERS",
+    "text": "<b>潜行，亡语：</b>召唤一个{0}的<b>青玉魔像</b>。0<b>潜行，亡语：</b>召唤一个<b>青玉魔像</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102606,
+    "flavor": "好消息是，你可以卖了这枚飞镖来付医药费。",
+    "id": "WON_070",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "青玉飞镖",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHOOSE_ONE",
+      "JADE_GOLEM"
+    ],
+    "set": "WONDERS",
+    "text": "造成$3点伤害。\n<b>连击：</b>召唤一个{0}的<b>青玉魔像</b>。0造成$3点伤害。\n<b>连击：</b>召唤一个<b>青玉魔像</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102614,
+    "flavor": "姆诺兹多在泰兰德的部队中安插了内线，借以锁定阿克蒙德的胜局。",
+    "health": 4,
+    "id": "WON_077",
+    "name": "海加尔山卧底",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "WONDERS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张法力值消耗为（4）并获得<b>潜行</b>的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ryan Metcalf",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103219,
+    "flavor": "在经历完锦绣谷一役后，他决定好好度个假。通常他的避暑方式就是爬到雪山顶上去干掉几个雪人。",
+    "health": 7,
+    "id": "WON_316",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "影踪骁骑兵",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>连击：</b>\n获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105562,
+    "flavor": "自从公会解散后，他只能自己单刷了。",
+    "health": 4,
+    "id": "WON_340",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "盗墓匪贼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "techLevel": 3,
+    "text": "<b>亡语：</b>获取一张\n幸运币。",
+    "type": "MINION"
+  }
+]

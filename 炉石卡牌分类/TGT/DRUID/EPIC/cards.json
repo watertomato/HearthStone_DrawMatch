@@ -1,0 +1,32 @@
+[
+  {
+    "artist": "Christopher Moeller",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2785,
+    "flavor": "伟大的艾露恩，赐予我法力水晶吧！",
+    "id": "AT_043",
+    "name": "星界沟通",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "spellSchool": "ARCANE",
+    "text": "获得十个法力水晶。弃掉\n你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dan Scott",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2793,
+    "flavor": "腐根到底有多疼，怕是没机会知道了。",
+    "id": "AT_044",
+    "name": "腐根",
+    "rarity": "EPIC",
+    "set": "TGT",
+    "spellSchool": "NATURE",
+    "text": "消灭一个随从。随机将一张随从牌置入对手的手牌。",
+    "type": "SPELL"
+  }
+]

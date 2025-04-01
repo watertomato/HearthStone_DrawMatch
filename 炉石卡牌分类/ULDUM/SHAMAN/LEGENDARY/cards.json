@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53990,
+    "elite": true,
+    "flavor": "在哈加莎把她派回奥丹姆的时候，她其实很生气。但她表达“生气”和“愿意”时的嘶嘶声实在是太像了，谁也没听出其中的区别。",
+    "health": 6,
+    "id": "ULD_173",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "维西纳",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "ULDUM",
+    "text": "当你<b>过载</b>时，你的其他随从拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54369,
+    "elite": true,
+    "flavor": "这就是哈加莎被公共泳池拒之门外的原因。",
+    "id": "ULD_291",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "腐化水源",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "ULDUM",
+    "text": "<b>任务：</b>使用6张<b>战吼</b>牌。<b>奖励：</b>维尔纳尔之心。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42327,
+    "flavor": "虽说是幻影，但她手上的武器可是货真价实！",
+    "health": 3,
+    "id": "ICC_018",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "幻影海盗",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>\n获得等同于你的武器属性的属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 42439,
+    "flavor": "我们坐在高高的骨堆旁边，听妈妈讲那过去的事情。",
+    "health": 5,
+    "id": "ICC_027",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "白骨幼龙",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机将一张龙牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42782,
+    "flavor": "名字的重点在第二个字。",
+    "health": 6,
+    "id": "ICC_099",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "自爆憎恶",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "techLevel": 1,
+    "text": "<b>亡语：</b>对你所有的随从造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 42909,
+    "flavor": "他只是在自管自埋头摆弄尸体，是你们这些冒险者要来找麻烦的。",
+    "health": 3,
+    "id": "ICC_257",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATH_KNIGHT"
+    ],
+    "name": "唤尸者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ICECROWN",
+    "targetingArrowText": "获得“<b>亡语：</b>再次召唤该随从。”",
+    "text": "<b>战吼：</b>使一个友方随从获得“<b>亡语：</b>再次召唤该随从。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daren Bader",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 42395,
+    "flavor": "其实他更想一个人呆着。",
+    "health": 3,
+    "id": "ICC_466",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "萨隆苦囚",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42783,
+    "flavor": "做鬼呢，最重要的就是开心咯…",
+    "health": 3,
+    "id": "ICC_700",
+    "name": "开心的食尸鬼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "在本回合中，如果你的英雄受到治疗，则\n法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42785,
+    "flavor": "你自己海拔只有三尺高，很难挖地六尺埋葬他们。",
+    "health": 1,
+    "id": "ICC_702",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "孱弱的掘墓者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "<b>亡语：</b>随机将一个具有<b>亡语</b>的随从置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 45314,
+    "flavor": "他会摧心，夺梦，还会训练食尸鬼，所以别惹他。",
+    "health": 5,
+    "id": "ICC_902",
+    "name": "摧心者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "双方英雄技能均无法使用。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46101,
+    "flavor": "“你有什么能耐？”面试官问她。“噢，我对哭真的很在行。”",
+    "health": 5,
+    "id": "ICC_911",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "哀泣女妖",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ICECROWN",
+    "text": "每当你使用一张牌，便移除你的牌库顶的三张牌。",
+    "type": "MINION"
+  }
+]

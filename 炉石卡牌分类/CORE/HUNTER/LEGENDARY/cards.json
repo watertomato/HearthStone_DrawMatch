@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111357,
+    "elite": true,
+    "flavor": "他们都说他是马背上的神射手。",
+    "health": 5,
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得500场对战后解锁。",
+    "id": "CORE_BAR_551",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巴拉克·科多班恩",
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>战吼：</b>\n抽取法力值消耗为（1），（2）和（3）点的法术牌各一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 7,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 55640,
+    "dbfId": 120425,
+    "elite": true,
+    "flavor": "作为空巢老龙，她这么做只是因为怀念她的“小”家伙们。",
+    "health": 6,
+    "howToEarn": "与猎人职业一同解锁。",
+    "howToEarnGolden": "使用猎人赢得500场对战后解锁。",
+    "id": "CORE_DRG_095",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "维拉努斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "CORE",
+    "text": "<b>战吼：</b>将所有敌方随从的生命值变为1。",
+    "type": "MINION"
+  }
+]

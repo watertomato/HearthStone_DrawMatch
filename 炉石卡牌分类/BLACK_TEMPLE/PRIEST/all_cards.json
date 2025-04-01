@@ -1,0 +1,198 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57166,
+    "elite": true,
+    "flavor": "三张脸分别代表愤怒，欲望和苦难。恰似午夜公会团。",
+    "health": 3,
+    "id": "BT_197",
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "灵魂之匣",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>吸血</b>\n<b>亡语：</b>将“终极魂匣”洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57160,
+    "elite": true,
+    "flavor": "是我杀了我！",
+    "id": "BT_198",
+    "name": "灵魂之镜",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "SHADOW",
+    "text": "召唤所有敌方随从的复制，并使敌方随从攻击其复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56595,
+    "flavor": "脸怎么蓝了？精神焕发！",
+    "id": "BT_252",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "复苏",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "HOLY",
+    "text": "恢复#3点\n生命值。<b>发现</b>一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56598,
+    "flavor": "这就是鸦人的交友方式。",
+    "id": "BT_253",
+    "name": "心灵分裂",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+1/+2，并召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56603,
+    "flavor": "塞泰克鸦人善于利用他们的力量，还有浮夸的大帽子。否则也存活不了这么久。",
+    "health": 3,
+    "id": "BT_254",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "塞泰克织巢者",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "在你对一个随从施放法术后，随机将一张牧师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56681,
+    "flavor": "啊，训诫靴……拿来治疗苦工的懒病最快了。",
+    "health": 2,
+    "id": "BT_256",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙喉监工",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "在你的回合结束时，使另一个友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56623,
+    "flavor": "绝对至高的存在。还可以吸血。",
+    "id": "BT_257",
+    "name": "神圣化身",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2/+3和<b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56624,
+    "flavor": "由于言辞粗鄙惨遭禁闭。",
+    "health": 5,
+    "id": "BT_258",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "被禁锢的矮劣魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>2回合。<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56632,
+    "flavor": "正在利用业余时间备战龙喉氏族的石锤大会。",
+    "health": 4,
+    "id": "BT_262",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "龙喉哨兵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1攻击力和<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57688,
+    "flavor": "这条龙我要给差评，半个小时前刚刚买的。就是兀鹫那家店。",
+    "health": 9,
+    "id": "BT_341",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "骸骨巨龙",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，将一张龙牌置入你的手牌。",
+    "type": "MINION"
+  }
+]

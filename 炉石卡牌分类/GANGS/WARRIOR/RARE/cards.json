@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Mark Gibbons",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40566,
+    "flavor": "这些东西都是我捡来的，我发誓！",
+    "id": "CFM_752",
+    "name": "失窃物资",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "GANGS",
+    "text": "抽一张<b>嘲讽</b>随从牌，使其获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40569,
+    "flavor": "我这里没有二手的“地精大战侏儒”卡牌，你去别的地方找找吧。",
+    "health": 3,
+    "id": "CFM_755",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "污手街典当师",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>随机使你手牌中的一张武器牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40574,
+    "flavor": "她每天凌晨4点就爬起来打铁了。",
+    "health": 7,
+    "id": "CFM_756",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "兽人铸甲师",
+    "rarity": "RARE",
+    "set": "GANGS",
+    "text": "<b>嘲讽</b>\n每当本随从造成伤害时，获得等量的护甲值。",
+    "type": "MINION"
+  }
+]

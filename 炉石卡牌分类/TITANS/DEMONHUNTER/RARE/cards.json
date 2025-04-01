@@ -1,0 +1,81 @@
+[
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97475,
+    "flavor": "哈？谁把我的雕像染<b>绿</b>了？",
+    "health": 4,
+    "id": "TTN_840",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "晶石雕像",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。起始<b>休眠</b>状态。在你抽四张牌后唤醒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97477,
+    "flavor": "势如破竹：指姿势像破碎的竹子。",
+    "id": "TTN_841",
+    "name": "势如破竹",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在本回合中，使你的英雄获得+4攻击力。在本回合中你每抽一张牌，本牌的法力值消耗便\n减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98468,
+    "flavor": "不幸的是，艾泽拉斯每两年左右就会再变大一点。",
+    "id": "TTN_865",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "举世之重",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "抽两张牌。<b>锻造：</b>先抽若干数量的牌，直到你的手牌数量等同于你对手的手牌数量。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，使你的英雄在本回合中获得+4攻击力。",
+    "cost": 2,
+    "dbfId": 101080,
+    "flavor": "音乐萨隆里最强的金属乐手。",
+    "health": 3,
+    "id": "YOG_521",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "萨隆铁矿蹒跚者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，使你的英雄在本回合中获得+4攻击力。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  }
+]

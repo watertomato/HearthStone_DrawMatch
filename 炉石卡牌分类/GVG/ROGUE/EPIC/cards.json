@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Richard Wright",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 1989,
+    "durability": 0,
+    "flavor": "扳手的用途很广泛，包括旋紧齿轮和打扁穴居人。",
+    "health": 3,
+    "id": "GVG_024",
+    "name": "齿轮大师的扳手",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "如果你控制任何机械，便拥有\n+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2015,
+    "flavor": "潜行者们是暗中破坏的高手，他们会让你没有帮手，接着一无所有。",
+    "id": "GVG_047",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "暗中破坏",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "随机消灭一个敌方随从，<b>连击：</b>并且摧毁你对手的武器。",
+    "type": "SPELL"
+  }
+]

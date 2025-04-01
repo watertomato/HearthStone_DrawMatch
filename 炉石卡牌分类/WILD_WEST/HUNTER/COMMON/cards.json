@@ -1,0 +1,115 @@
+[
+  {
+    "artist": "Studio Hive",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102158,
+    "flavor": "但愿结果不会太糟。",
+    "id": "DEEP_003",
+    "isMiniSet": true,
+    "name": "磷光射击",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "ARCANE",
+    "text": "造成$1点伤害，随机召唤一个法力值消耗与伤害量相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102161,
+    "flavor": "亡魂？灵魂又死了一次？",
+    "health": 6,
+    "id": "DEEP_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "黑曜亡魂",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>随机召唤两个法力值消耗小于或等于（3）点的<b>亡语</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100171,
+    "flavor": "你是条潜行的蛇，对吧？",
+    "id": "WW_806",
+    "name": "潜踪群蛇",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "WILD_WEST",
+    "text": "召唤两条1/1并具有<b>潜行</b>的蛇。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100191,
+    "flavor": "飞鸟传书，书传飞鸟。",
+    "health": 2,
+    "id": "WW_807",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "秃鹫信使",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>亡语：</b>抽一张野兽牌。使你手牌中的随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 100172,
+    "flavor": "擅长探索隐秘的神庙。",
+    "health": 3,
+    "id": "WW_808",
+    "mechanics": [
+      "POISONOUS",
+      "QUICKDRAW",
+      "RUSH"
+    ],
+    "name": "银蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "WILD_WEST",
+    "text": "<b><b>突袭</b>。<b>剧毒</b>\n快枪：</b>在本回合中获得<b>免疫</b>。",
+    "type": "MINION"
+  }
+]

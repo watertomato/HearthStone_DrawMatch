@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 51827,
+    "flavor": "甲方的需求总是不断在变。",
+    "id": "DAL_366",
+    "name": "未鉴定的合约",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "消灭一个随从。在你手牌中时获得额外效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52617,
+    "durability": 0,
+    "flavor": "体验狗头人的死亡之舞！",
+    "health": 2,
+    "id": "DAL_720",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "摇摆矿锄",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>随机将一个友方随从移回你的手牌。它的法力值消耗减少（2）点。",
+    "type": "WEAPON"
+  }
+]

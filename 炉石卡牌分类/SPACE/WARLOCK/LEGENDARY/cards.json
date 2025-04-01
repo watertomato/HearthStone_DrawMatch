@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111179,
+    "elite": true,
+    "flavor": "此前维伦从未在现实生活中亲眼看到过流星，于是当机会来临的时候……",
+    "health": 3,
+    "id": "GDB_127",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "卡拉，黑暗之星",
+    "rarity": "LEGENDARY",
+    "set": "SPACE",
+    "text": "<b><b>法术迸发</b>：</b>随机从一个敌人处偷取2点生命值。<i>（暗影法术不会移除此<b>法术迸发</b>。）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 7,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 111301,
+    "elite": true,
+    "flavor": "阿克蒙德因为寻求力量而投靠了萨格拉斯，成为了燃烧军团中的顶级战力，摧毁星球无数……可最终他败给了小精灵。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "GDB_128",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿克蒙德",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>召唤你在本局对战中使用过的你套牌之外的所有恶魔。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 53885,
+    "flavor": "“保质期”什么的只是用来参考的啦。",
+    "health": 1,
+    "id": "ULD_163",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "过期货物专卖商",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>弃掉你手牌中法力值消耗最高的牌。<b>亡语：</b>将弃掉的牌的两张复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 53938,
+    "flavor": "小鬼油膏，给你的肌肤带来一层强大的保湿魔。",
+    "id": "ULD_324",
+    "name": "小鬼油膏",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "spellSchool": "FEL",
+    "text": "消灭一个随从。将三张“游荡小鬼”洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Armand Serrano",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54429,
+    "flavor": "千难万险出古墓，烈火焚烧若等闲。",
+    "id": "ULD_717",
+    "name": "火焰之灾祸",
+    "rarity": "RARE",
+    "set": "ULDUM",
+    "spellSchool": "FIRE",
+    "text": "消灭你的所有随从。每消灭一个随从，便随机消灭一个敌方随从。",
+    "type": "SPELL"
+  }
+]

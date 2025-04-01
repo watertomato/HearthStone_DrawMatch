@@ -1,0 +1,111 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65676,
+    "flavor": "戴在这家伙身上好像没什么作用。",
+    "id": "DED_512",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "不朽护符",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "<b>可交易</b>\n复活1个友方<b>亡语</b>随从。<i>（被<b>交易</b>时会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 65677,
+    "flavor": "千万不要吃曲奇的“海鲜惊人套餐”。",
+    "health": 2,
+    "id": "DED_513",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迪菲亚麻风侏儒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>如果你的手牌中有暗影法术牌，则造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64391,
+    "flavor": "呦，从天上掉下来的？我出十金币，不能再多了。",
+    "id": "SW_441",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "纳鲁碎片",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "HOLY",
+    "text": "<b>可交易</b>\n<b>沉默</b>所有敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Nelson",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64392,
+    "flavor": "圣光易躲，虚空难熬。",
+    "id": "SW_442",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "虚空碎片",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64419,
+    "flavor": "拿好文件夹，没人会怀疑你的。",
+    "health": 3,
+    "id": "SW_444",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光欺诈者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>如果有英雄在本回合中受到伤害，抽一张暗影法术牌。",
+    "type": "MINION"
+  }
+]

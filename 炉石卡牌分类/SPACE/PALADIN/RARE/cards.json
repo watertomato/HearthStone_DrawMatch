@@ -1,0 +1,115 @@
+[
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 111650,
+    "flavor": "德莱尼原本也会信仰之跃——直到后来玛尔拉德落入了虚空。",
+    "id": "GDB_139",
+    "name": "信仰圣契",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH"
+    ],
+    "set": "SPACE",
+    "spellSchool": "HOLY",
+    "text": "召唤三个3/3并具有<b>圣盾</b>的德莱尼。如果本牌的法力值消耗为（0）点，使其获得<b>突袭</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111310,
+    "flavor": "能捕捉到宇宙中的所有声响。",
+    "id": "GDB_462",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "在轨卫星",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>发现</b>一张德莱尼牌。如果你在本回合中使用过相邻的牌，再<b>发现</b>一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110573,
+    "durability": 0,
+    "flavor": "宇宙浩瀚无垠，不断膨胀，其空间之广阔，邈不可知，多少祖辈先贤，都只能在梦中遐想。然而即便星系无数，事物繁多，每个存在都是独一无二的。所以说啊，我们从来都没写过两条一模一样的卡牌趣文，真不知道你在胡说些什么。",
+    "health": 2,
+    "id": "GDB_726",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "斩星巨刃",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>战吼，亡语：</b>在本局对战中，你的圣契的法力值消耗减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 112866,
+    "flavor": "要是我没算错的话，当这台宝贝儿冲到88迈……",
+    "health": 1,
+    "id": "SC_405",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "STARSHIP_PIECE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "超级电容器",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>星舰组件</b>\n<b>战吼：</b>每有一个其他友方随从，便获得+1/+1。发射时也会触发。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 113855,
+    "flavor": "下次一定要升级阻燃轮胎。",
+    "health": 4,
+    "id": "SC_412",
+    "isMiniSet": true,
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "恶火",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "你的其他随从拥有+1攻击力。<i>（如果你在本局对战中发射过<b>星舰</b>，则会\n变形。）</i>",
+    "type": "MINION"
+  }
+]

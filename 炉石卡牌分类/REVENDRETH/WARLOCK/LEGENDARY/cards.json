@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 79111,
+    "elite": true,
+    "flavor": "你心里好阴暗呐，你一定以为这条卡牌趣文与你有关。",
+    "health": 6,
+    "id": "REV_373",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗脉女勋爵",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>召唤两个2/1的阴影。每个阴影获得一个<b>亡语</b>以施放你的上一个暗影法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 78363,
+    "elite": true,
+    "flavor": "即便是死了，拉法姆也要以犯罪为生。",
+    "health": 6,
+    "id": "REV_835",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "小鬼大王拉法姆",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>复活四个友方小鬼。<b>注能（5）：</b>使你的小鬼获得+2/+2。",
+    "type": "MINION"
+  }
+]

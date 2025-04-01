@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 53800,
+    "elite": true,
+    "flavor": "或许我们永远都不会知道究竟是什么招惹了它，但我们永远都不会忘记招惹它的后果。",
+    "health": 8,
+    "id": "ULD_258",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "硕铠鼠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，使你手牌中所有<b>嘲讽</b>随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54391,
+    "elite": true,
+    "flavor": "一切皆可破解，软的不行就来硬的。",
+    "id": "ULD_711",
+    "mechanics": [
+      "QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "侵入系统",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>任务：</b>用你的英雄攻击5次。<b>奖励：</b>安拉斐特之核。",
+    "type": "SPELL"
+  }
+]

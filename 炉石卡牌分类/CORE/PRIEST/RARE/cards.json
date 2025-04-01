@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 62874,
+    "dbfId": 120787,
+    "flavor": "气象节目说，外面的天气可以洗澡了。你带好了伞，发现是日光浴。",
+    "health": 6,
+    "howToEarn": "与牧师职业一同解锁。",
+    "howToEarnGolden": "使用牧师赢得100场对战后解锁。",
+    "id": "CORE_BAR_310",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "光沐元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>为所有友方角色恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 40375,
+    "dbfId": 120459,
+    "flavor": "富含各种电解质！",
+    "howToEarn": "与牧师一同解锁。",
+    "howToEarnGolden": "使用牧师赢得100场对战后解锁。",
+    "id": "CORE_CFM_604",
+    "name": "强效治疗药水",
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "HOLY",
+    "text": "为一个友方角色恢复#12点生命值。抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 66861,
+    "flavor": "你的法术牌为什么要惧怕黑暗？暗一点才容易睡着。",
+    "howToEarn": "与牧师职业一同解锁。",
+    "howToEarnGolden": "使用牧师赢得100场对战后解锁。",
+    "id": "CS3_028",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "暗中生长",
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "SHADOW",
+    "text": "从你的牌库中<b>发现</b>一张法术牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110237,
+    "flavor": "蒂尔德拉是绿色能源的忠实信徒。",
+    "health": 3,
+    "id": "GDB_110",
+    "mechanics": [
+      "STARSHIP_PIECE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪能动力源",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "在本随从攻击后，使你的其他随从获得\n+1攻击力。\n<b>星舰组件</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111934,
+    "flavor": "尽管红色眼镜影响视线，且大幅削弱了他辨别颜色和细节的能力，但是呢，帅就完了。",
+    "id": "GDB_473",
+    "name": "猎头",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "造成$2点伤害。获取一张4/4并具有一项随机<b>额外效果</b>的乘务员。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111937,
+    "flavor": "警告：侦测到空间断层撕裂！",
+    "id": "GDB_474",
+    "name": "折跃驱动器",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "spellSchool": "FEL",
+    "text": "抽两张牌。如果你正在构筑<b>星舰</b>，这些牌的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 112862,
+    "flavor": "潜水之王。埋伏40个月，从未发言。",
+    "health": 6,
+    "id": "SC_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "潜伏者",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "在一个友方随从攻击后，随机对一个敌人造成1点伤害<i>（如果你的随从为异虫则为2点）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 113672,
+    "flavor": "怎么输你告诉我？直接A脸都赢了，怎么可能输嘛！",
+    "health": 2,
+    "id": "SC_022",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "异龙",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "同时对其攻击目标\n相邻的随从造成伤害<i>（如果某侧没有相邻随从，还会命中敌方英雄）</i>。",
+    "type": "MINION"
+  }
+]

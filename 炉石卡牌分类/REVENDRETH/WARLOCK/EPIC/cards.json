@@ -1,0 +1,31 @@
+[
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 76921,
+    "flavor": "逾期的案卷需要翻新。",
+    "id": "REV_240",
+    "name": "篡改卷宗",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "text": "将你手牌的复制洗入你的牌库，其法力值消耗为（1）点。然后弃掉你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77055,
+    "flavor": "小鬼负责灾祸，拉法姆负责降临。",
+    "id": "REV_245",
+    "name": "灾祸降临",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "抽一张牌。你每控制一个小鬼，重复一次。",
+    "type": "SPELL"
+  }
+]

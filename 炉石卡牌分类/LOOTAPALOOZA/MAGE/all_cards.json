@@ -1,0 +1,196 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43407,
+    "flavor": "有时候去读警告标识可能更加危险。",
+    "id": "LOOT_101",
+    "mechanics": [
+      "SECRET",
+      "ImmuneToSpellpower"
+    ],
+    "name": "爆炸符文",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "FIRE",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，对该随从造成$6点伤害，超过其生命值的伤害将由对方英雄\n承受。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 43414,
+    "flavor": "“最后一枚石头毁灭了它的主人，无名的法师破解了结界。阿扎里发出绝望的咆哮，被封入虚空，再也不见踪迹。”——《魔石》",
+    "id": "LOOT_103",
+    "name": "小型法术红宝石",
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "FIRE",
+    "text": "随机将一张法师法术牌置入你的手牌。<i>（使用两张元素牌后升级。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 43420,
+    "flavor": "等到下回合，就会变成特别厉害的法术了！",
+    "hideStats": true,
+    "id": "LOOT_104",
+    "name": "变形卷轴",
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "ARCANE",
+    "text": "如果这张牌在你的手牌中，每个回合都会变成一张随机法师法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 43424,
+    "flavor": "“挑一张卡吧，哪张都行。等等！不！别动那张！”——之前一个主人的遗言",
+    "id": "LOOT_106",
+    "name": "惊奇套牌",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "ARCANE",
+    "text": "将五张惊奇卡牌洗入你的牌库。抽到时随机施放一个\n法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "attack": 0,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 43426,
+    "durability": 0,
+    "elite": true,
+    "flavor": "不可阻挡的奥术之力……却被困在这么小的空间里。",
+    "health": 3,
+    "id": "LOOT_108",
+    "mechanics": [
+      "TRIGGER_VISUAL",
+      "InvisibleDeathrattle"
+    ],
+    "name": "艾露尼斯",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "在你的回合结束时，抽三张牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 45269,
+    "flavor": "乌鸦问道：“但代价是什么呢？”",
+    "health": 2,
+    "id": "LOOT_170",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乌鸦魔仆",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>揭示双方牌库里的一张法术牌。如果你的牌法力值消耗较大，抽这张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 45271,
+    "flavor": "“来吧，赫尔穆克。只拿一枚硬币而已，她不会注意到的。”",
+    "id": "LOOT_172",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "巨龙怒火",
+    "rarity": "EPIC",
+    "set": "LOOTAPALOOZA",
+    "spellSchool": "FIRE",
+    "text": "揭示你牌库中的一张法术牌。对所有随从造成等同于其法力值消耗的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 1,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 45590,
+    "flavor": "以太护甲会在6小时后消失，可能会给初次购买的顾客带来尴尬的经历。",
+    "health": 3,
+    "id": "LOOT_231",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奥术工匠",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "LOOTAPALOOZA",
+    "text": "每当你施放一个法术，便获得等同于其法力值消耗的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 46499,
+    "elite": true,
+    "flavor": "召唤巨龙的秘密很简单：只要轻声细语，再拿一包热狗出来就行。",
+    "health": 3,
+    "id": "LOOT_535",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨龙召唤者奥兰纳",
+    "rarity": "LEGENDARY",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>在本局对战中，你每施放过一个法力值消耗大于或等于（5）点的法术，便召唤一个5/5的龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46541,
+    "flavor": "两点之间，魔网线最短。",
+    "health": 5,
+    "id": "LOOT_537",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "魔网操控者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "LOOTAPALOOZA",
+    "text": "<b>战吼：</b>如果你的手牌中有你的套牌之外的牌，则这些牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59038,
+    "flavor": "“教材请到书店购买。药剂请在炼金师处购买。魔杖的购买地点是……制杖室？”",
+    "id": "SCH_247",
+    "name": "新生入学",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "随机将两张法力值消耗为（1）的随从牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59083,
+    "flavor": "“卡牌趣文？唉。不想写了，累了。”",
+    "id": "SCH_250",
+    "name": "倦怠光波",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "直到你的下个回合，将所有敌方随从的攻击力变为1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59409,
+    "flavor": "“老师，这个盾在上回合更有用啊！”",
+    "id": "SCH_524",
+    "name": "荣誉护盾",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "SCHOLOMANCE",
+    "spellSchool": "HOLY",
+    "text": "使一个受伤的随从获得+3攻击力和<b>圣盾</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eric Browning",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59963,
+    "flavor": "就业难，升学苦，且迷且罔且努力。",
+    "health": 9,
+    "id": "SCH_712",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "踏实的大三学姐",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>吸血</b>",
+    "type": "MINION"
+  }
+]

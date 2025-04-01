@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106591,
+    "flavor": "我能在天上看见我的……手！！",
+    "id": "VAC_928",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "飞翼滑翔",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "双方玩家抽三张牌。<b>流放：</b>只有你抽牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106614,
+    "flavor": "并不像看上去那么危险……而是危险得多！",
+    "health": 3,
+    "id": "VAC_929",
+    "name": "惊险悬崖",
+    "rarity": "RARE",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "召唤两个1/1并具有<b>冲锋</b>的海盗。在你的英雄攻击后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106616,
+    "flavor": "生————死",
+    "id": "VAC_931",
+    "name": "生死一线",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "选择一个随从。在本回合中，你的英雄从该随从处偷取4点攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110767,
+    "flavor": "燃烧军团加大了阿古斯分时度假业务的推销力度。",
+    "id": "WORK_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "恶魔交易",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从造成$4点伤害。将一张法力值消耗大于或等于（5）点的随机恶魔牌置于你的牌库顶。",
+    "type": "SPELL"
+  }
+]

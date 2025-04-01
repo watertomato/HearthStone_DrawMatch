@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59456,
+    "flavor": "每个小组都要有几条大腿。",
+    "id": "SCH_606",
+    "name": "分配组员",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "随机将法力值消耗为（2）和（3）的野兽牌各一张置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 59553,
+    "flavor": "想让树妖在不踩到花花草草的前提下管理园地，实在有点难。",
+    "health": 5,
+    "id": "SCH_613",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "园地管理员",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "targetingArrowText": "恢复5点生命值。",
+    "text": "<b>嘲讽，战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，恢复5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 59614,
+    "flavor": "每天早上你都会在家门前发现两张死掉的卡牌。",
+    "health": 4,
+    "id": "SCH_616",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜行虎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>潜行</b>\n每当本随从攻击，抽两张牌。",
+    "type": "MINION"
+  }
+]

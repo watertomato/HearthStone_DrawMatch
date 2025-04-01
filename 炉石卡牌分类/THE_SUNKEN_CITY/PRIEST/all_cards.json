@@ -1,0 +1,263 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76583,
+    "flavor": "醒醒！当心敌人鱼死网破！",
+    "health": 4,
+    "id": "TID_085",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "圣光使徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过神圣法术，为所有友方角色恢复#6点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 74988,
+    "flavor": "“等你态度好一点就还给你。”",
+    "health": 4,
+    "id": "TID_700",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "缴械元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>\n为你的对手<b>探底</b>。将选中的牌法力值消耗变为（6）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 80120,
+    "flavor": "如果你对纳迦使用这张牌，改为将其淹死在悲伤与羞愧之中。",
+    "id": "TID_920",
+    "isMiniSet": true,
+    "name": "淹没",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "SHADOW",
+    "text": "将一个敌方随从置于你的牌库底。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 72481,
+    "flavor": "在南半球，这张牌会把所有随从召唤回来。",
+    "id": "TSC_209",
+    "name": "湍流旋涡",
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "NATURE",
+    "text": "消灭所有随从及其所有的复制<i>（无论它们在哪）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 72482,
+    "flavor": "哇！金色普通杯！",
+    "id": "TSC_210",
+    "mechanics": [
+      "DREDGE"
+    ],
+    "name": "金光闪耀",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "<b>探底</b>。\n如果选中的是法术牌，使其法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72483,
+    "flavor": "在黑暗无比的大海深处，水手听到自己心底传来了一道命令：“强化我的本体……减到9点法力值。”",
+    "id": "TSC_211",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "ImmuneToSpellpower"
+    ],
+    "name": "深海低语",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "SHADOW",
+    "text": "<b>沉默</b>一个友方随从，然后造成等同于其攻击力的伤害，随机分配到所有敌方随从身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，抽三张牌。",
+    "cost": 3,
+    "dbfId": 72484,
+    "flavor": "她为什么要拆散最后一卷皇家厕纸？！",
+    "health": 2,
+    "id": "TSC_212",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "侍女",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，抽三张牌。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72485,
+    "flavor": "列王守卫的老冤家。",
+    "health": 3,
+    "id": "TSC_213",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女王护卫",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>在本回合中你每施放过一个法术，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72487,
+    "flavor": "传说，凝视她眼睛的人都会变成毛绒玩具。",
+    "id": "TSC_215",
+    "name": "毒蛇假发",
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "text": "使一个随从获得+1/+2。如果你在此牌在你手中时使用过纳迦牌，将一张毒蛇假发置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 72488,
+    "elite": true,
+    "flavor": "黑水巨鳗最爱的菜品是？炸鱼配上数条……船。",
+    "health": 10,
+    "id": "TSC_216",
+    "mechanics": [
+      "COLOSSAL",
+      "LIFESTEAL"
+    ],
+    "name": "黑水巨鳗",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>巨型+1</b>\n<b>吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 80118,
+    "flavor": "你愿意选谁当对手：一条鲸鱼那么大的金鱼，还是100条金鱼那么大的鲸鱼？",
+    "id": "TSC_702",
+    "name": "体型互换",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "抽两张随从牌，交换其生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77374,
+    "flavor": "祭仪的氛围沉默，肃穆。后来<i>哈罗德</i>吃起了泛潮的薯片，气氛<i>全毁了</i>。",
+    "id": "TSC_775",
+    "mechanics": [
+      "SILENCE"
+    ],
+    "name": "艾萨拉的祭仪",
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>沉默</b>一个随从，并召唤一个它的复制。将一张沉没的祭仪置于你的牌库底。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejiarasaes",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 71945,
+    "elite": true,
+    "flavor": "某不愿透露姓名的相关人士表示这个“丽”字有失公允。",
+    "health": 1,
+    "id": "TSC_828",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女祭司瓦丽丝琪",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>在本回合中你每施放过一个法术，复原一个空的法力水晶。0<i>（复原0个）</i>",
+    "type": "MINION"
+  }
+]

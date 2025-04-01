@@ -1,0 +1,57 @@
+[
+  {
+    "artist": "Mike Sass",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40419,
+    "flavor": "他们住在加基森的下水道，他们超爱吃披萨！",
+    "id": "CFM_310",
+    "name": "神奇四鱼",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "召唤四个1/1的鱼人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 40422,
+    "flavor": "看着那些小家伙成长为身强体壮，仪表堂堂的青玉魔像时，他倍感骄傲。",
+    "health": 5,
+    "id": "CFM_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "青玉酋长",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM",
+      "TAUNT"
+    ],
+    "set": "GANGS",
+    "text": "<b>战吼：</b>召唤一个{0}的<b>青玉魔像</b>，使其获得<b>嘲讽</b>。0<b>战吼：</b>召唤一个<b>青玉魔像</b>，使其获得\n<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Phil Saunders",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40455,
+    "flavor": "你是电，你是光，你是唯一的传奇！",
+    "id": "CFM_707",
+    "name": "青玉闪电",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "GANGS",
+    "spellSchool": "NATURE",
+    "text": "造成$3点伤害，召唤一个{0}的<b>青玉魔像</b>。0造成$3点伤害，召唤一个<b>青玉魔像</b>。",
+    "type": "SPELL"
+  }
+]

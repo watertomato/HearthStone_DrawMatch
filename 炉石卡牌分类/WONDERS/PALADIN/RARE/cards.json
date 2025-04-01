@@ -1,0 +1,78 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102572,
+    "flavor": "如何骑上去，这是一个问题。",
+    "health": 4,
+    "id": "WON_045",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "象牙骑士",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102573,
+    "flavor": "嘿，你的科多兽不能停在这里！罚你200金币！",
+    "health": 4,
+    "id": "WON_046",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "污手街惩罚者",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "在你的回合结束时，使你手牌中的所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102578,
+    "flavor": "为了击败姆诺兹多与克苏恩合而为一的力量，诺兹多姆需要艾泽拉斯古今未来各个时空各路英雄的帮助。",
+    "id": "WON_051",
+    "name": "永时祝福",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "spellSchool": "HOLY",
+    "text": "随机使你手牌中的四张随从牌分别获得+4/+4，+3/+3，+2/+2和+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103213,
+    "flavor": "大量优质圣盾批发价甩卖，要的带价密。",
+    "health": 3,
+    "id": "WON_310",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜色镇执法官",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WONDERS",
+    "text": "每当你召唤一个生命值为1的随从，便使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  }
+]

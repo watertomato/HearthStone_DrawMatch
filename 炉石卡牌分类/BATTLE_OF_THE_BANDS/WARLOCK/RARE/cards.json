@@ -1,0 +1,70 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90440,
+    "flavor": "指挥摆臂越猛，乐团的表现越强！一定是这样的！",
+    "id": "ETC_069",
+    "name": "渐强声浪",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "受到疲劳伤害。对所有敌人造成等量的伤害。0受到{0}点疲劳伤害。对所有敌人造成等量的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 90993,
+    "flavor": "谁说站在牌库里的不算英雄？",
+    "id": "ETC_082",
+    "name": "绝望哀歌",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "对一个角色造成$3点伤害。如果消灭该角色，从你的牌库中召唤一个恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90994,
+    "flavor": "蓝鬼乐团可是表演的行家！",
+    "id": "ETC_083",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "邪魔修音",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FEL",
+    "text": "<b>发现</b>两张恶魔牌。<b>压轴：</b>使其获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Michaela Nienaber",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "MAGE",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98417,
+    "flavor": "虚空环境下混响效果更佳。",
+    "id": "JAM_031",
+    "isMiniSet": true,
+    "name": "回荡混响",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个随从的复制。复制和本体都会在受到伤害后死亡。",
+    "type": "SPELL"
+  }
+]

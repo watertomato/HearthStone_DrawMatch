@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61187,
+    "flavor": "口中奇珍，并非玩物；听从支配，倾心拜服。",
+    "id": "DMF_236",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "古神在上",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术时，使其改为随机施放一个法力值消耗相同的法术。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 61189,
+    "durability": 0,
+    "flavor": "其实纳鲁不会使用武器。况且纳鲁也没有手。",
+    "health": 3,
+    "id": "DMF_238",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纳鲁之锤",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>召唤一个6/6并具有<b>嘲讽</b>的神圣元素。",
+    "type": "WEAPON"
+  }
+]

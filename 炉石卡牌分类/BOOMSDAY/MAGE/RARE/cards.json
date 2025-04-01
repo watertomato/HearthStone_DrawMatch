@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "A. J. Nazzaro",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47978,
+    "flavor": "让我们来看看一号裂隙的后面藏着什么！",
+    "id": "BOT_101",
+    "name": "星界裂隙",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "spellSchool": "ARCANE",
+    "text": "随机将两张随从牌置入你的\n手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L Chanchai",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 49263,
+    "flavor": "唯爱与星辰共舞。",
+    "health": 1,
+    "id": "BOT_531",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星界密使",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>在本回合中，你的下一个法术拥有<b>法术伤害+2</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 48693,
+    "flavor": "有人说世界将毁灭于火，有人说毁灭于冰。为什么不是冰与火呢？",
+    "health": 3,
+    "id": "BOT_601",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "气象学家",
+    "rarity": "RARE",
+    "set": "BOOMSDAY",
+    "text": "<b>战吼：</b>你每有一张手牌，便随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  }
+]

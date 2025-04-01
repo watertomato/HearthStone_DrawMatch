@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97700,
+    "flavor": "就你了，上吧。",
+    "id": "TTN_470",
+    "name": "火焰试炼",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "召唤五个1/1并具有<b>突袭</b>的瓦格里。当一个死亡时，使其他的获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97739,
+    "flavor": "气得冒烟了。",
+    "health": 3,
+    "id": "TTN_471",
+    "mechanics": [
+      "MAGNETIC"
+    ],
+    "name": "愤怒焚炉",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  }
+]

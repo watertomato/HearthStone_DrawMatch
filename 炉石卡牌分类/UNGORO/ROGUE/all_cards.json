@@ -1,0 +1,182 @@
+[
+  {
+    "artist": "Chanchai Luechaiwattanasopon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41207,
+    "flavor": "经常不洗澡的人，会有头皮屑。经常不洗澡的花…",
+    "id": "UNG_057",
+    "name": "刀瓣齐射",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "将两张可造成2点伤害的“刀瓣”置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sojin Hwang",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41208,
+    "flavor": "难怪安戈洛没有僵尸。",
+    "health": 2,
+    "id": "UNG_058",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "刀瓣鞭笞者",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>将一张可造成2点伤害的“刀瓣”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41212,
+    "flavor": "妈妈常说，吃啥补啥！",
+    "id": "UNG_060",
+    "name": "拟态豆荚",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌，然后将一张它的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41213,
+    "durability": 0,
+    "flavor": "因为职业病的关系，潜行者只要看到尖锐的硬物就想拿来当匕首。",
+    "health": 3,
+    "id": "UNG_061",
+    "name": "黑曜石碎片",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "text": "在本局对战中，你每将一张非潜行者的职业牌置入你的手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Craig Elliott",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41216,
+    "flavor": "它还有一个名字，叫“范克里夫草”。",
+    "health": 2,
+    "id": "UNG_063",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "食人草",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>连击：</b>在本回合中，你每使用一张其他牌，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Efrem Palacios",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41217,
+    "flavor": "它会用舌头抽晕你，再把你吞下去。",
+    "health": 4,
+    "id": "UNG_064",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "邪脊吞噬者",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>连击：</b>\n消灭一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41218,
+    "elite": true,
+    "flavor": "始祖龟园丁的噩梦。",
+    "health": 3,
+    "id": "UNG_065",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "“尸魔花”瑟拉金",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>亡语：</b>进入<b>休眠</b>状态。在一回合中使用4张牌可复活本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41222,
+    "elite": true,
+    "flavor": "其实洞穴就在旅店的下面。",
+    "id": "UNG_067",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "探索地下洞穴",
+    "questReward": "UNG_067t1",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>使用四张名称相同的随从牌。\n<b>奖励：</b>水晶核心。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41834,
+    "flavor": "毒液取自安戈洛的当地植物，威力惊人。",
+    "id": "UNG_823",
+    "name": "浸毒武器",
+    "rarity": "RARE",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "使你的武器获得<b>剧毒</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 42011,
+    "flavor": "是好的那种幻觉。",
+    "id": "UNG_856",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "孢子致幻",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张你对手职业的卡牌。",
+    "type": "SPELL"
+  }
+]

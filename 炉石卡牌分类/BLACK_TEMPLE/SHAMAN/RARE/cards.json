@@ -1,0 +1,54 @@
+[
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56412,
+    "flavor": "兄弟，我总是感觉……死亡其实是由我们的幻觉构成的，你明白吗？",
+    "id": "BT_101",
+    "name": "鲜活孢子",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得“<b>亡语</b>：再次召唤本随从。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56417,
+    "flavor": "龙虾龙虾两只爪，左右一夹就变大。",
+    "health": 3,
+    "id": "BT_106",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泥沼巨钳龙虾人",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>\n将相邻的随从随机变形成为法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56467,
+    "flavor": "经过数周的交叉训练，她的四肢结实了不少。",
+    "id": "BT_110",
+    "name": "洪流",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$8点伤害。如果你在上个回合施放过法术，则法力值消耗减少（3）点。",
+    "type": "SPELL"
+  }
+]

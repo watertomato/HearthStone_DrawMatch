@@ -1,0 +1,250 @@
+[
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69986,
+    "flavor": "种下毁灭，收获恐惧。",
+    "id": "AV_277",
+    "name": "毁灭之种",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "将四张裂隙洗入你的牌库。当抽到裂隙时，召唤一个3/3的恐惧小鬼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 70003,
+    "flavor": "吓坏了么，小朋友们，休叫敌人笑话我们，邪火爆弹骁勇无敌，下手要狠！",
+    "id": "AV_281",
+    "name": "邪火爆弹",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "抽一张法术牌，对所有敌人造成$2点伤害。如果抽到的是邪能法术牌，则再造成$1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70107,
+    "flavor": "这不是普通的邪恶，这是深入骨髓的邪恶。",
+    "id": "AV_285",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "邪恶入骨",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "造成$5点伤害，随机分配到所有敌方随从身上。在本回合可以重复使用。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 70118,
+    "flavor": "有种嚼邪能口香糖的感觉。",
+    "health": 7,
+    "id": "AV_286",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "邪能行者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>从你的手牌中施放法力值消耗最高的邪能法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 67826,
+    "flavor": "邪能法术被她整理得井井有条，只是容器太脏了。",
+    "health": 1,
+    "id": "AV_308",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "墓地污染者",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>复制你手牌中的一张邪能法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 67756,
+    "flavor": "召唤的代价是你的一条手臂和你弟弟。",
+    "health": 3,
+    "id": "AV_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "献祭召唤者",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从。从你的牌库中召唤一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 67757,
+    "flavor": "只要你完成了第一次荣誉消灭，相信我，你一定会就此上钩，一发不可收拾！",
+    "health": 8,
+    "id": "AV_313",
+    "mechanics": [
+      "BATTLECRY",
+      "HONORABLE_KILL"
+    ],
+    "name": "可怕的憎恶",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>对所有敌方随从造成1点伤害。<b>荣誉消灭：</b>获得目标随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 67760,
+    "elite": true,
+    "flavor": "从某一刻起，你不再讥嘲死亡。你就是死亡。",
+    "health": 30,
+    "heroPowerDbfId": 67837,
+    "id": "AV_316",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐惧巫妖塔姆辛",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>对所有随从造成3点伤害。将三张裂隙洗入你的牌库。抽三张牌。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 67825,
+    "elite": true,
+    "flavor": "<i>致命的香气。</i>绝对能让你的约会目标无法呼吸。",
+    "id": "AV_317",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "塔姆辛的护命匣",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一个在本局对战中死亡的友方<b>亡语</b>随从。使你的所有随从获得其<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72440,
+    "flavor": "死了都要来，想来得要死。",
+    "id": "AV_657",
+    "name": "被亵渎的墓园",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你的回合结束时，消灭你的攻击力最低的随从，召唤一个4/4的影魔。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 67758,
+    "flavor": "快去请小鬼终结者！",
+    "id": "ONY_033",
+    "isMiniSet": true,
+    "name": "小鬼侵染",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FEL",
+    "text": "每有一个敌方随从，便召唤一个3/3的恐惧小鬼并使其攻击对应敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 71292,
+    "flavor": "蠢货！现在，你们也会领受到我背后的痛苦！",
+    "id": "ONY_034",
+    "isMiniSet": true,
+    "name": "痛苦诅咒",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "SHADOW",
+    "text": "将三张痛苦洗入你对手的牌库。抽到痛苦时会造成疲劳伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 71295,
+    "flavor": "嗷呜，谁是这个世界最大的威胁？是你！",
+    "health": 6,
+    "id": "ONY_035",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡之翼的子嗣",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>随机消灭一个敌方随从。随机弃一张牌。",
+    "type": "MINION"
+  }
+]

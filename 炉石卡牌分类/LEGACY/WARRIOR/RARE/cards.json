@@ -1,0 +1,16 @@
+[
+  {
+    "artist": "Jason Kang",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 89145,
+    "flavor": "比伊利丹的仓库整洁多了。",
+    "id": "CS3_009",
+    "name": "战争储备箱",
+    "rarity": "RARE",
+    "set": "LEGACY",
+    "text": "随机将一张战士随从牌，法术牌和武器牌分别置入你的\n手牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90561,
+    "flavor": "“错误。无法识别‘表演过程中禁止打拍’。”",
+    "health": 3,
+    "id": "ETC_072",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "B-Box拳手",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>连击：</b>造成4点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90572,
+    "flavor": "没有押“冰”字，只限这一次！",
+    "health": 3,
+    "id": "ETC_073",
+    "mechanics": [
+      "COMBO",
+      "RUSH"
+    ],
+    "name": "押韵狂人",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。<b>连击：</b>在本局对战中，你每使用过一张其他<b>连击</b>牌，便获得+1/+1。0<i>（已使用0张）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 88403,
+    "flavor": "我能想到四种和“橙子”押韵的东西：绳子，棚子，凳子，还有，呃……小橙子。",
+    "id": "ETC_717",
+    "name": "悦耳嘻哈",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "造成$1点伤害。使你的武器获得+3攻击力。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  }
+]

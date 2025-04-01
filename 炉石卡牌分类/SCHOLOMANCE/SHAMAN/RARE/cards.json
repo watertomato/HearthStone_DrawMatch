@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Peter Stapleton",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 58977,
+    "flavor": "你永远想不到考试会考哪张牌。",
+    "health": 3,
+    "id": "SCH_236",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "笔记能手",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>将法术牌移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daria Tuzova",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59214,
+    "flavor": "那么，考试周结束后，<b>你</b>想怎么庆祝？！",
+    "id": "SCH_271",
+    "name": "岩浆爆裂",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害，召唤相同数量的1/1的元素。",
+    "type": "SPELL"
+  }
+]

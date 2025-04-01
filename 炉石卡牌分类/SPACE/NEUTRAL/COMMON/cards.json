@@ -1,0 +1,678 @@
+[
+  {
+    "artist": "Jaemin Kim",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110108,
+    "flavor": "每艘星舰的中心，都有一个纳鲁以自身为飞船供能；而每个德莱尼的心中，都有一份对纳鲁的热忱信仰。",
+    "health": 2,
+    "id": "GDB_101",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "STARSHIP_PIECE"
+    ],
+    "name": "次元核心",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>圣盾</b>\n<b>星舰组件</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111304,
+    "flavor": "对于焊工而言，这条卡牌趣文堪称一篇华焊。",
+    "health": 3,
+    "id": "GDB_130",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "水晶焊工",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你正在构筑<b>星舰</b>，获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 111972,
+    "flavor": "我看到了未来——两张法术牌。",
+    "health": 3,
+    "id": "GDB_310",
+    "mechanics": [
+      "SPELLBURST",
+      "SPELLPOWER"
+    ],
+    "name": "虚灵神谕者",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n<b><b>法术迸发</b>：</b>抽两张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111973,
+    "flavor": "*指向空荡荡的房间*“……这就是我的太<b>空</b>藏品。”",
+    "health": 4,
+    "id": "GDB_311",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "深空策展人",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b><b>法术迸发</b>：</b>随机获取一张法力值消耗与法术相同的随从牌，并将其法力值消耗变为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 111981,
+    "flavor": "这个亮紫色解压球就快压不住他的怒气了。",
+    "health": 6,
+    "howToEarnGolden": "可以在<i>深暗领域</i>奖励路线中获得该奖励。",
+    "id": "GDB_320",
+    "mechanics": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "艾瑞达蛮兵",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>嘲讽</b>。<b>吸血</b>\n每有一个敌方随从，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 111991,
+    "flavor": "糟糕，我灌注的魔力用光了！",
+    "health": 6,
+    "id": "GDB_322",
+    "mechanics": [
+      "RUSH",
+      "SPELLBURST"
+    ],
+    "name": "光注魔刃豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "SPACE",
+    "text": "<b>突袭</b>。<b><b>法术迸发</b>：</b>获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 112028,
+    "flavor": "燃烧军团里有不少可怕的恐魔，其中3费5/1的是最可怕的！",
+    "health": 1,
+    "id": "GDB_330",
+    "mechanics": [
+      "LIFESTEAL",
+      "SPELLBURST"
+    ],
+    "name": "乌祖尔暴怒者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>吸血</b>\n<b><b>法术迸发</b>：</b>随机攻击一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 112049,
+    "flavor": "星辰大海也是海。",
+    "health": 1,
+    "id": "GDB_333",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "太空海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>亡语：</b>你的下一张武器牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110744,
+    "flavor": "进化萨的完美组件！",
+    "health": 2,
+    "id": "GDB_435",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "月石重拳手",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>将3张小行星洗入你的牌库。当抽到小行星时会对一个随机敌人造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111305,
+    "flavor": "德莱尼一族常怀戒心，哪怕死后也会保持警戒。",
+    "health": 2,
+    "id": "GDB_461",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星域戒卫",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>获取你使用的上一个德莱尼的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & I. Campelo da Silva",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111313,
+    "flavor": "在太空中，没人能听到你诉苦。",
+    "health": 1,
+    "id": "GDB_463",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "SPELLBURST"
+    ],
+    "name": "困窘的机械师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>圣盾</b>。<b><b>法术迸发</b>：</b>抽一张德莱尼牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110559,
+    "flavor": "并非所有的流浪者都迷失了自我，但肯定有人迷失了，目前急需导航。",
+    "health": 1,
+    "id": "GDB_720",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星光漫游者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你使用的下一个德莱尼获得+2/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110564,
+    "flavor": "“且慢……为什么我有亡语？”",
+    "health": 3,
+    "id": "GDB_722",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "红衣指挥官",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼，亡语：</b>使你手牌中的所有德莱尼获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110566,
+    "flavor": "帮帮我，临时德莱尼。你是我唯一的希望！",
+    "health": 2,
+    "id": "GDB_723",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "影像操作师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>随机获取3张\n<b>临时</b>德莱尼牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111180,
+    "flavor": "把这些点连起来，你自会懂得这张牌的妙处。",
+    "health": 7,
+    "howToEarnGolden": "可以在<i>深暗领域</i>奖励路线中获得该奖励。",
+    "id": "GDB_860",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "辰鳞星圣",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b><b>法术迸发</b>：</b>本随从的攻击力翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111181,
+    "flavor": "这种情况能叫“特殊漂浮”吗？",
+    "health": 3,
+    "id": "GDB_861",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "遇险的航天员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你使用的下一个德莱尼会获得+2生命值和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111183,
+    "flavor": "她把传说变成了现实，注定会载入历史。",
+    "health": 4,
+    "id": "GDB_863",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "月球开拓者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>将你手牌中一张随机法术牌的法力值消耗变为本随从的法力值消耗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111412,
+    "flavor": "生物学家需要域外见习经历。而太空生物学家需要外域舰习经历。",
+    "health": 2,
+    "howToEarnGolden": "可以在<i>深暗领域</i>奖励路线中获得该奖励。",
+    "id": "GDB_874",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "太空生物学家",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>在你的下个回合开始时，<b>发现</b>一张法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111410,
+    "flavor": "你只能携带两个逃生舱，因为我们<i>确信</i>德莱尼绝不会陷入到两个逃生舱都不够的绝境之中！",
+    "health": 1,
+    "id": "GDB_877",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "逃生舱",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>突袭</b>。<b>亡语：</b>\n使相邻的随从获得+1/+1和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111415,
+    "flavor": "“这太鳍怪了，舰长。”",
+    "health": 1,
+    "id": "GDB_878",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "脑鳃鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>使所有友方鱼人获得“<b>亡语：</b>\n抽一张牌。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER",
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 112799,
+    "flavor": "从尺寸上来看，我觉得这更像是个孵化浴缸。",
+    "health": 2,
+    "id": "SC_000",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "孵化池",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "SPACE",
+    "text": "获取一张1/1的跳虫。<b>亡语：</b>在本回合中，你的异虫随从拥有<b>突袭</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 2,
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER",
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 112834,
+    "flavor": "人生也有涯，虫生也无涯。",
+    "health": 5,
+    "id": "SC_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巢群虫后",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "在你的回合\n结束时，获取一张可以变形成为随机异虫随从的幼虫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "classes": [
+      "DEATHKNIGHT",
+      "HUNTER",
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113576,
+    "flavor": "雷兽是怎么钻进去的！？",
+    "id": "SC_015",
+    "isMiniSet": true,
+    "name": "坑道虫",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "抽两张异虫牌，这些牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 112856,
+    "flavor": "乘坐跨星系航线的旅客，请提前3光年准备，以便抵达星港。",
+    "health": 2,
+    "id": "SC_403",
+    "isMiniSet": true,
+    "name": "星港",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "召唤一个2/1并具有一项发射时效果的<b>星舰组件</b>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 6,
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 112912,
+    "flavor": "咆哮弹！",
+    "health": 2,
+    "id": "SC_408",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "STEALTH"
+    ],
+    "name": "幽灵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>潜行</b>。<b>战吼：</b>如果你正在构筑<b>星舰</b>，摧毁你对手手牌中法力值消耗最低的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "classes": [
+      "PALADIN",
+      "SHAMAN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113211,
+    "flavor": "看，是小鸟！看，是飞机！看！是一座指挥中心正冒着火向地图边角慢慢飞！",
+    "id": "SC_410",
+    "isMiniSet": true,
+    "name": "升空",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "抽两张人族牌。召唤一个2/1并具有一项发射时效果的\n<b>星舰组件</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "classes": [
+      "DRUID",
+      "MAGE",
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 113163,
+    "flavor": "想想吧，这下能造出多少风暴战舰啊！……啊，玩笑而已，我只是想多造点探机。",
+    "id": "SC_750",
+    "isMiniSet": true,
+    "name": "时空提速",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "SPACE",
+    "text": "抽两张星灵牌。召唤一个3/4并具有<b>冲锋</b>的狂热者。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "classes": [
+      "DRUID",
+      "MAGE",
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 113164,
+    "flavor": "看来环境又要提速了。",
+    "health": 3,
+    "id": "SC_751",
+    "isMiniSet": true,
+    "name": "折跃门",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "你的下一张星灵随从牌的法力值消耗减少（3）点。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "classes": [
+      "DRUID",
+      "MAGE",
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113168,
+    "flavor": "如果本牌是随从牌，则应该会拥有<b>突袭</b>吧。",
+    "id": "SC_753",
+    "isMiniSet": true,
+    "name": "光子炮台",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "造成$3点伤害。\n如果本牌消灭了一个随从，则在本局对战中，你的星灵随从牌的法力值消耗\n减少（1）点。",
+    "type": "SPELL"
+  }
+]

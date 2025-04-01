@@ -1,0 +1,120 @@
+[
+  {
+    "artist": "Tanamaes Leejiarasaes",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 76258,
+    "flavor": "浮潜海蝠浅伏海，摇曳光鳐夜瑶光。",
+    "health": 5,
+    "id": "TID_077",
+    "isMiniSet": true,
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "光鳐",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>嘲讽</b>\n在本局对战中，你每使用过一张圣骑士牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 73427,
+    "flavor": "开战前没时间帮自己把另半身护甲穿好。",
+    "health": 4,
+    "id": "TID_098",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "纳迦侍从",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你对本随从施放一个法术后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 73428,
+    "flavor": "泡泡机器人，泡泡泡泡泡泡机器人。",
+    "health": 4,
+    "id": "TSC_059",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "泡泡机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>\n使你的所有其他机械获得<b>圣盾</b>和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 80112,
+    "flavor": "石像背后写着<b>亡语：</b>“我裂开了。”",
+    "id": "TSC_076",
+    "name": "永存石中",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "召唤具有<b>嘲讽</b>的4/8，2/4，1/2的元素各一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77018,
+    "flavor": "“龟龟已找到。正在执行绷带贴贴与亲亲。痛痛即将清除。”",
+    "health": 2,
+    "id": "TSC_083",
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "海床救生员",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。如果选中的是随从牌，使其获得本随从的攻击力和生命值。",
+    "type": "MINION"
+  }
+]

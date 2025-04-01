@@ -1,0 +1,93 @@
+[
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65655,
+    "flavor": "和“吸盘胡子”比起来，稍稍不那么让人反胃。",
+    "health": 6,
+    "id": "DED_511",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "吸盘钩手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，将你的武器变形成为法力值消耗增加（1）点的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64214,
+    "durability": 0,
+    "flavor": "“我能当法官！还能当拍卖师！就给我买一个小锤子嘛！”",
+    "health": 2,
+    "id": "SW_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "拍卖行木槌",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "在你的英雄攻击后，使你手牌中一张<b>战吼</b>随从牌的法力值消耗减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64320,
+    "flavor": "要是他不中用了，还可以改装成橱柜台面。",
+    "health": 5,
+    "id": "SW_032",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "花岗岩熔铸体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>使你手牌和牌库中的元素牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64356,
+    "flavor": "首充即可召唤风领主奥拉基尔和四位风神。确定付费吗？",
+    "id": "SW_035",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "充能召唤",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一个法力值消耗为（1）的随从并召唤它。<i>（在本局对战中你每使用一张<b>过载</b>牌都会升级！）</i>",
+    "type": "SPELL"
+  }
+]

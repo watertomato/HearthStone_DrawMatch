@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 8,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 101055,
+    "elite": true,
+    "flavor": "瑞亚丝塔萨不仅忠于自己所属的红龙军团，更忠于所有的巨龙军团。她坚信各族巨龙都理应存续，她也甘愿为后来的黑龙王子献出自己的生命。",
+    "health": 8,
+    "id": "WW_824",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瑞亚丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，则召唤纯净龙巢。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101057,
+    "elite": true,
+    "flavor": "在血石深处，有一条名为“落日”的巨龙。",
+    "health": 12,
+    "id": "WW_825",
+    "mechanics": [
+      "LIFESTEAL",
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "落日灵龙菲伊",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>嘲讽</b>。在本局对战中，你每召唤一条龙，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  }
+]

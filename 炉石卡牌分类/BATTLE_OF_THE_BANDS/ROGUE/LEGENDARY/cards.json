@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 90603,
+    "elite": true,
+    "flavor": "如果这就是机器人觉醒的后果，那我也要觉醒！",
+    "health": 5,
+    "id": "ETC_078",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "MC布林顿",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>双方玩家各装备一把1/2的麦克风。你对手的麦克风使其受到的所有伤害增加1点！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90606,
+    "elite": true,
+    "flavor": "再来一个。",
+    "id": "ETC_079",
+    "name": "舞动全场（ft.迦罗娜）",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "将所有友方随从移回你的手牌。在本回合中，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "classes": [
+      "ROGUE",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 94802,
+    "elite": true,
+    "flavor": "向左一个暗影步！向右一个二段跳！这就是交叉职业！",
+    "health": 5,
+    "id": "JAM_019",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "踏韵舞者丽萨",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>突袭</b>。在你的英雄攻击后，将本随从移回你的手牌并使其法力值消耗变为（1）点。",
+    "type": "MINION"
+  }
+]

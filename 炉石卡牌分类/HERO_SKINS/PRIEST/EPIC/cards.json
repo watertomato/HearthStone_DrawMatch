@@ -1,0 +1,28 @@
+[
+  {
+    "artist": "Tooth",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 41887,
+    "health": 30,
+    "heroPowerDbfId": 41886,
+    "id": "HERO_09a",
+    "name": "泰兰德·语风",
+    "rarity": "EPIC",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Evgeniy Zagumennyy",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "dbfId": 54816,
+    "health": 30,
+    "heroPowerDbfId": 54817,
+    "id": "HERO_09b",
+    "name": "拉祖尔女士",
+    "rarity": "EPIC",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  }
+]

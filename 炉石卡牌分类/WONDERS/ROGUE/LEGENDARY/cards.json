@@ -1,0 +1,54 @@
+[
+  {
+    "artist": "Eric Braddock",
+    "attack": 8,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 102612,
+    "elite": true,
+    "flavor": "他以前曾是个好人，直到遇见了巫妖王。",
+    "health": 4,
+    "id": "WON_076",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿努巴拉克",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>召唤一个4/4并具有“<b>亡语：</b>召唤阿努巴拉克”的蛛魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102618,
+    "elite": true,
+    "flavor": "坐骑怎么来的？41400个异种蝎壳碎片，先交了再说。",
+    "health": 3,
+    "id": "WON_079",
+    "mechanics": [
+      "BATTLECRY",
+      "COMBO"
+    ],
+    "name": "甲虫之王",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>为你的对手召唤一个0/1的锣。<b>连击：</b>获得<b>突袭</b>。",
+    "type": "MINION"
+  }
+]

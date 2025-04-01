@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 52089,
+    "flavor": "肯瑞托在强制宠物栓绳方面的法规一直很宽松。",
+    "id": "DAL_378",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "猛兽出笼",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DALARAN",
+    "text": "<b>双生法术</b>\n召唤一只5/5并具有<b>突袭</b>的双足飞龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Cecile He",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52894,
+    "flavor": "一个蝴蝶哼哼哼，两个蝴蝶嗡嗡嗡。",
+    "health": 1,
+    "id": "DAL_587",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "闪光蝴蝶",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>\n随机将一张猎人法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 53099,
+    "flavor": "最后所有人都站在了自己身边，这大概不能算是一次美好的盛宴。",
+    "id": "DAL_589",
+    "name": "狩猎盛宴",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "复制你手牌中的所有野兽牌。",
+    "type": "SPELL"
+  }
+]

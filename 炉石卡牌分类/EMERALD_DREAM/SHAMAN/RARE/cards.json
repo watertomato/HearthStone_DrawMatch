@@ -1,0 +1,57 @@
+[
+  {
+    "artist": "Juan Calle",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 114357,
+    "flavor": "“不和你说了，茱莉亚，萨特飞过去了。”",
+    "id": "EDR_232",
+    "name": "台风",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "将每个随从\n洗入随机玩家\n的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114281,
+    "flavor": "<b>过厚：</b>（2）",
+    "id": "EDR_234",
+    "name": "翡翠厚赠",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "抽两张牌。你无法在2回合内使用这些牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114289,
+    "flavor": "原野岩，天光，园林，接下来还有什么？",
+    "health": 3,
+    "id": "EDR_518",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体园林",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b><b>灌注</b>你的英雄技能。使你手牌中一张随从牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46694,
+    "flavor": "担心热量？那就来罐零度圣水吧！",
+    "id": "GIL_134",
+    "name": "圣水",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "spellSchool": "HOLY",
+    "text": "对一个随从造成$4点伤害。如果消灭该随从，将一张该随从的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 46862,
+    "flavor": "所有龙，都过来！",
+    "health": 9,
+    "id": "GIL_190",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜鳞龙后",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "每当一个友方随从获得治疗时，召唤一条3/3的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47836,
+    "flavor": "红白喜事他都接。",
+    "health": 5,
+    "id": "GIL_805",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "破棺者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>亡语：</b>从你的手牌中召唤一个<b>亡语</b>随从。",
+    "type": "MINION"
+  }
+]

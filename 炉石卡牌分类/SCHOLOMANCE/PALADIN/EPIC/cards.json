@@ -1,0 +1,76 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 59584,
+    "flavor": "圣光自带的照明效果使得阅读体验愈加轻松。",
+    "health": 5,
+    "id": "SCH_139",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "name": "虔诚的学徒",
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>圣盾，嘲讽</b>\n在本局对战中，你每对友方角色施放一个法术，本牌的法力值消耗便减少\n（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59616,
+    "flavor": "不知道他有什么可吹的，并列第一而已。",
+    "health": 1,
+    "id": "SCH_149",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "银色自大狂",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "SCHOLOMANCE",
+    "text": "<b>战吼：</b>将本随从的攻击力与生命值分别变为与战场上最高的数值相同。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "classes": [
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59408,
+    "durability": 0,
+    "flavor": "专为纪律委员设计。",
+    "health": 2,
+    "id": "SCH_523",
+    "mechanics": [
+      "SPELLBURST"
+    ],
+    "name": "仪式重槌",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "SCHOLOMANCE",
+    "text": "<b>法术迸发：</b>召唤一个属性值等同于法术法力值消耗的并具有<b>嘲讽</b>的学生。",
+    "type": "WEAPON"
+  }
+]

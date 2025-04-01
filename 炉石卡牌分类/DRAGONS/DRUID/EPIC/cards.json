@@ -1,0 +1,35 @@
+[
+  {
+    "artist": "Kagi",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 55035,
+    "flavor": "咕长老，收了神通吧！",
+    "id": "DRG_315",
+    "name": "森然巨化",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "使你牌库中的所有随从牌获得+2/+2，且法力值消耗增加（1）点<i>（最高不超过10点）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55033,
+    "flavor": "“搞定了，老大。可是把甲板保护起来之后我们要站在哪儿呢？”",
+    "id": "DRG_317",
+    "mechanics": [
+      "SIDE_QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "保护甲板",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n用你的英雄攻击两次。<b>奖励：</b>将三张“爪击”法术牌置入你的手牌。",
+    "type": "SPELL"
+  }
+]

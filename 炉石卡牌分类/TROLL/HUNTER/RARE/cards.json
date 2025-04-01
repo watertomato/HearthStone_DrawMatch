@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Gonzalo Ordonez",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50471,
+    "flavor": "与其说“打脸”是种<i>战略</i>，不如说是种<i>战术</i>。",
+    "health": 4,
+    "id": "TRL_349",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "血顶战略家",
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>如果你装备着武器，<b>发现</b>一张\n法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 51159,
+    "flavor": "委婉一点的书面说法是：大自然的正当防卫。",
+    "id": "TRL_566",
+    "name": "荒野的复仇",
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "召唤在\n本回合中死亡的友方野兽。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 0,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50660,
+    "flavor": "这座神龛主要靠播放开罐头的声音为山猫提供力量。",
+    "health": 3,
+    "id": "TRL_901",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "山猫之灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TROLL",
+    "text": "<b>潜行</b>一回合。每当你召唤一个野兽时，使其获得+1/+1。",
+    "type": "MINION"
+  }
+]

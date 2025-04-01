@@ -1,0 +1,266 @@
+[
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98054,
+    "flavor": "我的迷你机总会感到迷辋。",
+    "health": 3,
+    "id": "TTN_852",
+    "mechanics": [
+      "MAGNETIC",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "崇高的迷你机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。在本随从攻击后，随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98055,
+    "flavor": "接受菜决吧！",
+    "id": "TTN_853",
+    "name": "审判恶徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "将一个敌方随从的生命值变为1，然后对所有敌人造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98056,
+    "flavor": "好了好了，我在看说明书了……",
+    "id": "TTN_854",
+    "name": "发明家的光环",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "你的机械的法力值消耗减少（1）点。持续2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98626,
+    "flavor": "啼尔之啼，涕尔之涕。",
+    "id": "TTN_855t",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "提尔之涕",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "复活3个不同的你职业的随从，将其属性值变为2/2。<b>锻造：</b>再复活一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98058,
+    "flavor": "“伟大的阿米图斯，我遵从了您关于披肩的穿搭建议，但可否示下——我要不要换上金色手套呢？”",
+    "health": 5,
+    "id": "TTN_856",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "阿米图斯的信徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在你的回合结束时，召唤一个2/2的土灵。在本局对战中你每召唤过一个其他土灵，这个土灵获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98059,
+    "elite": true,
+    "flavor": "以提尔之名，携提尔等重生。",
+    "health": 5,
+    "id": "TTN_857",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "提尔",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>复活攻击力为2，3和4点的你职业的随从各一个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98061,
+    "elite": true,
+    "flavor": "阿米图斯曾是维护和谐的勇士，消弭了万神殿的诸多纷争。萨格拉斯堕落之后不久，她也一同消失了。",
+    "health": 8,
+    "id": "TTN_858",
+    "mechanics": [
+      "TAUNT",
+      "TITAN"
+    ],
+    "name": "维和者阿米图斯",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>嘲讽</b>。你的随从每次受到伤害不会超过2点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95470,
+    "flavor": "全称是炉石心算之王。",
+    "health": 2,
+    "id": "TTN_900",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "石心之王",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>召唤一个2/2的土灵。在本局对战中你每召唤过一个其他土灵，这个土灵获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96910,
+    "flavor": "圆柱形螺栓？放进方形孔。",
+    "health": 3,
+    "id": "TTN_906",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "修理机器人X-21",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "<b>亡语：</b>将所有<b>磁力</b>吸附在本随从上的机械移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100984,
+    "flavor": "你可以骂它躺平，但它确实能帮你多抽两张牌。",
+    "health": 3,
+    "id": "TTN_907",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "星界翔龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在你的回合结束时，如果本随从未攻击，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101006,
+    "flavor": "谁开发，谁守护；谁污染，谁去死。",
+    "id": "YOG_509",
+    "isMiniSet": true,
+    "name": "守护者的力量",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "使一个友方随从获得+2/+2。对所有其他随从造成等同于其攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101009,
+    "flavor": "威胁等级：5！但其实好像也没有那么危险。",
+    "health": 3,
+    "id": "YOG_510",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "报警安保机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>抽一张其他随从牌。将其攻击力，生命值和法力值消耗变为5。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101112,
+    "flavor": "哥们，你锻炼过吗？",
+    "health": 4,
+    "id": "YOG_525",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "健身肌器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+1/+1。<b>锻造：</b>改为+2/+2。",
+    "type": "MINION"
+  }
+]

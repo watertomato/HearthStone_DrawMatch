@@ -1,0 +1,81 @@
+[
+  {
+    "artist": "Mark Gibbons",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102654,
+    "flavor": "这些东西都是我捡来的，我发誓！",
+    "id": "WON_110",
+    "name": "失窃物资",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WONDERS",
+    "text": "抽一张<b>嘲讽</b>随从牌，使其获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Konstad",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102655,
+    "flavor": "在过去，她一个胳膊就能举起4面2吨重的盾牌，所以现在这点份量根本不在话下！",
+    "health": 6,
+    "id": "WON_111",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "上古之神护卫",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>\n如果你的克苏恩至少有10点攻击力，则获得10点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102660,
+    "flavor": "当时这一步其实不乏风险，但象牙王后断定值得一搏。",
+    "health": 3,
+    "id": "WON_116",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "象牙城堡",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b><b>发现</b>一张<b>嘲讽</b>随从牌，并获得等同于其法力值消耗的\n护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103242,
+    "flavor": "她每天凌晨4点就爬起来打铁了。",
+    "health": 7,
+    "id": "WON_339",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "兽人铸甲师",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>\n每当本随从造成伤害时，获得等量的护甲值。",
+    "type": "MINION"
+  }
+]

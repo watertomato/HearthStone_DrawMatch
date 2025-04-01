@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Dez Bencosme",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90956,
+    "elite": true,
+    "flavor": "赫达尼斯征服了艾泽拉斯万千歌迷的心灵！这跟暗影魔法有什么关系——完全不知道你在说什么。",
+    "hasDiamondSkin": true,
+    "health": 8,
+    "id": "ETC_334",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERHEAL"
+    ],
+    "name": "碎心歌手赫达尼斯",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>对本随从造成4点伤害。<b>过量治疗：</b>随机对一个敌人造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90959,
+    "elite": true,
+    "flavor": "“毒花少年”被控抄袭，歌中词句“哦，这还得熬多久（哦耶）”疑似来自老派组合：萨隆苦囚。",
+    "id": "ETC_335",
+    "name": "真爱永恒",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "你每个回合使用的第一张法术牌的法力值消耗减少（2）点。此效果持续到你在你的回合中未使用法术牌为止。",
+    "type": "SPELL"
+  }
+]

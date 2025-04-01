@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Jon Neimeister",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 40940,
+    "flavor": "她最爱的运输方式，就是把水晶藏在印有漏斗蛋糕的包裹里。",
+    "health": 6,
+    "id": "CFM_663",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "暗金教恶魔商贩",
+    "rarity": "EPIC",
+    "set": "GANGS",
+    "text": "在你的回合结束时，随机将一张恶魔牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jon Neimeister",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40598,
+    "flavor": "只不过配错了一瓶药水而已就被吊销执照，真是倒霉。",
+    "health": 5,
+    "id": "CFM_900",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "无证药剂师",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "GANGS",
+    "text": "在你召唤一个随从后，对你的英雄造成5点伤害。",
+    "type": "MINION"
+  }
+]

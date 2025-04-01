@@ -1,0 +1,249 @@
+[
+  {
+    "artist": "Guillaume Beauchêne",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104853,
+    "flavor": "他们为什么不往两边跑啊？？？",
+    "id": "MIS_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "多米诺效应",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "对一个随从造成$2点伤害。向左侧或右侧重复此效果，每次伤害增加1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105502,
+    "flavor": "卡牌趣文！！",
+    "health": 6,
+    "id": "MIS_703",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "地狱火！",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将你的英雄的剩余生命值变为15。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105539,
+    "flavor": "每当你施放本牌时，我们都会推出一款新的奈姆希皮肤。",
+    "id": "MIS_707",
+    "isMiniSet": true,
+    "name": "批量生产",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽两张牌。对你的英雄造成$3点伤害。将两张本牌的复制洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 104852,
+    "elite": true,
+    "flavor": "“巨石坠落，把所有人都砸死啦。好遗憾呀！”",
+    "health": 6,
+    "id": "TOY_524",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "游戏主持奈姆希",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张恶魔牌。<b>亡语：</b>与其交换位置。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104860,
+    "flavor": "原本只是一枚禁卫棋子，可惜走上了邪能的邪路。",
+    "health": 6,
+    "id": "TOY_526",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凶魔城堡",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>攻击<b>你的</b>\n英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104862,
+    "flavor": "这支团队从狗头人时代就开始筹划旅途的下一阶段了。",
+    "id": "TOY_527",
+    "name": "诅咒之旅",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "使一个友方随从获得“<b>亡语：</b>召唤本随从的两个<b>休眠</b>2回合的复制。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 104938,
+    "elite": true,
+    "flavor": "所有的轮盘都是反派的，什么时候轮到正面角色？",
+    "id": "TOY_529",
+    "name": "死亡轮盘",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "摧毁你的牌库。5回合后，消灭敌方英雄。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 105097,
+    "flavor": "“裁判！”",
+    "id": "TOY_883",
+    "name": "掀桌子",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "对所有敌方随从造成$3点伤害。你每有一张其他手牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 105098,
+    "flavor": "这台娃娃机有问题！我抓到的都是会咬人的恶魔！",
+    "id": "TOY_884",
+    "name": "抓娃娃",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "召唤你牌库中两个恶魔的各一个复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106652,
+    "flavor": "2：29：55",
+    "id": "TOY_886",
+    "name": "决胜时刻",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "复活上一个死亡的你的恶魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 104854,
+    "flavor": "陪在这位皇后身边，务必小心自己的脑袋。",
+    "health": 4,
+    "id": "TOY_914",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "邪鬼皇后",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>\n<b>亡语：</b>召唤两个4/6并具有<b>嘲讽</b>的骑士。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 104855,
+    "flavor": "“然后……我要，我要对它施加诅咒……呃……有了！我要诅咒它说话必须押韵，不然就会变成螃蟹！”",
+    "health": 3,
+    "id": "TOY_915",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "桌游角色扮演玩家",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "使一个友方恶魔获得+2攻击力和免疫。",
+    "text": "<b>微缩</b>\n<b>战吼：</b>在本回合中，使一个友方恶魔获得+2攻击力和<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104858,
+    "flavor": "永远不要问一位画师完成了多少作品。",
+    "health": 3,
+    "id": "TOY_916",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "速写美术家",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽一张暗影法术牌，获取一张它的<b>临时</b>复制。",
+    "type": "MINION"
+  }
+]

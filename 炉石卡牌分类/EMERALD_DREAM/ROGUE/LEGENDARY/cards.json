@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 114518,
+    "elite": true,
+    "flavor": "去吧，蛛丝！",
+    "health": 3,
+    "id": "EDR_526",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷弗拉尔，恶念巨蛛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>随机使你对手手牌中的1张牌困住一回合。\n<i>（你每使用过一次本随从都会提升。）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 7,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 114527,
+    "elite": true,
+    "flavor": "早在上古时代，阿莎曼牺牲了自己，从军团手中拯救了暗夜精灵。她的名字至今仍在精灵一族中广为传颂。",
+    "health": 7,
+    "id": "EDR_527",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿莎曼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>用你对手牌库中牌的复制填满你的手牌，其法力值消耗减少（3）点。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110896,
+    "flavor": "“还有我的斧头！”“还有我的斧头！”“还有我的斧头！”",
+    "health": 5,
+    "id": "GDB_226",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "SPELLBURST"
+    ],
+    "name": "凶恶的入侵者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼，<b>法术迸发</b>，\n亡语：</b>对所有其他随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110899,
+    "flavor": "这艘飞船，请你自重。",
+    "id": "GDB_227",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "丢弃辎重",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>发现</b>一张法术牌。消耗2点护甲值，再<b>发现</b>一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110902,
+    "flavor": "航行越来越远，日志的厚度见长。",
+    "id": "GDB_228",
+    "name": "舰长日志",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "抽两张牌。你每控制一个德莱尼，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110904,
+    "flavor": "叫探险的中士不太合适。",
+    "health": 4,
+    "id": "GDB_229",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "探险队中士",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你使用的下一个德莱尼会立即攻击一个随机敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & T. Shevtsov",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110910,
+    "flavor": "最好的进攻其实是防守，但最好的防守其实是进攻，而最好的进攻其实是防守，所以最好的防守其实是进攻，但最好的防守其实是进攻，而最好的进攻其实是防守，所以最好的防守其实是进攻但最好的防守其实是进攻，而最好的进攻其实是防守，所以最好的防守其实是进攻！",
+    "health": 2,
+    "id": "GDB_230",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "坚定的复仇者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "SPACE",
+    "text": "攻击时<b>免疫</b>。\n在每个回合结束时，本随从的攻击力和生命值互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110911,
+    "durability": 0,
+    "flavor": "槌和巨槌之间唯一的差别……就是营销！",
+    "health": 2,
+    "id": "GDB_231",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "晶石巨槌",
+    "rarity": "RARE",
+    "set": "SPACE",
+    "text": "在你的英雄攻击后，使你手牌中的所有德莱尼获得+2攻击力。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110914,
+    "flavor": "不断出击，不达目的决不休息。",
+    "health": 4,
+    "id": "GDB_232",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "不屈的守备官",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你使用的下一个德莱尼会使你的英雄在当回合获得该德莱尼的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 110917,
+    "flavor": "那个麦格尼·铜须，那个能点石成矮人的“麦格尼之手”，谁把他放到这颗星球上了！？",
+    "id": "GDB_233",
+    "name": "矮人矮行星",
+    "rarity": "EPIC",
+    "set": "SPACE",
+    "text": "用法力值消耗为（2）的随机随从填满你的面板并使其攻击随机敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Felideus Bubastis",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110921,
+    "elite": true,
+    "flavor": "抱歉我们没有在卡面上详细解释孢子的机制。因为我们对文字量预菇有误。",
+    "health": 7,
+    "id": "GDB_234",
+    "name": "孢子女皇摩尔达拉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "START_OF_GAME_KEYWORD"
+    ],
+    "set": "SPACE",
+    "text": "<b>对战开始时：</b>\n将7张复制孢子洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110922,
+    "elite": true,
+    "flavor": "阿卡玛带领着守备官团队，受命为德莱尼人寻找新的家园。要是他能预见他们在德拉诺的命运……",
+    "health": 6,
+    "id": "GDB_235",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "大主教阿卡玛",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "SPACE",
+    "text": "在本随从攻击后，所有其他友方随从可再次攻击<i>（大主教阿卡玛除外）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 112873,
+    "flavor": "大和临头？大祸临头！“和”是个多音字！",
+    "health": 3,
+    "id": "SC_406",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "STARSHIP_PIECE"
+    ],
+    "name": "大和炮",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>星舰组件</b>\n<b>战吼：</b>随机消灭一个敌方随从。发射时也会触发。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 113212,
+    "flavor": "异虫病患一致认定这种武器的疼痛指数可达7级。",
+    "id": "SC_411",
+    "isMiniSet": true,
+    "name": "震荡弹",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "造成$2点伤害并获得2点护甲值。你的下一次<b>星舰</b>发射的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 113869,
+    "flavor": "“我要你这身衣服，你的靴子，还有你的几丁质外骨骼。”",
+    "health": 8,
+    "id": "SC_414",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷神",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>造成5点伤害。<i>（如果你在本局对战中发射过<b>星舰</b>，则会变形。）</i>",
+    "type": "MINION"
+  }
+]

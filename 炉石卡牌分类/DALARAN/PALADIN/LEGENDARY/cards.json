@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52500,
+    "elite": true,
+    "flavor": "两个人也是可以保守秘密的，除非其中一个是蕾撒。",
+    "health": 3,
+    "id": "DAL_573",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "指挥官蕾撒",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "DALARAN",
+    "text": "你的<b>奥秘</b>会触发\n两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 52685,
+    "elite": true,
+    "flavor": "在另一条时间线上，她能把两个英雄都弄死。",
+    "health": 12,
+    "id": "DAL_581",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "诺萨莉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>为双方英雄恢复所有生命值。",
+    "type": "MINION"
+  }
+]

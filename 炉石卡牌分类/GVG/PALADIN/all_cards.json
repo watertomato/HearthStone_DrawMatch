@@ -1,0 +1,163 @@
+[
+  {
+    "artist": "Jason Chan",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2025,
+    "flavor": "圣光赐予我力量！",
+    "id": "GVG_057",
+    "name": "光明圣印",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "spellSchool": "HOLY",
+    "text": "为你的英雄恢复#4点生命值，并在本回合中\n获得+2攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2026,
+    "flavor": "他愿为他的信仰牺牲，因为他的控制程序就是这么写的。",
+    "health": 2,
+    "id": "GVG_058",
+    "mechanics": [
+      "DIVINE_SHIELD"
+    ],
+    "name": "护盾机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2027,
+    "durability": 0,
+    "flavor": "你们就是把一个大齿轮从机器上拆下来，在上面刻了点符文图案，然后用胶水粘上把手，就对我说这是一把灌注了神圣之力的强力武器？……好吧，似乎也不赖。",
+    "health": 3,
+    "id": "GVG_059",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "齿轮光锤",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "GVG",
+    "text": "<b>战吼：</b>随机使一个友方随从获得<b>圣盾</b>和<b>嘲讽</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2028,
+    "flavor": "自从乌瑟尔把他招募到麾下之后，他觉得新兵大喊“报告”的声音不再那么烦人了。",
+    "health": 5,
+    "id": "GVG_060",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "军需官",
+    "rarity": "EPIC",
+    "set": "GVG",
+    "text": "<b>战吼：</b>使你的白银之手新兵获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Hayes",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2029,
+    "flavor": "请不要辜负这些新兵的一腔热血，还有这把锤子。",
+    "id": "GVG_061",
+    "name": "作战动员",
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "召唤三个1/1的白银之手新兵，装备一把1/4的武器。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 6,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2030,
+    "flavor": "过去这些“卫士”们都是用真银打造的，但自从把生产线外包给加基森的厂家之后，他们的材质就发生了改变。",
+    "health": 3,
+    "id": "GVG_062",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "钴制卫士",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "GVG",
+    "techLevel": 3,
+    "text": "每当你召唤一个机械，便获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2031,
+    "elite": true,
+    "flavor": "在伯瓦尔身上的冰融化之后，他受邀接受了采访。在采访中他对艾泽拉斯全球气候变暖现象表达了深深的忧虑。",
+    "health": 7,
+    "id": "GVG_063",
+    "name": "伯瓦尔·弗塔根",
+    "rarity": "LEGENDARY",
+    "set": "GVG",
+    "text": "如果这张牌在你的手牌中，每当一个友方随从死亡，便获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2069,
+    "flavor": "血色十字军臭名昭著，其领导者们想要通过更名来改善人们对这个组织的看法。",
+    "health": 3,
+    "id": "GVG_101",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血色净化者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "GVG",
+    "text": "<b>战吼：</b>\n对所有具有<b>亡语</b>的随从造成2点伤害。",
+    "type": "MINION"
+  }
+]

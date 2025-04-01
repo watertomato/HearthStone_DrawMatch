@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "Kerem Beyit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 42658,
+    "flavor": "只要轻轻推下开关，就连最顽固的灵魂都能吸得一干二净！",
+    "id": "ICC_055",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "吸取灵魂",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "SHADOW",
+    "text": "<b>吸血</b>\n对一个随从造成\n$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42642,
+    "flavor": "问题就在于他把卡牌衔在嘴里了。",
+    "health": 6,
+    "id": "ICC_218",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "咆哮魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "text": "每当本随从受到伤害，随机弃掉\n一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 45321,
+    "flavor": "干了这一杯，喝完好上路！",
+    "health": 1,
+    "id": "ICC_903",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血色狂欢者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从，并获得+2/+2。",
+    "type": "MINION"
+  }
+]

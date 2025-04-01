@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "Anzka Nguyen",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 79745,
+    "flavor": "宝贝儿，我的裤子哪儿——去了？",
+    "id": "MAW_023",
+    "isMiniSet": true,
+    "name": "盗窃指控",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "选择一个随从。在你使用一张从对手处复制的卡牌后，将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 75922,
+    "flavor": "“哦，我来帮您拿您的外套，您的行李，还有那个超大号的垫肩。”",
+    "health": 3,
+    "id": "REV_002",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "可疑的侍应",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b><b>发现</b>一张<b>传说</b>随从牌。你的对手如果猜中了你的选择，即可获取一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 77370,
+    "flavor": "即便是圣光，也无法洗刷溅在场上的心能。",
+    "id": "REV_252",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "净场",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "HOLY",
+    "text": "消灭所有攻击力小于或等于3的随从。<b>注能（3）：</b>改为小于或等于6。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 82310,
+    "flavor": "人非圣贤，赎，能无过。",
+    "health": 3,
+    "id": "REV_290",
+    "name": "赎罪教堂",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "使一个随从获得+2/+1。抽一张牌。",
+    "type": "LOCATION"
+  }
+]

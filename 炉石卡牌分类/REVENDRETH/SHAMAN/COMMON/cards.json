@@ -1,0 +1,80 @@
+[
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 79542,
+    "flavor": "每一根图腾都是证据。树木谋杀案的证据。",
+    "id": "MAW_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "图腾物证",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "选择一个基础图腾并召唤它。\n<b>注能（3个图腾）：</b>改为召唤全部4个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 79531,
+    "flavor": "1号！只有你和他们四个不一样！",
+    "id": "REV_517",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "罪犯列队",
+    "overload": 2,
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "选择一个友方随从。召唤3个它的复制。<b>过载：</b>（2）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76970,
+    "durability": 0,
+    "flavor": "观察你的石头。想象其中的图腾。然后轻轻地……",
+    "health": 3,
+    "id": "REV_917",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "石雕凿刀",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "在你的英雄攻击后，随机召唤一个基础图腾。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77428,
+    "flavor": "只需要一点点的爱意，和大量的垃圾！",
+    "health": 1,
+    "id": "REV_936",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "粗暴的看管者",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>召唤一个3/5并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  }
+]

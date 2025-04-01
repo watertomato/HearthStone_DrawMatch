@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56098,
+    "flavor": "一起为地精的实验助一臂之力！",
+    "id": "YOD_020",
+    "name": "惊爆异变",
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "spellSchool": "NATURE",
+    "text": "将一个随从随机变形成为一个法力值消耗增加（3）点的\n随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56292,
+    "flavor": "眼中窥暴，可知其全，剩下的部分我实在不想看了。",
+    "id": "YOD_041",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "风暴之眼",
+    "overload": 3,
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "spellSchool": "NATURE",
+    "text": "召唤三个5/6并具有<b>嘲讽</b>的元素。\n<b>过载：</b>（3）",
+    "type": "SPELL"
+  }
+]

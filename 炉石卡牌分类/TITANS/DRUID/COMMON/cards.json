@@ -1,0 +1,70 @@
+[
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97584,
+    "flavor": "树木花开，有一盛必有一败。",
+    "id": "TTN_950",
+    "name": "林木幼苗",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "召唤两个1/1的树苗。<i>（2回合后长成）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 98265,
+    "flavor": "谁说这张牌消耗8点法力值，纯属一叶障目。",
+    "id": "TTN_954",
+    "name": "栽培",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "使你的随从获得+2/+2。在本局对战中，你每召唤一个树人，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100093,
+    "flavor": "当时的人们疯狂追逐着自然法术，但没人注意到花朵之外的泡沫即将破裂。",
+    "id": "TTN_955",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "生命缚誓者的礼物",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>随机获取2张自然法术牌；或者使你手牌中法术牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101685,
+    "flavor": "禁止在狂野环境中使用。会破坏臭氧层。",
+    "health": 2,
+    "id": "YOG_403",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "空中施肥者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼，亡语：</b>召唤一个2/2的树人。",
+    "type": "MINION"
+  }
+]

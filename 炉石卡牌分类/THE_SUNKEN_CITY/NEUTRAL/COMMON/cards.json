@@ -1,0 +1,492 @@
+[
+  {
+    "artist": "BOSi Studio",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 71646,
+    "flavor": "偏爱泡沫丰盈的洗发水。",
+    "health": 4,
+    "id": "TID_713",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "泡泡元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在本随从受到刚好一点伤害后，消灭本随从。<i>（啪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 71688,
+    "flavor": "配方：两枚地精炸弹。",
+    "health": 2,
+    "id": "TSC_001",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "海军水雷",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>亡语：</b>对敌方英雄造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 71690,
+    "flavor": "“……然后我就用刺拳干掉他们！”",
+    "health": 4,
+    "id": "TSC_002",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "刺豚拳手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你的英雄攻击后，对所有敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 71695,
+    "flavor": "牛肉弹冲击！",
+    "health": 4,
+    "id": "TSC_007",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "潜水跳板船员",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>休眠</b>1回合。<b>突袭</b>。攻击时具有<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Moon Colony",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 71729,
+    "flavor": "其实是个穿着带鳞潜水服的人。",
+    "health": 4,
+    "id": "TSC_013",
+    "mechanics": [
+      "POISONOUS",
+      "RUSH"
+    ],
+    "name": "潜水泥鳞鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>休眠</b>1回合。<b>突袭</b>，<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Moon Colony",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 71701,
+    "flavor": "纳迦故事里的童话人物，用来吓止靠近海面的小纳迦。",
+    "health": 4,
+    "howToEarnGolden": "完成成就“鱼昧童话”后解锁。",
+    "id": "TSC_017",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巫婆纳迦",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过法术，造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 71705,
+    "flavor": "放咒要用四只手，防揍要用四肢守。",
+    "health": 7,
+    "id": "TSC_020",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "野蛮的女巫",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>交换每个玩家手牌中各一张随机法术牌的法力值消耗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 72021,
+    "flavor": "提防你内心的鱼望。",
+    "health": 3,
+    "id": "TSC_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鳄鱼人掠夺者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>抽三张鱼人牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72648,
+    "flavor": "她更喜欢用这种表述：奥术，邪能，火焰，冰霜，神圣，自然以及暗影法术伤害+1。",
+    "health": 3,
+    "id": "TSC_053",
+    "mechanics": [
+      "SPELLPOWER"
+    ],
+    "name": "虹彩闪鳞纳迦",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72417,
+    "flavor": "艾伦请补充细节",
+    "health": 1,
+    "id": "TSC_632",
+    "mechanics": [
+      "BATTLECRY",
+      "DIVINE_SHIELD"
+    ],
+    "name": "械钳虾",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>圣盾</b>，<b>战吼：</b>随机使你手牌中的一张机械牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72509,
+    "flavor": "左边一尾，右边一尾。不想被追？你想得美。",
+    "health": 1,
+    "id": "TSC_638",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "食人鱼集群",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>突袭</b>\n在你召唤一个食人鱼集群后，获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72586,
+    "flavor": "温和的巨人。身边的朋友不怎么温和。",
+    "health": 2,
+    "id": "TSC_640",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "堡礁行者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼，亡语：</b>召唤一个1/1的食人鱼集群。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Moon Colony",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72932,
+    "flavor": "机械鱼其实是全自动的。她手里的控制器是假的，只是逗她玩。",
+    "health": 4,
+    "id": "TSC_646",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海底侦察兵",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>如果你控制任何机械，则召唤两条2/1的机械鱼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72938,
+    "flavor": "鹈鹕的喙容积巨大，巨型随从都装得下！*\n*当然是假的。",
+    "health": 1,
+    "id": "TSC_647",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "潜水俯冲鹈鹕",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>休眠</b>1回合。\n<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 71917,
+    "flavor": "一支记录笔，胜过三叉戟。",
+    "health": 2,
+    "id": "TSC_823",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗水记录员",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>你使用的下一张法术牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72105,
+    "flavor": "“鱼鳞？垃圾。墓碑？垃圾。怪模怪样的谜之匣？垃圾。啊哈！海盗之锚！”",
+    "health": 3,
+    "howToEarnGolden": "完成成就“海底拾贝”后解锁。",
+    "id": "TSC_909",
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "拖网海象人",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 72109,
+    "flavor": "安戈洛的丛林勘探已毕，奥丹姆的遗迹重现人间。探险者们必须更加深入，才能探寻这世上瑰丽的未知。",
+    "health": 6,
+    "id": "TSC_911",
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "挖掘专家",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。选中的牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 72212,
+    "flavor": "对某些人来说，大分裂标志着文明的沉落。而对某些人来说，那是一次绝佳的核心力量训练。",
+    "health": 6,
+    "id": "TSC_919",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "艾萨拉的哨兵",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>将一张沉没的哨兵置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72338,
+    "flavor": "它在我身边晃，我反倒觉得<i>不</i>安全。",
+    "health": 3,
+    "id": "TSC_928",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "安保自动机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你召唤一个机械后，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 72504,
+    "flavor": "“帮别人抽牌？除非我死了！”",
+    "health": 7,
+    "id": "TSC_935",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "自私的扇贝",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>亡语：</b>你的对手抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72583,
+    "flavor": "对战过程中遇到的纳迦才是真正的宝藏。",
+    "health": 5,
+    "howToEarnGolden": "完成成就“追猎宝藏”后解锁。",
+    "id": "TSC_938",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "宝藏守卫",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>抽一张牌。",
+    "type": "MINION"
+  }
+]

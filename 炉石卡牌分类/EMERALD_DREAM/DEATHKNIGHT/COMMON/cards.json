@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Ivo Campelo da Silva",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 114303,
+    "flavor": "这个暴行还怪有礼貌的哩！",
+    "id": "EDR_811",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "暴行祭礼",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "EMERALD_DREAM",
+    "text": "<b>发现</b>一张亡灵牌。消耗2份<b>残骸</b>，使其获得<b>黑暗之赐</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114305,
+    "flavor": "刷牙的时候记得也要刷刷舌头。",
+    "id": "EDR_814",
+    "name": "感染吐息",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "EMERALD_DREAM",
+    "text": "造成$2点伤害。召唤一条0/2的水蛭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 1,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 116296,
+    "flavor": "我知道每种生物在生态系统中都很重要，但这些吸血鬼是真的恶心。",
+    "health": 2,
+    "id": "EDR_816",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "怪异魔蚊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "在你的回合结束时，使你的其他随从获得+1攻击力。",
+    "type": "MINION"
+  }
+]

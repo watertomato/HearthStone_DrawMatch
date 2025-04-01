@@ -1,0 +1,71 @@
+[
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65598,
+    "flavor": "双方在不怎么友好的氛围中充分交换了意见。",
+    "id": "DED_005",
+    "isMiniSet": true,
+    "name": "海盗谈判",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "交换此牌与你对手牌库中的一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63955,
+    "flavor": "“鸳鸯茶，鸳鸯tea。”“你跟我，我跟你。”",
+    "id": "SW_405",
+    "name": "简略情报",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "抽一张法力值消耗小于或等于（4）点的<b>亡语</b>牌。触发其\n<b>亡语</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Cheng Hao",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64033,
+    "flavor": "“外面的世界是很危险的。要是一不小心，你的保护费到期了，那可就难办了……”",
+    "id": "SW_412",
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "军情七处的要挟",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n对一个未受伤的角色造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64163,
+    "flavor": "保持街面平静整洁，难免就要弄脏双手。",
+    "health": 4,
+    "id": "SW_417",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "军情七处刺客",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "在本局对战中，你每使用过一张军情七处牌，本牌的法力值消耗便减少（1）点。<b>连击：</b>消灭一个敌方随从。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 49051,
+    "flavor": "巨魔是首个掌握了轨道图腾回收技术的种族。",
+    "id": "TRL_012",
+    "mechanics": [
+      "OVERKILL"
+    ],
+    "name": "图腾重击",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "text": "造成$2点伤害。\n<b>超杀</b>：召唤一个\n基础图腾。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Cicily He",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 50547,
+    "flavor": "“噫，这就是她带来疾病的方式！”",
+    "id": "TRL_351",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "蟾蜍雨",
+    "overload": 3,
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TROLL",
+    "text": "召唤三个2/4并具有<b>嘲讽</b>的蟾蜍。\n<b>过载：</b>（3）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50405,
+    "flavor": "“那么，她是怎么带来疾病的呢？用魔法？还是用什么载体装起来的？”",
+    "health": 1,
+    "id": "TRL_522",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疾疫使者",
+    "rarity": "COMMON",
+    "set": "TROLL",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>如果你在本回合施放了两个法术，则造成2点伤害。",
+    "type": "MINION"
+  }
+]

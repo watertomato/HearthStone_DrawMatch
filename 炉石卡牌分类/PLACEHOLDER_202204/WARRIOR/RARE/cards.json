@@ -1,0 +1,247 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97329,
+    "flavor": "实验室球队的明星投手。",
+    "health": 4,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_BOT_104",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "掷弹机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>造成5点伤害，随机分配到所有非机械随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 62463,
+    "flavor": "比伊利丹的仓库整洁多了。",
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_CS3_009",
+    "name": "战争储备箱",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "随机将一张战士随从牌，法术牌和武器牌分别置入你的\n手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Greg Hildebrandt",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 69639,
+    "flavor": "她接受公会修理资金！",
+    "health": 4,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_EX1_402",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "铸甲师",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当一个友方随从受到伤害，便获得1点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110078,
+    "flavor": "“送你礼物的是部落！是我！！”——加尔鲁什",
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_07",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "加尔鲁什的礼物",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>发现</b>一张<b>临时</b>的斩杀，盾牌格挡或绝命乱斗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69741,
+    "flavor": "对于侏儒战士来说，一块盾牌可以对其进行全方位的保护。",
+    "health": 5,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_GVG_053",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盾甲侍女",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n获得5点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95728,
+    "flavor": "先生，您的盔甲着火了。",
+    "health": 3,
+    "id": "CORE_ICC_062",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "熔甲卫士",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>如果此时是你对手的回合，则获得\n6点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95776,
+    "flavor": "我的食尸鬼朋友马上就回来，你摊上事儿了，你摊上大事儿了。",
+    "health": 4,
+    "id": "CORE_ICC_408",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "瓦格里摄魂者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "在本随从受到伤害并存活下来后，召唤一个2/2的食尸鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95684,
+    "flavor": "大家都还好吗？有人受伤了？有人流血了？有人骨折了？……那太好了。",
+    "health": 3,
+    "id": "CORE_ICC_450",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死亡幽魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>每有一个受伤的随从，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79772,
+    "dbfId": 118039,
+    "flavor": "“没错，法官大人，这看上去应该像是某种武器。”",
+    "health": 2,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_MAW_029",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "武器专家",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你装备着武器，使其获得+1/+1。否则，抽一张武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 75910,
+    "dbfId": 118048,
+    "flavor": "每一场派对都该成为变装派对。",
+    "health": 4,
+    "id": "CORE_REV_006",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "可疑的海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b><b>发现</b>一张武器牌。你的对手如果猜中了你的选择，即可获取一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 77296,
+    "dbfId": 118151,
+    "flavor": "我喜欢你的新挂毯，奥格拉！你在哪搞的？",
+    "id": "CORE_REV_931",
+    "name": "征服者战旗",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "揭示每个玩家牌库中的一张牌，如果你的牌法力值消耗较大，抽取你的牌。揭示三次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 108358,
+    "flavor": "别人生气我不气，气出病来无人替。",
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得100场对战后解锁。",
+    "id": "CORE_ULD_707",
+    "name": "愤怒之灾祸",
+    "rarity": "RARE",
+    "set": "PLACEHOLDER_202204",
+    "text": "消灭所有受伤的随从。",
+    "type": "SPELL"
+  }
+]

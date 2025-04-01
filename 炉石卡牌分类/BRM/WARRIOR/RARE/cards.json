@@ -1,0 +1,18 @@
+[
+  {
+    "artist": "Ben Olson",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 2296,
+    "flavor": "过去战士总是抱怨致死打击不如火球术，现在他们总算报仇了，因为复仇打击可比魔爆术好多了。",
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在黑翼之巢中解锁制作。",
+    "id": "BRM_015",
+    "name": "复仇打击",
+    "rarity": "RARE",
+    "set": "BRM",
+    "text": "对所有随从造成$1点伤害。如果你的生命值小于或等于12点，则改为造成$3点伤害。",
+    "type": "SPELL"
+  }
+]

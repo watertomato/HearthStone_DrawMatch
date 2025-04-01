@@ -1,0 +1,80 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76223,
+    "flavor": "你还是不适应战棋酒馆。我就生在那里，长在那里。",
+    "health": 3,
+    "id": "TID_099",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "K9-0型机械狗",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>\n<b>探底</b>。如果选中的是法力值消耗为（1）的随从牌，则召唤它。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 71709,
+    "flavor": "永远不要钓鱼……要用网。",
+    "id": "TSC_023",
+    "name": "倒刺捕网",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "对一个敌人造成$2点伤害。如果你在此牌在你手中时使用过纳迦牌，则再选择一个目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Moon Colony",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 74884,
+    "flavor": "神奇海螺万岁！",
+    "id": "TSC_072",
+    "name": "螺号召唤",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "抽一张纳迦牌和一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 72896,
+    "flavor": "从上古时代起，暗夜精灵就是忠实的猫奴。",
+    "health": 3,
+    "id": "TSC_945",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "艾萨拉的刃豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>突袭</b>，<b>亡语：</b>将一张沉没的刃豹置于你的牌库底。",
+    "type": "MINION"
+  }
+]

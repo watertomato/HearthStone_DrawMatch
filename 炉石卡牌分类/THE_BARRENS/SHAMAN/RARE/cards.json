@@ -1,0 +1,99 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63069,
+    "flavor": "“欲勇者，贾鱼余勇！”",
+    "id": "BAR_041",
+    "name": "鱼勇可贾",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "使你的所有随从获得+1/+1。使你的鱼人额外获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63071,
+    "flavor": "这不是去鱼人幼儿园的车！",
+    "health": 3,
+    "id": "BAR_043",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "鱼人宝宝车队",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "在你的回合开始时，抽一张鱼人牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 63508,
+    "flavor": "你们谁看见一双石头腿了吗？就在这附近。",
+    "health": 6,
+    "id": "BAR_750",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "大地亡魂",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>对所有敌方随从造成1点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 63331,
+    "flavor": "他们本想招一个老练的地下城历险家，结果却等来了她。",
+    "health": 3,
+    "id": "WC_005",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "原初地下城历险家",
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "text": "<b>战吼：</b>抽一张法术牌。如果是自然法术牌，则再抽一张元素牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 63098,
+    "flavor": "火焰永恒*。\n*<i>注：“永恒”一词的适用范围仅限当前回合。</i>",
+    "id": "WC_020",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "永恒之火",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "THE_BARRENS",
+    "spellSchool": "FIRE",
+    "text": "随机对一个敌方随从造成$3点伤害。如果该随从死亡，再次施放本法术。<b>过载：</b>（1）",
+    "type": "SPELL"
+  }
+]

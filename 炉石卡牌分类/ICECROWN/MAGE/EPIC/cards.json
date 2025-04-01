@@ -1,0 +1,35 @@
+[
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 42760,
+    "flavor": "想学的话得先破冰。",
+    "id": "ICC_086",
+    "name": "冰封秘典",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "将每种不同的<b>奥秘</b>从你的牌库中置入战场。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43193,
+    "flavor": "似曾相识的感觉。",
+    "id": "ICC_823",
+    "name": "模拟幻影",
+    "rarity": "EPIC",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "复制你手牌中法力值消耗最低的随从牌。",
+    "type": "SPELL"
+  }
+]

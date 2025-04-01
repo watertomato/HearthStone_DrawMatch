@@ -1,0 +1,260 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41118,
+    "elite": true,
+    "flavor": "“这家伙是谁？她从哪儿来？加基森根本就没有警察局啊！”，诺格弗格市长如是说。",
+    "health": 1,
+    "id": "CFM_341",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "女警萨莉",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>亡语：</b>对所有敌方随从造成等同于本随从攻击力的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40803,
+    "elite": true,
+    "flavor": "忍者大师，鱼人的传奇英雄。",
+    "health": 5,
+    "id": "CFM_344",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "飞火流星·芬杰",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>潜行</b>\n每当本随从攻击并消灭一个随从，便从你的牌库中召唤两个鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "MAGE",
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40408,
+    "elite": true,
+    "flavor": "暗金教在此严正声明，卡扎库斯教主并非巨龙，也从未染指过违禁药水。任何公开污蔑暗金教或卡扎库斯教主本人的言论，必将遭受法律和龙息药水的严惩！",
+    "health": 3,
+    "id": "CFM_621",
+    "mechanics": [
+      "BATTLECRY",
+      "KABAL"
+    ],
+    "name": "卡扎库斯",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则为你创建一个自定义\n法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40465,
+    "elite": true,
+    "flavor": "船长因为帕奇斯能眼观六路，耳听八方的能力将其招揽。唯一的问题是，他走过的甲板老是黏糊糊的，清理起来特别麻烦。",
+    "hasDiamondSkin": true,
+    "health": 1,
+    "id": "CFM_637",
+    "name": "海盗帕奇斯",
+    "race": "PIRATE",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "在你使用一张海盗牌后，从你的牌库中召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tooth",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 40955,
+    "elite": true,
+    "flavor": "能够游走于三大家族之间的人，想必也不是个普通角色。",
+    "health": 4,
+    "id": "CFM_670",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "诺格弗格市长",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "所有角色都会随机选择目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41841,
+    "elite": true,
+    "flavor": "郭雅夫人在加基森开黑市只有一个目的，就是在三大家族争夺加基森的控制权时大赚一笔。",
+    "health": 3,
+    "id": "CFM_672",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "郭雅夫人",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "targetingArrowText": "从你的牌库中召唤所有复制。",
+    "text": "<b>战吼：</b>选择一个友方随从，召唤你牌库中的它的所有复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyson Murphy",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "HUNTER",
+      "PALADIN",
+      "WARRIOR"
+    ],
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40703,
+    "elite": true,
+    "flavor": "作为污手党家族的主心骨，汉有时候真想把愚钝的古扫地出门，但他没法这么做。",
+    "health": 5,
+    "id": "CFM_685",
+    "mechanics": [
+      "BATTLECRY",
+      "GRIMY_GOONS"
+    ],
+    "name": "唐·汉古",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>随机使你手牌中的一张随从牌获得+5/+5。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 40603,
+    "elite": true,
+    "flavor": "什么？身为死亡之翼的儿子，拉希奥居然不是龙牌？你似乎知道得太多了…",
+    "health": 5,
+    "id": "CFM_806",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "拉希奥",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>嘲讽，战吼：</b>抽若干数量的牌，直到你抽到一张非龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40605,
+    "elite": true,
+    "flavor": "加基森的地下拍卖行随着城市的迅猛发展，生意越做越大。比尔杜挣钱后开始涉足房地产行业，并一跃成为加基森数一数二的大富豪。",
+    "health": 4,
+    "id": "CFM_807",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "大富翁比尔杜",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "在你施放一个法术后，复原你的\n英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Garrett Hanna",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40607,
+    "elite": true,
+    "flavor": "“乐善好施”的加佐在加基森做信贷方面的生意，他提供的贷款无需任何抵押。但你要是没能及时还上钱，缺胳膊少腿也是常有的事，这也是他“鲨鱼”名号的由来。",
+    "health": 4,
+    "id": "CFM_808",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "“鲨鱼”加佐",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "每当本随从攻击时，双方玩家抽若干数量的牌，直到拥有三张手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "ROGUE",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 40596,
+    "elite": true,
+    "flavor": "别看艾雅年纪轻，她可是玉莲帮的实际掌权者。看似天真活泼的少女，转眼之间便能召唤出魔像大军，将敌人统统碾碎！",
+    "health": 3,
+    "id": "CFM_902",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "JADE_GOLEM",
+      "JADE_LOTUS"
+    ],
+    "name": "艾雅·黑掌",
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>战吼，亡语：</b>召唤一个{0}的<b>青玉魔像</b>。0<b>战吼，亡语：</b>召唤一个<b>青玉魔像</b>。",
+    "type": "MINION"
+  }
+]

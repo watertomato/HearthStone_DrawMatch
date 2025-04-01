@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46864,
+    "flavor": "从此告别三缺一的烦恼了。",
+    "id": "GIL_191",
+    "name": "恶魔法阵",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "spellSchool": "FEL",
+    "text": "召唤四个1/1的小鬼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jiajun Tian",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46904,
+    "flavor": "它们是一咬钟情。现在结了婚，还有了两个孩子。",
+    "health": 4,
+    "id": "GIL_508",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "夜行蝙蝠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>如果你的英雄在本回合受到过伤害，召唤两只1/1的\n蝙蝠。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kerem Beyit",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 47262,
+    "flavor": "如果你在森林里看到鬼火，多半是遇到了巡林的小鬼。",
+    "health": 1,
+    "id": "GIL_608",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STEALTH"
+    ],
+    "name": "女巫森林小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>潜行，亡语：</b>随机使一个友方随从获得+2生命值。",
+    "type": "MINION"
+  }
+]

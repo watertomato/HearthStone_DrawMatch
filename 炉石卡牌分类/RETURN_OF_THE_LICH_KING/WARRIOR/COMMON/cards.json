@@ -1,0 +1,103 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 86691,
+    "flavor": "就连这玩意都比纸吸管好用！",
+    "health": 8,
+    "id": "NX2_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "血肉塑造者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的护甲值大于或等于5点，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86692,
+    "flavor": "还有，更多！要找个人掌舵！",
+    "health": 3,
+    "id": "NX2_028",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "钩拳-3000型",
+    "race": "PIRATE",
+    "races": [
+      "MECHANICAL",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你的英雄攻击后，获得4点护甲值并抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 84293,
+    "flavor": "施法者：“牙白……”",
+    "health": 8,
+    "id": "RLK_602",
+    "mechanics": [
+      "ELUSIVE",
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "银怒坚兵",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>。<b>扰魔</b>。<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84623,
+    "flavor": "现在是凌晨3点，能不能让你的凤凰别这么烧？！",
+    "id": "RLK_603",
+    "name": "凤凰之光",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FIRE",
+    "text": "抽两张牌。每有一个受伤的友方角色，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 84296,
+    "flavor": "热敷能量直达患处。",
+    "id": "RLK_605",
+    "name": "炫目之力",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FIRE",
+    "text": "使一个随从获得+1/+1。每有一个受伤的友方角色，重复一次。",
+    "type": "SPELL"
+  }
+]

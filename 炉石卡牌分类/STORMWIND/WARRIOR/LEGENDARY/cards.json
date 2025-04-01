@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 64199,
+    "elite": true,
+    "flavor": "他出道的时候还没有圣骑士这个职业，更没有什么机械圣骑士。",
+    "health": 7,
+    "id": "SW_024",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "洛萨",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，随机攻击一个敌方随从。如果目标随从死亡，获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64280,
+    "elite": true,
+    "flavor": "赢得了一年一度的棘齿城帆船大赛，他们真的很开心。",
+    "id": "SW_028",
+    "name": "开进码头",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用三张海盗牌。<b>奖励：</b>抽一张武器牌。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110111,
+    "flavor": "沙塔尔人是跨维度捉迷藏项目的传统霸主。",
+    "health": 4,
+    "id": "GDB_103",
+    "mechanics": [
+      "AURA",
+      "STARSHIP_PIECE"
+    ],
+    "name": "沙塔尔力场",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ELUSIVE",
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>扰魔</b>。你每个回合使用的第一张法术牌的法力值消耗减少（1）点。\n<b>星舰组件</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 110893,
+    "flavor": "如果该牌是阿肯尼特，则收获启示。",
+    "id": "GDB_852",
+    "name": "阿肯尼特的启示",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "spellSchool": "ARCANE",
+    "text": "抽一张牌。如果该牌是法术牌，则其法力值消耗\n减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114584,
+    "flavor": "救命！救命！我的对手出牌了！",
+    "id": "GDB_883",
+    "name": "求救信号",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "spellSchool": "ARCANE",
+    "text": "随机召唤两个\n法力值消耗为（2）的随从。复原2个\n法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 113173,
+    "flavor": "你必须建造更多的……你懂的……",
+    "id": "SC_755",
+    "isMiniSet": true,
+    "name": "建造水晶塔",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "在本回合中，你的下一张星灵牌法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 12,
+    "dbfId": 113174,
+    "flavor": "航空母舰会飞不是很正常吗。",
+    "health": 14,
+    "id": "SC_756",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "航母",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "在你的回合结束时，召唤四架4/1的拦截机并使其攻击随机敌人。",
+    "type": "MINION"
+  }
+]

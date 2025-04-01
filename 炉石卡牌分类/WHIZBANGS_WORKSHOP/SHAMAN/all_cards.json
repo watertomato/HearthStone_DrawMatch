@@ -1,0 +1,270 @@
+[
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 10,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 108624,
+    "flavor": "你们不会想把这只也变成橙色吧！？",
+    "health": 10,
+    "id": "MIS_306",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "火箭跳蛙",
+    "overload": 4,
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>突袭</b>。<b>过载：</b>（4）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 108625,
+    "flavor": "身材可以变大8倍！只需注水！",
+    "health": 1,
+    "id": "MIS_307",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "GIGANTIFY"
+    ],
+    "name": "水宝宝鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>扩大</b>\n<b>战吼：</b>召唤一个属性值等同于本随从并具有<b>突袭</b>的鱼人宝宝。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105500,
+    "flavor": "风潮不改旧传说，相看恍如昨。",
+    "id": "MIS_701",
+    "isMiniSet": true,
+    "name": "恋旧风潮",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "将所有随从变形成为来自过去的随机<b>传说</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102463,
+    "flavor": "立即抢购，无需过载！",
+    "id": "TOY_046",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "超值惊喜",
+    "rarity": "COMMON",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法力值消耗为（4）的随从牌，将其攻击力和生命值变为7。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103079,
+    "flavor": "超科学！",
+    "id": "TOY_500",
+    "mechanics": [
+      "LIFESTEAL",
+      "OVERLOAD",
+      "ImmuneToSpellpower"
+    ],
+    "name": "苏打火山",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "FIRE",
+    "text": "<b>吸血</b>。造成$10点伤害，随机分配到所有随从身上。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103080,
+    "elite": true,
+    "flavor": "我，芽尖笊利！",
+    "health": 5,
+    "id": "TOY_501",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "沙德木刻",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>你的下一个<b>战吼</b>会触发3次，但无法伤害敌方英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103119,
+    "flavor": "我歪了3回，刷了8192次，终于抓到了闪光的岩哨兵！",
+    "health": 7,
+    "id": "TOY_503",
+    "mechanics": [
+      "BATTLECRY",
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "闪岩哨兵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>\n<b>战吼：</b>召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103124,
+    "elite": true,
+    "flavor": "汤来喽！",
+    "health": 3,
+    "id": "TOY_504",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘女巫哈加莎",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>抽两张法力值消耗大于或等于（5）点的法术牌，并将其变形成为会施放对应法术的泥浆怪。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103330,
+    "flavor": "……有一只小小的松鼠受命前去击败恶龙，它在土灵朋友的帮助下救出了鱼人公主。讲完了。",
+    "id": "TOY_506",
+    "name": "很久以前……",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "随机召唤法力\n值消耗为（3）的野兽，龙，元素和鱼人各一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103332,
+    "flavor": "哇，巫师杜格塔什，我希望童话里都是<i>真的</i>。",
+    "health": 2,
+    "id": "TOY_507",
+    "name": "童话林地",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "抽一张<b>战吼</b>随从牌，其法力值消耗减少（1）点。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103336,
+    "flavor": "什么是体书？",
+    "id": "TOY_508",
+    "name": "立体书",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "造成$2点伤害。召唤两只0/1并具有<b>嘲讽</b>的青蛙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103379,
+    "flavor": "这幅画好伤人！",
+    "health": 4,
+    "id": "TOY_513",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE"
+    ],
+    "name": "沙画元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>微缩</b>\n<b>战吼：</b>在本回合中，使你的英雄获得+1攻击力和<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 105473,
+    "flavor": "“你想许个什么愿望呢？”“我想提高我的攻击力和生命值，一丁点就可以！”“……哦？你不想多加一点吗，比方说，加个一百万？”",
+    "id": "TOY_877",
+    "name": "星空祈愿",
+    "rarity": "RARE",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "使你手牌，牌库和战场上的所有随从获得+2/+3。",
+    "type": "SPELL"
+  }
+]

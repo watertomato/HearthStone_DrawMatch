@@ -1,0 +1,31 @@
+[
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 52264,
+    "flavor": "欺不如窃，窃不如偷。",
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_182",
+    "name": "窃取",
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "text": "随机将一张另一职业的卡牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sean O’Daniels",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 196,
+    "id": "NEW1_004",
+    "name": "消失",
+    "rarity": "COMMON",
+    "set": "LEGACY",
+    "text": "将所有随从移回其拥有者的\n手牌。",
+    "type": "SPELL"
+  }
+]

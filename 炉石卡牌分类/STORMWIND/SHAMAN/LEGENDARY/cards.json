@@ -1,0 +1,70 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65700,
+    "elite": true,
+    "flavor": "没人喜欢“海鲜惊人套餐”。这个事实一点也不惊人。",
+    "health": 3,
+    "id": "DED_522",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "厨师曲奇",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>吸血</b>，<b>亡语：</b>装备一把2/3并具有<b>吸血</b>的搅汤棒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64322,
+    "elite": true,
+    "flavor": "这里可是暴风城，萨满祭司怎么可能和风暴做对呢？",
+    "id": "SW_031",
+    "name": "号令元素",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用三张<b>过载</b>牌。\n<b>奖励：</b>解锁你<b>过载</b>的法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64774,
+    "elite": true,
+    "flavor": "只要给他演示一次就够了，他能完美复现无数次。但仅限本回合。",
+    "health": 4,
+    "id": "SW_115",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伯尔纳·锤喙",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "在你使用一张<b>战吼</b>\n随从牌后，重复一次本回合使用的第一个<b>战吼</b>。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Wayne Reynolds",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 69952,
+    "flavor": "你知道搏击俱乐部的第一守则吗？",
+    "id": "VAN_EX1_407",
+    "name": "绝命乱斗",
+    "rarity": "EPIC",
+    "set": "VANILLA",
+    "text": "随机选择一个随从，消灭除了该随从外的所有其他随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69955,
+    "flavor": "“什么是更好的武器？是敌人预料之中的利斧，还是敌人意想不到的钝刀？”——《战士的艺术》，第9章",
+    "id": "VAN_EX1_410",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "盾牌猛击",
+    "rarity": "EPIC",
+    "set": "VANILLA",
+    "text": "你每有1点护甲值，便对一个随从造成1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69956,
+    "durability": 0,
+    "flavor": "格罗玛什·地狱咆哮的著名战斧。然而它却在玛克扎尔王子的手中。这是怎么回事！",
+    "health": 1,
+    "id": "VAN_EX1_411",
+    "name": "血吼",
+    "rarity": "EPIC",
+    "set": "VANILLA",
+    "text": "攻击随从不会消耗耐久度，改为降低1点攻击力。",
+    "type": "WEAPON"
+  }
+]

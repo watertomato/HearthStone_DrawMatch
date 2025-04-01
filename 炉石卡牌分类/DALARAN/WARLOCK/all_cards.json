@@ -1,0 +1,191 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 51371,
+    "flavor": "“谋略不够……小鬼来凑。”",
+    "id": "DAL_007",
+    "name": "拉法姆的阴谋",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "spellSchool": "FIRE",
+    "text": "召唤1个1/1的小鬼。<i>（每回合都会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 51966,
+    "flavor": "最黑暗的时刻就是你开灯之前的时刻。",
+    "id": "DAL_173",
+    "name": "至暗时刻",
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有友方随从。每消灭一个随从，便随机从你的牌库中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 52058,
+    "flavor": "孩子多了，脾气也大。",
+    "health": 6,
+    "id": "DAL_185",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "阿兰纳丝蛛后",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "text": "<b>嘲讽</b>\n当你抽到该牌时，为你的英雄恢复#4点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 7,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 52119,
+    "elite": true,
+    "flavor": "所有随从在下班出门之前必须搜身。",
+    "health": 8,
+    "id": "DAL_422",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "至尊盗王拉法姆",
+    "rarity": "LEGENDARY",
+    "set": "DALARAN",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b>将你的手牌和牌库里的卡牌替换为<b>传说</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 52480,
+    "flavor": "大个子！大坏蛋！",
+    "health": 8,
+    "id": "DAL_561",
+    "name": "巨型小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "DALARAN",
+    "text": "当本牌在你的手牌中时，每当一个友方恶魔死亡，法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52482,
+    "flavor": "不惜性命也要急着强化大家。",
+    "health": 2,
+    "id": "DAL_563",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "性急的杂兵",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>亡语：</b>随机使两个友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52698,
+    "flavor": "它们从牌库里出来了！",
+    "id": "DAL_602",
+    "name": "情势反转",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "将你的手牌洗入牌库。抽取相同数量的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Hayes",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 52871,
+    "flavor": "粉骨碎身全不怕，要留力量在人间。",
+    "id": "DAL_605",
+    "name": "小鬼狱火",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "spellSchool": "FEL",
+    "text": "使你的恶魔获得+1攻击力。对所有敌方随从造成$1点\n伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rudy Siswanto",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52872,
+    "flavor": "没人愿意被这个天才当枪使。",
+    "health": 2,
+    "id": "DAL_606",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "怪盗天才",
+    "rarity": "COMMON",
+    "set": "DALARAN",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从，随机将两张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 52873,
+    "elite": true,
+    "flavor": "突袭不规范，亲人两行泪。",
+    "health": 7,
+    "id": "DAL_607",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "邪能领主贝图格",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DALARAN",
+    "text": "每当你抽到一张随从牌，召唤一个它的复制。该复制具有<b>突袭</b>，并会在回合结束时死亡。",
+    "type": "MINION"
+  }
+]

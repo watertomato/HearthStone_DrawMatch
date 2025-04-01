@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "J. Kindred & A. Konstad",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 2827,
+    "health": 30,
+    "heroPowerDbfId": 2832,
+    "id": "HERO_04a",
+    "name": "女伯爵莉亚德琳",
+    "rarity": "EPIC",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Eric Braddock",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 46116,
+    "health": 30,
+    "heroPowerDbfId": 46115,
+    "id": "HERO_04b",
+    "name": "阿尔萨斯王子",
+    "rarity": "EPIC",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "dbfId": 53187,
+    "health": 30,
+    "heroPowerDbfId": 53188,
+    "id": "HERO_04c",
+    "name": "吵吵爵士",
+    "rarity": "EPIC",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  }
+]

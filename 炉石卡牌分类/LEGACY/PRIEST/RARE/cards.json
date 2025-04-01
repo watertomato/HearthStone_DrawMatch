@@ -1,0 +1,82 @@
+[
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 89147,
+    "flavor": "个人生涯一球未失。",
+    "health": 3,
+    "id": "CS3_014",
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "赤红教士",
+    "rarity": "RARE",
+    "set": "LEGACY",
+    "text": "<b>过量治疗：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Greco",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 103100,
+    "flavor": "高度集中注意，不如有劳有逸。",
+    "id": "CS3_027",
+    "name": "专注意志",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "LEGACY",
+    "text": "<b>沉默</b>一个随从，然后使其获得+3生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 60068,
+    "flavor": "库尔提拉斯教士在牧师之中独树一帜，他们用的圣水是海水。",
+    "health": 3,
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_195",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "库尔提拉斯教士",
+    "rarity": "RARE",
+    "set": "LEGACY",
+    "targetingArrowText": "获得+2生命值。",
+    "text": "<b>战吼：</b>使一个友方随从获得+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 60069,
+    "flavor": "在血色修道院，他学到了遇强则强的神圣战术。",
+    "health": 1,
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_196",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血色征服者",
+    "rarity": "RARE",
+    "set": "LEGACY",
+    "targetingArrowText": "直到下个回合，获得-2攻击力。",
+    "text": "<b>战吼：</b>直到你的下个回合，使一个敌方随从获得-2攻击力。",
+    "type": "MINION"
+  }
+]

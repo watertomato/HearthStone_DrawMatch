@@ -1,0 +1,41 @@
+[
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114215,
+    "flavor": "这些蛋没有黄！",
+    "health": 2,
+    "id": "EDR_454",
+    "name": "腐蚀之巢",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "选择一条友方的龙。召唤一枚0/2的可以孵化成所选龙的复制的龙蛋。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114243,
+    "flavor": "不经历痛苦，就不……痛！",
+    "health": 6,
+    "id": "EDR_459",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "受难的毁灭者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>对所有其他友方随从造成3点伤害。<b>亡语：</b>对所有敌方随从造成3点伤害。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57149,
+    "flavor": "警告！你的随从处于易受波及的危险区域。",
+    "id": "BT_199",
+    "name": "不稳定的邪能箭",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "对一个敌方随从和一个随机友方随从造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 56501,
+    "flavor": "古尔丹的脑袋也能抽三张牌。你想想，要是他用全身抽牌，那得抽多少！",
+    "id": "BT_300",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "古尔丹之手",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "SHADOW",
+    "text": "当你使用或弃掉这张牌时，抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56502,
+    "flavor": "总能给那些“高级”随从留下阴影。",
+    "health": 5,
+    "id": "BT_301",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "夜影主母",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>突袭，战吼：</b>\n弃掉你手牌中法力值消耗最高的牌。",
+    "type": "MINION"
+  }
+]

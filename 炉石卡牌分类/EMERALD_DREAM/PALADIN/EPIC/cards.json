@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Gabriel Lopes",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114630,
+    "flavor": "乌索尔到此一游",
+    "id": "EDR_252",
+    "name": "乌索尔印记",
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "选择一个随从。如果是敌方随从，将其属性值变为1/1；如果是友方随从，改为将其属性值变为3/3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & I. Campelo da Silva",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 116674,
+    "flavor": "这是高级的捕梦术。",
+    "health": 4,
+    "id": "EDR_256",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "梦境卫士",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的牌库中有对战开始时不在牌库中的牌，则抽取其中的一张并获得+2/+2。",
+    "type": "MINION"
+  }
+]

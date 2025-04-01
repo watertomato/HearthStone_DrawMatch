@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 72111,
+    "flavor": "即便是最坚固的上层精灵舰船，也无法在大分裂的旋流中幸存。",
+    "id": "TSC_912",
+    "name": "艾萨拉的舰船",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "召唤两个3/3并具有<b>潜行</b>的海盗。将一张沉没的舰船置于你的牌库底。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 72480,
+    "flavor": "下沉市场全靠你了！",
+    "health": 4,
+    "id": "TSC_933",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "镣铐水鬼",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "targetingArrowText": "将一个敌方随从置于牌库底。",
+    "text": "<b>连击：</b>将一个敌方随从置于你对手的牌库底。",
+    "type": "MINION"
+  }
+]

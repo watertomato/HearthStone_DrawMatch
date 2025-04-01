@@ -1,0 +1,290 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65619,
+    "flavor": "他把一首船歌反反复复连唱了一个月。上星期，四名海盗自愿走了跳板。就在大海中央，就那么走下去了。",
+    "health": 3,
+    "id": "DED_509",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艳丽的金刚鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>重复你使用的上一个<b>战吼</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65655,
+    "flavor": "和“吸盘胡子”比起来，稍稍不那么让人反胃。",
+    "health": 6,
+    "id": "DED_511",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "吸盘钩手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，将你的武器变形成为法力值消耗增加（1）点的武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 65700,
+    "elite": true,
+    "flavor": "没人喜欢“海鲜惊人套餐”。这个事实一点也不惊人。",
+    "health": 3,
+    "id": "DED_522",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "LIFESTEAL"
+    ],
+    "name": "厨师曲奇",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>吸血</b>，<b>亡语：</b>装备一把2/3并具有<b>吸血</b>的搅汤棒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64214,
+    "durability": 0,
+    "flavor": "“我能当法官！还能当拍卖师！就给我买一个小锤子嘛！”",
+    "health": 2,
+    "id": "SW_025",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "拍卖行木槌",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "在你的英雄攻击后，使你手牌中一张<b>战吼</b>随从牌的法力值消耗减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Ware Lee",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64215,
+    "flavor": "就和现实世界一样，幽灵狼族群中的先锋派也要把毛发染成亮紫色。",
+    "health": 5,
+    "id": "SW_026",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "幽灵狼前锋",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD",
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "text": "在你使用一张<b>过载</b>牌后，召唤一只2/3并具有<b>嘲讽</b>的幽灵狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64322,
+    "elite": true,
+    "flavor": "这里可是暴风城，萨满祭司怎么可能和风暴做对呢？",
+    "id": "SW_031",
+    "name": "号令元素",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>使用三张<b>过载</b>牌。\n<b>奖励：</b>解锁你<b>过载</b>的法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64320,
+    "flavor": "要是他不中用了，还可以改装成橱柜台面。",
+    "health": 5,
+    "id": "SW_032",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "花岗岩熔铸体",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>使你手牌和牌库中的元素牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64321,
+    "flavor": "“又到周一了吗？开始划水。”",
+    "health": 4,
+    "id": "SW_033",
+    "name": "运河慢步者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL",
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>突袭</b>，<b>吸血</b>\n<b>过载：</b>（1）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64355,
+    "flavor": "妈！快看！是可动玩具！",
+    "id": "SW_034",
+    "name": "小巧玩具",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "随机召唤四个法力值消耗为（5）的随从，使其变为2/2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64356,
+    "flavor": "首充即可召唤风领主奥拉基尔和四位风神。确定付费吗？",
+    "id": "SW_035",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "充能召唤",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一个法力值消耗为（1）的随从并召唤它。<i>（在本局对战中你每使用一张<b>过载</b>牌都会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dave Greco",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 66288,
+    "flavor": "“欲购从速，咻咻升值。修一修就能升值。”",
+    "id": "SW_095",
+    "name": "投资良机",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "抽一张<b>过载</b>牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64773,
+    "flavor": "等等，我透支法力水晶还要花法力水晶？！",
+    "id": "SW_114",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "TRADEABLE"
+    ],
+    "name": "强行透支",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n解锁你<b>过载</b>的法力水晶，并造成等量的\n伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64774,
+    "elite": true,
+    "flavor": "只要给他演示一次就够了，他能完美复现无数次。但仅限本回合。",
+    "health": 4,
+    "id": "SW_115",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伯尔纳·锤喙",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "STORMWIND",
+    "text": "在你使用一张<b>战吼</b>\n随从牌后，重复一次本回合使用的第一个<b>战吼</b>。",
+    "type": "MINION"
+  }
+]

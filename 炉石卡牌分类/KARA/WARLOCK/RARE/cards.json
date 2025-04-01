@@ -1,0 +1,23 @@
+[
+  {
+    "artist": "Daren Bader",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 39380,
+    "flavor": "听说镀银魔像是由设计出侏儒军刀的神秘部门研发而成的。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_205",
+    "mechanics": [
+      "InvisibleDeathrattle"
+    ],
+    "name": "镀银魔像",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "如果你弃掉了这张随从牌，则会召唤它。",
+    "type": "MINION"
+  }
+]

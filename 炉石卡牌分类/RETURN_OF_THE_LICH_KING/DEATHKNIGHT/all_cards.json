@@ -1,0 +1,346 @@
+[
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，随机<b>冻结</b>3个敌方随从。",
+    "cost": 3,
+    "dbfId": 87325,
+    "flavor": "她会冻住天灾亡灵，让他们僵在当场。",
+    "health": 3,
+    "id": "NX2_035",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "霜鳞海妖",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，随机<b>冻结</b>3个敌方随从。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 87326,
+    "flavor": "它不是活物！不是活物！！！",
+    "health": 3,
+    "id": "NX2_036",
+    "isMiniSet": true,
+    "name": "构造区",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "消灭一个友方随从，召唤一个4/5并具有<b>突袭</b>的亡灵。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 87329,
+    "elite": true,
+    "flavor": "辛达苟萨用她最后的一丝气息，诅咒她的爱侣，以及所有任由她死在冰冠冰川的生灵。当她在巫妖王的手中重生之时，她吐出了新生的第一口寒气。那是饱含痛苦的寒气。",
+    "health": 6,
+    "id": "NX2_037",
+    "isMiniSet": true,
+    "mechanics": [
+      "COLOSSAL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "冰霜女王辛达苟萨",
+    "race": "DRAGON",
+    "races": [
+      "UNDEAD",
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>巨型+2</b>\n在一个敌方随从被<b>冻结</b>后，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78314,
+    "durability": 0,
+    "flavor": "宰一赠一！",
+    "health": 2,
+    "id": "RLK_012",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "断魂",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在你的英雄攻击并消灭一个随从后，获得2份\n<b>残骸</b>。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78333,
+    "flavor": "怎么了？反正这些身体他们再也用不上了。",
+    "id": "RLK_035",
+    "name": "邪爆",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "引爆一份<b>残骸</b>，对所有随从造成$1点伤害。如果有随从存活，重复此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78345,
+    "flavor": "吧啦，吧啦吧啦！",
+    "id": "RLK_051",
+    "name": "吸血鬼之血",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 3,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "使你的英雄获得+5生命值。消耗3份<b>残骸</b>，多获得5点并抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 80083,
+    "flavor": "头衔里带一个师字，头发里全都是虱子。",
+    "health": 3,
+    "id": "RLK_116",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "死灵殡葬师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果在你的上回合之后有友方亡灵死亡，<b>发现</b>一张邪恶符文牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "David Kang",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 80088,
+    "flavor": "部落和联盟围攻冰冠堡垒之后，顺手把这些机器带了回去，用在了肉铺里。",
+    "health": 4,
+    "id": "RLK_120",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "绞肉机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>随机绞碎你牌库中的一个随从，获得4份<b>残骸</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 80089,
+    "flavor": "“我看到了死人。很多很多死人。”",
+    "health": 4,
+    "id": "RLK_121",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "死亡侍僧",
+    "rarity": "COMMON",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "在一个友方亡灵死亡后，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 86733,
+    "elite": true,
+    "flavor": "对面有只大！蜘！蛛！",
+    "health": 3,
+    "id": "RLK_225",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凋零毒牙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>感染所有敌方随从。当感染的随从死亡时，为你召唤一个2/2并具有<b>嘲讽</b>的僵尸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 8,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 80830,
+    "flavor": "炉石也有合作指挥官了？终于来了！",
+    "health": 8,
+    "id": "RLK_506",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "白骨卫士指挥官",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将最多6份<b>残骸</b>复活为1/3并具有<b>嘲讽</b>的复活的步兵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 7,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 80644,
+    "elite": true,
+    "flavor": "莫格莱尼，莫得问题。",
+    "health": 7,
+    "id": "RLK_706",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "亚历山德罗斯·莫格莱尼",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 3,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你的回合结束时，对你的对手造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 5,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 81963,
+    "flavor": "死后继续按键，向同伴“借”一条魂。",
+    "health": 5,
+    "id": "RLK_741",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "窃魂者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>\n消灭所有其他随从。每消灭一个敌方随从，获得1份<b>残骸</b>。",
+    "type": "MINION"
+  }
+]

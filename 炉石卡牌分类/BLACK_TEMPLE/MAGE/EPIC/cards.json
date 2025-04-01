@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56461,
+    "flavor": "“奥，奥秘？我可没有啊！诶，快看，这儿有个法术！”",
+    "health": 3,
+    "id": "BT_022",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "埃匹希斯走私犯",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DISCOVER",
+      "SECRET"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "在你使用一张<b>奥秘</b>牌后，<b>发现</b>一张\n法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 57217,
+    "flavor": "落单的法师照样可以冲你们一群！",
+    "id": "BT_291",
+    "name": "埃匹希斯冲击",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "造成$5点伤害。如果你的牌库中没有随从牌，随机召唤一个法力值消耗为（5）的随从。",
+    "type": "SPELL"
+  }
+]

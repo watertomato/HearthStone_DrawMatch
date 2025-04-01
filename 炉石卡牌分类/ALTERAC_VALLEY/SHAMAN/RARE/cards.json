@@ -1,0 +1,100 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 67192,
+    "flavor": "看似接近绝对零度，其实差不多0K。",
+    "id": "AV_107",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "冰川急冻",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FROST",
+    "text": "<b>发现</b>一张法力值消耗为（8）的随从牌。召唤并<b>冻结</b>该随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Cheng Hao",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 67861,
+    "flavor": "耐寒，不耐旱。",
+    "health": 2,
+    "id": "AV_260",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "破霰元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>将一张冷风置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 68187,
+    "flavor": "看到有那么多靴子被冻在了洞穴的顶面上，冒险者都惊呆了。",
+    "id": "AV_268",
+    "name": "蛮爪洞穴",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "在你的回合结束时，召唤一个3/4的可以<b>冻结</b>攻击目标的元素。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 71234,
+    "flavor": "很明显，“高温警告”的标识早就烧掉了。",
+    "id": "ONY_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD",
+      "ImmuneToSpellpower"
+    ],
+    "name": "别站在火里！",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FIRE",
+    "text": "造成$10点伤害，随机分配到所有敌方随从身上。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 71236,
+    "flavor": "灵机一动来吹风，风吹来冻一激灵。",
+    "id": "ONY_013",
+    "isMiniSet": true,
+    "name": "提神冰冷",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "FROST",
+    "text": "为你的英雄恢复#5点生命值。随机使你手牌中一张法术牌的法力值消耗减少（2）点。",
+    "type": "SPELL"
+  }
+]

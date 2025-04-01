@@ -1,0 +1,313 @@
+[
+  {
+    "artist": "Jason Kang",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90366,
+    "flavor": "在音乐中故意使用失真特效的话，你就会引来数百只壁虎。原因未知。",
+    "id": "ETC_305",
+    "name": "暗弦术：改",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得-5/-5。如果该随从拥有0点攻击力，将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 0,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 90681,
+    "durability": 0,
+    "flavor": "爱豆不是豆。这也不是爱，是麦克风。",
+    "health": 2,
+    "id": "ETC_312",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "爱豆的爱",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "你的英雄技能法力值消耗为（0）点。在你使用技能后，失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 90683,
+    "flavor": "“陪你去看流星落在这地球上！”——德莱尼流行歌",
+    "id": "ETC_314",
+    "name": "悦耳流行歌",
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "对所有随从造成$3点伤害。召唤一个6/6的流行歌星。<i>（每回合切换。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90687,
+    "flavor": "你本以为联盟和部落之间的争斗已经够脏了……",
+    "id": "ETC_316",
+    "name": "粉丝互动",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "选择两个敌方随从，使其互相攻击！将死亡的随从的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 90952,
+    "flavor": "帕兹是“毒花少年”唯一能在水下演唱的成员，曾在辛艾萨莉巡演中力挽狂澜。",
+    "health": 2,
+    "id": "ETC_332",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "梦中男神",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>为所有其他友方随从恢复#3点生命值。每有一个被<b>过量治疗</b>，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dez Bencosme",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 90956,
+    "elite": true,
+    "flavor": "赫达尼斯征服了艾泽拉斯万千歌迷的心灵！这跟暗影魔法有什么关系——完全不知道你在说什么。",
+    "hasDiamondSkin": true,
+    "health": 8,
+    "id": "ETC_334",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERHEAL"
+    ],
+    "name": "碎心歌手赫达尼斯",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>对本随从造成4点伤害。<b>过量治疗：</b>随机对一个敌人造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 90959,
+    "elite": true,
+    "flavor": "“毒花少年”被控抄袭，歌中词句“哦，这还得熬多久（哦耶）”疑似来自老派组合：萨隆苦囚。",
+    "id": "ETC_335",
+    "name": "真爱永恒",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "你每个回合使用的第一张法术牌的法力值消耗减少（2）点。此效果持续到你在你的回合中未使用法术牌为止。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 91067,
+    "flavor": "“这首歌献给你，姑娘。一万六千岁生日快乐。”",
+    "id": "ETC_338",
+    "name": "真弦术：合",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "HOLY",
+    "text": "选择一个随从，将一张它的复制置入你的手牌。<b>压轴：</b>使其均获得+1/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 91079,
+    "flavor": "亡灵不会心动，心动的只有观众。",
+    "health": 5,
+    "id": "ETC_339",
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "心动歌手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>过量治疗：</b>随机召唤一个法力值消耗等同于<b>过量治疗</b>量的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97403,
+    "flavor": "“说来奇怪。我走进俱乐部，找到会长，他噼里啪啦唠叨了大概10分钟，然后给了我一张自行车兑换券……”",
+    "health": 2,
+    "id": "ETC_449",
+    "name": "粉丝俱乐部",
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "为所有友方角色恢复#3点生命值。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98377,
+    "flavor": "沃萨特，我们都听不到你的声音。你静音了。",
+    "id": "JAM_022",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "致聋术",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "SHADOW",
+    "text": "<b>沉默</b>一个随从。<b>连击：</b>并对其造成$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95825,
+    "flavor": "正在开发XX传说扩展包：史诗音乐节。",
+    "health": 3,
+    "id": "JAM_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盗版海盗",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>获取你对手牌库顶的一张\n牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97579,
+    "flavor": "一定要让它弱于你的其他光耀之子，这样打光效果才好。",
+    "health": 4,
+    "id": "JAM_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERHEAL"
+    ],
+    "name": "布景光耀之子",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>压轴，过量治疗：</b>随机使另一个友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95394,
+    "flavor": "说了这么多年……结果就这么大一点！",
+    "id": "JAM_025",
+    "isMiniSet": true,
+    "name": "漏斗蛋糕",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "为一个随从及其相邻随从恢复#3点生命值。每有一个随从受到<b>过量治疗</b>，便复原一个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98413,
+    "flavor": "他叫什么名字？Stan。",
+    "health": 2,
+    "id": "JAM_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "饭圈迷弟",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>抉择：</b>使一个友方随从获得+2攻击力和<b>突袭</b>；或者+2生命值和<b>吸血</b>。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100291,
+    "flavor": "教科书般的长幼关系。",
+    "id": "WW_027",
+    "name": "可靠陪伴",
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "使一个随从获得+2/+3。如果该随从有随从类型，抽一张该类型的随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101482,
+    "flavor": "山动了！",
+    "health": 16,
+    "id": "WW_382",
+    "mechanics": [
+      "LIFESTEAL",
+      "OVERLOAD",
+      "RUSH"
+    ],
+    "name": "步移山丘",
+    "overload": 2,
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "WILD_WEST",
+    "text": "<b>突袭</b>。<b>吸血</b>。<b>超级风怒</b>。<b>过载：（2）</b>",
+    "type": "MINION"
+  }
+]

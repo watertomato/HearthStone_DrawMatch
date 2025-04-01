@@ -1,0 +1,195 @@
+[
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61676,
+    "flavor": "邪恶正在逼近……而且还带了朋友来！",
+    "health": 4,
+    "id": "DMF_081",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "克熙尔祭师",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>嘲讽，战吼：</b>随机将一张法力值消耗为（4）的随从牌置入你对手的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 62049,
+    "flavor": "“检查完了，你这里搞得不错。没发现任何安全因素。”",
+    "health": 3,
+    "id": "DMF_125",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "安全检查员",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>把你手牌中法力值消耗最低的牌洗入牌库。抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 60892,
+    "flavor": "只要乘客还没死，所有的意外就都算是乘坐“体验”的一部分。",
+    "health": 2,
+    "id": "DMF_202",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "脱轨过山车",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>你的手牌中每有一张随从牌，召唤一个1/1并具有<b>突袭</b>的乘客。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61941,
+    "flavor": "始终随身携带他的可重复利用购物袋，旅行包，木桶，衣箱，托盘，还有那个软软的垫子。",
+    "health": 4,
+    "id": "YOP_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "CORRUPT"
+    ],
+    "name": "幸运之魂囤积者",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>将两张灵魂残片洗入你的牌库。<b>腐蚀：</b>抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61944,
+    "flavor": "“我和我的座驾有着特别的羁绊，只不过算不上美好。”",
+    "id": "YOP_006",
+    "isMiniSet": true,
+    "name": "狂乱",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "SHADOW",
+    "text": "选择一个敌方随从，使其随机攻击随从，直至死亡。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 61947,
+    "flavor": "一通鼓，松鼠到；二通鼓，侏儒叫；三通鼓，争荣耀；四通鼓，跑跑跑！",
+    "id": "YOP_009",
+    "isMiniSet": true,
+    "name": "开赛集结",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "spellSchool": "HOLY",
+    "text": "复活法力值消耗为（1），（2），（3）的友方随从\n各一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ware Lee",
+    "cardClass": "NEUTRAL",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61962,
+    "flavor": "使用原野疾驰技能会被取消参赛资格。",
+    "id": "YOP_024",
+    "isMiniSet": true,
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "灵魂指引",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "检视两张法术牌。将其中一张置入你的手牌；或者<b>过载：</b>（1），获取这两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Maria Trepalina",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 61970,
+    "flavor": "“一看您就是那种需要三套护甲的大客户，一套实用，一套备用，一套备用的备用。”",
+    "health": 3,
+    "id": "YOP_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "护甲商贩",
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>使每个英雄获得4点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 61972,
+    "flavor": "距离艾泽拉斯联赛的上一次事故已经过去整整5分钟了。",
+    "health": 10,
+    "id": "YOP_034",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "窜逃的黑翼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "DARKMOON_FAIRE",
+    "text": "在你的回合结束时，随机对一个敌方随从造成10点伤害。",
+    "type": "MINION"
+  }
+]

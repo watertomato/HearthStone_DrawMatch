@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41139,
+    "flavor": "绝大多数鱼人冲着就业前景报考了计算机专业，而报考水文学的则寥寥无几。",
+    "health": 2,
+    "id": "UNG_011",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "水文学家",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>发现</b>并施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41912,
+    "faction": "ALLIANCE",
+    "flavor": "再也没有人见到过乔治和卡尔。",
+    "id": "UNG_960",
+    "name": "迷失丛林",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "召唤两个1/1的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 41944,
+    "flavor": "要是祈求救赎没成功的话，就祈求长出更多的尖牙和利爪吧。",
+    "id": "UNG_961",
+    "name": "适者生存",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>进化</b>一个友方随从。",
+    "type": "SPELL"
+  }
+]

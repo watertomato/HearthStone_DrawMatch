@@ -1,0 +1,106 @@
+[
+  {
+    "artist": "Adam Byrne",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 75586,
+    "flavor": "挖掘工作或许不适合所有人，但我选择深入挖掘这项工作。",
+    "health": 4,
+    "id": "TID_003",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "迷潮挖掘者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。如果选中的是鱼人牌，召唤一个它的2/2的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 75589,
+    "flavor": "他的笑话棒极了。前提是你懂鱼人语。",
+    "health": 2,
+    "id": "TID_004",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "小丑鱼",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>你的下两张鱼人牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72416,
+    "flavor": "*听说你要用刺拳干掉我们？*",
+    "id": "TSC_631",
+    "name": "鱼群聚集",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "将三张1/1的食人鱼集群置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 72508,
+    "flavor": "“哇哦，这种地貌叫什么？”“再靠近些，它就叫溅血热泉。”",
+    "id": "TSC_637",
+    "mechanics": [
+      "DREDGE"
+    ],
+    "name": "间歇热泉",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。<b>探底</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72314,
+    "flavor": "纳迦找到了完美的方法来应对在其海域内驻锚的海盗：在锚上画鬼脸。",
+    "health": 3,
+    "id": "TSC_922",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "驻锚图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "在你召唤一个法力值消耗为（1）的随从后，使其获得+2/+1。",
+    "type": "MINION"
+  }
+]

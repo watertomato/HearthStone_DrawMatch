@@ -1,0 +1,15 @@
+[
+  {
+    "artist": "J. Kindred & J. Kang",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "dbfId": 2826,
+    "health": 30,
+    "heroPowerDbfId": 2833,
+    "id": "HERO_05a",
+    "name": "奥蕾莉亚·风行者",
+    "rarity": "EPIC",
+    "set": "HERO_SKINS",
+    "type": "HERO"
+  }
+]

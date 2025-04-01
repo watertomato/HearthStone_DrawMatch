@@ -1,0 +1,89 @@
+[
+  {
+    "artist": "Alex Stone",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 111596,
+    "flavor": "“怕什么，我们离德拉诺还很远呢，来吧！没问题的！”",
+    "id": "GDB_465",
+    "name": "桶滚动作",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "对一个未受伤的角色造成$5点伤害。如果你正在构筑<b>星舰</b>，则法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111338,
+    "flavor": "这位藏家真的有石粒！",
+    "health": 1,
+    "id": "GDB_875",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星岩收藏家",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>你的下一张\n<b>连击</b>牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111386,
+    "flavor": "我的舰就是你的舰。",
+    "health": 2,
+    "id": "GDB_876",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "四处搜刮的造舰师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STARSHIP"
+    ],
+    "set": "SPACE",
+    "text": "<b>战吼：</b>随机获取\n一张另一职业的\n<b>星舰组件</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113192,
+    "flavor": "机动性极高，移动范围广。不擅长不眨眼挑战。",
+    "id": "SC_761",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "闪现",
+    "rarity": "COMMON",
+    "set": "SPACE",
+    "text": "抽一张星灵随从牌。<b>连击：</b>其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  }
+]

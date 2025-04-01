@@ -1,0 +1,19 @@
+[
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56067,
+    "flavor": "*嗅，嗅*是王牌部队……*嗅，嗅*武装到了牙齿……*嗅，嗅*牙缝里还有培根！",
+    "id": "YOD_005",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "新鲜气息",
+    "rarity": "COMMON",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>双生法术</b>\n使一个野兽获得+2/+2。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,3813 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106303,
+    "flavor": "小心了达瑞尔，他来撬你的工作了。",
+    "health": 4,
+    "id": "VAC_301",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "炫目演出者",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>随机召唤一个法力值消耗为（5）的随从。在本局对战中你每施放过一个派系的法术，重复一次。0<i>（重复0次）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在此牌在你手中时施放过3个法术，从中<b>发现</b>一张。",
+    "cost": 2,
+    "dbfId": 106306,
+    "flavor": "“这题我会！新——艾——撒——力！”",
+    "health": 2,
+    "id": "VAC_304",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "潮池学徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过3个法术，从中<b>发现</b>一张。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106307,
+    "flavor": "“是啊，自然法术足以供我生存，但这些爱好才是我的生活。”",
+    "id": "VAC_305",
+    "name": "冰霜摆件",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "召唤两个2/4并具有<b>嘲讽</b>和“<b>亡语：</b>获得4点护甲值”的元素。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106310,
+    "flavor": "“听懂的和我一起唱！——咿呜咿呜！”",
+    "id": "VAC_308",
+    "name": "海妖之歌",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "随机获取两张你在本局对战中未施放过的派系的法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106301,
+    "elite": true,
+    "flavor": "“那次爆发不怪我！我甚至都没见过科赞迪奥斯！”",
+    "health": 10,
+    "id": "VAC_321",
+    "mechanics": [
+      "BATTLECRY",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伊辛迪奥斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "在你的回合结束时，你的爆发升级。\n<b>战吼：</b>将5张爆发洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106532,
+    "flavor": "高端人士绝不会喝这种东西。",
+    "id": "VAC_323",
+    "name": "麦芽岩浆",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "对所有敌方随从造成$1点伤害。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106535,
+    "flavor": "星期三，我们穿粉色！",
+    "id": "VAC_324",
+    "name": "统一着装",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "将一个随从随机变形成为一个法力值消耗增加（1）点的随从，然后召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106529,
+    "flavor": "预约难度极高，对待客人的态度比双手还要冰冷。",
+    "health": 3,
+    "id": "VAC_327",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰冷整脊师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "使一个随从获得+3/+3，并使其冻结。",
+    "text": "<b>战吼：</b>使一个随从获得+3/+3并使其<b>冻结</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106534,
+    "flavor": "“谁把这对潮乎乎的护腕扔在地上了？”",
+    "health": 8,
+    "id": "VAC_328",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "消融元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>\n本随从永久被<b>冻结</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106536,
+    "flavor": "在双种族花样游泳才艺大赛中仅获第2名。",
+    "id": "VAC_329",
+    "name": "自然天性",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "随机获取纳迦牌和法术牌各一张，\n其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107753,
+    "durability": 0,
+    "flavor": "对沙钱也有反应，奇怪。",
+    "health": 2,
+    "id": "VAC_330",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "金属探测器",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在你的英雄攻击\n并消灭一个随从后，获取一张幸运币。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107757,
+    "flavor": "海产摊贩海滩贩海产。",
+    "health": 2,
+    "id": "VAC_332",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海滩导购",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>你使用的下一张另一职业的牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107759,
+    "flavor": "蓄是储蓄的蓄！听起来是不是正式多了？",
+    "health": 4,
+    "id": "VAC_333",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蓄谋诈骗犯",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>再次使用你使用过的上一张另一职业的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107762,
+    "flavor": "在一处温暖而舒适的地洞里，有一个……游客陷阱？",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_334",
+    "name": "小玩物小屋",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "抽一张牌。如果你在本回合中使用抽到的这张牌，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107763,
+    "flavor": "海盗酒店的客房服务真的会把你的房间扫得干干净净。",
+    "id": "VAC_335",
+    "name": "小偷小摸",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "随机获取两张其他职业的法力值消耗为（1）的法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 107764,
+    "elite": true,
+    "flavor": "带走我的面具，留下<i>你的</i>笑容。",
+    "health": 5,
+    "id": "VAC_336",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "面具变装大师",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>术士游客</b>\n<b><b>战吼：</b>发现</b>一张来自过去的<i>（另一职业的）</i>英雄牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107766,
+    "flavor": "快住手，还是让她来做饭吧。",
+    "health": 4,
+    "id": "VAC_337",
+    "mechanics": [
+      "TAUNT",
+      "TRADEABLE"
+    ],
+    "name": "灶头厨师",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>可交易</b>\n<b>嘲讽</b>。当你抽到本牌时，获取一张它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 107767,
+    "flavor": "真的很有劲。",
+    "id": "VAC_338",
+    "name": "腱力金杯",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "使你手牌中的一张随从牌获得+2/+1。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 107769,
+    "flavor": "我们本打算在这放一条有味道的段子，奈何芝士水平有限。",
+    "health": 9,
+    "id": "VAC_339",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "芝士怪物",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，召唤一个属性值等同于本随从的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 107770,
+    "elite": true,
+    "flavor": "牛头人也有四个胃吗？",
+    "health": 3,
+    "id": "VAC_340",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "饥饿食客哈姆",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>德鲁伊游客</b>\n<b>嘲讽</b>。在你的回合结束时，吃掉敌方牌库中的一个随从以获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107771,
+    "flavor": "了断鱼生，或是了断余生。",
+    "health": 4,
+    "id": "VAC_341",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "断生鱿鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "消灭一个攻击力小于或等于本随从的敌方随从。",
+    "text": "<b>战吼：</b>消灭一个攻击力小于或等于本随从的敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106497,
+    "flavor": "与伊丽扎·刺刃和佩吉·布里特伯并称海盗三姐妹，共同构成了海上威胁。",
+    "health": 2,
+    "id": "VAC_402",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "霜噬海盗",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>随机<b>冻结</b>3个敌人，已被<b>冻结</b>的敌人改为受到5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106521,
+    "flavor": "绝品的茗茶，还是致命的毒草？",
+    "id": "VAC_404",
+    "name": "夜影花茶",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$2点伤害。对你的英雄造成$2点伤害。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106542,
+    "flavor": "这难道不该是张牧师牌吗？",
+    "health": 5,
+    "id": "VAC_406",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "困倦的岛民",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>所有其他随从陷入沉睡。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106571,
+    "flavor": "一句咒语不要念两遍！一句咒语不要念两遍！",
+    "health": 3,
+    "id": "VAC_407",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "话痨鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST",
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b><i>（尽可能对一个随机的敌人）</i>重新施放你对一个敌人施放的上一个法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106574,
+    "flavor": "一鸟在手，抵得二鸟在园。",
+    "id": "VAC_408",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "观赏鸟类",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "从你的牌库中<b>发现</b>一张随从牌。使其所有的复制获得+2/+1<i>（无论它们在哪）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106576,
+    "flavor": "你知道吗？鹦鹉乐园里是很吵的。——园林护卫者基利",
+    "health": 3,
+    "id": "VAC_409",
+    "name": "鹦鹉乐园",
+    "rarity": "RARE",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "你的下一张<b>战吼</b>随从牌的法力值消耗减少（1）点。在你使用一张<b>战吼</b>随从牌后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106585,
+    "flavor": "这绝不是什么“猛亲”，它们真的生气了。",
+    "id": "VAC_410",
+    "name": "猛禽狂怒",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "选择一个敌人。召唤两只3/3并具有攻击时<b>免疫</b>的小鸟，攻击选中的敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106636,
+    "flavor": "这么大的鱼，真是好辐气！",
+    "health": 3,
+    "id": "VAC_412",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "当日渔获",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>战吼：\n</b>为你的对手召唤一只2/1的鱼虫。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106638,
+    "elite": true,
+    "flavor": "懂得珍惜你的人，看你的眼神就像是基利在看鳄鱼。",
+    "health": 6,
+    "id": "VAC_413",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "园林护卫者基利",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战士游客</b>\n在你的回合结束时，获取一张2/3的鳄鱼。<b>亡语：</b>使你手牌中的所有随从牌获得+2/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106640,
+    "flavor": "如果你调皮到一定程度，冬天爷爷给你的礼物就是这个了。",
+    "id": "VAC_414",
+    "name": "炽热火炭",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "对所有敌人造成$2点伤害。如果你的英雄在本回合受到过伤害，再造成$1点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106671,
+    "elite": true,
+    "flavor": "他能把你的上回合变成这回合，但如果你下回合使用这张牌，那你的下回合就能变成这回合。如果两回合都用，那么这回合就是上回合下回合就是这回合。究竟哪个回合是哪个回合？",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "VAC_415",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大叫巨鹦萨考克",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>重复你在上回合使用的每一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106679,
+    "flavor": "我的鞋上沾了只鳄鱼！",
+    "id": "VAC_416",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER",
+      "ImmuneToSpellpower"
+    ],
+    "name": "死亡翻滚",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "消灭一个敌方随从。造成等同于其攻击力的伤害，随机分配到所有敌人身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106705,
+    "flavor": "你会成为新造的人。",
+    "id": "VAC_417",
+    "name": "感官侵夺",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个敌方随从的一个复制。如果你的生命值小于或等于20点，消灭本体。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106708,
+    "flavor": "蒸至“肉烂脱骨”即可。",
+    "health": 5,
+    "id": "VAC_418",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "桑拿常客",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。你的英雄每在你的回合受到一次伤害，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106709,
+    "flavor": "你刚刚说了灸灸对吧！",
+    "id": "VAC_419",
+    "name": "针灸",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "对双方英雄造成$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106713,
+    "elite": true,
+    "faction": "ALLIANCE",
+    "flavor": "我算到了……你这次算命的过程会非常愉快！",
+    "health": 4,
+    "id": "VAC_420",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "纳瑞安·柔想",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>获取两张预知命运。预知命运为你牌库顶的牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106720,
+    "faction": "ALLIANCE",
+    "flavor": "迷糊一时，必有疏失（踪的豹子实在太难找了）。",
+    "health": 8,
+    "id": "VAC_421",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "打盹的动物管理员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>为你的对手\n召唤一只8/8的野兽，使其攻击所在方的\n所有随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106724,
+    "flavor": "这种暮光太暗，那种暮光又太亮，而灵媒师居于两者中间。",
+    "health": 5,
+    "id": "VAC_423",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "暮光灵媒师",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将你牌库顶的一张牌的法力值消耗变为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107187,
+    "elite": true,
+    "flavor": "这条卡牌趣文只能写到这种程度了？太蕾拉！",
+    "health": 6,
+    "id": "VAC_424",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙滩塑形师蕾拉",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>圣骑士游客</b>\n在你施放一个法术后，\n随机召唤一个法力值消耗为（2）的随从并使其\n获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107719,
+    "flavor": "票选出来的名字叫“皮皮虾号”。",
+    "health": 5,
+    "id": "VAC_425",
+    "name": "大地之末号",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "造成3点伤害，随机分配到所有敌人身上。在一个友方随从死亡后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107720,
+    "elite": true,
+    "flavor": "死人不会说话，但亡灵海盗的话可多了。",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "VAC_426",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "伊丽扎·刺刃",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>在本局对战的剩余时间内，你的随从拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107775,
+    "flavor": "共有三种可口风味：恶臭味，恶心味，还有巧克力味！",
+    "id": "VAC_427",
+    "name": "甜筒殡淇淋",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "造成$3点伤害。消耗3份<b>残骸</b>，在你的回合结束时将本牌移回你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 107776,
+    "flavor": "跟着水流划水吧，兄弟！动都不用动！",
+    "id": "VAC_428",
+    "name": "顺水漂流",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE",
+      "SPELLPOWER"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "选择一个随从。如果是敌方随从，将其<b>冻结</b>；如果是友方随从，使其获得<b>法术伤害+1</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107790,
+    "flavor": "“滑雪这项运动，怎么说呢，非常安全。我总共只受过一次伤。”",
+    "health": 4,
+    "id": "VAC_429",
+    "name": "滑雪高手",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "text": "如果有被<b>冻结</b>的角色，则法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107799,
+    "flavor": "接受征召吧！守法公民等你来……抢！",
+    "health": 1,
+    "id": "VAC_430",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "血帆征兵员",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张海盗牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 107850,
+    "flavor": "海海海海海\n海海海海海\n海海你海海",
+    "id": "VAC_431",
+    "name": "畅游海底",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "抽一张与本牌不同的法术牌，随机召唤一个法力值消耗与其相同的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107851,
+    "flavor": "“这是我的最后一泊！”",
+    "health": 5,
+    "id": "VAC_432",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "景区代泊",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b><b>发现</b>一张最新扩展包的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107878,
+    "flavor": "欢迎来到落难岛！当前居民数量：2。",
+    "health": 4,
+    "id": "VAC_435",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "落难的大法师",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "你每个回合使用的第一张法术牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 1,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107920,
+    "flavor": "玉米海盗走进微波炉会变成什么？脆谷海盗！啊嘎嘎嘎！",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_436",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "脆骨海盗",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE",
+      "REBORN"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ISLAND_VACATION",
+    "text": "每当你使用一张<b>亡语</b>随从牌时，使其获得<b>复生</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107926,
+    "elite": true,
+    "flavor": "“再乱买徽章我就剁手！”",
+    "health": 4,
+    "id": "VAC_437",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "扣子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>萨满祭司游客</b>\n<b>战吼：</b>抽取每个派系的法术牌各一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ryan Bowlin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107928,
+    "flavor": "雇她还不如雇只渡渡鸟。",
+    "health": 2,
+    "id": "VAC_438",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "旅行社职员",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：发现</b>一张任意职业的地标牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 107929,
+    "flavor": "有了88尺的高大身材，处处都是浅水区。",
+    "health": 8,
+    "howToEarnGolden": "购买<i>胜地历险记</i>炉石通行证后开放解锁。",
+    "id": "VAC_439",
+    "name": "海滨巨人",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "在本局对战中，你每使用过一次地标效果，本牌的法力值消耗便减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107931,
+    "flavor": "有什么要申报的吗？“是的……勇士！艾泽拉斯在哀求你的援助……”",
+    "health": 5,
+    "id": "VAC_440",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "海关执法者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "敌方套牌之外的敌方卡牌法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 107933,
+    "flavor": "邻居家的邮件总是出现在我家，周围各家的包裹也都会来到我的手里。但这并不怪分拣工，因为是我偷了快递。",
+    "health": 7,
+    "id": "VAC_441",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "包裹分拣工",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在你抽牌后，有50%的几率再抽一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108328,
+    "flavor": "它伸嘴接住了滴落的油，大家都笑了。",
+    "health": 4,
+    "id": "VAC_442",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "燃灯元素",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 108348,
+    "flavor": "我是头足动物专家。章鱼只有在极度恐慌时才会这么做，这并不好笑。",
+    "health": 4,
+    "id": "VAC_443",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冲浪章鱼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>使你抽到的下一张法术牌获得<b>抽到时施放</b>效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108431,
+    "flavor": "“孩子们，你们知道跳伞的圣骑士是什么吗？是天降正义！”",
+    "health": 3,
+    "id": "VAC_444",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "规划狂人",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>从你的牌库中选择三张牌，将其按顺序置于牌库顶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108436,
+    "flavor": "“哦，你知道杰尸卡对殆尼说了什么吗？”",
+    "id": "VAC_445",
+    "name": "食尸鬼之夜",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ISLAND_VACATION",
+    "text": "召唤五个1/1的食尸鬼并使其攻击随机敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 108499,
+    "elite": true,
+    "flavor": "她现在忙着呢。忙着喝茶。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "VAC_446",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "挂机的阿凯",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "在你的回合结束时，使所有其他未攻击的友方随从获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 108612,
+    "flavor": "“我……我要出去遛遛我的……呃，鱼。”",
+    "health": 6,
+    "id": "VAC_447",
+    "name": "恐惧的逃亡者",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "如果本随从不在\n你的套牌中，则拥有<b>冲锋</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "collectionText": "此牌在你的手牌中时，使用两种不同派系的法术牌即可变形。",
+    "cost": 5,
+    "dbfId": 108964,
+    "elite": true,
+    "flavor": "有些纳迦会用统御元素的天赋征服世界。而有些纳迦会用它来表演！",
+    "health": 5,
+    "id": "VAC_449",
+    "name": "歌唱明星卡瑞斯",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "此牌在你的手牌中时，使用两种不同派系的法术牌即可变形。@<i>（还剩{0}种）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108965,
+    "elite": true,
+    "flavor": "躲进汤中成一桶，管他冬夏与春秋。",
+    "health": 2,
+    "id": "VAC_450",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "悠闲的曲奇",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>恶魔猎手游客</b>\n在一个友方随从死亡后，随机召唤一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 109260,
+    "flavor": "安息吧，编出来的那个谁。",
+    "id": "VAC_457",
+    "name": "安息",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "每个玩家分别召唤其在本局对战中死亡的法力值消耗最高的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 109324,
+    "flavor": "“我要找你们的海军上将！”",
+    "id": "VAC_460",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "把经理叫来！",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "造成$2点伤害。<b>连击：</b>获取一张幸运币。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 109334,
+    "flavor": "依靠小费实现财务盈鱼。",
+    "health": 2,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_461",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "饮品侍者",
+    "race": "PIRATE",
+    "races": [
+      "MURLOC",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>随机获取一张饮品法术牌。<i>（饮品可以饮用3次！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 109440,
+    "flavor": "竞技模式的钥匙原来是她造出来的。",
+    "health": 4,
+    "id": "VAC_463",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "前台礼宾",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "你的其他职业的\n牌法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 109463,
+    "elite": true,
+    "flavor": "追猎财宝能有多难？你打它一枪它都不会跑！",
+    "health": 5,
+    "id": "VAC_464",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "财宝猎人尤朵拉",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER",
+      "SIDE_QUEST"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>开启一项使用3张其他职业的牌即可完成的<b>支线任务</b>，<b>发现</b>神奇的战利品！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105540,
+    "elite": true,
+    "flavor": "“我觉得你上岛完全只是为了玩滑索，阿兰娜。”",
+    "health": 6,
+    "id": "VAC_501",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "极限追逐者阿兰娜",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>牧师游客</b>\n你的英雄在你的回合中受到的伤害会转移给一个随机敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 105543,
+    "elite": true,
+    "flavor": "据说人的名字会影响自己的职业。召唤师达克马洛显然不在此列。",
+    "health": 4,
+    "id": "VAC_503",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "召唤师达克玛洛",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>死亡骑士游客</b>\n你的<b>亡语</b>会触发两次。在你使用一张<b>亡语</b>随从牌后，将其消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 105546,
+    "elite": true,
+    "flavor": "请看您的左手边，这是我们大名鼎鼎的SPA区；而在您的右边，则是尤格-萨隆的监狱！",
+    "health": 5,
+    "id": "VAC_506",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巡游船长萝拉",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>随机召唤\n2个地标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105682,
+    "elite": true,
+    "flavor": "圣骑士的正义感过于强烈。仅仅是坐了别人的沙滩椅，就觉得自己像个贼。",
+    "health": 6,
+    "id": "VAC_507",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "阳光汲取者莱妮莎",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>潜行者游客</b>\n你的法力值消耗小于或等于（2）点的法术会施放两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105795,
+    "flavor": "从这张牌你就能看出这是一款虚构的游戏，因为图里没有葡萄干。",
+    "id": "VAC_508",
+    "name": "能量零食",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "仅在下回合，获得两个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 105797,
+    "flavor": "下来吧，这里的水很清凉！还很生气。而且活起来了。",
+    "id": "VAC_509",
+    "name": "海啸",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "召唤三个3/6的可以<b>冻结</b>攻击目标的水元素，并使其随机攻击敌人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105810,
+    "flavor": "翡翠梦境，变成翡翠般的现实。",
+    "health": 5,
+    "id": "VAC_511",
+    "name": "嗜睡巨龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>休眠</b>2回合。<b>休眠</b>状态下，在你的回合结束时召唤一条3/5并具有<b>嘲讽</b>的龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 105815,
+    "flavor": "用力。用力！用！力！哎呀。用力？",
+    "health": 4,
+    "id": "VAC_512",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "心灵按摩师",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "每当本随从受到伤害，对你的英雄造成等量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105854,
+    "flavor": "从此之后都是下坡路。",
+    "id": "VAC_513",
+    "name": "滑坡",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个角色。每有一个被<b>冻结</b>的角色，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 105855,
+    "flavor": "训练师是个亡灵，说明恐惧猎犬的确难以驯养。",
+    "health": 1,
+    "id": "VAC_514",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "恐惧猎犬训练师",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>亡语：</b>召唤一只1/1并具有<b>复生</b>的恐惧猎犬。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105891,
+    "flavor": "“你在哪？”“步道啊！”",
+    "health": 3,
+    "id": "VAC_517",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "远足步道",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>发现</b>一张<b>嘲讽</b>随从牌。在你获得护甲值后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 105892,
+    "flavor": "托尔托拉！请在这次旅途中为我保存体力！",
+    "health": 5,
+    "id": "VAC_518",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "始祖龟旅行者",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>亡语：\n</b>抽一张其他<b>嘲讽</b>随从牌，其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 105893,
+    "elite": true,
+    "flavor": "真名叫维斯特。",
+    "health": 5,
+    "id": "VAC_519",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "米斯塔·维斯塔",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>法师游客</b>\n<b>战吼：</b>3回合后，再次使用你在这三回合期间施放过的所有法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106369,
+    "flavor": "如果觉得生活不如意，不妨试试杯口再多沾一点盐！",
+    "id": "VAC_520",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "银樽海韵",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "造成$2点伤害，随机分配到所有敌方随从身上。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106372,
+    "flavor": "请尊重他的全名：伊斯特搬·索里奥·嘶吼里卡多·甘霍探契亚·得·拉·格落撒·拉米洛兹。",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_521",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "笨拙的搬运工",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果你的手牌中有法力值消耗大于或等于（5）点的法术牌，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106373,
+    "flavor": "我知道它们看起来很好吃，但切记请勿食用。",
+    "health": 3,
+    "id": "VAC_522",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "潮汐之池",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>发现</b>一张法力值消耗小于或等于（3）点的法术牌。在你施放一个法术后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106374,
+    "flavor": "如果只有3根手指，就不该举起小拇指。",
+    "health": 3,
+    "id": "VAC_523",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "混调师",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>制造一张法力值消耗为（1）的自定义药水牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106375,
+    "elite": true,
+    "flavor": "冲浪，速来",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "VAC_524",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海潮之王泰德",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>直到你的下个回合结束，双方玩家的法术的法力值消耗为（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106377,
+    "durability": 0,
+    "elite": true,
+    "flavor": "相传这柄神器可以切开最硬的酸酵法棍面包。",
+    "health": 2,
+    "id": "VAC_525",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "黑麦切割者",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼，亡语：</b>获取一片面包。<i>（获取2片即可将随从夹进三明治！）</i>",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106379,
+    "flavor": "未充分燃烧的炭火有毒，所以这张牌不要去闻。",
+    "id": "VAC_526",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "炭火",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$7点伤害。使你手牌中的一张随从牌获得等同于超过目标生命值伤害的属性值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 106381,
+    "flavor": "“熏龙高手”。",
+    "health": 6,
+    "id": "VAC_527",
+    "mechanics": [
+      "ELUSIVE",
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙族美餐",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>扰魔</b>。每次只能受到1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106382,
+    "flavor": "永远不要在饿的时候设计卡牌。",
+    "id": "VAC_528",
+    "name": "自助大餐",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "抽取三张不同类型的随从牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106385,
+    "flavor": "“……这张是我在骑恐龙，这张是我在协助侦破命案，还有这张，那时候我被上古之神腐蚀了……”",
+    "health": 5,
+    "id": "VAC_529",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "游学生",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "召唤一个友方地标的复制。",
+    "text": "<b>战吼：</b>召唤一个友方地标的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106387,
+    "flavor": "喜欢随着海流一起运动。",
+    "health": 7,
+    "id": "VAC_531",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "湾鳍健身鱼人",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "在你的回合中，在你的对手召唤随从后，将其<b>沉默</b>并消灭。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106388,
+    "flavor": "你以为这些是刚从椰子树上掉下来的？",
+    "health": 4,
+    "id": "VAC_532",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "椰子火炮手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在相邻的随从攻击后，随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106390,
+    "flavor": "这个才叫渔人的搏斗。",
+    "id": "VAC_533",
+    "name": "食物大战",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "为你的对手召唤一份0/4的主菜。当它死亡时，从你的牌库中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Timur Shevtsov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 109262,
+    "flavor": "大家都来唱起来吧，呀哈！",
+    "id": "VAC_558",
+    "name": "海上船歌",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "召唤三个\n5/5的海盗。在本局对战中，你每对角色施放一个法术，本牌的法力值消耗便\n减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 106681,
+    "flavor": "夺者多夺，多夺多得。强者强抢，强抢者强。",
+    "id": "VAC_700",
+    "name": "横夺硬抢",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "随机消灭两个敌方随从。你每使用过一张另一职业的卡牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106675,
+    "flavor": "众所周知，会发光的剑更厉害！",
+    "health": 3,
+    "id": "VAC_701",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "刀剑保养师",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>将你的武器的攻击力和耐久度变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106682,
+    "elite": true,
+    "flavor": "今天我们大家之所以欢聚在这里，是因为我们的老朋友——马林。",
+    "health": 6,
+    "howToEarn": "打开<i>胜地历险记</i>卡牌包后可解锁。",
+    "howToEarnGolden": "购买<i>胜地历险记</i>炉石通行证后开放解锁。",
+    "id": "VAC_702",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "经理马林",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>选择一张神奇宝藏。将其余3张洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 105813,
+    "flavor": "三次？！接下来还有什么，四次吗？！",
+    "id": "VAC_907",
+    "name": "星夜露宿",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "ARCANE",
+    "text": "<b>选择三次：</b>抽两张牌；获得5点护甲值；或者复原三个法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106432,
+    "flavor": "杰夫，我说的“给点力”不是让你在套牌里加上名字带“力”的牌。",
+    "id": "VAC_915",
+    "name": "大力扣杀",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "HOLY",
+    "text": "造成$4点伤害。随机使一个友方随从获得+4/+4。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106433,
+    "flavor": "我现在在养生，能给我来一杯“低热亮”的饮料吗？",
+    "id": "VAC_916",
+    "name": "神圣佳酿",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "HOLY",
+    "text": "使一个角色获得<b>圣盾</b>。如果其已经拥有圣盾，使其在本回合中获得+1攻击力。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106435,
+    "flavor": "您想要什么食材，普通，稀有还是传说？",
+    "health": 4,
+    "id": "VAC_917",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "烧烤大师",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>抽取你法力值消耗最低的牌。<b>亡语：</b>抽取你法力值消耗最高的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106439,
+    "flavor": "嘿，禁止炸鱼！",
+    "health": 7,
+    "id": "VAC_919",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "救生员",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>\n你施放的下一个法术拥有<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106442,
+    "flavor": "不穿衬衣不穿鞋，但仍可以享受服务。球场服务。",
+    "health": 3,
+    "id": "VAC_920",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "王牌发球手",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "在本随从获得攻击力后，使你手牌中法力值消耗最高的牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106444,
+    "durability": 0,
+    "flavor": "“本来玩得好好的，突然就有人受伤了。”——派对杀手",
+    "health": 2,
+    "id": "VAC_921",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙滩排槌",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你的英雄攻击后，获取一张法力值消耗为（1）的防晒霜。防晒霜可以使随从获得+1/+2。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106446,
+    "flavor": "至尊光环驭众环，太阳之光救苦难。",
+    "id": "VAC_922",
+    "name": "救生光环",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "HOLY",
+    "text": "在你的回合结束时，获取一张法力值消耗为（1）的可以使随从获得+1/+2的防晒霜。\n持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 106449,
+    "elite": true,
+    "flavor": "那座城堡可以说是上风上水。",
+    "hasDiamondSkin": true,
+    "health": 8,
+    "id": "VAC_923",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "圣沙泽尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>\n在本随从攻击后，变成地标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106580,
+    "flavor": "酒店规定，顾客必须把武器留在前台。但还有一条好消息！你可以在后台购买武器！",
+    "health": 4,
+    "id": "VAC_924",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "武器寄存员",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>\n如果你控制着其他海盗，随机从你的牌库中装备一把武器。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106582,
+    "flavor": "对着树丛跳？",
+    "id": "VAC_925",
+    "name": "伞降咒符",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，召唤两个1/1并具有<b>冲锋</b>的海盗。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106583,
+    "flavor": "“这样稳妥吗？”“放心吧，后备海盗多着呢！”",
+    "id": "VAC_926",
+    "name": "高崖跳水",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "从你的牌库中召唤2个随从并使其获得<b>突袭</b>。在你的回合结束时，它们会返回牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 106584,
+    "flavor": "摩托车，就是驮着恶魔的车。",
+    "health": 2,
+    "id": "VAC_927",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂飙邪魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在一个友方海盗攻击后，使你的英雄在\n本回合中获得\n+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106591,
+    "flavor": "我能在天上看见我的……手！！",
+    "id": "VAC_928",
+    "mechanics": [
+      "OUTCAST"
+    ],
+    "name": "飞翼滑翔",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "双方玩家抽三张牌。<b>流放：</b>只有你抽牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106614,
+    "flavor": "并不像看上去那么危险……而是危险得多！",
+    "health": 3,
+    "id": "VAC_929",
+    "name": "惊险悬崖",
+    "rarity": "RARE",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "召唤两个1/1并具有<b>冲锋</b>的海盗。在你的英雄攻击后，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106615,
+    "flavor": "四爪驱动，独立关节悬架，还有7法力的保修？在哪签字付款？",
+    "health": 8,
+    "id": "VAC_930",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "全地形虚空猎犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "每当本随从攻击时，使你的英雄在本回合中获得+5攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106616,
+    "flavor": "生————死",
+    "id": "VAC_931",
+    "name": "生死一线",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "选择一个随从。在本回合中，你的英雄从该随从处偷取4点攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 106618,
+    "durability": 0,
+    "flavor": "“这看起来是个普通的抓钩，但实际上是个登山钩爪。你可能分不清楚，但这个区别很重要。”",
+    "health": 2,
+    "id": "VAC_932",
+    "name": "登山钩爪",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "当你控制着攻击力大于或等于5的随从时，不会失去耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 106620,
+    "elite": true,
+    "flavor": "再也不怕第一回合抽到帕奇斯啦！",
+    "health": 1,
+    "id": "VAC_933",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "飞行员帕奇斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "CHARGE"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>将六张降落伞洗入你的牌库。当抽到降落伞时，召唤一个1/1并具有<b>冲锋</b>的海盗。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 106714,
+    "flavor": "请叫我伊利丹。多年前——具体多少年不知道——我的口袋里没几个金币，对艾泽拉斯世界上的一切又没什么兴趣。我觉得自己应该闯一闯，看看这个世界邪恶的一面……",
+    "health": 20,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_934",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "搁浅巨鲸",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>对本随从造成10点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106715,
+    "flavor": "早起的虫儿先登机。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_935",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "随行肉虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>获取一张法力值消耗为（1）的手提箱，将你牌库顶的2张牌装入其中。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 106718,
+    "flavor": "哦，爽，全都按在了痛点上。",
+    "health": 8,
+    "id": "VAC_936",
+    "name": "八爪按摩机",
+    "race": "BEAST",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "对随从造成\n八倍伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107114,
+    "flavor": "在舰了，我的熊猫人！",
+    "health": 4,
+    "id": "VAC_937",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "帆船舰长",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "使一个友方海盗获得<b>风怒</b>。",
+    "text": "<b>战吼：</b>使一个友方海盗获得<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107181,
+    "flavor": "没时间陪你猢闹！",
+    "health": 4,
+    "id": "VAC_938",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "粗暴的猢狲",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "每当其他友方海盗攻击时，使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107796,
+    "flavor": "甚至不需要去闻，就知道火候刚刚好！",
+    "id": "VAC_939",
+    "name": "吃掉小鬼！",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "消灭一个友方随从以抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107797,
+    "flavor": "布吉舞怪兽的主要竞争对手。",
+    "health": 1,
+    "id": "VAC_940",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "派对邪犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>召唤两只1/1的邪能兽。对你的英雄造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107807,
+    "flavor": "我以前想做一个好人，现在我没得选择。",
+    "id": "VAC_941",
+    "name": "弃明投暗",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "将你的英雄技能和非术士卡牌替换成术士的。它们的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107812,
+    "flavor": "有了六只手，表演这个节目相当轻松。",
+    "health": 1,
+    "id": "VAC_942",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无畏的火焰杂耍者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>获得等同于你的英雄在本回合中所受伤害量的属性值。0<i>（获得0点）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107813,
+    "flavor": "你想要的就是这个？？",
+    "health": 6,
+    "id": "VAC_943",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "祭献小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>如果此时是你的回合，召唤一个6/6并具有<b>嘲讽</b>的小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107815,
+    "flavor": "大多数纪念品都被斥为“没有灵魂”。这件可不一样！",
+    "id": "VAC_944",
+    "name": "咒怨纪念品",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "使一个随从获得+3/+3和“在你的回合开始时，对你的英雄造成3点伤害”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在你的回合中受到过8点伤害，召唤乌洛波斯。",
+    "cost": 6,
+    "dbfId": 107816,
+    "elite": true,
+    "flavor": "著名派对策划，主打“召唤异界生物仪式”派对。",
+    "health": 4,
+    "id": "VAC_945",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "派对策划者沃娜",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>如果你在你的回合中受到过8点伤害，召唤乌洛波斯。@<i>（还剩{0}点！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "AJ Nazzaro",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107822,
+    "flavor": "人人都能当大厨！除了这一位。",
+    "health": 1,
+    "id": "VAC_946",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "可怕的主厨",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>召唤一个0/2的蛛魔之卵。<b>亡语：</b>消灭它。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107824,
+    "flavor": "原名波池助浪者。后来，“意外事故”发生了。",
+    "health": 5,
+    "id": "VAC_947",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "波池造浪者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>使所有其他随从获得-1/-1。<b>亡语：</b>使所有其他随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 107856,
+    "flavor": "它们这是聚众群饮……不过动物就该群饮啊。",
+    "id": "VAC_948",
+    "name": "补水区",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "复活你法力值消耗最高的三个不同的<b>嘲讽</b>随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107891,
+    "flavor": "只有天在上，更无山与齐（但其实上限是99）。",
+    "id": "VAC_949",
+    "name": "攀上新高",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "将你的法力值上限提高3点，获得一个空的法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 107892,
+    "flavor": "森林里到处都是手杖，为什么还要花钱买？",
+    "health": 7,
+    "id": "VAC_950",
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "抱石伙伴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭。嘲讽</b>\n如果你拥有至少十个法力水晶，则法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107923,
+    "flavor": "每日摄入量请不要超过建议值，0克。",
+    "id": "VAC_951",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "“健康”饮品",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从造成$3点伤害。<i>（还剩3杯！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107925,
+    "flavor": "它们终于明白了自己为什么会有这种绰号：一个叫棉花，一个叫糖。",
+    "id": "VAC_952",
+    "name": "邪能篝火",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "对一个随从造成$4点伤害。如果该随从死亡，你的下一个<b>亡语</b>随从的法力值消耗减少（3）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108337,
+    "flavor": "手都埋在了沙子里，还怎么浪起来？",
+    "id": "VAC_953",
+    "name": "浪潮涌起",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "对所有随从造成\n$2点伤害。如果没有随从死亡，再造成$2点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108338,
+    "flavor": "“呃……我怎么没看到头顶的水流？”",
+    "health": 3,
+    "id": "VAC_954",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "顶流主唱",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>使你手牌中每个派系的各一张法术牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108346,
+    "elite": true,
+    "flavor": "别把这张牌移出你的套牌，不然他会气死。",
+    "health": 4,
+    "howToEarn": "收集30张<i>胜地历险记</i>卡牌后开放解锁。",
+    "howToEarnGolden": "购买<i>胜地历险记</i>炉石通行证后开放解锁。",
+    "id": "VAC_955",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "戈贡佐姆",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>获取一张\n法力值消耗为（2）的奶酪。奶酪可以召唤三个法力值消耗为（1）的随从，且每回合都会升级。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 108449,
+    "flavor": "“请问我的任务是？”“你负责获得护甲值。”“哦天呐。”",
+    "health": 3,
+    "id": "VAC_956",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "XB-931型家政机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你使用一个\n地标效果后，获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 108887,
+    "elite": true,
+    "flavor": "请冰冷整脊师为你调理一下吧，你也可以像沃金一样惬意！",
+    "health": 3,
+    "id": "VAC_957",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "惬意的沃金",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "选择2个随从，交换其属性值。",
+    "text": "<b>猎人游客</b>\n<b>战吼：</b>选择2个随从，交换其属性值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 108950,
+    "flavor": "目前人类只探索了海洋的5%。所以说这东西真实存在的几率高达95%。",
+    "health": 2,
+    "id": "VAC_958",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "进化融合怪",
+    "race": "ALL",
+    "races": [
+      "ALL"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<i>本随从拥有全部随从类型。</i><b>亡语：</b>将本随从洗入你的牌库。保留所有附加效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 108967,
+    "elite": true,
+    "flavor": "“提基酒杯适合所有家装风格，永不过时！”",
+    "health": 5,
+    "id": "VAC_959",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "诚信商家格里伏塔",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b><b>发现</b>一款神奇的护符，赠予双方玩家。<i>（敌人的护符为伪劣版本！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 109323,
+    "durability": 0,
+    "flavor": "奇怪……用这支旧鱼竿只能钓上来鲤鱼王。",
+    "health": 2,
+    "id": "VAC_960",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "可靠的鱼竿",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你的英雄攻击后，从你的牌库中召唤一个法力值消耗为（1）的随从。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 109326,
+    "flavor": "你必须喂给它小饼干。这是鸟类法律规定。",
+    "health": 1,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_961",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "宠物鹦鹉",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>重复你使用的上一张法力值消耗为（1）的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110844,
+    "flavor": "大地母亲，不要忽悠我。",
+    "id": "WORK_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "信任背摔",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>发现</b>两张法力值消耗小于或等于（5）点的随从牌，并使其获得彼此的攻击力和生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110751,
+    "flavor": "忙碌机器人喜欢干净的桌面。",
+    "health": 2,
+    "id": "WORK_002",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "忙碌机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>使你攻击力为1的随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110753,
+    "flavor": "报告！我们要休假！",
+    "id": "WORK_003",
+    "isMiniSet": true,
+    "name": "假期规划",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "恢复#4点生命值。召唤3个白银之手新兵。抽两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110754,
+    "flavor": "侏儒的监控设备虽然不够精细，但胜在结实。",
+    "id": "WORK_004",
+    "isMiniSet": true,
+    "name": "旅社谍战",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "将每个其他职业的各一张牌洗入你的牌库，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110756,
+    "flavor": "最近的安检好奇怪。新规定说了，安检不需要脱鞋，摘头盔，连匕首都能带着！",
+    "id": "WORK_005",
+    "isMiniSet": true,
+    "name": "快刀快递",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "使你的武器获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110757,
+    "flavor": "我像你这个年纪的时候，拨号机器人还得自己拨自己！",
+    "health": 2,
+    "id": "WORK_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "拨号机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>抽取法力值消耗为{0}，{1}和{2}的牌各一张。<i>（每回合随机拨号！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110759,
+    "flavor": "各位拖延症患者请不要怕，我们给这张牌加上了“可交易”——还有得商量。",
+    "id": "WORK_007",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "最后期限",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "<b>可交易</b>，<b>临时</b>\n消灭一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110760,
+    "flavor": "本合约中的斜体文本不会对你造成任何伤害。<i>（其实会的。）</i>",
+    "id": "WORK_008",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "合约细则",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "对所有随从造成$4点伤害。<i>（超过其生命值的伤害会命中你的英雄。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Caroline Gariba",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110761,
+    "flavor": "连续666个月的月度魔范。",
+    "health": 2,
+    "id": "WORK_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "月度魔范员工",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "使其获得<b>吸血</b>。",
+    "text": "<b>战吼：</b>使一个友方随从获得<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110762,
+    "flavor": "“所有的8费随从，不管是谁，你都放它过去！？”“……是啊……”",
+    "health": 2,
+    "id": "WORK_010",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "行程保安",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>随机召唤一个法力值消耗为（8）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 0,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110763,
+    "flavor": "这样过滤出来的水真的可以净化灵魂。",
+    "health": 3,
+    "id": "WORK_011",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "饮水图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你的回合结束时，使相邻的随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 110794,
+    "flavor": "法术，纳迦，纳迦，纳迦，纳迦，纳迦，纳迦，纳迦……",
+    "id": "WORK_012",
+    "isMiniSet": true,
+    "name": "抱团",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "用随机纳迦填满你的面板。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110765,
+    "elite": true,
+    "flavor": "“旅客朋友们，在飞往今后几个扩展包的旅途中，我们会遭遇小型湍流，请注意安全。”",
+    "health": 3,
+    "id": "WORK_013",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "湍流元素特布勒斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>猎人游客</b>\n<b>战吼：</b>使你手牌，牌库和战场上的所有其他<b>战吼</b>随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110767,
+    "flavor": "燃烧军团加大了阿古斯分时度假业务的推销力度。",
+    "id": "WORK_014",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "恶魔交易",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FEL",
+    "text": "<b>吸血</b>\n对一个随从造成$4点伤害。将一张法力值消耗大于或等于（5）点的随机恶魔牌置于你的牌库顶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 6,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110768,
+    "flavor": "*捂脸*我想要的插画本来是一个幽灵在推车叫卖……",
+    "health": 6,
+    "id": "WORK_015",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "精魂商贩",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>突袭</b>。<b>亡语：</b>随机使你手牌中的一张随从牌的法力值消耗减少（6）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110769,
+    "durability": 0,
+    "flavor": "打扰一下，是你把我的订书机拿走了吧……",
+    "health": 3,
+    "id": "WORK_016",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狱火订书器",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "在你的英雄攻击后，对你的英雄造成3点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110771,
+    "flavor": "每年的这个时节去这里逛逛挺好的。只要别去城外那道死亡之痕就行。",
+    "id": "WORK_017",
+    "isMiniSet": true,
+    "name": "银月城宣传单",
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得在本回合中<b>免疫</b>和+2/+2。\n<i>（每回合翻面。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110772,
+    "flavor": "旅行社里为什么不能有马？哪怕说出一条理由都行。",
+    "health": 2,
+    "id": "WORK_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "劳作老马",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>召唤两匹2/1的小马。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110775,
+    "flavor": "现金牛非常健康！",
+    "health": 7,
+    "id": "WORK_019",
+    "isMiniSet": true,
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "摇钱金牛",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>。每当本随从受到伤害，获取一张幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110776,
+    "flavor": "为什么香蕉不会随机分裂？？",
+    "id": "WORK_020",
+    "isMiniSet": true,
+    "name": "业务支猿",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "将8根香蕉置入你的手牌。放不下的香蕉会随机喂给场上的友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110780,
+    "flavor": "占两个车位不停车——装象。",
+    "id": "WORK_021",
+    "isMiniSet": true,
+    "name": "预留泊位",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "使你手牌中一张随机随从牌获得+4/+4。如果其为手牌中唯一的随从牌，其法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110783,
+    "flavor": "去<b>修甲</b>的时候别忘了打卡再出门。",
+    "id": "WORK_022",
+    "isMiniSet": true,
+    "name": "打卡",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在本回合中，使你的英雄获得+3攻击力和“同时对相邻随从造成伤害”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110785,
+    "flavor": "数据也许会骗你，但是铁定……铁锭打造的顾问不会骗你。",
+    "health": 6,
+    "id": "WORK_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "合金顾问",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>嘲讽</b>\n每当本随从受到伤害，获得3点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110786,
+    "flavor": "我们的搬家双熊保证会把你的行李尽快送达。",
+    "id": "WORK_024",
+    "isMiniSet": true,
+    "name": "蛮熊搬家",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "获取两张3/3并具有<b>嘲讽</b>的熊，其每在你手牌中一回合便获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110789,
+    "flavor": "*倒吸凉气*原来数据真的能吃！“7把9食”的故事是真的！",
+    "health": 1,
+    "id": "WORK_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "数据分析狮",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b><b>突袭</b>。嘲讽</b>。<b>选择三次：</b>获得+2攻击力；或者+2生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110795,
+    "flavor": "你信吗，我牌库里接下来的3张牌都是火焰牌。",
+    "id": "WORK_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "失火",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FIRE",
+    "text": "抽三张牌并将其点燃。3回合后，摧毁其中仍在手中的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110796,
+    "elite": true,
+    "flavor": "“我尽量满足你的出行愿望！”",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "id": "WORK_027",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "梦想策划师杰弗里斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>\n选择一条旅行路线，从中获取两张可能会表现完美的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 112372,
+    "flavor": "青山不改，绿水长留！后会无期啦！",
+    "id": "WORK_028",
+    "isMiniSet": true,
+    "name": "无限滞留",
+    "rarity": "RARE",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "ISLAND_VACATION",
+    "text": "使所有随从获得<b>复生</b>，然后消灭所有随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110848,
+    "flavor": "冰冠堡垒滑雪场，值得一去，死了也值。",
+    "id": "WORK_030",
+    "isMiniSet": true,
+    "name": "冰冠堡垒宣传单",
+    "rarity": "RARE",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ISLAND_VACATION",
+    "spellSchool": "FROST",
+    "text": "对一个随从造成$3点伤害并<b>冻结</b>\n其相邻随从。\n<i>（每回合翻面。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110849,
+    "flavor": "“财富会紧紧跟着你，如影随形！”",
+    "health": 4,
+    "id": "WORK_031",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暴富特使",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>将你手牌中法力值消耗最高的牌置于你的牌库顶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110850,
+    "flavor": "“财富……紧跟……如影……随行！好，懂了！”",
+    "health": 3,
+    "id": "WORK_032",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "影随员工",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>如果你的\n英雄在本回合受到过伤害，召唤一个本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110853,
+    "flavor": "“哦，糟了！我把咖啡全洒在你的牌上了！怎么办！好丢人！”",
+    "health": 4,
+    "id": "WORK_040",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "笨拙的杂役",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在任意卡牌被抽到后，将其变为\n<b>临时</b>卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 110855,
+    "flavor": "砍木头，采金矿，还有修建筑？格罗布一样都不喜欢……用铅笔在木板上涂鸦才是他真心热爱的工作。",
+    "health": 3,
+    "id": "WORK_041",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "忙碌的苦工",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>亡语：</b>你的下一张地标牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 110858,
+    "flavor": "不许在工位上吃东西！",
+    "health": 6,
+    "id": "WORK_042",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食肉格块",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从。在你的回合结束时，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 110859,
+    "elite": true,
+    "flavor": "我们的旅行方案不仅能把你送到历险胜地，还有更广阔的未知领域！",
+    "hasDiamondSkin": true,
+    "health": 3,
+    "id": "WORK_043",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "旅行管理员杜加尔",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>从你的牌库中召唤三个来自不同扩展包的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110882,
+    "flavor": "这款安戈洛套餐包含始祖龟体验之旅！至于什么魔暴龙嘛，不必在意。",
+    "id": "WORK_050",
+    "isMiniSet": true,
+    "name": "安戈洛宣传单",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "spellSchool": "NATURE",
+    "text": "抽两张随从牌，使其获得+2/+2。\n<i>（每回合翻面。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110965,
+    "elite": true,
+    "flavor": "“从此告别红眼狮鹫航班！”",
+    "health": 5,
+    "id": "WORK_063",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "传送门操控师斯奇拉",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>潜行者游客</b>\n<b>战吼：</b>使你手牌中法力值消耗最低和最高的法术牌的法力值消耗互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 111485,
+    "flavor": "ctrl-f “灵魂”",
+    "id": "WORK_070",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "灵魂检索",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "ISLAND_VACATION",
+    "spellSchool": "SHADOW",
+    "text": "从你的牌库中<b>发现</b>一张牌。消耗5份<b>残骸</b>，复制发现的牌。",
+    "type": "SPELL"
+  }
+]

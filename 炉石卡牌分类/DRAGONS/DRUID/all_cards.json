@@ -1,0 +1,192 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55262,
+    "flavor": "一个随从，两个随从……树个随从！",
+    "id": "DRG_051",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "人多势众",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n消耗10点法力值用于随从牌上。<b>奖励：</b>从你的牌库中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55039,
+    "flavor": "难以树计的后援力量！",
+    "id": "DRG_311",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "树木援军",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>使一个随从获得+2生命值和<b>嘲讽</b>；或者召唤一个2/2的树人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55038,
+    "flavor": "投之以花盆，爆之以树人。",
+    "health": 1,
+    "id": "DRG_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盆栽投手",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤一个2/2的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55037,
+    "flavor": "再来一条，那就是双截龙啦！",
+    "health": 8,
+    "id": "DRG_313",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "TAUNT"
+    ],
+    "name": "翡翠龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55036,
+    "flavor": "优秀的种子总能广为流传。",
+    "id": "DRG_314",
+    "name": "空气栽培",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "抽两张牌。你每控制一个树人，本牌的法力值消耗便减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 55035,
+    "flavor": "咕长老，收了神通吧！",
+    "id": "DRG_315",
+    "name": "森然巨化",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "使你牌库中的所有随从牌获得+2/+2，且法力值消耗增加（1）点<i>（最高不超过10点）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55033,
+    "flavor": "“搞定了，老大。可是把甲板保护起来之后我们要站在哪儿呢？”",
+    "id": "DRG_317",
+    "mechanics": [
+      "SIDE_QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "保护甲板",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n用你的英雄攻击两次。<b>奖励：</b>将三张“爪击”法术牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55052,
+    "flavor": "伊瑟拉初醒之时的口气非常可怕。",
+    "id": "DRG_318",
+    "name": "梦境吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌。如果你的手牌中有龙牌，便获得一个空的法力水晶。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 55031,
+    "elite": true,
+    "flavor": "战斗到底，永不认树。",
+    "health": 10,
+    "id": "DRG_319",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "强力巨树格鲁",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽，战吼：</b>在本局对战的剩余时间内，你的树人拥有+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 55030,
+    "elite": true,
+    "flavor": "把龙放出来！",
+    "health": 12,
+    "id": "DRG_320",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "觉醒巨龙伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将七张“梦境之门”洗入你的牌库。当抽到梦境之门时，随机召唤一条龙。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Mike Sass",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42754,
+    "flavor": "一个好汉两个帮。",
+    "id": "ICC_082",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "寒冰克隆",
+    "rarity": "COMMON",
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，将两张该随从的复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 42836,
+    "flavor": "他的骨头都快冻碎了！",
+    "health": 4,
+    "id": "ICC_252",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰冷鬼魂",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>如果有敌人被<b>冻结</b>，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Eric Braddock",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 43502,
+    "flavor": "是这里本来就冷，还是因为辛达苟萨？",
+    "id": "ICC_836",
+    "name": "冰龙吐息",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ICECROWN",
+    "spellSchool": "FROST",
+    "text": "随机对一个敌方随从造成$2点伤害，并使其<b>冻结</b>。",
+    "type": "SPELL"
+  }
+]

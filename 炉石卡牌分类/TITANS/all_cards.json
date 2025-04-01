@@ -1,0 +1,3804 @@
+[
+  {
+    "artist": "Caroline Gariba",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95917,
+    "flavor": "“我会看好太——啊我看不见了！”",
+    "health": 3,
+    "id": "TTN_039",
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "太阳看护者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机获取一张神圣法术牌。<b>锻造：</b>还会为你的英雄恢复6点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95935,
+    "flavor": "突袭者变成了突击者。因为它单独目击了太多事情。",
+    "health": 3,
+    "id": "TTN_042",
+    "mechanics": [
+      "FORGE",
+      "RUSH"
+    ],
+    "name": "独眼突击者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>锻造：</b>获得+3/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Greco",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96875,
+    "elite": true,
+    "flavor": "这是西芙。这是玛里苟斯。他们不是同一个人。即便他们有着相似的法术伤害，相似的颜色，但他们真的不是同一个人。",
+    "health": 6,
+    "id": "TTN_071",
+    "name": "西芙",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TITANS",
+    "text": "<b>法术伤害+1</b>\n<i>（在本局对战中，你每施放过一个派系的法术都会提升！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96903,
+    "elite": true,
+    "flavor": "他的奥术魔法无与伦比，足以在萨格拉斯摧毁泰坦们的实体之后保护他们的灵魂。",
+    "health": 8,
+    "id": "TTN_075",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "诺甘农",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，其他技能的效果翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 96941,
+    "flavor": "主题公园？热带度假岛？惊悚火坑？想玩什么我们这里都有。",
+    "health": 4,
+    "id": "TTN_076",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "FORGE"
+    ],
+    "name": "机械侏儒向导",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。<b>锻造：</b>发现的牌法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97005,
+    "flavor": "多次海岛度假之后，他发觉来风暴峭壁换换口味也不错。",
+    "health": 3,
+    "id": "TTN_077",
+    "mechanics": [
+      "MAGNETIC"
+    ],
+    "name": "酷冰机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97047,
+    "flavor": "“看！活生生的神话！”",
+    "health": 4,
+    "id": "TTN_078",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "神话观测者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在你召唤一个攻击力高于本随从的随从后，使所有友方随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97049,
+    "flavor": "虫外真的有虫，我看到了！又大，又蓝，又吓人！",
+    "id": "TTN_079",
+    "name": "虫外有虫",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "使一个随从获得+2攻击力和“超过目标生命值的攻击伤害会命中敌方英雄。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97051,
+    "flavor": "神迷动物饲养员走神的时候，由她来顶班。",
+    "health": 3,
+    "id": "TTN_080",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘动物饲养员",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>战吼：</b>如果你控制一个攻击力大于或等于4的随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97096,
+    "flavor": "睡眠颤动之后的大动作。",
+    "id": "TTN_081",
+    "name": "颤地觉醒",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "获取三张4/1的冰虫，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97099,
+    "flavor": "你好像脱水了，喝点水吧！来啊！喝啊！喝啊！喝啊！喝啊！",
+    "health": 8,
+    "id": "TTN_083",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "霍迪尔之子",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>将四张抽到时召唤的8/8的巨人洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97132,
+    "flavor": "现在我们所需的还剩下诺甘农的力量与勇气。",
+    "id": "TTN_085",
+    "name": "诺甘农的智慧",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "spellSchool": "ARCANE",
+    "text": "抽两张牌。在本局对战中，你每施放过一个不同派系的法术，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97380,
+    "flavor": "你的野兽补铁补得这么好，你喂它们吃什么了？",
+    "health": 1,
+    "id": "TTN_087",
+    "mechanics": [
+      "MAGNETIC",
+      "RUSH"
+    ],
+    "name": "吸附寄生体",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>突袭</b>。可以<b>磁力</b>吸附在机械和野兽上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cynthia  Garcia",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97404,
+    "durability": 0,
+    "flavor": "为人当怀摘星之志。即便摘不到，还可以去摘敌方英雄的首级。",
+    "health": 2,
+    "id": "TTN_088",
+    "name": "牵星短弓",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "TITANS",
+    "text": "在本局对战中，每触发一个友方<b>奥秘</b>，本牌的法力值消耗便减少（1）点。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97406,
+    "elite": true,
+    "flavor": "“我们终于控制住了尤格-萨隆！该怎么关押他呢？”“在地底……挖一个浅坑……随便拴上四条链子……如何？”“完美！”",
+    "health": 3,
+    "howToEarn": "打开<i>泰坦诸神</i>卡牌包后可解锁。",
+    "howToEarnGolden": "购买<i>泰坦诸神</i>炉石通行证后开放解锁。",
+    "id": "TTN_090",
+    "name": "尤格-萨隆的监狱",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "选择一个角色。随机施放4个法术<i>（尽可能以其为目标）</i>。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97495,
+    "elite": true,
+    "flavor": "阿格拉玛曾是萨格拉斯信赖的副官，在萨格拉斯堕落之前与他一道扫荡诸界，对战恶魔大军。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TTN_092",
+    "mechanics": [
+      "BATTLECRY",
+      "TITAN"
+    ],
+    "name": "复仇者阿格拉玛",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>战吼：</b>装备一把3/3的泰沙拉克。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102040,
+    "flavor": "别再召唤它了！不然我又得把打湿的卷轴放进米缸里。",
+    "health": 2,
+    "id": "TTN_095",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "流水档案管理员",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>你的下一张元素牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95967,
+    "flavor": "一定要放在对面的急救包底下。",
+    "id": "TTN_302",
+    "mechanics": [
+      "DISCOVER",
+      "FORGE"
+    ],
+    "name": "泰坦锻造陷阱",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "TITANS",
+    "text": "<b>发现</b>并施放一个<b>奥秘</b>。<b>锻造：</b>发现并施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96077,
+    "flavor": "你要连闪电箭都能躲，还躲不过一个球吗？",
+    "id": "TTN_317",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "闪电反射",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "<b>发现</b>一张自然法术牌。如果你在本回合使用发现的牌，再<b>发现</b>一张。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 100929,
+    "elite": true,
+    "flavor": "“我一直站在这里就行了吗，还是说……”",
+    "health": 10,
+    "id": "TTN_330",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "科隆加恩",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。每当本随从攻击随从时，将被攻击的随从放入你的手牌。<b>亡语：</b>将还在你手牌的这些随从牌移至对手的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96422,
+    "flavor": "你一定会自动积极地召唤大量自动机。",
+    "health": 2,
+    "id": "TTN_401",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "星界自动机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在本局对战中，你每召唤过一个其他星界自动机，便拥有+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96710,
+    "elite": true,
+    "flavor": "卡兹格罗斯打造了各个种族的泰坦造物，以期保护艾泽拉斯免受腐蚀与纷乱的侵害。",
+    "health": 5,
+    "id": "TTN_415",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "卡兹格罗斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，在本回合中获得<b>免疫</b>并随机攻击一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97103,
+    "elite": true,
+    "flavor": "泰坦诸神的领袖最先醒来。在孤寂之中，他穿行诸界，寻找其他泰坦，与之共同组成了万神殿。",
+    "hasDiamondSkin": true,
+    "health": 10,
+    "id": "TTN_429",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "阿曼苏尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，<b>发现</b>任意职业的<b>传说</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97261,
+    "flavor": "如果你想执行销毁协议，倒放就好了。",
+    "id": "TTN_430",
+    "mechanics": [
+      "DISCOVER",
+      "FORGE"
+    ],
+    "name": "造物协议",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "从你的牌库中<b>发现</b>一张随从牌的复制。<b>锻造：</b>再获取一张复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 8,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97207,
+    "flavor": "要长脑子了。",
+    "health": 8,
+    "id": "TTN_441",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无象星座",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机变形成为你手牌中一个随从的8/8的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97269,
+    "flavor": "快看，扎心了。",
+    "health": 2,
+    "id": "TTN_450",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "困苦的克瓦迪尔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "TITANS",
+    "text": "<b>亡语：</b>随机将两张疫病牌洗入你对手的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97282,
+    "flavor": "先生们，今晚与君同乐，荣幸之至。",
+    "id": "TTN_454",
+    "name": "殉船",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "造成$3点伤害。随机将两张疫病牌洗入你对手的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97394,
+    "flavor": "你喜欢打团的刺激，我喜欢背叛的快感。我们不一样。",
+    "health": 3,
+    "id": "TTN_455",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "墓地叛徒",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "TITANS",
+    "text": "<b>战吼：</b>摧毁你对手牌库中的一张疫病牌，对所有敌方随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97397,
+    "flavor": "詹妮弗甩了我。",
+    "health": 2,
+    "id": "TTN_456",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "蔽刺触手",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>吸血</b>。<b>战吼：</b>随机对一个敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97455,
+    "flavor": "“愿你在排名对战中一路走好。”",
+    "health": 3,
+    "id": "TTN_457",
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "悼词宣诵者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>消耗3份<b>残骸</b>，造成3点伤害。<b>锻造：</b>改为获得残骸。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97462,
+    "flavor": "当你明白XB的真正含义时，一定会大吃一惊。",
+    "health": 2,
+    "id": "TTN_458",
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "XB-488清理机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>造成5点伤害，随机分配到所有敌方随从身上。<b>锻造：</b>获得<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 8,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 11,
+    "dbfId": 97467,
+    "flavor": "一直嫉妒破链角斗士。",
+    "health": 5,
+    "id": "TTN_459",
+    "mechanics": [
+      "REBORN",
+      "RUSH"
+    ],
+    "name": "链缚守护者",
+    "rarity": "EPIC",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "TITANS",
+    "text": "<b><b>突袭</b>，复生</b>\n在本局对战中，每有一张疫病牌被洗入敌方牌库，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97530,
+    "flavor": "显然，这张牌对于任何生命值6点及以上的随从来说都不会致命，例如杂耍小鬼。为保证叙事严谨，我们会削弱杂耍小鬼。",
+    "id": "TTN_460",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "致命诛灭",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "造成$5点伤害，随机分配到所有敌方随从身上。每消灭一个随从，为你的英雄恢复#2点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 97614,
+    "flavor": "监狱生活彻底改变了杰夫。",
+    "health": 4,
+    "id": "TTN_462",
+    "name": "被禁锢的恐魔",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在本局对战中，你每在你的回合受到一点伤害，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97619,
+    "flavor": "驯龙高手绝不会这么做。",
+    "id": "TTN_463",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "飞翼焊装",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "弃掉你法力值消耗最高的牌，对所有随从造成等同于其法力值消耗的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97623,
+    "flavor": "身处意志熔炉之中，你会感受到决心的力量。",
+    "health": 2,
+    "id": "TTN_465",
+    "name": "意志熔炉",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "选择一个友方随从。召唤一个具有其属性值和<b>突袭</b>的\n巨人。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97678,
+    "flavor": "“他为什么气成这样？”“他在炉石的隐藏迷宫谜题里困了好多年了。”",
+    "health": 5,
+    "id": "TTN_466",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "米诺陶牛头人",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>\n每当本随从造成伤害时，获得等量的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97680,
+    "durability": 0,
+    "flavor": "还会使你的英雄获得<b>匠人精神+1</b>。",
+    "health": 3,
+    "id": "TTN_467",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "匠人之锤",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "每当你的英雄攻击时，便获得4点\n护甲值。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97687,
+    "flavor": "蒸汽沸腾，岩浆滚滚，双重保护这座蒸汽平台。",
+    "health": 3,
+    "id": "TTN_468",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蒸汽守卫",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>抽一张法术牌。使你手牌中一张火焰法术牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97697,
+    "flavor": "对某些厚岩客户特别敏感。",
+    "health": 2,
+    "id": "TTN_469",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "岩肤护甲商",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本回合中，如果你的护甲值发生变化，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97700,
+    "flavor": "就你了，上吧。",
+    "id": "TTN_470",
+    "name": "火焰试炼",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "召唤五个1/1并具有<b>突袭</b>的瓦格里。当一个死亡时，使其他的获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 1,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97739,
+    "flavor": "气得冒烟了。",
+    "health": 3,
+    "id": "TTN_471",
+    "mechanics": [
+      "MAGNETIC"
+    ],
+    "name": "愤怒焚炉",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98097,
+    "flavor": "这张牌的模型不能再膨胀了，你看他都快炸了！",
+    "health": 4,
+    "id": "TTN_475",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "破链角斗士",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>抽一张牌。你在上个回合每使用一张元素牌，重复一次。0<i>（重复0次）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabriel Lopes",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98111,
+    "flavor": "书读百遍，法术自现！",
+    "id": "TTN_476",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "魔法新发现",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>发现</b>一张你在本局对战中尚未施放过的派系的法术牌<i>（任意职业）</i>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98123,
+    "flavor": "这是一件后上古现代现实主义新古典印象派的艺术作品。没人知道是什么意思。",
+    "id": "TTN_477",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "熔火符文",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "造成$3点伤害。随机获取一张法术牌。<b>锻造：</b>本牌施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98136,
+    "flavor": "这台机械的早餐：吃书。",
+    "health": 4,
+    "id": "TTN_478",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "求知造物",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>对所有敌方随从造成1点伤害。<i>（在本局对战中，你每施放过一个派系的法术都会提升！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98143,
+    "flavor": "水属性技能可对其造成4倍伤害，效果绝佳。",
+    "health": 3,
+    "id": "TTN_479",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "烈焰亡魂",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在你召唤一个元素后，使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98212,
+    "flavor": "激励元素并不需要英雄技能。",
+    "id": "TTN_480",
+    "name": "元素激励",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在本局对战中，你每施放过一个派系的法术，召唤一个4/5并具有一项随机<b>额外效果</b>的元素。0<i>（召唤0个）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98223,
+    "elite": true,
+    "flavor": "时常参加不朽之战。",
+    "health": 5,
+    "id": "TTN_481",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "莱登",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>召唤你在本局对战中使用过的你套牌之外的每个其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98224,
+    "flavor": "专研大熊座，主修熊怪学。",
+    "health": 3,
+    "id": "TTN_482",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "星辰的学生",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>将本随从的一张永久具有+3/+3的复制洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98248,
+    "flavor": "莱登喜欢在业余时间传授瑜伽。",
+    "id": "TTN_483",
+    "name": "平心静气",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "使所有敌方随从获得-2攻击力。消灭具有0点攻击力的敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98252,
+    "flavor": "“……他们曾经住在一起……”“我的天呐！”",
+    "health": 2,
+    "id": "TTN_484",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伪信徒",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b><b>发现</b>一张来自过去的牧师\n<b>传说</b>随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98253,
+    "flavor": "是砂糖，不，沙漠方尖碑！",
+    "id": "TTN_485",
+    "name": "星辰排列",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "spellSchool": "ARCANE",
+    "text": "将你手牌中的随从牌变形成为法力值消耗增加（3）点的随从牌。<i>（保留其原始法力值消耗。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98278,
+    "flavor": "该随从会继续存活。活得很惨。",
+    "id": "TTN_486",
+    "name": "魔化形态",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "直到你的下个回合，使一个友方随从获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98280,
+    "elite": true,
+    "flavor": "完美胜任，满分好评！——尤格-萨隆",
+    "health": 3,
+    "id": "TTN_487",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "洛肯，尤格-萨隆的看守",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>从你的牌库中<b>发现</b>一张随从牌，召唤一条具有其属性值和<b>嘲讽</b>的触手。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98394,
+    "flavor": "鬼斧神工的锻造技艺。",
+    "health": 3,
+    "id": "TTN_490",
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "萨格拉斯的信徒",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>弃掉一张法术牌以召唤两个3/2的小鬼。<b>锻造：</b>使其获得+2生命值和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98328,
+    "flavor": "如果你没收到他的玫瑰，那就赶快收拾行李，立刻离开奥杜尔。",
+    "health": 4,
+    "id": "TTN_503",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾欧娜尔的信徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>你的下一个<b>抉择</b>牌或技能同时拥有两种效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101869,
+    "flavor": "我的天呐，这种套路怎么总有人上钩！",
+    "id": "TTN_504",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "诱骗诡计",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>奥秘：</b>当一个友方随从受到攻击时，使其获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97569,
+    "flavor": "棘手得离谱。",
+    "health": 6,
+    "id": "TTN_700",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MAGNETIC"
+    ],
+    "name": "羁押装置",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>亡语：</b>随机召唤一个法力值消耗为（8）的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 97570,
+    "flavor": "比鱼人宝宝可爱多了呀。",
+    "health": 3,
+    "id": "TTN_710",
+    "name": "远古图腾",
+    "race": "TOTEM",
+    "races": [
+      "TOTEM"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97571,
+    "flavor": "请勿动口，以免动手。",
+    "health": 5,
+    "id": "TTN_711",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "萨隆邪铁托维尔",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>\n每当本随从受到攻击时，抽一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97572,
+    "flavor": "你给它小零食，它给你亮闪闪！",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_712",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "锐目搜寻者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>如果你的牌库中有对战开始时不在牌库中的牌，则抽取其中的一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97573,
+    "flavor": "三个脑袋，3倍起床气。",
+    "health": 5,
+    "id": "TTN_713",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "生气的冥狱之犬",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>\n在你的回合拥有+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97574,
+    "flavor": "唔，符文能量快见底了。最好找个符务区。",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_714",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "符文供能魔像",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b><b>发现</b>一张任意职业的武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97575,
+    "flavor": "“迟到”的个性说法。",
+    "health": 5,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_715",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "迷时始祖幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>\n当你抽到该牌时，随机将一张龙牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97593,
+    "elite": true,
+    "flavor": "横穿练兵场之前请务必左右观察。",
+    "health": 5,
+    "id": "TTN_716",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "烈焰猛兽",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机获取两张<b>磁力</b>机械牌，其法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97617,
+    "elite": true,
+    "flavor": "很符合奥尔加隆的作风，他看到的未来就是那样。",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "howToEarn": "购买<i>泰坦诸神</i>炉石通行证后开放解锁。",
+    "id": "TTN_717",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "观察者奥尔加隆",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>将你的英雄技能替换为奥尔加隆的预见。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97626,
+    "flavor": "一闪一闪亮晶晶，满天雏龙小星星。",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_718",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星光雏龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机获取你起始手牌中的一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Adam Byrne",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97638,
+    "flavor": "哦，一堆废物。",
+    "id": "TTN_719",
+    "name": "废料回收",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "获取三张1/1并具有<b>磁力</b>和随机<b>额外效果</b>的火花机器人。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97642,
+    "elite": true,
+    "flavor": "在泰坦们离开了很久之后，米米尔隆有了一个设想，创造出足以匹敌泰坦之能的造物。他好像成功了！",
+    "health": 5,
+    "id": "TTN_721",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "终极V-07-TR-0N",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰钽</b>\n本随从的技能会在另一个随机友方随从身上重复。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97671,
+    "flavor": "流     潮",
+    "id": "TTN_722",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "潮流逆转",
+    "overload": 1,
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，使你的英雄获得+3攻击力。召唤一个3/3并具有<b>突袭</b>的元素。<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97682,
+    "flavor": "背景里的那个人在尖叫……一定是因为地铁旅行太有意思了！",
+    "health": 4,
+    "id": "TTN_723",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "地铁司机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>抽一张机械牌。你下一张机械牌的法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97726,
+    "flavor": "风暴巨人，冰霜巨人，熔核巨人……我想要的是晴天巨人和阳光巨人！",
+    "health": 8,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_724",
+    "mechanics": [
+      "FORGE",
+      "TAUNT"
+    ],
+    "name": "风暴巨人",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>。<b>锻造：</b>法力值消耗减少（2）点。可以被无限<b>锻造</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97729,
+    "durability": 0,
+    "flavor": "随风而去吧，虫子！",
+    "health": 3,
+    "id": "TTN_725",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "雷霆之锤",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在你的英雄攻击后，对生命值最低的敌人造成3点伤害。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97736,
+    "flavor": "在其对手的回合拥有+2攻击力。",
+    "id": "TTN_726",
+    "name": "焦油飞溅",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在本回合中，随从受到的伤害翻倍。造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 6,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 97738,
+    "flavor": "把你的孩子砸向敌人，即可获得年度最差母亲称号。",
+    "health": 6,
+    "id": "TTN_727",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "托林尼尔幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。每当本随从攻击时，召唤两条3/1的雏龙，并使其率先攻击目标。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97825,
+    "flavor": "“奇诺！看你的了。”",
+    "id": "TTN_728",
+    "name": "整备站",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "TITANS",
+    "text": "从你的牌库中<b>发现</b>一张机械牌，使其获得+2/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Guillaume Beauchêne",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97853,
+    "flavor": "熔的是奶酪，造的是拉丝奶酪。",
+    "health": 3,
+    "id": "TTN_729",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "岩熔冶锻师",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FORGE"
+    ],
+    "set": "TITANS",
+    "text": "在你<b>锻造</b>一张牌后，获取一张它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97915,
+    "flavor": "米米尔隆早就看穿了一切：“是双胞胎！”",
+    "health": 2,
+    "id": "TTN_730",
+    "mechanics": [
+      "FORGE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "实验室构筑机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "在你的回合结束时，召唤一个本随从的复制。<b>锻造：</b>获得<b>磁力</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98019,
+    "flavor": "飞低点，傻孩子们！",
+    "health": 5,
+    "id": "TTN_731",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "粗心的机械师",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在一回合中，在你抽第二张牌后，消灭本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98023,
+    "flavor": "发明家曾对自己的职业充满自豪，直到他们发现发明出会发明的发明会威胁到自己的职业。",
+    "health": 3,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_732",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "发明机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "每当你<b>磁力</b>吸附一个随从时，使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98051,
+    "flavor": "今年是座狼年！等等——你说的“独狼”是什么意思？",
+    "health": 4,
+    "id": "TTN_733",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "铁血座狼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。在本随从攻击并消灭一个随从后，为本随从恢复所有生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98182,
+    "flavor": "找一个机甲鹦鹉，再找个机甲瑞文，机械阵容就成型了！",
+    "health": 2,
+    "howToEarnGolden": "购买<i>泰坦诸神</i>炉石通行证后开放解锁。",
+    "id": "TTN_734",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MAGNETIC"
+    ],
+    "name": "机甲跳蛙",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>亡语：</b>使一个友方机械获得+2/+2以及此<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98282,
+    "flavor": "导航直达冬天爷爷的工坊。",
+    "id": "TTN_735",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "北境导航",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "TITANS",
+    "spellSchool": "FROST",
+    "text": "从你的牌库中<b>发现</b>一张法术牌。如果选中的是冰霜法术牌，随机<b>冻结</b>一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 1,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98283,
+    "durability": 0,
+    "flavor": "兵主，玛卓克萨斯的统治者，战略大师。还是牙签杖的持有者！",
+    "health": 3,
+    "id": "TTN_736",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "兵主之杖",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 2
+    },
+    "set": "TITANS",
+    "text": "在你的英雄攻击后，随机将一张疫病牌洗入你对手的牌库。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "A. Zemskov & T. Shevtsov",
+    "attack": 7,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 98285,
+    "elite": true,
+    "flavor": "既然存在泰坦万神殿，也就有死亡万神殿，其中包括暗影界各位强大的统治者。",
+    "health": 9,
+    "id": "TTN_737",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "兵主",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，<b>发现</b>一张对应符文的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Dora",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98389,
+    "flavor": "这套伪装不太行啊，兄弟。",
+    "health": 3,
+    "id": "TTN_741",
+    "name": "伪装的克熙尔",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成你对手牌库中的一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98403,
+    "flavor": "有没有可能，我们并非真实存在？我们会不会是，比方说，是什么宇宙空间实体想象出来的？我们又该如何知晓？",
+    "health": 2,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_742",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "星空投影师",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "targetingArrowText": "选择一个友方随从，获取临时版复制。",
+    "text": "<b>战吼：</b>选择一个友方随从，将它的一张<b>临时</b>复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98427,
+    "flavor": "等到春天就能分出胜负了。",
+    "id": "TTN_744",
+    "name": "严寒冰封",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 1,
+      "unholy": 0
+    },
+    "set": "TITANS",
+    "spellSchool": "FROST",
+    "text": "双方玩家各抽两张牌。你的对手下回合不能使用抽到的这些牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98434,
+    "flavor": "那条鱼有这——么大，你们信吗？",
+    "id": "TTN_745",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "众神之父的恩赐",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERHEAL"
+    ],
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "恢复#8点生命值。<b>发现</b>一张法力值消耗等同于<b>过量治疗</b>量的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98520,
+    "elite": true,
+    "flavor": "永恒之火？只有4点生命值？！",
+    "health": 4,
+    "howToEarn": "收集30张<i>泰坦诸神</i>卡牌后开放解锁。",
+    "howToEarnGolden": "购买<i>泰坦诸神</i>炉石通行证后开放解锁。",
+    "id": "TTN_751",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒之火伊格尼斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "FORGE"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，如果你<b>锻造</b>过卡牌，则制造一张自定义的武器牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 98560,
+    "elite": true,
+    "flavor": "各位巨人女士，这位可是真爱的守护者。",
+    "health": 8,
+    "id": "TTN_752",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨人之父霍迪尔",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>将你使用的下三张随从牌的属性值变为8/8。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98565,
+    "flavor": "声势大，火势小。",
+    "id": "TTN_753",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "鼓动火焰",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$5点伤害。<b>锻造：</b>然后造成$5点伤害，随机分配到所有敌方随从身上。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98680,
+    "flavor": "正在袭击无辜鱿客。",
+    "health": 5,
+    "id": "TTN_754",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "饥饿的海怪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从。<b>亡语：</b>召唤一个被消灭随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96909,
+    "elite": true,
+    "flavor": "高戈奈斯统领天空与海洋，英勇无畏地运用着自然的力量，为万神殿效力。",
+    "health": 7,
+    "id": "TTN_800",
+    "mechanics": [
+      "AURA",
+      "TITAN"
+    ],
+    "name": "雷霆之神高戈奈斯",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n你每个回合使用的第一张法术牌的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. Zemskov & T. Shevtsov",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 96933,
+    "flavor": "受了不少委屈，想撒撒气。",
+    "health": 5,
+    "id": "TTN_801",
+    "mechanics": [
+      "FORGE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "风暴勇士",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "在你施放一个自然法术后，召唤一个4/2的元素。<b>锻造：</b>召唤的元素具有<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97052,
+    "flavor": "卡兹格罗斯的生活可谓是其乐熔熔。",
+    "id": "TTN_803",
+    "name": "熔铸",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "随机使你手牌中的一张随从牌获得+3/+3。失去3点护甲值以重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "attack": 8,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97061,
+    "elite": true,
+    "flavor": "最好的进攻其实是加强防守。准确地说，叠30点就够了。",
+    "health": 8,
+    "id": "TTN_811",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "首席管理官奥丁",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，在你的英雄获得护甲值后，还会在当回合获得等量的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97053,
+    "flavor": "凑齐三个，可以变成三维维库人。",
+    "health": 2,
+    "id": "TTN_812",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "得胜的维库人",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在本随从攻击后，获取一张法力值消耗为（1）点的2/3的\n瓦格里。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97354,
+    "flavor": "快闪……英雄阵亡！",
+    "id": "TTN_830",
+    "name": "须臾闪电",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌。下个回合，你的自然法术牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97355,
+    "flavor": "错误：雷电.exe已停止响应。",
+    "id": "TTN_831",
+    "name": "雷电崩鸣",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "对所有敌人造成$3点伤害。在本回合中，你每施放过一个自然法术，本牌的法力值消耗便减少\n（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97358,
+    "flavor": "穴居人当年是老大……",
+    "health": 4,
+    "id": "TTN_832",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "流亡穴居人",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>战吼：</b>对你的英雄造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97473,
+    "flavor": "警告：非石质生物请勿站在通电的水中。",
+    "health": 3,
+    "id": "TTN_833",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "高戈奈斯的信徒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "TITANS",
+    "text": "在你的回合结束时，随机使你手牌中一张<b>过载</b>牌的法力值消耗减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97474,
+    "elite": true,
+    "flavor": "居于群山之中。",
+    "health": 4,
+    "id": "TTN_835",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风暴之王托里姆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>解锁你<b>过载</b>的法力水晶，抽取相同数量的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97475,
+    "flavor": "哈？谁把我的雕像染<b>绿</b>了？",
+    "health": 4,
+    "id": "TTN_840",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "晶石雕像",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。起始<b>休眠</b>状态。在你抽四张牌后唤醒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97477,
+    "flavor": "势如破竹：指姿势像破碎的竹子。",
+    "id": "TTN_841",
+    "name": "势如破竹",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在本回合中，使你的英雄获得+4攻击力。在本回合中你每抽一张牌，本牌的法力值消耗便\n减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97478,
+    "elite": true,
+    "flavor": "号称永恒，尤有竟时。",
+    "health": 5,
+    "id": "TTN_842",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒者尤顿",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战的剩余时间内，对敌人施放你每回合抽到的第一张法术牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97479,
+    "flavor": "其实他们都被骗了。因为还有一个艾瑞达欺诈者。",
+    "health": 5,
+    "id": "TTN_843",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "艾瑞达欺诈者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "每当你抽一张牌时，召唤一个1/1并具有<b>突袭</b>的恶魔。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97526,
+    "flavor": "魔像装扮从未真正流行——在大地的裂变之后就碎了个一干二净。",
+    "health": 5,
+    "id": "TTN_844",
+    "name": "阿古尼特魔像",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在本回合中你每抽一张牌，便拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97527,
+    "flavor": "符文符文告诉我，谁是最绿的那一个？",
+    "id": "TTN_845",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "符文装饰",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>发现</b>一张法力值消耗小于或等于（3）点的法术牌，将2张具有<b>抽到时施放</b>的复制洗入你的牌库。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97683,
+    "elite": true,
+    "flavor": "这个名字来自奥丁酒醉后的自言自语：“嗨啦！”",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "TTN_850",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海拉",
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "TITANS",
+    "text": "<b>战吼：</b>将全部三种疫病牌洗入你对手的牌库。在本局对战中，对手抽到的疫病不会终结。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98054,
+    "flavor": "我的迷你机总会感到迷辋。",
+    "health": 3,
+    "id": "TTN_852",
+    "mechanics": [
+      "MAGNETIC",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "崇高的迷你机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。在本随从攻击后，随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98055,
+    "flavor": "接受菜决吧！",
+    "id": "TTN_853",
+    "name": "审判恶徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "将一个敌方随从的生命值变为1，然后对所有敌人造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 98056,
+    "flavor": "好了好了，我在看说明书了……",
+    "id": "TTN_854",
+    "name": "发明家的光环",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "你的机械的法力值消耗减少（1）点。持续2回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Forrest Imel",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98626,
+    "flavor": "啼尔之啼，涕尔之涕。",
+    "id": "TTN_855t",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "提尔之涕",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "复活3个不同的你职业的随从，将其属性值变为2/2。<b>锻造：</b>再复活一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 98058,
+    "flavor": "“伟大的阿米图斯，我遵从了您关于披肩的穿搭建议，但可否示下——我要不要换上金色手套呢？”",
+    "health": 5,
+    "id": "TTN_856",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "阿米图斯的信徒",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在你的回合结束时，召唤一个2/2的土灵。在本局对战中你每召唤过一个其他土灵，这个土灵获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 98059,
+    "elite": true,
+    "flavor": "以提尔之名，携提尔等重生。",
+    "health": 5,
+    "id": "TTN_857",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "提尔",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>复活攻击力为2，3和4点的你职业的随从各一个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98061,
+    "elite": true,
+    "flavor": "阿米图斯曾是维护和谐的勇士，消弭了万神殿的诸多纷争。萨格拉斯堕落之后不久，她也一同消失了。",
+    "health": 8,
+    "id": "TTN_858",
+    "mechanics": [
+      "TAUNT",
+      "TITAN"
+    ],
+    "name": "维和者阿米图斯",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>嘲讽</b>。你的随从每次受到伤害不会超过2点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98104,
+    "flavor": "“这剪子是怎么回事？！线都剪不断！！”",
+    "health": 3,
+    "id": "TTN_859",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "命运切分者",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>获取你对手使用的上一张牌的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98105,
+    "flavor": "不破不立，不拆怎么重建呢。",
+    "health": 2,
+    "id": "TTN_860",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无人机拆解器",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>获取一张1/1并具有<b>磁力</b>和一项随机<b>额外效果</b>的火花\n机器人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98330,
+    "flavor": "“坏了，我把两头都塞进了卷笔刀。”",
+    "health": 2,
+    "id": "TTN_861",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿古斯的信徒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>亡语：</b>召唤两个2/2并具有<b>嘲讽</b>的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98344,
+    "elite": true,
+    "flavor": "阿古斯曾是一位高傲的泰坦，命运却引他走向了黑暗的结局。萨格拉斯与麾下的恶魔腐蚀了阿古斯，将他的力量据为己有，星球也因此而破碎。",
+    "health": 9,
+    "id": "TTN_862",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "翠绿之星阿古斯",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL",
+      "RUSH"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n本随从左边的随从均拥有<b>突袭</b>，本随从右边的随从均拥有<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98468,
+    "flavor": "不幸的是，艾泽拉斯每两年左右就会再变大一点。",
+    "id": "TTN_865",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "举世之重",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "抽两张牌。<b>锻造：</b>先抽若干数量的牌，直到你的手牌数量等同于你对手的手牌数量。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98469,
+    "flavor": "游戏内禁止养恐魔。",
+    "health": 10,
+    "id": "TTN_866",
+    "mechanics": [
+      "LIFESTEAL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "神秘恐魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>吸血</b>。在你的回合结束时，迫使所有敌方随从攻击本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95470,
+    "flavor": "全称是炉石心算之王。",
+    "health": 2,
+    "id": "TTN_900",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "石心之王",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>召唤一个2/2的土灵。在本局对战中你每召唤过一个其他土灵，这个土灵获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 96671,
+    "elite": true,
+    "flavor": "她是所有生命的保护者，曾经挽救新生的艾泽拉斯世界之魂，使之免于毁灭。仁善便是她最伟大的智慧。",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TTN_903",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "生命的缚誓者艾欧娜尔",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，召唤一棵5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 1,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 96910,
+    "flavor": "圆柱形螺栓？放进方形孔。",
+    "health": 3,
+    "id": "TTN_906",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "修理机器人X-21",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "<b>亡语：</b>将所有<b>磁力</b>吸附在本随从上的机械移回你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100984,
+    "flavor": "你可以骂它躺平，但它确实能帮你多抽两张牌。",
+    "health": 3,
+    "id": "TTN_907",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "星界翔龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在你的回合结束时，如果本随从未攻击，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97078,
+    "elite": true,
+    "flavor": "卡牌趣文程序启动。",
+    "health": 5,
+    "id": "TTN_920",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "天才米米尔隆",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "在你使用一张机械牌后，随机获取一张米米尔隆的小工具。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kleston Marques",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97109,
+    "flavor": "过冬之前会搜集坚果和……螺栓。",
+    "health": 3,
+    "id": "TTN_921",
+    "mechanics": [
+      "MAGNETIC",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "铜尾刺探鼠",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。每当本随从攻击时，获取一张\n幸运币。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Hayes",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97215,
+    "flavor": "你说的换挡，是指PRNDL吗？",
+    "id": "TTN_922",
+    "name": "换挡漂移",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "将你最左边的两张手牌洗入你的牌库。抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97318,
+    "flavor": "小蜘蛛，腿弯弯，啪嗒吸上铁水管。",
+    "health": 4,
+    "id": "TTN_923",
+    "mechanics": [
+      "MAGNETIC",
+      "STEALTH"
+    ],
+    "name": "SP-3Y3-D3R蛛型机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>潜行</b>1回合。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97352,
+    "flavor": "锋鳞，锋鬃和锋爪走进了酒馆……",
+    "health": 4,
+    "id": "TTN_924",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "锋鳞",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "卡牌的法力值消耗不能低于（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97640,
+    "flavor": "这是你的？这是我的。",
+    "health": 2,
+    "id": "TTN_925",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "卡亚矿石造物",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b><b>发现</b>一张另一职业的法力值消耗小于或等于（3）点的法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 98017,
+    "flavor": "是谁放的温室气体？",
+    "health": 5,
+    "id": "TTN_926",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "生长古树",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "text": "<b>抉择：</b>召唤三个2/2的树人；或者将你的树人变形成为5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Angelica Alieva",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98087,
+    "flavor": "无论如何，千万不要在午夜之后给你的树人浇水！",
+    "health": 4,
+    "id": "TTN_927",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "护园森灵",
+    "rarity": "RARE",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "TITANS",
+    "targetingArrowText": "使一个友方树人变形。",
+    "text": "<b>战吼：</b>将一个友方树人变形成为5/5并具有<b>嘲讽</b>的古树。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97627,
+    "flavor": "卡牌趣文更糟啦！",
+    "id": "TTN_930",
+    "name": "雪莲幼苗",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "抽一张牌。获得5点护甲值。<i>（3回合后长成。）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 98029,
+    "flavor": "他就那么戳在那……太可怕了！",
+    "health": 7,
+    "id": "TTN_931",
+    "mechanics": [
+      "CANT_ATTACK",
+      "TAUNT"
+    ],
+    "name": "威严的阿努比萨斯",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>\n无法攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98030,
+    "flavor": "缺少食物时，你就不是你了。",
+    "id": "TTN_932",
+    "name": "混乱吞噬",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "消灭一个友方随从以消灭一个敌方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97629,
+    "elite": true,
+    "flavor": "好事要成双。好事要成双。",
+    "health": 6,
+    "id": "TTN_940",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "自然守护者弗蕾亚",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>抉择：</b>复制你的手牌；或者召唤所有其他友方随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97584,
+    "flavor": "树木花开，有一盛必有一败。",
+    "id": "TTN_950",
+    "name": "林木幼苗",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "召唤两个1/1的树苗。<i>（2回合后长成）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97649,
+    "flavor": "双效合一！",
+    "id": "TTN_951",
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "自然之拥",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "抽一张<b>抉择</b>牌。<b>锻造：</b>并使其同时拥有两种效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 98265,
+    "flavor": "谁说这张牌消耗8点法力值，纯属一叶障目。",
+    "id": "TTN_954",
+    "name": "栽培",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "使你的随从获得+2/+2。在本局对战中，你每召唤一个树人，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100093,
+    "flavor": "当时的人们疯狂追逐着自然法术，但没人注意到花朵之外的泡沫即将破裂。",
+    "id": "TTN_955",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "生命缚誓者的礼物",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>随机获取2张自然法术牌；或者使你手牌中法术牌的法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Juan Calle",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 97702,
+    "elite": true,
+    "flavor": "他曾是万神殿的护卫者，在执行任务时心志幻灭，于是组建了燃烧军团，旨在扫平宇宙间的一切生命。",
+    "health": 12,
+    "id": "TTN_960",
+    "mechanics": [
+      "BATTLECRY",
+      "TITAN"
+    ],
+    "name": "灭世泰坦萨格拉斯",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n<b>战吼：</b>打开一道传送门，每回合召唤两个3/2的小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97098,
+    "flavor": "这一箭确实是星体射的。",
+    "id": "YOG_082",
+    "isMiniSet": true,
+    "name": "星体射击",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "TITANS",
+    "spellSchool": "ARCANE",
+    "text": "造成$3点伤害。你的下一个法术拥有<b>法术伤害+2</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101493,
+    "flavor": "无证上岗的“套牌名医”群体中有八成表示这张牌与雷诺·杰克逊配合极佳！",
+    "health": 3,
+    "id": "YOG_300",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "影触克瓦迪尔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>你的下一次治疗效果转而造成等量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101513,
+    "flavor": "图中描绘了洛肯连续20小时卡在钻石5的场景。",
+    "id": "YOG_301",
+    "isMiniSet": true,
+    "name": "狂乱侵蚀",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "双方英雄受到疲劳伤害，受到两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101660,
+    "flavor": "别名“→A↓→A↓”咒符。",
+    "id": "YOG_401",
+    "isMiniSet": true,
+    "name": "时间咒符",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "FEL",
+    "text": "在你的下个回合开始时，额外抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101661,
+    "flavor": "摧心可以，别摧脑子，谢谢。",
+    "health": 4,
+    "id": "YOG_402",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摧心魔",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "在本回合中你每抽一张牌，造成1点伤害。",
+    "text": "<b>战吼：</b>在本回合中你每抽一张牌，造成1点伤害。0<i>（造成0点）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101685,
+    "flavor": "禁止在狂野环境中使用。会破坏臭氧层。",
+    "health": 2,
+    "id": "YOG_403",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "空中施肥者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼，亡语：</b>召唤一个2/2的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101696,
+    "flavor": "add ecx, eax",
+    "id": "YOG_410",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "汇编阵线",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>发现</b>一张另一职业的机械牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，对所有敌人造成2点伤害。",
+    "cost": 4,
+    "dbfId": 101698,
+    "flavor": "不对！最先突破监狱的是拆迁修理工！",
+    "health": 4,
+    "id": "YOG_411",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "越狱者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，对所有敌人造成2点伤害。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100870,
+    "elite": true,
+    "flavor": "你有4，他就没4；你没4，他就真的4了。",
+    "health": 6,
+    "id": "YOG_500",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "维扎克斯将军",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>战吼：</b>获得4点护甲值。<b>亡语：</b>失去4点护甲值以再次召唤本随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100874,
+    "flavor": "“我要抱住他，缠紧他，亲切地叫他土灵乔治。”",
+    "health": 2,
+    "id": "YOG_501",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "历战无面者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "targetingArrowText": "变形成为它的复制。",
+    "text": "<b>战吼：</b>变形成为一个受伤的随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100875,
+    "flavor": "我们本打算在这里写一段某位人气主播的笑话，但因为某位设计师的严重洁癖而作罢。",
+    "id": "YOG_502",
+    "isMiniSet": true,
+    "mechanics": [
+      "FORGE"
+    ],
+    "name": "清理污染",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "对所有随从造成等同于你的护甲值的伤害。<b>锻造：</b>先获得3点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ryan Bowlin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 100887,
+    "flavor": "不！我那坚如铁石的腹肌！",
+    "id": "YOG_503",
+    "isMiniSet": true,
+    "name": "血肉诅咒",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "下个回合，敌方随从牌消耗生命值，而非法力值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100989,
+    "flavor": "“不对！我们要挖的不是这个！”",
+    "id": "YOG_505",
+    "isMiniSet": true,
+    "name": "兽性癫狂",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "使你手牌，牌库和战场上的所有随从获得+1攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100992,
+    "flavor": "虽然扭曲变形，但目前无法用于幻变模式。",
+    "health": 3,
+    "id": "YOG_506",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "扭曲的霜翼龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>亡语：</b>召唤一只属性值等同于本随从攻击力的奇美拉。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Melvin Chan",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100995,
+    "flavor": "在上古之神眼中只是“补充文件”。",
+    "id": "YOG_507",
+    "isMiniSet": true,
+    "name": "虚空经文",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张法术牌。如果你有足够的法力值使用发现的法术牌，则随机对一个敌人施放它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101003,
+    "flavor": "但愿是前一种效果。",
+    "id": "YOG_508",
+    "isMiniSet": true,
+    "name": "暮光洪流",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "选择一个角色。如果是友方角色，为其恢复#6点生命值；如果是敌方角色，对其造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101006,
+    "flavor": "谁开发，谁守护；谁污染，谁去死。",
+    "id": "YOG_509",
+    "isMiniSet": true,
+    "name": "守护者的力量",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "HOLY",
+    "text": "使一个友方随从获得+2/+2。对所有其他随从造成等同于其攻击力的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101009,
+    "flavor": "威胁等级：5！但其实好像也没有那么危险。",
+    "health": 3,
+    "id": "YOG_510",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "报警安保机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>抽一张其他随从牌。将其攻击力，生命值和法力值消耗变为5。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101012,
+    "flavor": "“抱歉啦，小黝，我在工作呢。”",
+    "id": "YOG_511",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗符文",
+    "rarity": "COMMON",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "<b>发现</b>一张武器牌。消耗3份<b>残骸</b>，使其获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 2,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101015,
+    "flavor": "谁想吃——奶——酪？",
+    "health": 4,
+    "id": "YOG_512",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "秽病行尸",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "POISONOUS"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "TITANS",
+    "text": "在你召唤一个亡灵后，使其获得<b>剧毒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101016,
+    "flavor": "还可以当作漂亮的小夜灯！",
+    "id": "YOG_513",
+    "isMiniSet": true,
+    "name": "邪恶魂笼",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 1
+    },
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "使一个友方亡灵获得+2/+2。消耗5份<b>残骸</b>，召唤一个它的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Melvin Chan",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101021,
+    "flavor": "“你是善良，邪恶，还是中立？”“我只有混乱。”",
+    "health": 1,
+    "id": "YOG_514",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "混乱触须",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机施放一个法力值消耗为（1）的法术。提升你此后的混乱触须的效果。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101029,
+    "flavor": "混沌初数尺，未有直生肢……",
+    "health": 4,
+    "id": "YOG_515",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "混沌之眼",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>获取两张1/1的混乱触须。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 101033,
+    "elite": true,
+    "flavor": "开战之前话巨多。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "YOG_516",
+    "isMiniSet": true,
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "脱困古神尤格-萨隆",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n在本随从使用一个技能后，随机施放两个法术。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101045,
+    "flavor": "这是一份脏活，但总要有人干。呃，其实吧，这种事谁都不该干。",
+    "health": 5,
+    "id": "YOG_517",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "触须宠溺者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在你的回合结束时，获取一张1/1的\n混乱触须。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "attack": 3,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，抽两张牌。",
+    "cost": 3,
+    "dbfId": 101075,
+    "flavor": "“你明明能拿得住这些卷轴！”",
+    "health": 4,
+    "id": "YOG_518",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "多事的仆从",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，抽两张牌。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 7,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101076,
+    "flavor": "辣眼的眼怪辣你的眼。",
+    "health": 4,
+    "id": "YOG_519",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "腐化残渣",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则造成7点伤害，随机分配到所有敌人身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101077,
+    "elite": true,
+    "flavor": "船长日志：2023年8月11日。卡牌趣文截稿还剩60分钟，现在是星期五的下午4点。我们的耐力和创意已经耗尽。请向我们提供搞笑乐子，谐音段子，精彩句子，或者你最爱的趣事。——设计团队",
+    "health": 5,
+    "id": "YOG_520",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "燃魂者瓦利亚",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "在一个友方亡灵死亡后，对敌方英雄造成2点伤害，并随机获取一张牧师暗影法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，使你的英雄在本回合中获得+4攻击力。",
+    "cost": 2,
+    "dbfId": 101080,
+    "flavor": "音乐萨隆里最强的金属乐手。",
+    "health": 3,
+    "id": "YOG_521",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "萨隆铁矿蹒跚者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，如果你施放过5个或以上法术，使你的英雄在本回合中获得+4攻击力。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101097,
+    "flavor": "无面者的长度越短，横截面积越大，导电能力越好。",
+    "id": "YOG_522",
+    "isMiniSet": true,
+    "name": "电流导联",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "NATURE",
+    "text": "在本回合中，你的下一个法术还会以相邻的随从为目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101099,
+    "flavor": "看到了吧，西瓜籽不能吃到肚子里。",
+    "health": 4,
+    "id": "YOG_523",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "被寄生的看守者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>获取两张1/1的混乱触须。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 101100,
+    "flavor": "青蛙当然会跳，有什么雷点吗？",
+    "health": 2,
+    "id": "YOG_524",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷电跳蛙",
+    "race": "BEAST",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>随机获取一张<b>过载</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101112,
+    "flavor": "哥们，你锻炼过吗？",
+    "health": 4,
+    "id": "YOG_525",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "FORGE"
+    ],
+    "name": "健身肌器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>使你手牌中的所有随从牌获得+1/+1。<b>锻造：</b>改为+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 101557,
+    "flavor": "“冬幕节过去几个月了，为什么你们的灯还亮着？”",
+    "id": "YOG_526",
+    "isMiniSet": true,
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "触须缠握",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "造成$3点伤害。<b>连击：</b>获取一张1/1的混乱触须。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101559,
+    "flavor": "“毁灭世界，有我一份！”",
+    "health": 4,
+    "id": "YOG_527",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "迷你灭世者",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "targetingArrowText": "造成4点伤害。",
+    "text": "<b>战吼：</b>如果你控制着其他机械，则造成4点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>在本局对战中，\n如果你施放过5个或以上法术，复原4个法力水晶。",
+    "cost": 3,
+    "dbfId": 101563,
+    "flavor": "他会腐蚀我，他不会腐蚀我，他会腐蚀我……",
+    "health": 3,
+    "id": "YOG_528",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "受污染的鞭笞者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本局对战中，\n如果你施放过5个或以上法术，复原4个法力水晶。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 101566,
+    "flavor": "只要选对牙医，就不存在禁忌！",
+    "id": "YOG_529",
+    "isMiniSet": true,
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "禁忌之果",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "消耗你所有的法力值。<b>抉择：</b>获得在本回合中的等量攻击力；或者获得双倍的护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 101841,
+    "elite": true,
+    "flavor": "颇具领袖气质。古是鼓劲的古，加是加油的加。",
+    "health": 7,
+    "id": "YOG_530",
+    "isMiniSet": true,
+    "mechanics": [
+      "LIFESTEAL",
+      "START_OF_GAME_KEYWORD",
+      "TAUNT"
+    ],
+    "name": "暮光头领古加尔",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>。<b>吸血</b>。<b>对战开始时：</b>有50%的几率用一项随机的畸变来腐蚀这局对战。",
+    "type": "MINION"
+  }
+]

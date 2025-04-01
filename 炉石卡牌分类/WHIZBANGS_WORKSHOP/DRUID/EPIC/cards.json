@@ -1,0 +1,36 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 104598,
+    "flavor": "玉莲帮每年发布的其实都是同一款产品，只是摄像功能稍有提升。",
+    "health": 1,
+    "id": "TOY_803",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "青玉展品",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>在本局对战中，你的青玉展品拥有+1/+1。将2张青玉展品洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 104617,
+    "flavor": "小小的也很可爱。",
+    "id": "TOY_805",
+    "name": "缩小术",
+    "rarity": "EPIC",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "NATURE",
+    "text": "使你牌库中随从牌的法力值消耗和攻击力减少（1）点。",
+    "type": "SPELL"
+  }
+]

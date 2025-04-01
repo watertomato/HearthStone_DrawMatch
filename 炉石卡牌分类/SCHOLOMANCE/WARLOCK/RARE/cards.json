@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59605,
+    "flavor": "今年找彩蛋的时候一定特别刺激！",
+    "health": 2,
+    "id": "SCH_147",
+    "mechanics": [
+      "DEATHRATTLE",
+      "InvisibleDeathrattle"
+    ],
+    "name": "骨网之卵",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "text": "<b>亡语：</b>召唤两只2/1的蜘蛛。如果你弃掉这张牌，触发其<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 59263,
+    "flavor": "掌握了灵魂魔法，你就能用它解决断电后的阅读灯光问题。",
+    "health": 4,
+    "id": "SCH_517",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "影光学者",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>摧毁一张你牌库中的灵魂残片，造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 59725,
+    "flavor": "“再往边上靠一点，再靠一点。”",
+    "id": "SCH_701",
+    "name": "灵魂剥离",
+    "rarity": "RARE",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$3点伤害。将两张灵魂残片洗入你的\n牌库。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "artist": "Dan Scott",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 58382,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 736,
+    "elite": true,
+    "flavor": "他是鱼人中的传奇。“姆咯啦咯咯啦呵嘎哈咯！”他们都这么说他。",
+    "health": 4,
+    "howToEarn": "集齐所有怀旧系列鱼人牌后解锁。",
+    "id": "EX1_062",
+    "mechanics": [
+      "CHARGE"
+    ],
+    "name": "老瞎眼",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "techLevel": 2,
+    "text": "<b>冲锋</b>，在战场上每有一个其他鱼人便拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 858,
+    "elite": true,
+    "faction": "ALLIANCE",
+    "flavor": "他是侏儒的领袖，无与伦比的发明家。而且他变得越来越像个领袖了；相比他只是个发明家的时候，他已经不那么经常把人变成小鸡了。",
+    "health": 6,
+    "howToEarnGolden": "所有在测试阶段参与测试商店功能的玩家都能获得此项奖励。",
+    "id": "EX1_112",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "格尔宾·梅卡托克",
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>召唤一项惊人的发明。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54839,
+    "elite": true,
+    "flavor": "小精灵龙一般是由糖、香料和无数个疯狂的副作用所组成的。",
+    "health": 2,
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_189",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光明之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>随机将一张<b>传说</b>随从牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 54840,
+    "elite": true,
+    "flavor": "没人告诉过她，其实勇士们并不想起来。",
+    "health": 7,
+    "howToEarn": "无法从卡牌包中开出，只能制作。",
+    "howToEarnGolden": "无法从卡牌包中开出，只能制作。",
+    "id": "EX1_190",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大检察官怀特迈恩",
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>召唤所有在本回合中死亡的友方\n随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 113183,
+    "elite": true,
+    "flavor": "友方伤害：已关闭",
+    "health": 8,
+    "id": "LEG_CS3_031",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "生命的缚誓者阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "targetingArrowText": "恢复8点生命值或造成8点伤害。",
+    "text": "<b>战吼：</b>选择一个角色。如果是友方角色，为其恢复8点生命值；如果是敌方角色，对其造成8点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "countAsCopyOfDbfId": 66866,
+    "dbfId": 120581,
+    "elite": true,
+    "flavor": "快给她上dot，快上，再上，都给我上！",
+    "health": 8,
+    "id": "LEG_CS3_032",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙巢之母奥妮克希亚",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "在每个回合结束时，用1/1的雏龙填满你的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 113184,
+    "elite": true,
+    "flavor": "快！快！快把这个梦写下来，一会就全忘了！",
+    "health": 12,
+    "id": "LEG_CS3_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "沉睡者伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>将每种\n梦境牌各一张置\n入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "countAsCopyOfDbfId": 66869,
+    "dbfId": 120580,
+    "elite": true,
+    "flavor": "多年之后，玛里苟斯决定允许凡人使用魔法。想用吗？那就全都给你！",
+    "health": 12,
+    "id": "LEG_CS3_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "织法者玛里苟斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>\n抽取法术牌直到达到你的手牌上限。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 66872,
+    "dbfId": 120579,
+    "elite": true,
+    "flavor": "“他是死亡之翼？那个也是死亡之翼？你也是死亡之翼！？我才是死亡之翼！这里到底有多少死亡之翼？”",
+    "health": 12,
+    "id": "LEG_CS3_036",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灭世者死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>消灭所有其他随从。每消灭一个随从，便弃一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 1754,
+    "elite": true,
+    "flavor": "他正在物色一名鼓手。目前的候选人包括：工程师学徒，森金持盾卫士，还有炎魔之王拉格纳罗斯。",
+    "health": 5,
+    "howToEarnGolden": "2013年暴雪嘉年华参与奖励。",
+    "id": "PRO_001",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "精英牛头人酋长",
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>让两位玩家都具有摇滚的能力！（双方各获得一张强力和弦牌）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 109169,
+    "elite": true,
+    "flavor": "着陆动作极为暴力。",
+    "health": 2,
+    "id": "TOY_100",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "侏儒飞行员诺莉亚",
+    "rarity": "LEGENDARY",
+    "set": "LEGACY",
+    "text": "<b>突袭</b>。同时对其攻击目标相邻的随从造成伤害。<b>亡语：</b>对所有敌人造成2点伤害。",
+    "type": "MINION"
+  }
+]

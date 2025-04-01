@@ -1,0 +1,63 @@
+[
+  {
+    "artist": "Luke Mancini",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55262,
+    "flavor": "一个随从，两个随从……树个随从！",
+    "id": "DRG_051",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "人多势众",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n消耗10点法力值用于随从牌上。<b>奖励：</b>从你的牌库中召唤一个随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 55038,
+    "flavor": "投之以花盆，爆之以树人。",
+    "health": 1,
+    "id": "DRG_312",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盆栽投手",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤一个2/2的树人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55037,
+    "flavor": "再来一条，那就是双截龙啦！",
+    "health": 8,
+    "id": "DRG_313",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "TAUNT"
+    ],
+    "name": "翡翠龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>嘲讽</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  }
+]

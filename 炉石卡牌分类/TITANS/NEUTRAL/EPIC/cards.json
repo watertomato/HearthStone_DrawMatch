@@ -1,0 +1,130 @@
+[
+  {
+    "artist": "Luca Zontini",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97099,
+    "flavor": "你好像脱水了，喝点水吧！来啊！喝啊！喝啊！喝啊！喝啊！",
+    "health": 8,
+    "id": "TTN_083",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "霍迪尔之子",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>将四张抽到时召唤的8/8的巨人洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Forrest Imel",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97726,
+    "flavor": "风暴巨人，冰霜巨人，熔核巨人……我想要的是晴天巨人和阳光巨人！",
+    "health": 8,
+    "howToEarnGolden": "可以在<i>泰坦诸神</i>奖励路线中获得该奖励。",
+    "id": "TTN_724",
+    "mechanics": [
+      "FORGE",
+      "TAUNT"
+    ],
+    "name": "风暴巨人",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>嘲讽</b>。<b>锻造：</b>法力值消耗减少（2）点。可以被无限<b>锻造</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98182,
+    "flavor": "找一个机甲鹦鹉，再找个机甲瑞文，机械阵容就成型了！",
+    "health": 2,
+    "howToEarnGolden": "购买<i>泰坦诸神</i>炉石通行证后开放解锁。",
+    "id": "TTN_734",
+    "mechanics": [
+      "DEATHRATTLE",
+      "MAGNETIC"
+    ],
+    "name": "机甲跳蛙",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>磁力</b>。<b>亡语：</b>使一个友方机械获得+2/+2以及此<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 98104,
+    "flavor": "“这剪子是怎么回事？！线都剪不断！！”",
+    "health": 3,
+    "id": "TTN_859",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "命运切分者",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>亡语：</b>获取你对手使用的上一张牌的一张复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97352,
+    "flavor": "锋鳞，锋鬃和锋爪走进了酒馆……",
+    "health": 4,
+    "id": "TTN_924",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "锋鳞",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "卡牌的法力值消耗不能低于（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 101029,
+    "flavor": "混沌初数尺，未有直生肢……",
+    "health": 4,
+    "id": "YOG_515",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "混沌之眼",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>获取两张1/1的混乱触须。",
+    "type": "MINION"
+  }
+]

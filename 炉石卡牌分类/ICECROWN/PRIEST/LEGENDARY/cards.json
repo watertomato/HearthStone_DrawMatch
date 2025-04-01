@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 42633,
+    "elite": true,
+    "flavor": "他开设的宗教裁判所成为很多人的梦魇。",
+    "health": 6,
+    "id": "ICC_215",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大主教本尼迪塔斯",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>复制你对手的牌库，并洗入你的\n牌库。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Wayne Reynolds",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 43408,
+    "elite": true,
+    "flavor": "“有一件事维伦从没教过我，我现在来告诉你：站在圣光面前的人……必将投下暗影。”",
+    "health": 30,
+    "heroPowerDbfId": 45397,
+    "id": "ICC_830",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影收割者安度因",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>消灭所有攻击力大于或等于5的随从。",
+    "type": "HERO"
+  }
+]

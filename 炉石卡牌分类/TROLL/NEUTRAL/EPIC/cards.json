@@ -1,0 +1,189 @@
+[
+  {
+    "artist": "E. Kenji & M. Azevedo",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50491,
+    "flavor": "只消挠挠肚子即可。",
+    "health": 4,
+    "id": "TRL_405",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "狂野兽王",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "每当你抽到一张野兽牌时，使其获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Izzy Hoover",
+    "attack": 0,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 50396,
+    "flavor": "供品限时特惠，一次献祭，双倍祝福（受益人仅限祭品本人）！",
+    "health": 2,
+    "id": "TRL_516",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "古拉巴什供品",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "在你的回合开始时，消灭本随从，并获得\n8点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cicily He",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50414,
+    "flavor": "这是<i>幻象</i>，玛拉卡斯！你在掩饰什么？",
+    "health": 4,
+    "id": "TRL_527",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "达卡莱幻术师",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "<b>战吼：</b>使每个玩家各随机获得一张对方牌库中的卡牌的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 50416,
+    "flavor": "哇喔，多么漂亮的一记挥杆！",
+    "health": 10,
+    "id": "TRL_528",
+    "mechanics": [
+      "OVERKILL"
+    ],
+    "name": "阵线破坏者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "<b>超杀：</b>本随从的攻击力翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Ormandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 50421,
+    "flavor": "早在神秘挑战者还是神秘侍从的时候，他们就是老相识了。",
+    "health": 4,
+    "id": "TRL_530",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蒙面选手",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "TROLL",
+    "text": "<b>战吼：</b>\n如果你控制一个<b>奥秘</b>，则从你的牌库中施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steve Prescott",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50430,
+    "flavor": "“我觉得可以。”“我觉得不行。”",
+    "health": 5,
+    "id": "TRL_532",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "莫什奥格播报员",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "攻击本随从的敌人有50%几率攻击其他角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 50434,
+    "flavor": "我说冰淇淋你说要！冰法冰箱来一套！",
+    "health": 5,
+    "id": "TRL_533",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰淇淋小贩",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "TROLL",
+    "text": "<b>战吼：</b>如果你控制一个被<b>冻结</b>的随从，便获得8点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 50437,
+    "flavor": "不不不，那个<i>小龟</i>才是盾卫。",
+    "health": 8,
+    "id": "TRL_535",
+    "mechanics": [
+      "ADJACENT_BUFF",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "钳嘴龟盾卫",
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "text": "每当相邻的随从受到伤害，改为由本随从承担。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 51816,
+    "flavor": "重要赛事前总要有人暖场。",
+    "health": 4,
+    "id": "TRL_569",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "看台喷火龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "TROLL",
+    "targetingArrowText": "对一个敌方随从\n造成7点伤害。",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，则对一个敌方随从造成7点伤害。",
+    "type": "MINION"
+  }
+]

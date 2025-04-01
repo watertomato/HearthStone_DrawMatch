@@ -1,0 +1,44 @@
+[
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 46721,
+    "elite": true,
+    "flavor": "要什么窗户？巨塔大炮才是男人的浪漫！",
+    "health": 8,
+    "id": "GIL_152",
+    "mechanics": [
+      "CANT_ATTACK",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "黑嚎炮塔",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "无法攻击。每当本随从受到伤害时，随机对一个敌人造成3点\n伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47053,
+    "elite": true,
+    "flavor": "要么以恶人之名死去，要么活下来直到你变成一个英雄。",
+    "health": 5,
+    "id": "GIL_547",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "达利乌斯·克罗雷",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>突袭</b>\n在克罗雷攻击并消灭一个随从后，获得+2/+2。",
+    "type": "MINION"
+  }
+]

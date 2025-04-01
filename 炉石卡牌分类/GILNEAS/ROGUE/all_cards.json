@@ -1,0 +1,212 @@
+[
+  {
+    "artist": "Rock Niu",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46897,
+    "flavor": "虽然有些卑鄙，但造成的伤害可不打折！",
+    "id": "GIL_506",
+    "mechanics": [
+      "ECHO"
+    ],
+    "name": "偷袭",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>回响</b>\n对一个随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phil Saunders",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46908,
+    "flavor": "找呀找呀找朋友，找到一个……<b>什么鬼</b>。",
+    "health": 5,
+    "id": "GIL_510",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迷雾幽灵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ECHO"
+    ],
+    "set": "GILNEAS",
+    "text": "每当你使用一张<b>回响</b>牌时，获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler West Studio",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 47071,
+    "flavor": "她本是一名船难者……直到她找到一个被诅咒的排球。",
+    "health": 3,
+    "id": "GIL_557",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "被诅咒的海盗",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "COMBO"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>突袭，亡语：</b>\n从你的牌库中抽一张<b>连击</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 47211,
+    "elite": true,
+    "flavor": "忘记出牌历史就意味着重蹈失败的覆辙。",
+    "health": 6,
+    "id": "GIL_598",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "苔丝·格雷迈恩",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>重新使用在本局对战中你所使用过的另一职业的卡牌<i>（目标随机而定）</i>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nutchapol Thitinunthakorn",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47594,
+    "durability": 0,
+    "flavor": "在一款名叫《水果幽灵》的游戏里可是收费道具！",
+    "health": 2,
+    "id": "GIL_672",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "幽灵弯刀",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>吸血</b>\n每当你使用一张另一职业的卡牌时，获得+1耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 47599,
+    "elite": true,
+    "flavor": "“我想用玛法里奥换你的安度因。”",
+    "health": 2,
+    "id": "GIL_677",
+    "mechanics": [
+      "BATTLECRY",
+      "ECHO"
+    ],
+    "name": "面具收集者",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "<b>回响，战吼：</b>随机将一张<b>传说</b>随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47625,
+    "flavor": "重金悬赏：无论死不死。",
+    "id": "GIL_687",
+    "name": "通缉令",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "对一个随从造成$3点伤害。如果消灭该随从，将一张幸运币置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 47799,
+    "flavor": "因为他的腰弯不下这么低，所以侏儒们的钱包幸免于难。",
+    "id": "GIL_696",
+    "mechanics": [
+      "ECHO"
+    ],
+    "name": "搜索",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>回响</b>\n随机将一张<i>（你对手职业的）</i>卡牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48199,
+    "flavor": "狐狸到底怎么叫？",
+    "health": 3,
+    "id": "GIL_827",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "闪狐",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>随机将一张<i>（你对手职业的）</i>卡牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48585,
+    "flavor": "他生前表演吞剑刺破了喉咙。",
+    "health": 4,
+    "id": "GIL_902",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "刺喉海盗",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>连击：</b>使你的武器获得+1攻击力。",
+    "type": "MINION"
+  }
+]

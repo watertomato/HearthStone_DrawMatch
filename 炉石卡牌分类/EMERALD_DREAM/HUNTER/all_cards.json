@@ -1,0 +1,219 @@
+[
+  {
+    "artist": "Jason Kang",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 113371,
+    "flavor": "至少卡牌边框是茏葱的绿色。",
+    "health": 7,
+    "id": "EDR_014",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "茏葱梦刃豹",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>如果本牌的法力值消耗小于或等于（3）点，随机攻击两个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114018,
+    "flavor": "“你好呀小家伙！多吃点绿色食品吧，对身体好哦！”",
+    "health": 2,
+    "id": "EDR_226",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奇异训犬师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>\n抽一张野兽牌。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114020,
+    "flavor": "所谓物以类聚，那么幽爪熊该和谁一起冬眠？",
+    "health": 2,
+    "id": "EDR_227",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "幽爪熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>突袭</b>。<b>亡语：</b><b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Danny Beck",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 115052,
+    "flavor": "看准了再跳。",
+    "id": "EDR_261",
+    "name": "两栖之灵",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "使一个随从获得+2/+2和“<b>亡语：</b>使一个友方随从获得+2/+2以及此<b>亡语</b>。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & T. Shevtsov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 115055,
+    "flavor": "我是绑的。灵魂·绑的。",
+    "id": "EDR_262",
+    "name": "灵魂联结",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$3点伤害。如果消灭该随从，召唤一只3/2并具有<b>突袭</b>的狼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115058,
+    "flavor": "好好看，好好学！",
+    "id": "EDR_263",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "巨狼的恩赐",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>对敌方英雄造成$4点伤害；或者召唤两只3/2并具有<b>突袭</b>的狼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 113568,
+    "durability": 0,
+    "flavor": "催眠专家推荐神器。",
+    "health": 2,
+    "id": "EDR_416",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "牧人之杖",
+    "rarity": "RARE",
+    "set": "EMERALD_DREAM",
+    "text": "在你的英雄\n攻击后，召唤一只3/3并<b>休眠</b>2回合的羊。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 9,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 114254,
+    "elite": true,
+    "flavor": "以勇猛果决而闻名于世，且拥有的名号众多，其中包括洛戈什，还有巨狼。",
+    "health": 9,
+    "id": "EDR_480",
+    "mechanics": [
+      "AURA",
+      "RUSH"
+    ],
+    "name": "戈德林",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "<b>突袭</b>。友方野兽造成的伤害翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114298,
+    "flavor": "眼见为实：这确实是符文熊。",
+    "health": 4,
+    "id": "EDR_481",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "神秘符文熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果本随从的攻击力大于或等于4点，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 114857,
+    "elite": true,
+    "flavor": "只有名字叫部落。",
+    "health": 5,
+    "id": "EDR_853",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "布罗尔·熊皮",
+    "rarity": "LEGENDARY",
+    "set": "EMERALD_DREAM",
+    "text": "在你施放一个法术后，随机召唤一个动物伙伴。",
+    "type": "MINION"
+  }
+]

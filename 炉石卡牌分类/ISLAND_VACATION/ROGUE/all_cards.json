@@ -1,0 +1,255 @@
+[
+  {
+    "artist": "Vlad Botos",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107753,
+    "durability": 0,
+    "flavor": "对沙钱也有反应，奇怪。",
+    "health": 2,
+    "id": "VAC_330",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "金属探测器",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "在你的英雄攻击\n并消灭一个随从后，获取一张幸运币。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107757,
+    "flavor": "海产摊贩海滩贩海产。",
+    "health": 2,
+    "id": "VAC_332",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "海滩导购",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>你使用的下一张另一职业的牌法力值消耗减少（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 107759,
+    "flavor": "蓄是储蓄的蓄！听起来是不是正式多了？",
+    "health": 4,
+    "id": "VAC_333",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蓄谋诈骗犯",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>再次使用你使用过的上一张另一职业的牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 107762,
+    "flavor": "在一处温暖而舒适的地洞里，有一个……游客陷阱？",
+    "health": 4,
+    "howToEarnGolden": "可以在<i>胜地历险记</i>奖励路线中获得该奖励。",
+    "id": "VAC_334",
+    "name": "小玩物小屋",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "抽一张牌。如果你在本回合中使用抽到的这张牌，重新开启本地标。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 107763,
+    "flavor": "海盗酒店的客房服务真的会把你的房间扫得干干净净。",
+    "id": "VAC_335",
+    "name": "小偷小摸",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "随机获取两张其他职业的法力值消耗为（1）的法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 107764,
+    "elite": true,
+    "flavor": "带走我的面具，留下<i>你的</i>笑容。",
+    "health": 5,
+    "id": "VAC_336",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "面具变装大师",
+    "rarity": "LEGENDARY",
+    "set": "ISLAND_VACATION",
+    "text": "<b>术士游客</b>\n<b><b>战吼：</b>发现</b>一张来自过去的<i>（另一职业的）</i>英雄牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 109324,
+    "flavor": "“我要找你们的海军上将！”",
+    "id": "VAC_460",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "把经理叫来！",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "造成$2点伤害。<b>连击：</b>获取一张幸运币。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 109463,
+    "elite": true,
+    "flavor": "追猎财宝能有多难？你打它一枪它都不会跑！",
+    "health": 5,
+    "id": "VAC_464",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "财宝猎人尤朵拉",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DISCOVER",
+      "SIDE_QUEST"
+    ],
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>开启一项使用3张其他职业的牌即可完成的<b>支线任务</b>，<b>发现</b>神奇的战利品！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 106681,
+    "flavor": "夺者多夺，多夺多得。强者强抢，强抢者强。",
+    "id": "VAC_700",
+    "name": "横夺硬抢",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "随机消灭两个敌方随从。你每使用过一张另一职业的卡牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106675,
+    "flavor": "众所周知，会发光的剑更厉害！",
+    "health": 3,
+    "id": "VAC_701",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "刀剑保养师",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>将你的武器的攻击力和耐久度变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110754,
+    "flavor": "侏儒的监控设备虽然不够精细，但胜在结实。",
+    "id": "WORK_004",
+    "isMiniSet": true,
+    "name": "旅社谍战",
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "将每个其他职业的各一张牌洗入你的牌库，其法力值消耗为（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 110756,
+    "flavor": "最近的安检好奇怪。新规定说了，安检不需要脱鞋，摘头盔，连匕首都能带着！",
+    "id": "WORK_005",
+    "isMiniSet": true,
+    "name": "快刀快递",
+    "rarity": "COMMON",
+    "set": "ISLAND_VACATION",
+    "text": "使你的武器获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Stefan Bogdasarov",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 110757,
+    "flavor": "我像你这个年纪的时候，拨号机器人还得自己拨自己！",
+    "health": 2,
+    "id": "WORK_006",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "拨号机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>抽取法力值消耗为{0}，{1}和{2}的牌各一张。<i>（每回合随机拨号！）</i>",
+    "type": "MINION"
+  }
+]

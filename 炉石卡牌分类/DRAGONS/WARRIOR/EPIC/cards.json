@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55000,
+    "flavor": "废了！全废了！",
+    "health": 2,
+    "id": "DRG_019",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH"
+    ],
+    "name": "废墟之子",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "<b>突袭</b>\n<b>战吼：</b>如果你已经<b>祈求</b>过两次，召唤本随从的两个复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 55003,
+    "flavor": "她的保费不断上浮。",
+    "id": "DRG_022",
+    "name": "横冲直撞",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "迫使一个随从攻击相邻的一个\n随从。",
+    "type": "SPELL"
+  }
+]

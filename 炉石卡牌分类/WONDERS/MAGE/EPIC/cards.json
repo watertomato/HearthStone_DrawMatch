@@ -1,0 +1,34 @@
+[
+  {
+    "artist": "Milivoj Ceran",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102562,
+    "flavor": "秘法宝典？说不定里面有制作魔法点心的食谱……",
+    "id": "WON_037",
+    "name": "秘法宝典",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "spellSchool": "ARCANE",
+    "text": "随机获取3张法师法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102567,
+    "flavor": "最后一舞，一定要留给这一支。",
+    "id": "WON_040",
+    "name": "时光之末迪斯科",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WONDERS",
+    "text": "随机施放5个来自过去的<b>奥秘</b>。在你的回合开始时，摧毁这些奥秘。",
+    "type": "SPELL"
+  }
+]

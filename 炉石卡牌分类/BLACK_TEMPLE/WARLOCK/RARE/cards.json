@@ -1,0 +1,65 @@
+[
+  {
+    "artist": "Paul Mafayon",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56511,
+    "flavor": "有人说它是艾泽拉斯最大的祸根——除了那些侏儒。",
+    "id": "BT_302",
+    "name": "黑暗之门",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "抽一张随从牌。如果你拥有至少八张手牌，则使其法力值消耗减少（5）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 56516,
+    "flavor": "这张照片拍摄的其实是街对面的球形门把手上反射出的形象。",
+    "health": 7,
+    "id": "BT_304",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "改进型恐惧魔王",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽，亡语：</b>召唤一个5/5并具有<b>吸血</b>的恐惧魔王。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56519,
+    "flavor": "铁鬼截铁轨，铁贵携铁归。",
+    "health": 3,
+    "id": "BT_305",
+    "name": "被禁锢的拾荒小鬼",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>2回合。唤醒时，使你手牌中的所有随从牌获得+2/+2。",
+    "type": "MINION"
+  }
+]

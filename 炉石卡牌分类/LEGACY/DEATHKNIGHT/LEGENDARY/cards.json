@@ -1,0 +1,88 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 113199,
+    "elite": true,
+    "flavor": "这张牌太强了，可能得打个补丁。",
+    "health": 6,
+    "id": "LEG_RLK_071",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "帕奇维克",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>随机消灭你对手手牌，牌库和战场上的各一个随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 9,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 113201,
+    "elite": true,
+    "flavor": "太冷了，玛洛加尔领主都病了。疯尸病。",
+    "health": 7,
+    "id": "LEG_RLK_085",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛洛加尔领主",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "runeCost": {
+      "blood": 0,
+      "frost": 0,
+      "unholy": 3
+    },
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>将你的所有<b>残骸</b>复活为1/1并具有<b>突袭</b>的复活的傀儡。每有一个放不下的傀儡，使一个傀儡获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 3,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 113198,
+    "elite": true,
+    "flavor": "你的冰霜法术会冻吗？",
+    "health": 6,
+    "id": "LEG_RLK_224",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "监督者弗里吉达拉",
+    "rarity": "LEGENDARY",
+    "runeCost": {
+      "blood": 0,
+      "frost": 2,
+      "unholy": 0
+    },
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>抽两张法术牌。如果两张都是冰霜法术牌，对所有敌人造成2点伤害。",
+    "type": "MINION"
+  }
+]

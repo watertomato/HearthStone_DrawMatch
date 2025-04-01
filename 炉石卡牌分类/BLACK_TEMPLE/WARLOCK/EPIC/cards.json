@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Wayne Wu",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 56520,
+    "flavor": "为什么外域的人都喜欢换手？！",
+    "id": "BT_306",
+    "name": "暗影议会",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "spellSchool": "FEL",
+    "text": "随机将你的手牌替换成恶魔牌，并使它们获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56523,
+    "flavor": "他的巨眼在黑暗中闪耀，视线却如同水晶一般清澈！",
+    "health": 4,
+    "id": "BT_307",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "黑眼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>如果你的英雄在本回合受到过伤害，复原3个法力水晶。",
+    "type": "MINION"
+  }
+]

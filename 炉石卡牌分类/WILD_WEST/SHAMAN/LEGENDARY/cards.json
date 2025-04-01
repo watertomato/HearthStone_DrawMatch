@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Juan Calle",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 99961,
+    "elite": true,
+    "flavor": "如果说还有什么能治愈荒芜之地的话，那一定是青蛙之力！",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "WW_010",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "荷利戴医生",
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>如果你的套牌里没有相同的牌，装备九蛙魔杖。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 100288,
+    "elite": true,
+    "flavor": "这可不是在卡拉赞了，雷诺。",
+    "health": 7,
+    "id": "WW_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灾变飓风斯卡尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>对所有敌人造成1点伤害<i>（每有一个你使用过元素牌的连续的回合，伤害都会提升）</i>。",
+    "type": "MINION"
+  }
+]

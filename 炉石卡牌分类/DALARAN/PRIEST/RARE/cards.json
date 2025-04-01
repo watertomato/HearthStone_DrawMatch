@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 51714,
+    "flavor": "有人模仿我的脸，还有人模仿我的面。",
+    "health": 6,
+    "id": "DAL_039",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "无面渗透者",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "<b>嘲讽</b>\n<b>亡语：</b>随机消灭一个敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Axer",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 52632,
+    "flavor": "请在阅读此条文本前确认您是否已满18周岁。",
+    "id": "DAL_723",
+    "name": "禁忌咒文",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "spellSchool": "SHADOW",
+    "text": "消耗你所有的法力值。消灭一个攻击力小于或等于所消耗法力值的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 52633,
+    "flavor": "“英雄……随从不朽！”",
+    "id": "DAL_724",
+    "name": "群体复活",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "spellSchool": "HOLY",
+    "text": "召唤三个在本局对战中死亡的友方随从。",
+    "type": "SPELL"
+  }
+]

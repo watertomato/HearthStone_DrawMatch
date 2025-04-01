@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1927,
+    "flavor": "把某个法术称作为烈焰轰击并不能把它从根本上与其他地精装置的效果区别开来。",
+    "id": "GVG_001",
+    "name": "烈焰轰击",
+    "rarity": "COMMON",
+    "set": "GVG",
+    "spellSchool": "FIRE",
+    "text": "随机对一个敌方随从造成\n$4点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 1928,
+    "flavor": "在夏天，它依然有一份很体面的工作：制作刨冰。",
+    "health": 3,
+    "id": "GVG_002",
+    "mechanics": [
+      "FREEZE"
+    ],
+    "name": "碎雪机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "COMMON",
+    "set": "GVG",
+    "text": "<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  }
+]

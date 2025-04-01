@@ -1,0 +1,124 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 65699,
+    "flavor": "卡牌名限制卡牌设计空间的实例。",
+    "health": 8,
+    "id": "DED_521",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "最疯狂的爆破者",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>造成12点伤害，随机分配到所有其他角色身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64717,
+    "flavor": "她这里的利率是0%。",
+    "health": 3,
+    "id": "SW_069",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "热情的柜员",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "在你的回合结束时，储存一张你牌库中的牌。<b>亡语：</b>将储存的牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64721,
+    "flavor": "军情七处指定合作商，拥有丰富的间谍芝士。",
+    "health": 6,
+    "id": "SW_073",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "奶酪商贩",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "每当你的对手施放一个法术，随机将一张法力值消耗相同的法术牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64722,
+    "flavor": "“我是人族，你呢？”\n“贵族。”",
+    "health": 3,
+    "id": "SW_074",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "贵族",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n制作你的一张随机手牌的金色复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64723,
+    "flavor": "集齐七笼猪，就能实现愿望。",
+    "health": 1,
+    "howToEarnGolden": "完成成就“斯人已逝”后解锁。",
+    "id": "SW_075",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "艾尔文野猪",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>亡语：</b>在本局对战中如果有7只你的艾尔文野猪死亡，装备一把15/3的锯齿符文剑。0<i>（0/7）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Yewon Park",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64725,
+    "flavor": "她因撬锁而被捕。现在这种羁押方式似乎有些欠考虑。",
+    "health": 4,
+    "id": "SW_077",
+    "name": "监狱囚徒",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "起始<b>休眠</b>状态。在你使用三张牌后唤醒。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "artist": "Chris Seaman",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41151,
+    "flavor": "火可以带来光明，也可以毁掉一切。",
+    "id": "UNG_018",
+    "name": "烈焰喷涌",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "spellSchool": "FIRE",
+    "text": "造成$2点伤害。\n将一张1/2的元素牌置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41153,
+    "flavor": "你抽到什么了？嘘…那是个秘密。",
+    "health": 3,
+    "id": "UNG_020",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "秘法学家",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>抽一张<b>奥秘</b>牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41927,
+    "flavor": "他最讨厌被肯瑞托的法师拿来当派对的灯光特效。",
+    "health": 2,
+    "id": "UNG_846",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "活体风暴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>随机将一张法师法术牌置入你的\n手牌。",
+    "type": "MINION"
+  }
+]

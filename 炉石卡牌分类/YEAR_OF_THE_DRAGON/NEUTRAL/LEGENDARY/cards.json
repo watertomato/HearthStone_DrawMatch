@@ -1,0 +1,51 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56135,
+    "elite": true,
+    "flavor": "拉法姆手下备受尊重的人力资源部门主管，不过团队成员都不是<i>人</i>。",
+    "health": 3,
+    "id": "YOD_035",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "高级跟班厄尔克",
+    "rarity": "LEGENDARY",
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "在你使用一张<b>跟班</b>牌后，将一张<b>跟班</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56307,
+    "elite": true,
+    "flavor": "他的下一个目标是天空元帅。",
+    "health": 3,
+    "id": "YOD_038",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "天空上将库拉格",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "QUEST",
+      "RUSH"
+    ],
+    "set": "YEAR_OF_THE_DRAGON",
+    "text": "<b>嘲讽，战吼：</b>如果你在本局对战中使用过<b>任务</b>，则召唤一只4/2并具有<b>突袭</b>的鹦鹉。",
+    "type": "MINION"
+  }
+]

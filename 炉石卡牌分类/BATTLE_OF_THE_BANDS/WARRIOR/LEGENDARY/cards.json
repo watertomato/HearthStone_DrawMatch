@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 94248,
+    "elite": true,
+    "flavor": "当场烤焦多位观众之后，沃恩的队伍重心不全在龙身上了。",
+    "health": 3,
+    "id": "ETC_121",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摇滚教父沃恩",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>复制你手牌中每个不同类型的随从牌各一张。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 90678,
+    "elite": true,
+    "flavor": "黑石山的山呢？删了。",
+    "id": "ETC_417",
+    "name": "黑石摇滚",
+    "rarity": "LEGENDARY",
+    "set": "BATTLE_OF_THE_BANDS",
+    "spellSchool": "FIRE",
+    "text": "使你牌库中的所有随从牌获得等同于其法力值消耗的攻击力和生命值。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 114018,
+    "flavor": "“你好呀小家伙！多吃点绿色食品吧，对身体好哦！”",
+    "health": 2,
+    "id": "EDR_226",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奇异训犬师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>\n抽一张野兽牌。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 115058,
+    "flavor": "好好看，好好学！",
+    "id": "EDR_263",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "巨狼的恩赐",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>抉择：</b>对敌方英雄造成$4点伤害；或者召唤两只3/2并具有<b>突袭</b>的狼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Edgar Hidalgo",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 114298,
+    "flavor": "眼见为实：这确实是符文熊。",
+    "health": 4,
+    "id": "EDR_481",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "神秘符文熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "EMERALD_DREAM",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果本随从的攻击力大于或等于4点，召唤一个它的复制。",
+    "type": "MINION"
+  }
+]

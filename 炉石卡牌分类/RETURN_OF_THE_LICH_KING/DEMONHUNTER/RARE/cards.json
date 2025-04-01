@@ -1,0 +1,117 @@
+[
+  {
+    "artist": "Ishmael Hoover",
+    "attack": 1,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 86671,
+    "durability": 0,
+    "flavor": "克尔苏加德专属指尖陀螺。",
+    "health": 2,
+    "id": "NX2_025",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "灾难之握",
+    "rarity": "RARE",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>亡语：</b>随机将一张<b>流放</b>牌置入你的\n手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "collectionText": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，从你的牌库中召唤一个不同的恶魔。",
+    "cost": 6,
+    "dbfId": 86672,
+    "flavor": "它是恶魔，是纳迦，却不是龙？",
+    "health": 7,
+    "id": "NX2_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪鳞唤醒师",
+    "race": "DEMON",
+    "races": [
+      "DEMON",
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过三个法术，从你的牌库中召唤一个不同的恶魔。@<i>（还剩{0}个！）</i>@<i>（已经就绪！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84235,
+    "flavor": "不是，你为什么要先把邪能吃进去呢？",
+    "id": "RLK_209",
+    "mechanics": [
+      "MANATHIRST"
+    ],
+    "name": "释放邪能",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FEL",
+    "text": "对所有敌人造成$1点伤害。<b>法力渴求（6）：</b><b>吸血</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Dez Bencosme",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 84240,
+    "flavor": "行吧，三个邪犬——不许再还价。",
+    "id": "RLK_211",
+    "name": "魔鬼交易",
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "FEL",
+    "text": "召唤两个3/3并具有<b>吸血</b>的邪能邪犬。如果你的牌库中没有随从牌，再召唤两个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 5,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 84244,
+    "flavor": "不是谁都打不过，而是谁都打不过！",
+    "health": 5,
+    "id": "RLK_213",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "复仇重击者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "OUTCAST"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>。在本局对战中，你每使用过一张<b>流放</b>牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  }
+]

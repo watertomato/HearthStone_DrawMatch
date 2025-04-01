@@ -1,0 +1,262 @@
+[
+  {
+    "armor": 5,
+    "artist": "James Ryman",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 67048,
+    "elite": true,
+    "flavor": "泽瑞拉以为自己只是在拯救女儿。其实她拯救的是整个世界。",
+    "health": 30,
+    "heroPowerDbfId": 67049,
+    "id": "AV_207",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虔诚祭司泽瑞拉",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>触发本局对战中每个死亡的友方随从的<b>亡语</b>。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 67759,
+    "flavor": "恰如其分的伤害，为你带来新生。",
+    "id": "AV_315",
+    "mechanics": [
+      "HONORABLE_KILL"
+    ],
+    "name": "超脱",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "HOLY",
+    "text": "对一个随从造成$3点伤害。<b>荣誉消灭：</b>召唤该随从的一个3/3的新的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 70020,
+    "flavor": "吞噬灵魂就好比吃自助，每个地方都要拿一点。",
+    "id": "AV_324",
+    "name": "暗言术：噬",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "SHADOW",
+    "text": "选择一个随从，使其从所有其他随从处各偷取1点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 70021,
+    "flavor": "我们懂了，你是个亡灵。但你从坟头跳出来就为了说这个？那就有点过分了。",
+    "health": 7,
+    "id": "AV_325",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "不死信徒",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>对所有敌方随从造成等同于本随从攻击力的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 70022,
+    "flavor": "不许拿我的蜡烛。你来当我的蜡烛。",
+    "health": 4,
+    "id": "AV_326",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "光辉晶簇",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "在一个友方随从受到治疗后，使其获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 70024,
+    "flavor": "“你好啊杰克。”“你又回来了？”“可不是吗。”“2分钟后再见。”",
+    "health": 5,
+    "id": "AV_328",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "灵魂向导",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>抽一张神圣法术牌和一张暗影法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 70025,
+    "flavor": "我们的辅助会给你祝福。",
+    "id": "AV_329",
+    "name": "祝福",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2生命值，然后使其攻击力等同于其生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 70026,
+    "flavor": "我看起来像什么？做慈善的？",
+    "id": "AV_330",
+    "name": "纳鲁的赐福",
+    "rarity": "EPIC",
+    "set": "ALTERAC_VALLEY",
+    "spellSchool": "HOLY",
+    "text": "为所有角色恢复#3点生命值。如果有角色仍处于受伤状态，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 70027,
+    "elite": true,
+    "flavor": "“我在‘那边’交了些朋友……战场的另一边。”",
+    "health": 4,
+    "id": "AV_331",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "纳亚克·海克森",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "targetingArrowText": "夺取一个敌方随从的控制权。",
+    "text": "<b>战吼：</b>夺取一个敌方随从的控制权。<b>亡语：</b>归还控制的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Paick & K. Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72563,
+    "flavor": "某些人口中的“雷矛午睡休息室”。",
+    "howToEarnGolden": "在奥特兰克获取荣誉点数以获得该奖励。",
+    "id": "AV_664",
+    "name": "雷矛救援站",
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你的回合结束时，使你的随从获得+2生命值。持续3回合。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Samche Chen",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 71240,
+    "flavor": "数一数角上的圈纹，就能知道拉希奥的真实年龄。",
+    "id": "ONY_017",
+    "isMiniSet": true,
+    "name": "拉希奥的角",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "抽一张随从牌。如果是龙牌，则召唤两条2/1并具有<b>突袭</b>的雏龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 71252,
+    "flavor": "半身堕入虚空的虚空龙，还是半身向往光明的虚空龙——你更喜欢哪种说法？",
+    "health": 4,
+    "id": "ONY_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光腹虚空幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>如果你的手牌中有神圣法术牌和暗影法术牌，则对所有其他随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Wu",
+    "attack": 4,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 71254,
+    "elite": true,
+    "flavor": "很遗憾，米达不是米达斯，既没有手，也不能点金。",
+    "health": 6,
+    "id": "ONY_028",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "DIVINE_SHIELD",
+      "LIFESTEAL"
+    ],
+    "name": "米达，纯净圣光",
+    "rarity": "LEGENDARY",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>圣盾</b>，<b>吸血</b>，<b>亡语：</b>将一块碎片洗入你的牌库。抽到碎片时，重新召唤米达。",
+    "type": "MINION"
+  }
+]

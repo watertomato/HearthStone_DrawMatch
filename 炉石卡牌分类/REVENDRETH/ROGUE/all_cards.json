@@ -1,0 +1,250 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79607,
+    "flavor": "骗子做的伪证，还是伪证。",
+    "id": "MAW_018",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER",
+      "SECRET"
+    ],
+    "name": "伪证",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>当你的回合开始时，<b>发现</b>并施放另一职业的一个<b>奥秘</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 79608,
+    "flavor": "被害人：“你要干嘛？杀了我？”",
+    "id": "MAW_019",
+    "isMiniSet": true,
+    "name": "谋杀指控",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "选择一个随从，在另一个敌方随从死亡后将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 79612,
+    "flavor": "每分钟180行！真的太草了！",
+    "health": 4,
+    "id": "MAW_020",
+    "isMiniSet": true,
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "潦草的书记员",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "<b>突袭</b>。在本回合中你每使用过一张牌，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Chris Hayes",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 82369,
+    "flavor": "在亡者的国度修建坟场，是不是有点多余？",
+    "health": 2,
+    "id": "REV_750",
+    "name": "罪碑坟场",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "召唤一个1/1的幽灵。<i>（在本回合中每有一张其他牌被使用，拥有+1/+1！）</i>",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77148,
+    "flavor": "瓦莉拉公布了自己是个双面间谍。于是玛维承认了自己也是双面间谍。然后斯卡布斯宣布了个事：他也是双面间谍。",
+    "id": "REV_825",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "双面生意",
+    "rarity": "COMMON",
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>当你的对手消耗了其所有法力值时，抽两张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77149,
+    "flavor": "你刚才做的事情他也看见了。",
+    "health": 4,
+    "id": "REV_826",
+    "mechanics": [
+      "BATTLECRY",
+      "COMBO"
+    ],
+    "name": "私家眼线",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>从你的牌库中施放一个<b>奥秘</b>。<b>连击：</b>改为施放2个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77150,
+    "flavor": "“这就是我所说的……”“……闭嘴吧你。”",
+    "id": "REV_827",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "缠人处境",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>在你的对手施放一个法术后，召唤一只3/4并具有<b>潜行</b>的蜘蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77151,
+    "flavor": "记得检查你的衣装，但不要去翻看衣橱。",
+    "id": "REV_828",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "绑架",
+    "rarity": "EPIC",
+    "set": "REVENDRETH",
+    "text": "<b>奥秘：</b>在你的对手使用一张随从牌后，将其装入一个0/4的袋子。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 5,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 77152,
+    "elite": true,
+    "flavor": "起初大家过得都很苦，直到罪碑学会了自己走路。",
+    "health": 4,
+    "id": "REV_829",
+    "mechanics": [
+      "DEATHRATTLE",
+      "STEALTH"
+    ],
+    "name": "哈尔吉亚斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>潜行</b>。<b>亡语：</b>将哈尔吉亚斯的灵魂储存在一个友方<b>奥秘</b>中。当其被触发时，重新召唤哈尔吉亚斯。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 77556,
+    "flavor": "来到门前时，请按下暗影之门铃，并且请在进门前在暗影之门垫上擦净鞋底。",
+    "id": "REV_938",
+    "mechanics": [
+      "INFUSE"
+    ],
+    "name": "暗影之门",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "spellSchool": "SHADOW",
+    "text": "抽一张法术牌。<b>注能（2）：</b>将它的一张<b>临时</b>复制置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 77557,
+    "flavor": "德拉卡给予了对手不少骨粒。",
+    "id": "REV_939",
+    "name": "锯齿骨刺",
+    "rarity": "RARE",
+    "set": "REVENDRETH",
+    "text": "对一个随从造成$3点伤害。如果该随从死亡，在本回合中，你的下一张牌法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 77558,
+    "elite": true,
+    "flavor": "我们原本计划推出一张叫做“月亮”的潜行者传说随从牌，可有人突然跳进了取景框。",
+    "health": 4,
+    "id": "REV_940",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "通灵领主德拉卡",
+    "rarity": "LEGENDARY",
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>装备一把1/3的匕首。<i>（在本回合中你每使用一张其他牌，+1攻击力！）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 78275,
+    "flavor": "有些人会把秘密带进坟墓里。",
+    "health": 3,
+    "id": "REV_959",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐怖的掘墓者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "REVENDRETH",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，选择你的对手的一张手牌洗入其牌库。",
+    "type": "MINION"
+  }
+]

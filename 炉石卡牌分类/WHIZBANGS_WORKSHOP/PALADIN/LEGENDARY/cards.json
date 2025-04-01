@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 103634,
+    "elite": true,
+    "flavor": "“大地母亲指引着我的笔触，赐予我点睛之笔。”",
+    "health": 4,
+    "id": "TOY_812",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "皮普希·彩蹄",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>亡语：</b>随机从你的牌库中召唤<b>圣盾</b>，<b>突袭</b>和<b>嘲讽</b>随从各一个。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103635,
+    "elite": true,
+    "flavor": "安戈洛现在属于威兹班。",
+    "health": 7,
+    "id": "TOY_813",
+    "mechanics": [
+      "BATTLECRY",
+      "MINIATURIZE",
+      "TAUNT"
+    ],
+    "name": "玩具队长塔林姆",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "targetingArrowText": "将一个随从的攻击力和生命值变为与本随从相同。",
+    "text": "<b>微缩</b>\n<b>嘲讽</b>。<b>战吼：</b>将一个随从的攻击力和生命值变为与本随从相同。",
+    "type": "MINION"
+  }
+]

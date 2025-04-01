@@ -1,0 +1,43 @@
+[
+  {
+    "artist": "Patrik Bjorkstrom",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 97736,
+    "flavor": "在其对手的回合拥有+2攻击力。",
+    "id": "TTN_726",
+    "name": "焦油飞溅",
+    "rarity": "EPIC",
+    "set": "TITANS",
+    "text": "在本回合中，随从受到的伤害翻倍。造成$1点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97915,
+    "flavor": "米米尔隆早就看穿了一切：“是双胞胎！”",
+    "health": 2,
+    "id": "TTN_730",
+    "mechanics": [
+      "FORGE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "实验室构筑机",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "MAGNETIC"
+    ],
+    "set": "TITANS",
+    "text": "在你的回合结束时，召唤一个本随从的复制。<b>锻造：</b>获得<b>磁力</b>。",
+    "type": "MINION"
+  }
+]

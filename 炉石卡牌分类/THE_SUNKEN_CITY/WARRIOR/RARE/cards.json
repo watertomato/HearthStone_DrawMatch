@@ -1,0 +1,88 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 75633,
+    "flavor": "别被图中的景象骗了。1998年，厄祖玛特在笼斗中把耐普图隆扔下16英寻高的笼子，直接击穿了播报员的桌子。",
+    "id": "TID_715",
+    "isMiniSet": true,
+    "name": "巨型剧斗",
+    "rarity": "RARE",
+    "referencedTags": [
+      "COLOSSAL"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "随机将一张<b>巨型</b>随从牌置入双方玩家的手牌。你的那张法力值消耗减少（2）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 72120,
+    "flavor": "黑色，代表纳迦的愤怒之鳞！红色，象征艾萨拉的旧日之火！",
+    "health": 6,
+    "id": "TSC_917",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "黑鳞蛮兵",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>如果你装备着武器，召唤一个5/6并具有<b>突袭</b>的纳迦。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72588,
+    "flavor": "“我害怕深水区，就是因为它们。”",
+    "id": "TSC_940",
+    "name": "深海来客",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DREDGE"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "使你牌库底五张牌的法力值消耗减少（3）点，然后<b>探底</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72592,
+    "flavor": "手艺远胜他的前任，海藻铸匠。",
+    "health": 2,
+    "id": "TSC_942",
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE"
+    ],
+    "name": "黑曜石铸匠",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b><b>探底</b>。如果选中的是随从牌或武器牌，则使其获得+1/+1。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Nicola Saviori",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 96909,
+    "elite": true,
+    "flavor": "高戈奈斯统领天空与海洋，英勇无畏地运用着自然的力量，为万神殿效力。",
+    "health": 7,
+    "id": "TTN_800",
+    "mechanics": [
+      "AURA",
+      "TITAN"
+    ],
+    "name": "雷霆之神高戈奈斯",
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰坦</b>\n你每个回合使用的第一张法术牌的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97474,
+    "elite": true,
+    "flavor": "居于群山之中。",
+    "health": 4,
+    "id": "TTN_835",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风暴之王托里姆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "TITANS",
+    "text": "<b>战吼：</b>解锁你<b>过载</b>的法力水晶，抽取相同数量的牌。",
+    "type": "MINION"
+  }
+]

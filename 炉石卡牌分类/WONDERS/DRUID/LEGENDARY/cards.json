@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Oliver Chipping",
+    "attack": 9,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102530,
+    "elite": true,
+    "flavor": "玛洛恩之所以讨厌恶魔，是因为他不理解为什么这些又脏又臭的生物会长着和他一样的蹄子。",
+    "health": 7,
+    "id": "WON_011",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "玛洛恩",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>进入<b>休眠</b>状态。在2只友方野兽死亡后复活。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Velvet Engine",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 102531,
+    "elite": true,
+    "flavor": "她最喜欢别人说她像翠迪了，我保证。",
+    "health": 5,
+    "id": "WON_012",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "艾维娜",
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "你的随从牌的法力值消耗为（1）点。",
+    "type": "MINION"
+  }
+]

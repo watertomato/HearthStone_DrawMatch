@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Trent Kaniuga",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38407,
+    "flavor": "想来杯慕斯冰沙吗？稍等片刻！",
+    "id": "OG_081",
+    "name": "冰爆",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "OG",
+    "spellSchool": "FROST",
+    "text": "消灭一个被<b>冻结</b>的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38409,
+    "flavor": "暮光烈焰召唤者供能稳定，火力十足，是户外烧烤的首选之人。",
+    "health": 2,
+    "id": "OG_083",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暮光烈焰召唤者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>对所有敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mark Abadier",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38725,
+    "flavor": "无面者夜以继日不停工作，却从未得到应有的认可。",
+    "health": 5,
+    "id": "OG_207",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "无面召唤者",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>战吼：</b>随机召唤一个法力值消耗为（3）的随从。",
+    "type": "MINION"
+  }
+]

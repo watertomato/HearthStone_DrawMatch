@@ -1,0 +1,116 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 97346,
+    "flavor": "这张照片拍摄的其实是街对面的球形门把手上反射出的形象。",
+    "health": 7,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得100场对战后解锁。",
+    "id": "CORE_BT_304",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "改进型恐惧魔王",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "CORE",
+    "text": "<b>嘲讽，亡语：</b>召唤一个5/5并具有<b>吸血</b>的恐惧魔王。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyler Walpole",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69634,
+    "flavor": "你最好避免虹吸自己的灵魂，这样会造成一些很奇怪的死循环。",
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得100场对战后解锁。",
+    "id": "CORE_EX1_309",
+    "name": "灵魂虹吸",
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从，为你的英雄恢复#3点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Lucas Graciano",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111457,
+    "flavor": "召唤末日守卫有很大的风险。总得有人付出生命的代价。",
+    "health": 7,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得100场对战后解锁。",
+    "id": "CORE_EX1_310",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "末日守卫",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "<b>冲锋</b>，<b>战吼：</b>随机弃两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 95690,
+    "flavor": "他领养了三位孤儿，还有一群唯命是从的小跟班。",
+    "health": 6,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得100场对战后解锁。",
+    "id": "CORE_ICC_075",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "卑鄙的恐惧魔王",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "CORE",
+    "text": "在你的回合结束时，对所有敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 111454,
+    "flavor": "“有了你的帮助，我终于可以给这条巷子带来光明。”",
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得100场对战后解锁。",
+    "id": "CORE_SW_085",
+    "name": "暗巷契约",
+    "rarity": "RARE",
+    "set": "CORE",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的邪魔。",
+    "type": "SPELL"
+  }
+]

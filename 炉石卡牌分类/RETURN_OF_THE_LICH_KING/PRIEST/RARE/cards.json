@@ -1,0 +1,68 @@
+[
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 86624,
+    "flavor": "银月城的卫生稽查员有几句脏话要对巫妖王讲。太脏了。",
+    "id": "NX2_020",
+    "isMiniSet": true,
+    "name": "野蛮残食",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "消灭一个随从。为所有友方角色恢复生命值，数值相当于该随从的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Studio Hive",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 84132,
+    "flavor": "过去起尸都是一根骨头一根骨头慢慢来……现在有了起重机。",
+    "id": "RLK_812",
+    "name": "起尸术",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "复活一个法力值消耗小于或等于（3）点的友方随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Valeria Styajkina",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 84133,
+    "flavor": "“您好，请问您是家里的亡者吗？这边召唤您呢，就是想告知您关于您家白骨的延保事宜。”",
+    "health": 5,
+    "id": "RLK_813",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "白骨召唤者",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>复活一个在本局对战中死亡的友方亡灵。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 84206,
+    "flavor": "我们这边习惯称之为喜丧。",
+    "id": "RLK_815",
+    "name": "暗言术：丧",
+    "rarity": "RARE",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "对所有敌人造成$2点伤害。如果在你的上回合之后有友方亡灵死亡，则再造成$2点。",
+    "type": "SPELL"
+  }
+]

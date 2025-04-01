@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64375,
+    "elite": true,
+    "flavor": "终于到了最后的决战。炉石传说的最后一张牌。",
+    "id": "SW_039",
+    "name": "一决胜负",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>在一回合中抽四张牌。<b>奖励：</b>使抽到的牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 7,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 64397,
+    "elite": true,
+    "flavor": "对于一个曾经的法师来说，把火焰转化成邪火相当轻松。",
+    "health": 5,
+    "id": "SW_044",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "杰斯·织暗",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>\n施放你在本局对战中使用过的所有邪能法术<i>（尽可能以敌人为目标）</i>。",
+    "type": "MINION"
+  }
+]

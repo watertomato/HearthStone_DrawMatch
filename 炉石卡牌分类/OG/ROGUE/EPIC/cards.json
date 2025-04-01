@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38861,
+    "flavor": "克苏恩要求献上祭品，选谁好呢……死亡之翼不错！",
+    "health": 4,
+    "id": "OG_282",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "克苏恩之刃",
+    "rarity": "EPIC",
+    "set": "OG",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>消灭一个随从。你的克苏恩会获得其攻击力和生命值<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Meyers & A. Bozonnet",
+    "attack": 4,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38876,
+    "flavor": "由于学艺不精，暗影施法者所复制的随从块头都变小了。不过正好可以当玩偶收藏在橱柜里。",
+    "health": 4,
+    "id": "OG_291",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影施法者",
+    "rarity": "EPIC",
+    "set": "OG",
+    "targetingArrowText": "将一张1/1的复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一个友方随从，将它的一张1/1的复制置入你的手牌，其法力值消耗为（1）点。",
+    "type": "MINION"
+  }
+]

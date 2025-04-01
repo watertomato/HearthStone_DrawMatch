@@ -1,0 +1,213 @@
+[
+  {
+    "artist": "Jerry Mascho",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41252,
+    "flavor": "在始祖龟语里，“安戈洛”指的是“失落的世界”。",
+    "health": 2,
+    "id": "UNG_078",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "始祖龟劫掠者",
+    "rarity": "COMMON",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>随机将一张攻击力大于或等于5的随从牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41262,
+    "flavor": "这条蛇在生前吃了个大家伙。",
+    "health": 3,
+    "id": "UNG_086",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "巨型蟒蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>从你手牌中召唤一个攻击力大于或等于5的随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40971,
+    "flavor": "因为脖子长的缘故，他总爱窥探别人的家长里短。",
+    "health": 5,
+    "id": "UNG_100",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "苍绿长颈龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 40973,
+    "flavor": "他是玩三壳游戏的高手，你永远也猜不中球在哪个壳下面。",
+    "health": 3,
+    "id": "UNG_101",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "变形神龟",
+    "rarity": "RARE",
+    "referencedTags": [
+      "STEALTH",
+      "TAUNT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>抉择：</b>变形成为5/3并具有<b>潜行</b>；或者变形成为3/5并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40991,
+    "flavor": "那些能让你变大的蘑菇通常都装在标有“？”的箱子里。",
+    "id": "UNG_103",
+    "name": "生长孢子",
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "<b>进化</b>你所有的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 41081,
+    "flavor": "其实你也可以拥有大地之鳞。第一步：在泥地里打滚；第二步：等自然风干。",
+    "id": "UNG_108",
+    "name": "大地之鳞",
+    "rarity": "RARE",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "targetingArrowText": "使其获得+1/+1。",
+    "text": "使一个友方随从获得+1/+1，然后获得等同于其攻击力的\n护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41086,
+    "flavor": "一旦上了岁数，颈椎的问题就特别突出。",
+    "health": 1,
+    "id": "UNG_109",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "年迈的长颈龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n如果你的手牌中有攻击力大于或等于5的随从牌，便获得<b>进化</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Gaser",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41094,
+    "flavor": "你追我，如果你追到我，我就让你放魔法。",
+    "id": "UNG_111",
+    "name": "活体法力",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "spellSchool": "NATURE",
+    "text": "将你所有的法力水晶变成2/2的树人，当它们死亡时恢复你的法力值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41099,
+    "elite": true,
+    "flavor": "自从一脚踩出了葛拉卡盆地后，班纳布斯的跳舞生涯便宣告结束了。",
+    "id": "UNG_116",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "丛林巨兽",
+    "questReward": "UNG_116t",
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>任务：</b>召唤4个攻击力大于或等于5的随从。\n<b>奖励：</b>班纳布斯。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Chris Rahn",
+    "attack": 14,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 41954,
+    "elite": true,
+    "flavor": "历经数千年的演变后，它变成了我们现在所熟知的精灵龙。",
+    "health": 14,
+    "id": "UNG_852",
+    "mechanics": [
+      "ELUSIVE",
+      "TAUNT"
+    ],
+    "name": "泰拉图斯",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "UNGORO",
+    "text": "<b>嘲讽</b>。<b>扰魔</b>",
+    "type": "MINION"
+  }
+]

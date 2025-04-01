@@ -1,0 +1,983 @@
+[
+  {
+    "artist": "Jomaro Kindred",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111468,
+    "elite": true,
+    "flavor": "英雄技能2.0升级版，面向所有职业。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_AT_132",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "裁决者图哈特",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>以更强的英雄技能来替换你的初始英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 97112,
+    "elite": true,
+    "flavor": "设施完备，功能齐全，只缺一个水槽就能用了。等等，它背面有个水槽。",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_BOT_548",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "MAGNETIC",
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "奇利亚斯",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>磁力，圣盾，嘲讽，吸血，突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "countAsCopyOfDbfId": 55441,
+    "dbfId": 115769,
+    "elite": true,
+    "flavor": "依然能够带来生命与希望，但打起架来也毫不手软。",
+    "health": 8,
+    "id": "CORE_DRG_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "红龙女王阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则随机将两张其他龙牌置入你的手牌，其法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 111463,
+    "elite": true,
+    "flavor": "没有人比女王更渴望真正地死去。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_016",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "希尔瓦娜斯·风行者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机夺取一个敌方随从的控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabe from Penny Arcade",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 111462,
+    "elite": true,
+    "faction": "ALLIANCE",
+    "flavor": "至少他还有愤怒的小鸡。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_116",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "火车王里诺艾",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>冲锋</b>，<b>战吼：</b>\n为你的对手召唤两条1/1的雏龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69672,
+    "elite": true,
+    "flavor": "小精灵龙一般是由糖、香料和无数个疯狂的副作用所组成的。",
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_189",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "光明之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>随机将一张<b>传说</b>随从牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69673,
+    "elite": true,
+    "flavor": "没人告诉过她，其实勇士们并不想起来。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_190",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "大检察官怀特迈恩",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤所有在本回合中死亡的友方\n随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ian Ameling",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 69674,
+    "elite": true,
+    "flavor": "迦顿男爵曾经是拉格纳罗斯的首席副官，因为他实在太“火”了。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_EX1_249",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "迦顿男爵",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，对所有其他角色造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Samwise",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 1914,
+    "dbfId": 120998,
+    "elite": true,
+    "flavor": "洛欧塞布原本只是头普通的沼泽兽。从它身上的变化可见矿业和农业给自然带来了多大的破坏。",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "id": "CORE_FP1_030",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "洛欧塞布",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>下个回合敌方法术的法力值消耗增加（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69714,
+    "elite": true,
+    "flavor": "整天和三个吵吵嚷嚷打打杀杀的男人们为伍，布劳缪克丝女士总是担心自己会老得很快。",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_FP1_031",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "瑞文戴尔男爵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你的随从的<b>亡语</b>将触发两次。",
+    "type": "MINION"
+  },
+  {
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 110080,
+    "elite": true,
+    "flavor": "“庆祝开始了，都来炉火边热闹热闹吧！这一刻属于我们所有人！”——哈斯",
+    "hasDiamondSkin": true,
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "参与特殊活动以获得该奖励。",
+    "id": "CORE_GIFT_01",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哈斯·石酒",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将你的手牌替换为炉石传说史上知名的一副手牌。<i>（每局对战限一次）</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 47693,
+    "dbfId": 111686,
+    "elite": true,
+    "flavor": "“希尔瓦娜斯杀了偶的儿子，偶一定要为他报仇！”",
+    "health": 5,
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_GIL_692",
+    "mechanics": [
+      "COLLECTIONMANAGER_FILTER_MANA_EVEN",
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "吉恩·格雷迈恩",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>对战开始时：</b>如果你的套牌中只有法力值消耗为偶数的牌，你的初始英雄技能的法力值消耗变为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 111687,
+    "elite": true,
+    "flavor": "“不是我的错，月亮惹的祸。”",
+    "health": 8,
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_GIL_826",
+    "mechanics": [
+      "COLLECTIONMANAGER_FILTER_MANA_ODD",
+      "START_OF_GAME_KEYWORD"
+    ],
+    "name": "噬月者巴库",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>对战开始时：</b>如果你的套牌中只有法力值消耗为奇数的牌，升级你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Garner",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102216,
+    "elite": true,
+    "flavor": "让你见识一下他的厉害！",
+    "health": 7,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_GVG_110",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "砰砰博士",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n召唤两个1/1的砰砰机器人。<i>警告：该机器人随时可能爆炸。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 95765,
+    "elite": true,
+    "flavor": "“我将我拥有的一切——愤怒，力量，意志，和8点攻击力——全部赐予你，我精心挑选的骑士。”",
+    "health": 8,
+    "id": "CORE_ICC_314",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巫妖王",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，随机将一张<b>巫妖王</b>牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95735,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要支援兄弟。",
+    "health": 2,
+    "id": "CORE_ICC_851",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "凯雷塞斯王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（2）的牌，则使你牌库里所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95736,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要模仿兄弟。",
+    "health": 3,
+    "id": "CORE_ICC_852",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "塔达拉姆王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "变形成为一个复制。",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（3）的牌，则变形成为一个随从的3/3的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95737,
+    "elite": true,
+    "flavor": "三个王子站在一起，一个想要吃掉兄弟。",
+    "health": 4,
+    "id": "CORE_ICC_853",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦拉纳王子",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有法力值消耗为（4）的牌，则获得<b>吸血</b>和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95638,
+    "elite": true,
+    "flavor": "一定要有一位巫妖汪。",
+    "health": 2,
+    "id": "CORE_ICC_854",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "阿尔福斯",
+    "race": "BEAST",
+    "races": [
+      "UNDEAD",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>随机将一张<b>巫妖王</b>牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tyson Murphy",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 76314,
+    "elite": true,
+    "flavor": "雷诺曾四次荣获由探险者协会颁发的“年度最佳服饰奖”。",
+    "hasDiamondSkin": true,
+    "health": 6,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_011",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "雷诺·杰克逊",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则为你的英雄恢复所有生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76311,
+    "elite": true,
+    "flavor": "除了正常的官方用语外，他还精通14种鱼人方言。",
+    "health": 3,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_076",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "芬利·莫格顿爵士",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b><b>发现</b>一个新的基础英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76312,
+    "elite": true,
+    "flavor": "自从铁炉堡的国王麦格尼华丽登场后，布莱恩也想像哥哥那样出一套英雄皮肤。",
+    "health": 4,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_077",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "布莱恩·铜须",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你的<b>战吼</b>会触发\n两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 76313,
+    "elite": true,
+    "flavor": "作为团队里的绘图师，伊莉斯现在最主要的工作就是拼凑出完整的“黄金猿藏宝图”。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOE_079",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "伊莉斯·逐星",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将“黄金猿藏宝图”洗入你的牌库。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sean McNally",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76310,
+    "elite": true,
+    "flavor": "挑战她需要一面光洁的盾牌，或者自残双目。",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_LOOT_516",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "蛇发女妖佐拉",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "将一张金色复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一个友方随从。将它的金色复制置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 79780,
+    "dbfId": 118043,
+    "elite": true,
+    "flavor": "会变成“被注希尔瓦娜斯”。",
+    "health": 5,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_MAW_033",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "被告希尔瓦娜斯",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "消灭一个敌方随从。",
+    "text": "<b>战吼：</b>消灭一个敌方随从。<b>注能（7）：</b>改为夺取其控制权。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 79782,
+    "dbfId": 118044,
+    "elite": true,
+    "flavor": "典狱长曾是暗影界所有灵魂的仲裁官，是不偏不倚的正义典范。但那都只是曾经。",
+    "health": 10,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_MAW_034",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "典狱长",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "IMMUNE"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>摧毁你的牌库。本随从获得<b>免疫</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79767,
+    "dbfId": 111689,
+    "elite": true,
+    "flavor": "许多孩子都经历过叛逆期，可雷纳索尔王子的叛逆有点极端。",
+    "health": 4,
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_REV_018",
+    "name": "雷纳索尔王子",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "你的套牌容量和初始生命值为40。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "countAsCopyOfDbfId": 79934,
+    "dbfId": 118058,
+    "elite": true,
+    "flavor": "你认识凯尔萨斯吗？这也太乱了吧？",
+    "health": 7,
+    "id": "CORE_REV_021",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "逐罪者凯尔萨斯",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在每回合中，你每使用三张随从牌，第三张随从牌的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79935,
+    "dbfId": 118059,
+    "elite": true,
+    "flavor": "当你排除了所有不蝌能的情形，剩下的，无论多么离鳍，那也一定是真相。",
+    "hasDiamondSkin": true,
+    "health": 4,
+    "id": "CORE_REV_022",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "摩洛克·福尔摩斯",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>破解你对手卡牌的3条线索，即可获取其复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 76984,
+    "dbfId": 118060,
+    "elite": true,
+    "flavor": "“我觉得你疯了，疯透了。但我仍要告诉你一个秘密。所有优秀的灵魂都是疯子。”",
+    "health": 4,
+    "id": "CORE_REV_238",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "癫狂公爵西塔尔",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>从每个玩家的手牌中各<b>发现</b>一张牌并交换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 10,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "countAsCopyOfDbfId": 75881,
+    "dbfId": 118143,
+    "elite": true,
+    "flavor": "历史可以帮助人们避免走上反派的老路。不幸的是，温西尔个个都和大帝差不多。",
+    "health": 10,
+    "id": "CORE_REV_906",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE",
+      "LIFESTEAL"
+    ],
+    "name": "德纳修斯大帝",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>吸血</b>，<b>战吼：</b>对所有敌人造成总计5点伤害。<b>无限注能（2）：</b>伤害增加1点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 53756,
+    "dbfId": 115762,
+    "elite": true,
+    "flavor": "“这就是完美的卡牌，只是你不会用而已。”",
+    "hasDiamondSkin": true,
+    "health": 2,
+    "id": "CORE_ULD_003",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "了不起的杰弗里斯",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则可以许愿获取一张完美的卡牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 111467,
+    "elite": true,
+    "flavor": "生命的缚誓者阿莱克丝塔萨给所有人带来生命和希望。除了死亡之翼。除了玛里苟斯。除了耐克鲁斯。",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_VAN_EX1_561",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "将生命值变为15点。",
+    "text": "<b>战吼：</b>\n将一方英雄的剩余生命值变为15。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Gabor Szikszai",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 111465,
+    "elite": true,
+    "flavor": "伊瑟拉统治翡翠梦境。所谓翡翠梦境，究竟只是现实世界的绿色朦胧倒影，还是其他别的什么地方？",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CORE_VAN_EX1_572",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在你的回合结束时，随机获取两张梦境牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66864,
+    "elite": true,
+    "flavor": "友方伤害：已关闭",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_031",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "生命的缚誓者阿莱克丝塔萨",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "恢复8点生命值或造成8点伤害。",
+    "text": "<b>战吼：</b>选择一个角色。如果是友方角色，为其恢复8点生命值；如果是敌方角色，对其造成8点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66866,
+    "elite": true,
+    "flavor": "快给她上dot，快上，再上，都给我上！",
+    "health": 8,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_032",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "龙巢之母奥妮克希亚",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在每个回合结束时，用1/1的雏龙填满你的面板。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66868,
+    "elite": true,
+    "flavor": "快！快！快把这个梦写下来，一会就全忘了！",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "沉睡者伊瑟拉",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>将每种\n梦境牌各一张置\n入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 66869,
+    "elite": true,
+    "flavor": "多年之后，玛里苟斯决定允许凡人使用魔法。想用吗？那就全都给你！",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_034",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "织法者玛里苟斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>\n抽取法术牌直到达到你的手牌上限。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 66872,
+    "elite": true,
+    "flavor": "“他是死亡之翼？那个也是死亡之翼？你也是死亡之翼！？我才是死亡之翼！这里到底有多少死亡之翼？”",
+    "health": 12,
+    "howToEarn": "完成教学后解锁。",
+    "howToEarnGolden": "总计赢得5000场对战后解锁。",
+    "id": "CS3_036",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灭世者死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>消灭所有其他随从。每消灭一个随从，便弃一张牌。",
+    "type": "MINION"
+  }
+]

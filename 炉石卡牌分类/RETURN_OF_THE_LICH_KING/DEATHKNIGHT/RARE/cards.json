@@ -1,0 +1,89 @@
+[
+  {
+    "artist": "Mooncolony",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 87326,
+    "flavor": "它不是活物！不是活物！！！",
+    "health": 3,
+    "id": "NX2_036",
+    "isMiniSet": true,
+    "name": "构造区",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "消灭一个友方随从，召唤一个4/5并具有<b>突袭</b>的亡灵。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 78333,
+    "flavor": "怎么了？反正这些身体他们再也用不上了。",
+    "id": "RLK_035",
+    "name": "邪爆",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 2,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "spellSchool": "SHADOW",
+    "text": "引爆一份<b>残骸</b>，对所有随从造成$1点伤害。如果有随从存活，重复此效果。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 78345,
+    "flavor": "吧啦，吧啦吧啦！",
+    "id": "RLK_051",
+    "name": "吸血鬼之血",
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 3,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "使你的英雄获得+5生命值。消耗3份<b>残骸</b>，多获得5点并抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "attack": 8,
+    "cardClass": "DEATHKNIGHT",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 80830,
+    "flavor": "炉石也有合作指挥官了？终于来了！",
+    "health": 8,
+    "id": "RLK_506",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "白骨卫士指挥官",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "runeCost": {
+      "blood": 1,
+      "frost": 0,
+      "unholy": 0
+    },
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>将最多6份<b>残骸</b>复活为1/3并具有<b>嘲讽</b>的复活的步兵。",
+    "type": "MINION"
+  }
+]

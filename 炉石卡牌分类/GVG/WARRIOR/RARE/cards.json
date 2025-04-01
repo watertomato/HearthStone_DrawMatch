@@ -1,0 +1,70 @@
+[
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2021,
+    "flavor": "对于侏儒战士来说，一块盾牌可以对其进行全方位的保护。",
+    "health": 5,
+    "id": "GVG_053",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "盾甲侍女",
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "<b>战吼：</b>\n获得5点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jesper Ejsing",
+    "attack": 2,
+    "battlegroundsPremiumDbfId": 59501,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 2023,
+    "flavor": "如果它坏了，踢它几下然后再骂一句：“什么破玩意儿！”",
+    "health": 5,
+    "id": "GVG_055",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "废旧螺栓机甲",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "GVG",
+    "targetingArrowText": "使一个友方机械获得+2/+2。",
+    "techLevel": 3,
+    "text": "<b>战吼：</b>使一个友方机械获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zero",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 2054,
+    "flavor": "冬拥堡垒的城墙一般都会用最坚固的材料在两个半小时内修筑起来。但这并不能阻止攻城战车的长驱直入。",
+    "health": 5,
+    "id": "GVG_086",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "重型攻城战车",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "GVG",
+    "text": "每当你获得\n护甲值，使本随从获得+1攻击力。",
+    "type": "MINION"
+  }
+]

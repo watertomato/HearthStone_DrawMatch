@@ -1,0 +1,47 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 42630,
+    "elite": true,
+    "flavor": "爸爸！我觉得我创造了一个传说！",
+    "health": 6,
+    "id": "ICC_405",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "腐面",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "在本随从受到伤害并存活下来后，随机召唤一个<b>传说</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Greg Staples",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 43423,
+    "elite": true,
+    "flavor": "“你敢挑战我？来啊！马上你就会咽下最后一口气——然后，你就是我的了。”",
+    "health": 30,
+    "heroPowerDbfId": 45585,
+    "id": "ICC_834",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天灾领主加尔鲁什",
+    "rarity": "LEGENDARY",
+    "set": "ICECROWN",
+    "text": "<b>战吼：</b>装备一把4/3的影之哀伤，影之哀伤同时对其攻击目标相邻的随从造成伤害。",
+    "type": "HERO"
+  }
+]

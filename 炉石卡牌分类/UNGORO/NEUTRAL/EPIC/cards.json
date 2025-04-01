@@ -1,0 +1,206 @@
+[
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 41261,
+    "faction": "HORDE",
+    "flavor": "伊瑟拉对于蜂后将自己的蜂巢命名为“翡翠梦境”感到怒不可遏，发誓要告到她倾家荡产。",
+    "health": 3,
+    "id": "UNG_085",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "翡翠蜂后",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "你的随从的法力值消耗增加（2）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mark Gibbons",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 41263,
+    "flavor": "其实只有中间的头口感苦涩，其他的头要么偏甜，要么偏辣。",
+    "health": 8,
+    "id": "UNG_087",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "苦潮多头蛇",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "每当本随从受到伤害，对你的英雄造成\n3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 41264,
+    "flavor": "我在未来看到有吃不完的披萨。",
+    "health": 5,
+    "id": "UNG_088",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "始祖龟预言者",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>\n<b>发现</b>一张法术牌，并向随机目标施放。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Brian Despain",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 41265,
+    "flavor": "廉价壳屋招租啦！房客仅限情感丰富，温良恭让的双足两栖人型生物，喜好流浪生活者更佳！",
+    "health": 4,
+    "id": "UNG_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "温顺的巨壳龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "UNGORO",
+    "text": "<b>战吼：</b><b>进化</b>你所有的鱼人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 41286,
+    "flavor": "瞧见没，这就是让恐龙吃跳跳糖喝可乐的下场！",
+    "health": 7,
+    "id": "UNG_099",
+    "mechanics": [
+      "BATTLECRY",
+      "CHARGE"
+    ],
+    "name": "狂奔的魔暴龙",
+    "race": "BEAST",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>冲锋，战吼：</b>在本回合中无法攻击英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Trent Kaniuga",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41096,
+    "flavor": "能让她眼前一亮的不光是珍稀物种，还有纸杯蛋糕！",
+    "health": 4,
+    "id": "UNG_113",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "热情的探险家",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>抽一张牌，使其法力值消耗变为（5）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 41928,
+    "flavor": "本来他想管自己叫金翼杀手的，可惜被人注册了。",
+    "health": 6,
+    "id": "UNG_847",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火焰使者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>如果你在上个回合使用过元素牌，则造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Sass",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 41929,
+    "flavor": "它的一副公鸭嗓让自己在族群里独树一帜。",
+    "health": 8,
+    "id": "UNG_848",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "始生幼龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>嘲讽，战吼：</b>\n对所有其他随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "A. J. Nazzaro",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 41683,
+    "flavor": "三度蝉联“安戈洛吃武器大赛”的冠军。",
+    "health": 3,
+    "id": "UNG_946",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "贪食软泥怪",
+    "rarity": "EPIC",
+    "set": "UNGORO",
+    "text": "<b>战吼：</b>摧毁对手的武器，并获得等同于其攻击力的护甲值。",
+    "type": "MINION"
+  }
+]

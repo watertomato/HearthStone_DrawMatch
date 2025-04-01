@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "BOSi Studio",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 93881,
+    "elite": true,
+    "flavor": "奎德基（奎尔萨拉斯炸鸡）的吉祥物。",
+    "health": 4,
+    "id": "RLK_604",
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "索利贝洛尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>突袭</b>。<b>亡语：</b>进入<b>休眠</b>状态。施放一个火焰法术以复活索利贝洛尔！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 84300,
+    "elite": true,
+    "flavor": "你以为这块盾就算大了吗，那你可得看看他那块巨巨巨巨巨盾。",
+    "health": 4,
+    "id": "RLK_608",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "巨盾卫士阿斯维顿",
+    "rarity": "LEGENDARY",
+    "set": "RETURN_OF_THE_LICH_KING",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>施放你对手使用的上一张法术牌的复制。",
+    "type": "MINION"
+  }
+]

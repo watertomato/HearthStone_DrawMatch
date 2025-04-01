@@ -1,0 +1,180 @@
+[
+  {
+    "artist": "Jimmy Lo",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38262,
+    "flavor": "G&D今年又出了一款全新系列的大地图腾，全国各地专柜均有销售。",
+    "id": "OG_023",
+    "name": "原始融合",
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "你每有一个图腾，就使一个随从获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "E. M. Gist",
+    "attack": 7,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38263,
+    "flavor": "他的手感热得发烫，百步穿杨技惊四座！",
+    "health": 7,
+    "id": "OG_024",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "投火无面者",
+    "overload": 2,
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>过载：</b>（2）",
+    "type": "MINION"
+  },
+  {
+    "artist": "J. Meyers & Nutchapol",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38265,
+    "flavor": "即便长了这么多眼睛，走起路来还是会撞到人。",
+    "health": 2,
+    "id": "OG_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "永恒哨卫",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>将你所有<b>过载</b>的法力水晶解锁。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luca Zontini",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38266,
+    "flavor": "诡异的眼球，黏滑的触须，阴阳怪气的语调……这种变化不要也罢。",
+    "id": "OG_027",
+    "name": "异变",
+    "rarity": "RARE",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "随机将你的\n所有随从变形成为法力值消耗增加（1）点的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38267,
+    "flavor": "深渊魔物有一奇怪的癖好，就是收集各式各样的萨满祭司图腾。",
+    "health": 5,
+    "id": "OG_028",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "深渊魔物",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>嘲讽</b>\n在本局对战中，你每召唤一个图腾，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38270,
+    "durability": 0,
+    "flavor": "这把蕴含了元素之力的战锤散发出诡异的暮色光芒。",
+    "health": 2,
+    "id": "OG_031",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "暮光神锤",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>亡语：</b>召唤一个4/2的元素。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38724,
+    "flavor": "被雷劈是什么滋味……恐怕没多少亲历者能活着告诉你。",
+    "id": "OG_206",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "雷暴术",
+    "overload": 1,
+    "rarity": "COMMON",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$4点伤害，<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38722,
+    "elite": true,
+    "flavor": "根据能量守恒定律，你损失的生命值最终会转移到我身上。",
+    "health": 6,
+    "id": "OG_209",
+    "mechanics": [
+      "SPELLPOWER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "升腾者海纳泽尔",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "LIFESTEAL"
+    ],
+    "set": "OG",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+1</b>\n你的法术拥有<b>吸血</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dan Scott",
+    "attack": 4,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39008,
+    "flavor": "在新游戏《炉石宝贝》中一定会大放异彩。",
+    "health": 5,
+    "id": "OG_328",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "异变之主",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>将一个友方随从随机变形成为一个法力值消耗增加（1）点的随从。",
+    "type": "MINION"
+  }
+]

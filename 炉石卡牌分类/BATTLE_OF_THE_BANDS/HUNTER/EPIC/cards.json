@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Mooncolony",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 87642,
+    "flavor": "魔术师从不会揭示自己的奥秘，但乐师就不一样了……",
+    "health": 2,
+    "id": "ETC_028",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "口琴独演者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>战吼：</b>如果你没有控制其他随从，<b>发现</b>并施放一个<b>奥秘</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cynthia  Garcia",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 91495,
+    "durability": 0,
+    "flavor": "被问到自己愿意变成什么动物的时候，人们一般会说，“狼和狮子一半一半吧，当个丛林之王，凶猛而又善于交际。”省省吧，你其实是只老鼠。",
+    "health": 2,
+    "id": "ETC_832",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "丛林弹唱琴",
+    "rarity": "EPIC",
+    "set": "BATTLE_OF_THE_BANDS",
+    "text": "<b>亡语：</b>随机召唤一只法力值消耗为（1）的野兽。<i>（装备期间，施放法术以提升此效果！）</i>",
+    "type": "WEAPON"
+  }
+]

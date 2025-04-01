@@ -1,0 +1,104 @@
+[
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 2,
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "ROGUE"
+    ],
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102422,
+    "flavor": "独角兽牧师一定喜欢这个。",
+    "health": 2,
+    "id": "DEEP_023",
+    "isMiniSet": true,
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "隐藏宝石",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>潜行</b>。在你的回合结束时，为所有友方角色恢复#2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "cardClass": "PRIEST",
+    "classes": [
+      "DRUID",
+      "PRIEST"
+    ],
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102426,
+    "flavor": "大——地——坠——饰——之——力！！",
+    "id": "DEEP_026",
+    "isMiniSet": true,
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "大地坠饰",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "NATURE",
+    "text": "从你的牌库中<b>发现</b>一张随从牌，为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 101382,
+    "flavor": "飞车党连车都要劫走！？",
+    "id": "WW_053",
+    "name": "飞车劫掠",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "获取你的对手上回合使用的每张卡牌的各一张复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Patrik Bjorkstrom",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101481,
+    "faction": "HORDE",
+    "flavor": "荒芜之地到处都是仙人掌，这份工作一定很伤人。",
+    "health": 7,
+    "id": "WW_381",
+    "mechanics": [
+      "BATTLECRY",
+      "OVERHEAL"
+    ],
+    "name": "受伤的搬运工",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "text": "<b>战吼：</b>对本随从造成4点伤害。<b>过量治疗：</b>对所有敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vika Yarova",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102054,
+    "flavor": "这儿有瓶儿水儿！",
+    "id": "WW_395",
+    "name": "神圣泉水",
+    "rarity": "COMMON",
+    "set": "WILD_WEST",
+    "spellSchool": "HOLY",
+    "text": "为一个受伤的角色恢复#8点生命值。将超过目标生命值上限的治疗量存入法力值消耗为（1）的瓶子。",
+    "type": "SPELL"
+  }
+]

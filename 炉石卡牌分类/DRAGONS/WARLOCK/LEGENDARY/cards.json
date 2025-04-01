@@ -1,0 +1,67 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 54896,
+    "elite": true,
+    "flavor": "不是我八卦，你的两只手不会刚好都有六根手指吧？",
+    "health": 4,
+    "id": "DRG_208",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "瓦迪瑞斯·邪噬",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>将你的手牌上限提高至12张。抽四张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 54897,
+    "elite": true,
+    "flavor": "和泽拉图没有任何关系。",
+    "health": 12,
+    "id": "DRG_209",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "扭曲巨龙泽拉库",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "每当你的英雄受到伤害，召唤一条6/6的虚空幼龙。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57329,
+    "elite": true,
+    "flavor": "邪能火焰在骷髅周围盘旋，巨大的骸骨聚合成了恶魔般的怪物。重重绷带阻绝了热浪，却挡不住拉法姆脸上的笑意。",
+    "health": 30,
+    "heroPowerDbfId": 55807,
+    "id": "DRG_600",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪火巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>随机召唤一个恶魔。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

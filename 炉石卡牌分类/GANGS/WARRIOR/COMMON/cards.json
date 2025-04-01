@@ -1,0 +1,60 @@
+[
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 0,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 40364,
+    "flavor": "我反对！你说什么我都反对！",
+    "health": 7,
+    "id": "CFM_300",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "公辩律师",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Wayne Reynolds",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40568,
+    "flavor": "谁说玩具枪不能捅死人的，戳你试试！",
+    "health": 3,
+    "id": "CFM_754",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "污手玩具商",
+    "rarity": "COMMON",
+    "set": "GANGS",
+    "text": "在你的回合结束时，随机使你手牌中的一张随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kan Liu",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 40839,
+    "flavor": "你给我小心点…我上头有人！",
+    "id": "CFM_940",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "盛气凌人",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "GANGS",
+    "text": "<b>发现</b>一张<b>嘲讽</b>随从牌。使其获得+1/+2。",
+    "type": "SPELL"
+  }
+]

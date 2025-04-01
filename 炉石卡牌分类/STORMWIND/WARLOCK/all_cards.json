@@ -1,0 +1,256 @@
+[
+  {
+    "artist": "Maria Trepalina",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65604,
+    "flavor": "术士练习飞刀的过程并不容易。很疼。",
+    "health": 1,
+    "id": "DED_503",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影之刃飞刀手",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "targetingArrowText": "对一个敌方随从造成伤害。",
+    "text": "<b>战吼：</b>如果你在本回合中受到过伤害，则对一个敌方随从造成等量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 65605,
+    "flavor": "如果你在手牌上发现两个小鬼，说明你的牌库里已经住满了小鬼。",
+    "id": "DED_504",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRADEABLE"
+    ],
+    "name": "邪恶船运",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n召唤2个1/1的小鬼。<i>（被<b>交易</b>时会升级，增加2个！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 65606,
+    "flavor": "凿开船身坚硬的外壳，走进船体柔软的内心。",
+    "health": 3,
+    "id": "DED_505",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "碎舰恶魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "<b>战吼，亡语：</b>抽一张法术牌。你的英雄受到等同于法术牌法力值消耗的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "attack": 0,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 63677,
+    "durability": 0,
+    "flavor": "“谢谢，这些绿装我要，我要拆。”所有附魔师都说过这种话。",
+    "health": 2,
+    "id": "SW_003",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "符文秘银杖",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "text": "在你抽四张牌后，使你的手牌法力值消耗减少（1）点。失去1点耐久度。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 64893,
+    "flavor": "一定，一定，一定要仔细阅读每一条细则。",
+    "health": 5,
+    "id": "SW_084",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "血缚小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "每当本随从攻击时，对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64894,
+    "flavor": "“有了你的帮助，我终于可以给这条巷子带来光明。”",
+    "id": "SW_085",
+    "name": "暗巷契约",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个属性值等同于你的手牌数量并具有<b>嘲讽</b>的邪魔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 64895,
+    "flavor": "一杯“罪汤力”，马上就来。",
+    "health": 4,
+    "id": "SW_086",
+    "mechanics": [
+      "BATTLECRY",
+      "TRADEABLE"
+    ],
+    "name": "阴暗的酒保",
+    "rarity": "COMMON",
+    "set": "STORMWIND",
+    "text": "<b>可交易</b>\n<b>战吼：</b>使你的所有恶魔获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 64896,
+    "flavor": "这便是无休无尽的召唤啊，我的朋友……",
+    "id": "SW_087",
+    "name": "恐惧坐骑",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "STORMWIND",
+    "text": "使一个随从获得+1/+1。当该随从死亡时，召唤一匹无尽的恐惧战马。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 64897,
+    "flavor": "冷知识：虚空行者会追逐绿色光点。",
+    "id": "SW_088",
+    "name": "恶魔来袭",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "STORMWIND",
+    "spellSchool": "FEL",
+    "text": "造成$3点伤害。召唤两个1/3并具有<b>嘲讽</b>的虚空行者。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64898,
+    "flavor": "“你知不知道我在你们店里花了多少法力水晶？6个。”",
+    "health": 2,
+    "id": "SW_089",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "资深顾客",
+    "rarity": "EPIC",
+    "set": "STORMWIND",
+    "text": "<b>战吼：</b>对所有其他随从造成等同于你手牌数量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64899,
+    "flavor": "“你要把灵魂献给我？我大受触动。”",
+    "id": "SW_090",
+    "name": "纳斯雷兹姆之触",
+    "rarity": "RARE",
+    "set": "STORMWIND",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$2点伤害。如果该随从死亡，则为你的英雄恢复3点生命值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 64900,
+    "elite": true,
+    "flavor": "这个仪式只需要一点点力气。哦，还有你的灵魂。",
+    "id": "SW_091",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "恶魔之种",
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "<b>任务线：</b>在你的回合中受到12点伤害。<b>奖励：</b><b>吸血</b>。对敌方英雄造成$3点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 8,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 64903,
+    "elite": true,
+    "flavor": "领导了历次恶魔入侵。希望这次的结局能比世界之树那次好一点。",
+    "health": 6,
+    "id": "SW_092",
+    "name": "安纳塞隆",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "STORMWIND",
+    "text": "如果你的手牌数量达到上限，该牌的法力值消耗为（1）点。",
+    "type": "MINION"
+  }
+]

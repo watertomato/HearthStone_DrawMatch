@@ -1,0 +1,74 @@
+[
+  {
+    "artist": "Todd Harris",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97397,
+    "flavor": "詹妮弗甩了我。",
+    "health": 2,
+    "id": "TTN_456",
+    "mechanics": [
+      "BATTLECRY",
+      "LIFESTEAL"
+    ],
+    "name": "蔽刺触手",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "<b>吸血</b>。<b>战吼：</b>随机对一个敌方随从造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 97619,
+    "flavor": "驯龙高手绝不会这么做。",
+    "id": "TTN_463",
+    "mechanics": [
+      "AFFECTED_BY_SPELL_POWER"
+    ],
+    "name": "飞翼焊装",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "弃掉你法力值消耗最高的牌，对所有随从造成等同于其法力值消耗的伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 98278,
+    "flavor": "该随从会继续存活。活得很惨。",
+    "id": "TTN_486",
+    "name": "魔化形态",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "直到你的下个回合，使一个友方随从获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Tanamaes Leejierasaes",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 101045,
+    "flavor": "这是一份脏活，但总要有人干。呃，其实吧，这种事谁都不该干。",
+    "health": 5,
+    "id": "YOG_517",
+    "isMiniSet": true,
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "触须宠溺者",
+    "rarity": "COMMON",
+    "set": "TITANS",
+    "text": "在你的回合结束时，获取一张1/1的\n混乱触须。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69703,
+    "flavor": "他整天与战马为伍，终年无休。",
+    "health": 4,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_AT_075",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "战马训练师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "你的白银之手新兵拥有+2攻击力和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Lucas Graciano",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69530,
+    "flavor": "你知道世界上有多少所谓的“王者”被暗杀了吗？你确定还想要王者祝福吗？",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_CS2_092",
+    "name": "王者祝福",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+4/+4。<i>（+4攻击力/+4生命值）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ryan Sook",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69533,
+    "durability": 0,
+    "flavor": "它能用来切片，也能切块。你还可以用它来开罐头。（但你不会这么做的。）",
+    "health": 2,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_CS2_097",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "真银圣剑",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当你的英雄进攻，便为其恢复#3点生命值。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 86544,
+    "flavor": "人在空中难免伤，巨龙盛来琥珀光。",
+    "health": 6,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_DRG_226",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "琥珀看守者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "恢复8点生命值。",
+    "text": "<b>战吼：</b>\n恢复#8点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69610,
+    "flavor": "我们永远不会忘记你，“守护者！”",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_EX1_130",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "崇高牺牲",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>奥秘：</b>当一个敌人攻击时，召唤一个2/1的防御者，并使其成为攻击的目标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69704,
+    "flavor": "有几个身怀绝技的圣骑士想要组成一个团体来声张正义，并自称“复仇者联盟”。不久，他们受到了某家电影公司的起诉。",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_FP1_020",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "复仇",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "HOLY",
+    "text": "<b>奥秘：</b>当你的随从死亡时，随机使一个友方随从获得+3/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95681,
+    "flavor": "在乌瑟尔的法庭上，他既是法官，也是陪审团，还是行刑者……",
+    "id": "CORE_ICC_039",
+    "name": "黑暗裁决",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "SHADOW",
+    "text": "将一个随从的攻击力和生命值变为3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Chen",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 95653,
+    "flavor": "能守能攻，一剑两用，寒刃出鞘，谁与争锋。拿上它，连最矮小的侏儒也能成为勇士。",
+    "health": 2,
+    "id": "CORE_ICC_820",
+    "mechanics": [
+      "CHARGE",
+      "LIFESTEAL"
+    ],
+    "name": "寒刃勇士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>冲锋，吸血</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 78145,
+    "dbfId": 118025,
+    "flavor": "圣骑士身上最为罪恶的特质，就是他们很<i>享受</i>这份陪审义务。",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_MAW_015",
+    "isMiniSet": true,
+    "name": "陪审义务",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "召唤两个白银之手新兵。使你的白银之手新兵获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ralph Horsley",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69706,
+    "flavor": "对抗黑暗，伸张正义，是每一位圣骑士的毕生信念。",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得50场对战后解锁。",
+    "id": "CORE_OG_273",
+    "name": "惩黑除恶",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "召唤五个1/1的白银之手新兵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 78080,
+    "dbfId": 118164,
+    "flavor": "派对来宾从不像鲍勃的酒客那样大方地给小费。",
+    "health": 4,
+    "id": "CORE_REV_947",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "TAUNT"
+    ],
+    "name": "污泥仆从",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>，<b>战吼：</b><b>发现</b>一张圣骑士牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 78143,
+    "dbfId": 118168,
+    "flavor": "如果这场晚宴一切顺利，她就有信心参加地狱厨房了。",
+    "health": 1,
+    "id": "CORE_REV_952",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "罪恶的副厨师长",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>\n将2张“白银之手新兵”置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "countAsCopyOfDbfId": 78156,
+    "dbfId": 118172,
+    "flavor": "“我就想知道，究竟是什么样的怪物在这里面加了葡萄干。”",
+    "health": 4,
+    "id": "CORE_REV_958",
+    "mechanics": [
+      "BATTLECRY",
+      "INFUSE"
+    ],
+    "name": "餐会巨仆",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>召唤两个白银之手新兵。<b>注能（3）：</b>使其获得+2攻击力和<b>圣盾</b>。",
+    "type": "MINION"
+  }
+]

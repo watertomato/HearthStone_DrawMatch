@@ -1,0 +1,100 @@
+[
+  {
+    "artist": "Skan Srisuwan",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102544,
+    "flavor": "到处都是蜘蛛，真让人头皮发麻。",
+    "id": "WON_021",
+    "name": "天降蛛群",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WONDERS",
+    "text": "召唤三只1/1并具有“<b>亡语：</b>随机获取一张野兽牌”的\n结网蛛。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Joe Wilson",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102545,
+    "flavor": "很遗憾，哈里森·琼斯没能加入到探险者协会，但他的探险帽却成了会员的标配。",
+    "id": "WON_022",
+    "name": "探险帽",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "WONDERS",
+    "text": "使一个随从获得+1/+1，以及“<b>亡语：</b>获取一张探险帽”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102552,
+    "flavor": "大部分时间都沉迷在了《暗黑破坏神IV》里。",
+    "health": 1,
+    "id": "WON_027",
+    "mechanics": [
+      "BATTLECRY",
+      "ECHO"
+    ],
+    "name": "迷时迅猛龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "ADAPT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>回响</b>。<b>战吼：</b><b>进化</b>你的迷时迅猛龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi & Konstantin Turovec",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102553,
+    "flavor": "经查，这两只冰虫曾团灭冒险者33次，被判有罪，不予通过考验。",
+    "id": "WON_028",
+    "name": "冰虫考验",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "召唤你牌库中法力值消耗小于或等于（3）点的两只野兽的复制。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Seamus Gallagher",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102981,
+    "flavor": "一声长啸百兽惊，贫瘠之地留威名。",
+    "health": 5,
+    "id": "WON_162",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "百兽之王",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>\n你每控制一只其他野兽，便拥有+1攻击力。",
+    "type": "MINION"
+  }
+]

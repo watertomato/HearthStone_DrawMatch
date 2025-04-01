@@ -1,0 +1,191 @@
+[
+  {
+    "artist": "Jerry Mascho",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46680,
+    "flavor": "威严、雄壮、超凡优雅的它……却总显得很抑郁。",
+    "health": 6,
+    "id": "GIL_130",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "阴郁的牡鹿",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽，战吼：</b>如果你的牌库中只有法力值消耗为奇数的牌，则获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46859,
+    "flavor": "你猜变身后镰刀去哪了？",
+    "health": 2,
+    "id": "GIL_188",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "镰刀德鲁伊",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH",
+      "TAUNT"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>抉择：</b>变形成为4/2并具有<b>突袭</b>；或者变形成为2/4并具有<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 46903,
+    "flavor": "丢了魂又怎样，至少我长得英明神武！",
+    "health": 1,
+    "id": "GIL_507",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "失魂的守卫",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽，战吼：</b>\n你每有一张手牌，便获得+1生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Max Grecke",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47063,
+    "flavor": "事实上，命名黑暗私语的家伙并没有被开除。",
+    "id": "GIL_553",
+    "name": "精灵之森",
+    "rarity": "EPIC",
+    "set": "GILNEAS",
+    "spellSchool": "NATURE",
+    "text": "你每有一张手牌，便召唤一个1/1的小精灵。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 47117,
+    "flavor": "千万要锁好吉尔尼斯宠物墓园的大门！",
+    "id": "GIL_571",
+    "name": "巫术时刻",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "随机召唤一个在本局对战中死亡的友方野兽。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 47423,
+    "flavor": "爱会像头饿狼岂可抱着眠\n她必给我狠狠的伤疤做留念",
+    "id": "GIL_637",
+    "name": "凶猛咆哮",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "抽一张牌。你每有一张手牌，便获得1点护甲值。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Craig Elliott",
+    "attack": 8,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 47520,
+    "elite": true,
+    "flavor": "我们需要一些超大号的修剪钳。",
+    "health": 8,
+    "id": "GIL_658",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "碎枝",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "targetingArrowText": "将一张10/10复制置入你的手牌。",
+    "text": "<b>战吼：</b>选择一个友方随从。将它的一张10/10复制置入你的手牌，其法力值消耗为（10）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 47553,
+    "flavor": "一天一苹果，狼人远离我。",
+    "id": "GIL_663",
+    "name": "女巫森林苹果",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "spellSchool": "NATURE",
+    "text": "将两张2/2的树人置入你的手牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47819,
+    "elite": true,
+    "flavor": "“你才像翠迪，你全家都像翠迪！”",
+    "health": 7,
+    "id": "GIL_800",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "暮陨者艾维娜",
+    "rarity": "LEGENDARY",
+    "set": "GILNEAS",
+    "text": "在每个玩家的回合中，使用的第一张牌法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 48286,
+    "flavor": "“快签了这份弃权声明，我们就好上路了。”",
+    "health": 6,
+    "id": "GIL_833",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "森林向导",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "在你的回合结束时，双方玩家各抽\n一张牌。",
+    "type": "MINION"
+  }
+]

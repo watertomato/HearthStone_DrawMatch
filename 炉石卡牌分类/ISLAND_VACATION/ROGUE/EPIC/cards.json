@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 106681,
+    "flavor": "夺者多夺，多夺多得。强者强抢，强抢者强。",
+    "id": "VAC_700",
+    "name": "横夺硬抢",
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "随机消灭两个敌方随从。你每使用过一张另一职业的卡牌，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 106675,
+    "flavor": "众所周知，会发光的剑更厉害！",
+    "health": 3,
+    "id": "VAC_701",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "刀剑保养师",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "EPIC",
+    "set": "ISLAND_VACATION",
+    "text": "<b>战吼：</b>将你的武器的攻击力和耐久度变为3。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "artist": "Alex Stone",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 73445,
+    "flavor": "“这不是什么叛逆期，妈妈！”",
+    "health": 2,
+    "id": "TID_717",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗影使徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "targetingArrowText": "从一个随从处偷取2点生命值。",
+    "text": "<b>战吼：</b>如果你在此牌在你手中时施放过暗影法术，从一个随从处偷取2点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72254,
+    "flavor": "当地的某些鱼人已经适应了废墟中的艰苦环境。芬利爵士对此大有兴趣。",
+    "health": 3,
+    "id": "TSC_039",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "艾萨拉的拾荒者",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>将一张沉没的拾荒者置于你的牌库底。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 73436,
+    "flavor": "希拉柯丝，世所罕见！她的随从，接受考验！",
+    "health": 4,
+    "id": "TSC_955",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "希拉柯丝教徒",
+    "race": "NAGA",
+    "races": [
+      "NAGA"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>战吼：</b>使你的对手获得一张深渊诅咒。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 73442,
+    "flavor": "我知道你现在的处境很艰难，船长，但没必要诅咒得这么难听吧。",
+    "id": "TSC_956",
+    "name": "拖入深渊",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "SHADOW",
+    "text": "对一个随从造成$4点伤害。使你的对手获得一张深渊诅咒。",
+    "type": "SPELL"
+  }
+]

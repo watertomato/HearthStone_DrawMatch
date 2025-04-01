@@ -1,0 +1,673 @@
+[
+  {
+    "artist": "Zero",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56391,
+    "flavor": "铁锈军团的训练并不完善。他甚至连破伤风都没打！",
+    "health": 2,
+    "id": "BT_008",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "锈誓新兵",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>召唤一个1/1并具有<b>法术伤害+1</b>的小鬼施法者。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56393,
+    "flavor": "把我的鱼儿们带回来，我便会亲自带你前往英鳞殿的大门！",
+    "health": 4,
+    "id": "BT_010",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "邪鳍导航员",
+    "race": "MURLOC",
+    "races": [
+      "MURLOC"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>使你的其他鱼人获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56660,
+    "elite": true,
+    "flavor": "“没事，友方随从们！你们没事的！别去老大那儿告状！”",
+    "health": 4,
+    "id": "BT_126",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "塔隆·血魔",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>消灭所有其他友方随从。<b>亡语：</b>再次召唤被消灭的随从并使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Steven Prescott",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 56819,
+    "flavor": "不积废料，无以成邪爆。",
+    "health": 7,
+    "id": "BT_155",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "废料场巨像",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽，亡语：</b>召唤一个7/7并具有<b>嘲讽</b>的邪爆巨像。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56820,
+    "flavor": "贪睡一时爽，突袭跑断肠。",
+    "health": 5,
+    "id": "BT_156",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "被禁锢的邪犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>2回合。\n<b>突袭</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 56823,
+    "flavor": "可怜的小家伙吓坏了，看看他的小脸儿……们。",
+    "health": 7,
+    "id": "BT_159",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "逃脱的恐惧卫士",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>为你的对手召唤三个1/1的女猎手。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 56824,
+    "flavor": "锈儿，是你吗锈儿？",
+    "health": 3,
+    "id": "BT_160",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "锈誓信徒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>使你的其他随从获得“<b>亡语：</b>召唤一个1/1的恶魔。”",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 57907,
+    "flavor": "据砰砰实验室的销售手册记载，这玩意“特别擅长推己及人”！",
+    "health": 3,
+    "id": "BT_190",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "复制机器人",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "在你的回合结束时，将一个相邻的随从变形成为本随从的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 56622,
+    "elite": true,
+    "flavor": "“但巨龙降临的时代早就过去了！”",
+    "health": 7,
+    "howToEarn": "打开<i>外域的灰烬</i>卡牌包后可解锁。",
+    "howToEarnGolden": "可通过邪火试炼挑战模式获得。",
+    "id": "BT_255",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "凯尔萨斯·逐日者",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "在每回合中，你每施放三个法术，第三个法术的法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 57174,
+    "flavor": "尽管经历了无数次的削弱，她依旧穿着她的冰霜暗纹套装。那就随她吧！",
+    "health": 3,
+    "id": "BT_714",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冰霜织影者",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "冻结一个敌人。",
+    "text": "<b>战吼：</b>\n<b>冻结</b>一个敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Josh Harris",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 57175,
+    "flavor": "你的躯体要是有这么发达，那箭矢对你来说基本就是免费针灸。",
+    "health": 3,
+    "id": "BT_715",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "噬骨殴斗者",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽</b>\n每当本随从受到伤害，便获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Olson",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57176,
+    "flavor": "她们山寨配发的盾牌是真的山寨。",
+    "health": 10,
+    "id": "BT_716",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "噬骨先锋",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽</b>\n每当本随从受到伤害，便获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 57177,
+    "flavor": "这个游戏叫躲蝎蝎。",
+    "health": 2,
+    "id": "BT_717",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "潜地蝎",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "造成2点伤害。",
+    "text": "<b>战吼：</b>造成2点伤害。如果消灭了目标，则获得<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ware Lee",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 57180,
+    "flavor": "外域摩托越野大奖赛的三冠王（也是唯一的幸存选手）！",
+    "health": 8,
+    "id": "BT_720",
+    "mechanics": [
+      "BATTLECRY",
+      "RUSH",
+      "TAUNT"
+    ],
+    "name": "锈骑劫匪",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽，突袭，\n战吼：</b>在本回合获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 57181,
+    "flavor": "伊利达雷称之为“腐糊护肤”凝胶，对抗德拉诺暴烈的阳光特别有效。",
+    "health": 2,
+    "id": "BT_721",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "起泡的腐泥怪",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "在你的回合结束时，召唤一个属性值等同于本随从的腐质。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alexa Rockman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57182,
+    "flavor": "“只要你还有一口气在，就得给我结账！”",
+    "health": 1,
+    "id": "BT_722",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "防护改装师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "造成1点伤害并使其获得<b>圣盾</b>。",
+    "text": "<b>战吼：</b>对一个随从造成1点伤害，并使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57183,
+    "flavor": "“别担心，改装伤不到我的。”",
+    "health": 1,
+    "id": "BT_723",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "火箭改装师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "造成1点伤害并使其获得<b>突袭</b>。",
+    "text": "<b>战吼：</b>对一个随从造成1点伤害，并使其获得<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57184,
+    "flavor": "没有受到过伤害的随从，没有资格谈论法术伤害。",
+    "health": 1,
+    "id": "BT_724",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "虚灵改装师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "造成1点伤害并使其获得<b>法术伤害+1</b>。",
+    "text": "<b>战吼：</b>对一个随从造成1点伤害，并使其获得<b>法术伤害+1</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 5,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 57186,
+    "flavor": "骑士乘龙游八极，斧光照空天自碧。",
+    "health": 6,
+    "id": "BT_726",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "龙喉巡天者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>召唤一个3/4的龙骑士。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57187,
+    "flavor": "他说这是“灵魂的牵缚”，但我觉得这就是他在作。",
+    "health": 4,
+    "id": "BT_727",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "魂缚灰舌",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "每当本随从受到伤害，对你的英雄造成等量的伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ben Olson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 57188,
+    "flavor": "向东流浪……一直向东去。",
+    "health": 3,
+    "id": "BT_728",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "变装游荡者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>召唤一个9/1的审判官。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 57189,
+    "flavor": "把废土扔进干垃圾桶，不然就把你铐起来！",
+    "health": 3,
+    "id": "BT_729",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "废土守望者",
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>\n对一个随从及所有相同类型的其他随从造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sam Nielson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 57190,
+    "flavor": "“我最强力！你是弱鸡！”",
+    "health": 6,
+    "id": "BT_730",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "狂傲的兽人",
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽</b>\n当有所有生命值时，本随从拥有+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 57191,
+    "flavor": "无防护措施的活动极易造成传染，请不要模仿。",
+    "health": 2,
+    "id": "BT_731",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "传染孢子",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "在对随从造成伤害后，将其变为\n传染孢子。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 6,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 57192,
+    "flavor": "说说你的需求吧，不过先说好，想找到一套六把的武器还是有难度的。",
+    "health": 3,
+    "id": "BT_732",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "食腐破坏魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>战吼：</b>造成6点伤害，随机分配到所有其他随从身上。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 57193,
+    "flavor": "听说工匠精神就是钻眼精神。",
+    "health": 4,
+    "id": "BT_733",
+    "name": "莫尔葛工匠",
+    "race": "DEMON",
+    "races": [
+      "MECHANICAL",
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "BLACK_TEMPLE",
+    "text": "所有随从受到的法术伤害翻倍。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Clint Langley",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 57194,
+    "flavor": "但你仍会有遭到攻击的感觉。",
+    "health": 12,
+    "id": "BT_734",
+    "name": "渊狱至尊",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BLACK_TEMPLE",
+    "text": "无法攻击英雄。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 7,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 57195,
+    "elite": true,
+    "flavor": "#679周：依然没出坐骑……",
+    "health": 3,
+    "id": "BT_735",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "奥",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>亡语：</b>召唤一个0/3的可以在你的下个回合\n复活本随从的“奥的灰烬”。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 57197,
+    "elite": true,
+    "flavor": "直接投入恶魔监狱。无法攻击随从，无法收取法力水晶。",
+    "health": 3,
+    "id": "BT_737",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛维·影歌",
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "targetingArrowText": "选择一个随从。",
+    "text": "<b>战吼：</b>\n选择一个随从。使其<b>休眠</b>2回合。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 12,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 58549,
+    "elite": true,
+    "flavor": "外域的入侵者，自异世而来，企图征服世界……却被另一个外域的入侵者，自异世而来的精灵所征服。",
+    "health": 12,
+    "id": "BT_850",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛瑟里顿",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>休眠</b>。\n<b>战吼：</b>为你的对手召唤三个1/3的典狱官。当她们死亡时，消灭所有随从并唤醒。",
+    "type": "MINION"
+  }
+]

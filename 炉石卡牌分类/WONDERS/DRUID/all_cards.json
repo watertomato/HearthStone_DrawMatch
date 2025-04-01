@@ -1,0 +1,267 @@
+[
+  {
+    "artist": "Ralph Horsley",
+    "attack": 6,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102523,
+    "flavor": "他既是骑手又是坐骑，所以入场门票给打了折扣。",
+    "health": 6,
+    "id": "WON_003",
+    "name": "荒野骑士",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "在本局对战中，你每召唤过一只野兽，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102529,
+    "flavor": "腐化灰熊曾在森林里袭击过一个猎人。后来那个猎人奇迹般活了下来，并转行做了演员，听说后来还得了奖。",
+    "health": 3,
+    "id": "WON_009",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "腐化灰熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "在你召唤一只野兽后，使其获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Cole Eastburn",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102500,
+    "flavor": "琥珀编织技术只有在特殊的职业技校才能学到。",
+    "health": 5,
+    "id": "WON_010",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "卡拉克西织珀者",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>\n如果你的克苏恩至少有10点攻击力，便获得+5生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Oliver Chipping",
+    "attack": 9,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 102530,
+    "elite": true,
+    "flavor": "玛洛恩之所以讨厌恶魔，是因为他不理解为什么这些又脏又臭的生物会长着和他一样的蹄子。",
+    "health": 7,
+    "id": "WON_011",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "玛洛恩",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>亡语：</b>进入<b>休眠</b>状态。在2只友方野兽死亡后复活。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Velvet Engine",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 102531,
+    "elite": true,
+    "flavor": "她最喜欢别人说她像翠迪了，我保证。",
+    "health": 5,
+    "id": "WON_012",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "艾维娜",
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "你的随从牌的法力值消耗为（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "John Loren",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102532,
+    "flavor": "年迈的师父需要找几个才质俱佳的弟子。",
+    "health": 2,
+    "id": "WON_013",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "老鼠师父",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼，亡语：</b>将两张1/1并具有<b>嘲讽</b>的龟置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 102537,
+    "flavor": "2022年《炉石传说》最具内部争议卡牌排行榜第3位。",
+    "id": "WON_014",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "鼓舞",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>获得一个空的法力水晶；或者抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 102538,
+    "flavor": "在流沙之战后，塞纳里奥要塞变成了一座战略前哨站，时刻提防克苏恩的大军卷土重来。",
+    "health": 2,
+    "id": "WON_015",
+    "name": "塞纳里奥要塞",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "在本回合中，你的下一张<b>抉择</b>牌同时拥有两种效果。",
+    "type": "LOCATION"
+  },
+  {
+    "artist": "Dany Orizio",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102993,
+    "flavor": "上课禁止携带胡萝卜。",
+    "health": 4,
+    "id": "WON_300",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "兔妖教头",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "targetingArrowText": "获得+3/+3。",
+    "text": "<b>战吼：</b>使一个友方野兽获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 103109,
+    "flavor": "金窝银窝不如自己的泥潭，说什么也不会卖的！",
+    "health": 4,
+    "id": "WON_302",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "泥潭守护者",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>抉择：</b>召唤一个2/2的泥浆怪；或者获得一个空的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103193,
+    "flavor": "如何为其称重，这是一个问题。",
+    "health": 6,
+    "id": "WON_303",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "青玉巨兽",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "JADE_GOLEM"
+    ],
+    "set": "WONDERS",
+    "text": "<b>嘲讽，战吼：</b>召唤一个{0}的<b>青玉魔像</b>。0<b>嘲讽，战吼：</b>召唤一个<b>青玉魔像</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nutchapol Thitinunthakorn",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 103194,
+    "flavor": "黑夜给了它黑色的眼睛，它却用来寻找古神。",
+    "health": 7,
+    "id": "WON_304",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "黑暗鸦人",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>使你的克苏恩获得+4/+4<i>（无论它在哪里）。</i>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 5,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103195,
+    "flavor": "当太阳最后的光芒消失在地平线上后，展览馆的一切都活了过来，就如同被施了魔法般活灵活现地围绕在她身旁。",
+    "health": 4,
+    "id": "WON_305",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "展览馆守卫",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "targetingArrowText": "召唤一个复制。",
+    "text": "<b>战吼：</b>选择一个友方野兽，召唤一个它的复制。",
+    "type": "MINION"
+  }
+]

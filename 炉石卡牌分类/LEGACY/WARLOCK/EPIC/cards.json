@@ -1,0 +1,26 @@
+[
+  {
+    "artist": "Juyoung Oh",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103102,
+    "flavor": "可以锁住，难以留住。",
+    "health": 6,
+    "id": "CS3_003",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "邪魂狱卒",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "LEGACY",
+    "text": "<b>战吼：</b>使你的对手弃掉一张随从牌。<b>亡语：</b>移回弃掉的牌。",
+    "type": "MINION"
+  }
+]

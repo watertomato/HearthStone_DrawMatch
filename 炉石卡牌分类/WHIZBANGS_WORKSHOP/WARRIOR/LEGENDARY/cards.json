@@ -1,0 +1,48 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 7,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 103443,
+    "elite": true,
+    "flavor": "发明的精髓是爆炸！",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "TOY_607",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "发明家砰砰",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>复活两个不同的法力值消耗大于或等于（5）点的友方机械，并使其随机攻击敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Porubov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 102405,
+    "elite": true,
+    "flavor": "“谁都不许叫我机械腐面！”——机械腐面",
+    "health": 12,
+    "id": "TOY_906",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "机械腐面",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>嘲讽</b>。在本随从受到伤害后，随机获取两张<b>微型</b>牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "artist": "Studio Hive",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 75631,
+    "flavor": "熔岩鲨，嘟嘟嘟嘟嘟嘟。",
+    "health": 5,
+    "id": "TID_714",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY",
+      "DREDGE",
+      "TAUNT"
+    ],
+    "name": "火成熔岩吞食者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>嘲讽</b>，<b>战吼：</b><b>探底</b>。获得等同于选中的牌的法力值消耗的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 75635,
+    "flavor": "能清场的大号随从，还能叠甲？哇哦，这个设计元素太适合战士了。",
+    "health": 8,
+    "id": "TID_716",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "潮汐亡魂",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>造成5点伤害。获得8点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tanamaes Leejiarasaes",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 72113,
+    "durability": 0,
+    "flavor": "长了藤壶不要紧！做工精良的武器永远都好用。",
+    "health": 2,
+    "id": "TSC_913",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "艾萨拉的三叉戟",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "text": "<b>亡语：</b>将一张沉没的三叉戟置于你的牌库底。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72587,
+    "flavor": "不用怕，你的伤口会自动烧灼止血！",
+    "id": "TSC_939",
+    "name": "火焰熔铸",
+    "rarity": "COMMON",
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "FIRE",
+    "text": "摧毁你的武器，然后抽数量等同于其攻击力的牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 72590,
+    "flavor": "在数千米深的水下工作，压力真的很大。",
+    "id": "TSC_941",
+    "name": "保卫城市",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "text": "获得3点护甲值。召唤一个2/3并具有<b>嘲讽</b>的纳迦。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 51375,
+    "flavor": "“随从越多，我的财宝越多。狗头人就这么算账！”",
+    "id": "DAL_010",
+    "name": "托瓦格尔的阴谋",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "选择一个随从。将它的1张复制洗入你的牌库。<i>（每回合都会升级！）</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 52603,
+    "flavor": "她这儿什么都有——除了底线和职业道德。",
+    "health": 3,
+    "id": "DAL_714",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "下水道销赃人",
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DALARAN",
+    "text": "<b>战吼：</b>如果你手牌中有另一职业的卡牌，则获得+1/+1和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 52606,
+    "flavor": "一位恨意满满的复仇老手，扮演着受害与加害者的双重角色。",
+    "id": "DAL_716",
+    "name": "宿敌",
+    "rarity": "RARE",
+    "set": "DALARAN",
+    "text": "对一个随从造成$4点伤害。如果你的手牌中有另一职业的卡牌，则法力值消耗为（0）点。",
+    "type": "SPELL"
+  }
+]

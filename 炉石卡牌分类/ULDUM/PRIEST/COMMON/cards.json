@@ -1,0 +1,56 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53932,
+    "flavor": "“你猜发生了什么！我们又有了一只新的小猫。”",
+    "id": "ULD_265",
+    "name": "防腐仪式",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "ULDUM",
+    "text": "使一个随从获得<b>复生</b>。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "A.J. Nazzaro",
+    "attack": 5,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 53969,
+    "flavor": "曾经carry过全场的大牛。",
+    "health": 5,
+    "id": "ULD_270",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "沙蹄搬水工",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "text": "在你的回合结束时，为一个受伤的友方角色恢复#5点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 54425,
+    "flavor": "这就是不和牧师好好说话的下场。",
+    "id": "ULD_714",
+    "mechanics": [
+      "LIFESTEAL"
+    ],
+    "name": "苦修",
+    "rarity": "COMMON",
+    "set": "ULDUM",
+    "spellSchool": "HOLY",
+    "text": "<b>吸血</b>\n对一个随从造成$3点伤害。",
+    "type": "SPELL"
+  }
+]

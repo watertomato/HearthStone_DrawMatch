@@ -1,0 +1,66 @@
+[
+  {
+    "artist": "Rock Niu",
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 46897,
+    "flavor": "虽然有些卑鄙，但造成的伤害可不打折！",
+    "id": "GIL_506",
+    "mechanics": [
+      "ECHO"
+    ],
+    "name": "偷袭",
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>回响</b>\n对一个随从造成\n$2点伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48199,
+    "flavor": "狐狸到底怎么叫？",
+    "health": 3,
+    "id": "GIL_827",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "闪狐",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>随机将一张<i>（你对手职业的）</i>卡牌置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 48585,
+    "flavor": "他生前表演吞剑刺破了喉咙。",
+    "health": 4,
+    "id": "GIL_902",
+    "mechanics": [
+      "COMBO"
+    ],
+    "name": "刺喉海盗",
+    "race": "PIRATE",
+    "races": [
+      "UNDEAD",
+      "PIRATE"
+    ],
+    "rarity": "COMMON",
+    "set": "GILNEAS",
+    "text": "<b>连击：</b>使你的武器获得+1攻击力。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97047,
+    "flavor": "“看！活生生的神话！”",
+    "health": 4,
+    "id": "TTN_078",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "神话观测者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "在你召唤一个攻击力高于本随从的随从后，使所有友方随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97049,
+    "flavor": "虫外真的有虫，我看到了！又大，又蓝，又吓人！",
+    "id": "TTN_079",
+    "name": "虫外有虫",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "使一个随从获得+2攻击力和“超过目标生命值的攻击伤害会命中敌方英雄。”",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 95967,
+    "flavor": "一定要放在对面的急救包底下。",
+    "id": "TTN_302",
+    "mechanics": [
+      "DISCOVER",
+      "FORGE"
+    ],
+    "name": "泰坦锻造陷阱",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "TITANS",
+    "text": "<b>发现</b>并施放一个<b>奥秘</b>。<b>锻造：</b>发现并施放两次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Vladimir Kafanov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100989,
+    "flavor": "“不对！我们要挖的不是这个！”",
+    "id": "YOG_505",
+    "isMiniSet": true,
+    "name": "兽性癫狂",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "SHADOW",
+    "text": "使你手牌，牌库和战场上的所有随从获得+1攻击力。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 100992,
+    "flavor": "虽然扭曲变形，但目前无法用于幻变模式。",
+    "health": 3,
+    "id": "YOG_506",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE",
+      "RUSH"
+    ],
+    "name": "扭曲的霜翼龙",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>。<b>亡语：</b>召唤一只属性值等同于本随从攻击力的奇美拉。",
+    "type": "MINION"
+  }
+]

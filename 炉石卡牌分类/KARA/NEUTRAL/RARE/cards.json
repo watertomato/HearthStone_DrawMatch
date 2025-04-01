@@ -1,0 +1,76 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 39210,
+    "flavor": "他最喜欢中古奇幻类的书籍，例如《戒指王》和《霜与火之歌》。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在上层塔中\n解锁制作。",
+    "id": "KAR_033",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "书卷之龙",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "RARE",
+    "set": "KARA",
+    "targetingArrowText": "消灭一个攻击力小于或等于3的敌方随从。",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，则消灭一个攻击力小于或等于3的敌方随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 39489,
+    "flavor": "浪漫喜剧类节目是他的最爱。",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_037",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "鸟禽守护者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET",
+      "TAUNT"
+    ],
+    "set": "KARA",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便获得+1/+1和<b>嘲讽</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jerry Mascho",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 39465,
+    "flavor": "他最喜欢潜水了，只看看不说话的那种。",
+    "health": 3,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_041",
+    "mechanics": [
+      "BATTLECRY",
+      "DEATHRATTLE"
+    ],
+    "name": "沟渠潜伏者",
+    "rarity": "RARE",
+    "set": "KARA",
+    "targetingArrowText": "消灭一个随从。",
+    "text": "<b>战吼：</b>消灭一个随从。<b>亡语：</b>再次召唤被消灭的随从。",
+    "type": "MINION"
+  }
+]

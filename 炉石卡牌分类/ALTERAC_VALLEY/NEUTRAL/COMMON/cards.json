@@ -1,0 +1,454 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 66880,
+    "flavor": "“我不管天有多热，我才不去当你们的中央空调。”",
+    "health": 5,
+    "howToEarnGolden": "完成成就“冰霜来啦”后解锁。",
+    "id": "AV_101",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "洛克霍拉的使者",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>抽一张冰霜法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 70219,
+    "flavor": "她要为阵营尽一份力。",
+    "health": 3,
+    "id": "AV_121",
+    "mechanics": [
+      "HONORABLE_KILL"
+    ],
+    "name": "侏儒列兵",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>荣誉消灭：</b>获得+2攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 70220,
+    "flavor": "当他坐在墓地里等复活的时候，他就是下世了的下士。",
+    "health": 3,
+    "id": "AV_122",
+    "mechanics": [
+      "HONORABLE_KILL"
+    ],
+    "name": "下士",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>荣誉消灭：</b>使你的其他随从获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 70221,
+    "flavor": "你知道不会潜行的斥候叫什么吗？叫活靶子。",
+    "health": 2,
+    "id": "AV_123",
+    "mechanics": [
+      "HONORABLE_KILL",
+      "STEALTH"
+    ],
+    "name": "潜匿斥候",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>潜行</b>，<b>荣誉消灭：</b>\n你的下一个英雄技能的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70223,
+    "flavor": "骑在狼背上的时候，冲到哪里是狼说了算，你只能提提建议。",
+    "health": 5,
+    "id": "AV_124",
+    "mechanics": [
+      "HONORABLE_KILL"
+    ],
+    "name": "恐狼指挥官",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "STEALTH"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>荣誉消灭：</b>\n召唤一只2/2并具有<b>潜行</b>的狼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juyoung Oh",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 70225,
+    "flavor": "这是奥山最棒的头盔。",
+    "health": 4,
+    "id": "AV_125",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "塔楼中士",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>如果你控制至少两个其他随从，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70226,
+    "flavor": "这是奥山最棒的发型。",
+    "health": 4,
+    "id": "AV_126",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "碉堡中士",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>如果你的对手拥有2个或者更多随从，对所有敌方随从造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 70227,
+    "flavor": "我们找到的那柄古老的冰锤上肯定附着什么魔法。",
+    "health": 5,
+    "id": "AV_127",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "冰雪亡魂",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "每当你施放一个冰霜法术，便获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 70231,
+    "flavor": "从没献过血，也从没想过献血这回事。",
+    "health": 7,
+    "id": "AV_129",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "血卫士",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "每当本随从受到伤害，使你的随从获得+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 9,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 70232,
+    "flavor": "<i>*与燃烧军团无关</i>",
+    "health": 3,
+    "id": "AV_130",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "军团士兵",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>亡语：</b>使你手牌中的所有随从牌获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 70234,
+    "flavor": "和她并肩作战是很危险的。",
+    "health": 3,
+    "id": "AV_131",
+    "mechanics": [
+      "BATTLECRY",
+      "HONORABLE_KILL"
+    ],
+    "name": "骑士队长",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "targetingArrowText": "造成3点伤害。",
+    "text": "<b>战吼：</b>造成3点伤害。<b>荣誉消灭：</b>获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 70235,
+    "flavor": "宁为百夫长，胜作一联盟。",
+    "health": 8,
+    "id": "AV_132",
+    "mechanics": [
+      "HONORABLE_KILL",
+      "RUSH"
+    ],
+    "name": "巨魔百夫长",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>突袭</b>，\n<b>荣誉消灭：</b>对敌方英雄造成8点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 70236,
+    "flavor": "我的斧子好像冻掉了！",
+    "health": 10,
+    "id": "AV_133",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "冰蹄护卫",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>嘲讽</b>\n<b>冻结</b>任何受到本随从伤害的角色。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Martin Sickree",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 67217,
+    "flavor": "角鹰兽杀疯了！",
+    "health": 7,
+    "howToEarnGolden": "完成成就“振翅小鸟”后解锁。",
+    "id": "AV_215",
+    "mechanics": [
+      "HONORABLE_KILL",
+      "RUSH"
+    ],
+    "name": "狂乱角鹰兽",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>突袭</b>，<b>荣誉消灭：</b>获得<b>风怒</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 67233,
+    "flavor": "推荐左右双羊生气，以获取最佳战场体验。",
+    "health": 2,
+    "howToEarnGolden": "完成成就“玛丽有只小羊羔”后解锁。",
+    "id": "AV_219",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "群羊指挥官",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>将两张1/1并具有<b>突袭</b>的山羊置入你的手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 67375,
+    "flavor": "啊！我这就换大号来！",
+    "health": 2,
+    "id": "AV_238",
+    "mechanics": [
+      "STEALTH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "伏兵",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>潜行</b>\n在你的对手使用一张随从牌后，攻击该随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Martin Sickree",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 79979,
+    "flavor": "全靠橡胶的弹力。",
+    "health": 4,
+    "id": "AV_256",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "反射工程师",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>使双方玩家手牌中所有随从牌的攻击力和生命值互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 67753,
+    "flavor": "被背，被背，被背哦哦！",
+    "health": 1,
+    "id": "AV_309",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "被背小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>亡语：</b>召唤一个4/1的小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 70400,
+    "flavor": "冷冻的漏斗蛋糕尝起来就像冰淇淋。如果你的想象力够强的话。",
+    "health": 2,
+    "id": "AV_401",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "雷矛军需官",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "在你施放一个法术后，随机使你手牌中的一张随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 8,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 67927,
+    "flavor": "“巨型的什么？”——托鲁格的临终遗言",
+    "health": 4,
+    "id": "AV_704",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "巨型猫头鹰",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>亡语：</b>随机对一个敌人造成8点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 71226,
+    "flavor": "雏龙海战术未必有效，但它们咬起人来是真的疼。",
+    "health": 6,
+    "id": "ONY_001",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥妮克希亚守卫",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便召唤两条2/1并具有<b>突袭</b>的雏龙。",
+    "type": "MINION"
+  }
+]

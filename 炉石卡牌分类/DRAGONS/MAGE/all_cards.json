@@ -1,0 +1,211 @@
+[
+  {
+    "artist": "Charlene LeScanff",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54901,
+    "flavor": "特别能吃书！",
+    "health": 3,
+    "id": "DRG_102",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER",
+      "SPELLPOWER"
+    ],
+    "name": "碧蓝龙探险者",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>\n<b>战吼：</b><b>发现</b>一张\n龙牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54904,
+    "elite": true,
+    "flavor": "和巨龙之魂有点像——如果巨龙有这种冷冰冰的灵魂。",
+    "health": 5,
+    "id": "DRG_104",
+    "name": "齐恩瓦拉",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "你在一回合中施放三个法术后，召唤一个5/5的元素。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54906,
+    "flavor": "食用奥术饼干的众多副作用之一。",
+    "id": "DRG_106",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "奥术吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "ARCANE",
+    "text": "对一个随从造成$2点伤害。如果你的手牌中有龙牌，便<b>发现</b>一张法术牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54907,
+    "flavor": "一鸟在手，抵得三弹在坟。",
+    "health": 1,
+    "id": "DRG_107",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "紫罗兰魔翼鸦",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL",
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>亡语：</b>将一张“奥术飞弹”法术牌置入你的\n手牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "SARIYA",
+    "attack": 8,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 54909,
+    "flavor": "刷卡越多，折扣越多，巨型惊喜等着你！",
+    "health": 8,
+    "id": "DRG_109",
+    "name": "法力巨人",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "text": "在本局对战中，你每使用一张你的套牌之外的卡牌，本牌的法力值消耗便\n减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 56161,
+    "elite": true,
+    "flavor": "官宣：也可以叫他玛里狗斯。",
+    "health": 8,
+    "id": "DRG_270",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "织法巨龙玛里苟斯",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>\n如果你的手牌中有龙牌，便<b>发现</b>一张升级过的法师法术牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55276,
+    "flavor": "他们为什么不往前后跑呢？",
+    "id": "DRG_321",
+    "mechanics": [
+      "ImmuneToSpellpower"
+    ],
+    "name": "火球滚滚",
+    "rarity": "EPIC",
+    "set": "DRAGONS",
+    "spellSchool": "FIRE",
+    "text": "对一个随从造成$8点伤害，超过其生命值的伤害将由左侧或右侧的随从承担。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "David Kegg",
+    "attack": 4,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55280,
+    "flavor": "金卡加了很多特效上去，魔法duang的一下，很亮，很柔，玩家一定会骂我，根本没有这样的魔法。",
+    "health": 4,
+    "id": "DRG_322",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "乘龙法师",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，在本回合中你所施放的下一个法术的法力值消耗为（0）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55281,
+    "flavor": "直到拿起初阶法术教材，雷诺才意识到自己不会龙语。",
+    "id": "DRG_323",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "学习龙语",
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n消耗8点法力值用于法术牌上。<b>奖励：</b>召唤一条6/6的龙。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55283,
+    "flavor": "幸好接住雷诺的不是火元素。",
+    "id": "DRG_324",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "元素盟军",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>支线任务：</b>\n连续两个回合使用元素牌。<b>奖励：</b>从你的牌库中抽三张法术牌。",
+    "type": "SPELL"
+  }
+]

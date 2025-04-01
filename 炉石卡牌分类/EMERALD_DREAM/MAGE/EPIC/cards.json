@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Mike Sass",
+    "attack": 2,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 116462,
+    "flavor": "静聆小精灵，小精灵径临。",
+    "health": 1,
+    "id": "EDR_871",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "灵体采集者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "IMBUE"
+    ],
+    "set": "EMERALD_DREAM",
+    "text": "<b>战吼：</b>获取\n一张小精灵。<b>灌注</b>你的英雄技能。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & R. Kamen",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 116980,
+    "flavor": "众所周知，月火术和星火术的威力大致相同。",
+    "id": "EDR_874",
+    "name": "星体平衡",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SPELLPOWER"
+    ],
+    "set": "EMERALD_DREAM",
+    "spellSchool": "ARCANE",
+    "text": "获取一张月火术和一张星火术，使其获得<b>法术伤害+1</b>。",
+    "type": "SPELL"
+  }
+]

@@ -1,0 +1,411 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 76282,
+    "flavor": "每到夜深人静，他就会带着一群小鬼潜入暴风城，在法师塔的墙上到处涂鸦，比如写上一些“拉格纳罗斯最厉害！”之类的标语。",
+    "health": 4,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_BRM_006",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "小鬼首领",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当本随从受到伤害，召唤一个1/1的\n小鬼。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Luke Mancini",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 76283,
+    "flavor": "渊狱惩击者不同于一般的地狱火，红水晶所蕴含的强大能量在卡扎库斯的调校下，发挥出惊人的威力！",
+    "health": 6,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_CFM_751",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "渊狱惩击者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>对所有其他角色造成3点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan & Gabor",
+    "attack": 6,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 69520,
+    "flavor": "“地狱火！”——加拉克苏斯，燃烧军团的艾瑞达之王",
+    "health": 6,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_CS2_064",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐惧地狱火",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>对所有其他角色造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Horley Orlandelli",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 76281,
+    "flavor": "虽然他也拥有蓝色的，胖胖的身材，但他和某部动画片里的主角没关系。",
+    "health": 3,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_CS2_065",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "虚空行者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nicola Saviori",
+    "attack": 4,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 66259,
+    "flavor": "他其实没被困住，戴着这副链子只是为了震慑太过粗野的小鬼。",
+    "health": 10,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_CS3_021",
+    "mechanics": [
+      "TAUNT"
+    ],
+    "name": "被奴役的邪能领主",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>\n同时对其攻击目标相邻的随从造成伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Tom Baxa",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 111456,
+    "flavor": "别让那个随从知道他死后的样子。那惨象无可言状。",
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_EX1_316",
+    "name": "力量的代价",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "SHADOW",
+    "text": "使一个友方随从获得+4/+4，该随从会在回合结束时死亡。死得很惨。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 113309,
+    "flavor": "一定，一定，一定要仔细阅读每一条细则。",
+    "health": 5,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_FIX_SW_084",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "血缚小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当本随从攻击时，对你的英雄造成2点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Robb Shoberg",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102211,
+    "flavor": "“虚空！别调皮了，为师叫你呢，过来吧，虚空！”",
+    "health": 4,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_FP1_022",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "空灵召唤者",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>\n随机将一张恶魔牌从你的手牌置入战场。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 69734,
+    "flavor": "从此告别三缺一的烦恼了。",
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_GIL_191",
+    "name": "恶魔法阵",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FEL",
+    "text": "召唤四个1/1的小鬼。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 95714,
+    "flavor": "问题就在于他把卡牌衔在嘴里了。",
+    "health": 6,
+    "id": "CORE_ICC_218",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "咆哮魔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "每当本随从受到伤害，随机弃掉\n一张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 95743,
+    "flavor": "干了这一杯，喝完好上路！",
+    "health": 1,
+    "id": "CORE_ICC_903",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血色狂欢者",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "消灭一个友方随从。",
+    "text": "<b>战吼：</b>消灭一个友方随从，并获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jason Kang",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 79537,
+    "dbfId": 118011,
+    "flavor": "我们中间有个内鬼。",
+    "health": 1,
+    "id": "CORE_MAW_000",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "冒牌小鬼",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "targetingArrowText": "选择一个友方小鬼，变形成为一个它的复制。",
+    "text": "<b>战吼：</b>选择一个友方小鬼，变形成为一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Juan Calle",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 2,
+    "countAsCopyOfDbfId": 79538,
+    "dbfId": 118012,
+    "flavor": "不是我们点的火！",
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_MAW_001",
+    "isMiniSet": true,
+    "name": "纵火指控",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "FIRE",
+    "text": "选择一个随从，在你的英雄受到伤害后将其消灭。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 69736,
+    "flavor": "村民那充满魔性的舞步在艾泽拉斯造成了轰动，模仿者不计其数！",
+    "health": 1,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_OG_241",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "着魔村民",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>召唤一个1/1的暗影兽。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 1,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 1,
+    "countAsCopyOfDbfId": 77057,
+    "dbfId": 118063,
+    "flavor": "散发着知性的鬼未力。",
+    "health": 3,
+    "id": "CORE_REV_242",
+    "name": "慌乱的图书管理员",
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "你每控制一个小鬼，拥有+1攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Greco",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "countAsCopyOfDbfId": 79108,
+    "dbfId": 118104,
+    "flavor": "这其实是林恩的恶魔交响曲。她的音乐作品现在可能还不火，不过等着瞧吧！",
+    "id": "CORE_REV_372",
+    "name": "暗影华尔兹",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "PLACEHOLDER_202204",
+    "spellSchool": "SHADOW",
+    "text": "召唤一个3/5并具有<b>嘲讽</b>的影子。如果在本回合中有随从死亡，再召唤一个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 79142,
+    "dbfId": 118106,
+    "flavor": "你还是不适应暗影。我就生在暗影里！",
+    "health": 3,
+    "id": "CORE_REV_374",
+    "isMiniSet": true,
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "影裔魔",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>亡语：</b>使你手牌中法力值消耗最高的暗影法术牌的法力值消耗减少（3）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dave Allsop",
+    "attack": 3,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 69737,
+    "flavor": "它这一头时髦的脏辫秘诀在于焦油。",
+    "health": 8,
+    "howToEarn": "与术士职业一同解锁。",
+    "howToEarnGolden": "使用术士赢得50场对战后解锁。",
+    "id": "CORE_UNG_833",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "拉卡利地狱犬",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>，<b>战吼：</b>弃掉你手牌中法力值消耗最低的两张牌。",
+    "type": "MINION"
+  }
+]

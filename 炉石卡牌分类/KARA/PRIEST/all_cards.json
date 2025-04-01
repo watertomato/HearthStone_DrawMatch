@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Rafael Zanchetin",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 39468,
+    "flavor": "净化心灵的第一步，就是先把嘴闭上。",
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在展览馆中\n解锁制作。",
+    "id": "KAR_013",
+    "name": "净化",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SILENCE"
+    ],
+    "set": "KARA",
+    "spellSchool": "HOLY",
+    "text": "<b>沉默</b>一个友方随从，抽一张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39442,
+    "flavor": "宴会牧师最厉害的本领，就是圣言术：吃！",
+    "health": 6,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在宴会厅中\n解锁制作。",
+    "id": "KAR_035",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "宴会牧师",
+    "rarity": "COMMON",
+    "set": "KARA",
+    "text": "每当你施放一个法术，为你的英雄恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 3,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 39374,
+    "flavor": "人生如棋，落子无悔。",
+    "health": 4,
+    "howToEarn": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁。",
+    "howToEarnGolden": "加入“卡拉赞之夜”冒险模式，在歌剧院中\n解锁制作。",
+    "id": "KAR_204",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "玛瑙主教",
+    "rarity": "RARE",
+    "set": "KARA",
+    "text": "<b>战吼：</b>随机召唤一个在本局对战中死亡的友方随从。",
+    "type": "MINION"
+  }
+]

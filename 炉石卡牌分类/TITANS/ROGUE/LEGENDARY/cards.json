@@ -1,0 +1,50 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97642,
+    "elite": true,
+    "flavor": "在泰坦们离开了很久之后，米米尔隆有了一个设想，创造出足以匹敌泰坦之能的造物。他好像成功了！",
+    "health": 5,
+    "id": "TTN_721",
+    "mechanics": [
+      "TITAN"
+    ],
+    "name": "终极V-07-TR-0N",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "<b>泰钽</b>\n本随从的技能会在另一个随机友方随从身上重复。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 2,
+    "cardClass": "ROGUE",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 97078,
+    "elite": true,
+    "flavor": "卡牌趣文程序启动。",
+    "health": 5,
+    "id": "TTN_920",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "天才米米尔隆",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TITANS",
+    "text": "在你使用一张机械牌后，随机获取一张米米尔隆的小工具。",
+    "type": "MINION"
+  }
+]

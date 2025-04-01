@@ -1,0 +1,188 @@
+[
+  {
+    "artist": "Anton Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38329,
+    "flavor": "作为寄生虫最有趣的一刻就是破肚而出时吓宿主一跳……好吧，他们已经是死人了。",
+    "id": "OG_045",
+    "name": "寄生感染",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得\n“<b>亡语：</b>随机将一张野兽牌置入你的手牌”。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38377,
+    "flavor": "要是没打中鸭子，獒犬可是会笑话你的。",
+    "id": "OG_061",
+    "name": "搜寻猎物",
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "造成$1点伤害。召唤一个1/1的獒犬。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38584,
+    "flavor": "多亏了防火型护发素，炽炎蝙蝠才活到今天。",
+    "health": 1,
+    "id": "OG_179",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "炽炎蝙蝠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "text": "<b>亡语：</b>随机对一个敌人造成1点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38727,
+    "flavor": "总有人抱怨使用“动物伙伴”这张牌时，召唤出来的并不是他们想要的。现在好了，三个愿望，一次满足。",
+    "id": "OG_211",
+    "name": "兽群呼唤",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "召唤全部三个动物伙伴。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "E. Guiton & A. Bozonnet",
+    "attack": 3,
+    "battlegroundsPremiumDbfId": 58365,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38734,
+    "flavor": "听说除虱粉对治疗这种寄生感染有奇效。",
+    "health": 3,
+    "id": "OG_216",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "寄生恶狼",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "techLevel": 3,
+    "text": "<b>亡语：</b>召唤两只1/1的蜘蛛。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peter Stapleton",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38875,
+    "flavor": "他喜欢将猎物追得精疲力竭，再慢慢将其折磨致死。",
+    "health": 2,
+    "id": "OG_292",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "狼人追猎者",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "text": "<b>战吼：</b>使你手牌中所有<b>亡语</b>随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 8,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 38909,
+    "flavor": "据说艾泽拉斯所有的自助餐馆都拒绝使用沙虫肉，尽管它们的价格十分低廉。",
+    "health": 8,
+    "id": "OG_308",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "巨型沙虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "每当本随从攻击并消灭一个随从，可再次攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 6,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 38910,
+    "elite": true,
+    "flavor": "哈霍兰公主游荡在安其拉废墟的上空，梦想有朝一日能遇见自己的心上人，并为他生下成千上万个孩子。",
+    "health": 5,
+    "id": "OG_309",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "哈霍兰公主",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "OG",
+    "targetingArrowText": "触发一个<b>亡语</b>。",
+    "text": "<b>战吼：</b>触发一个友方随从的<b>亡语</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kan Liu",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38985,
+    "flavor": "有喜欢吃鲜肉的，就有喜欢吃腐肉的。",
+    "health": 5,
+    "id": "OG_325",
+    "name": "腐肉虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "OG",
+    "type": "MINION"
+  }
+]

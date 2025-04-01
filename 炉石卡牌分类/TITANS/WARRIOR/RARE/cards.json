@@ -1,0 +1,77 @@
+[
+  {
+    "artist": "Dany Orizio",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97678,
+    "flavor": "“他为什么气成这样？”“他在炉石的隐藏迷宫谜题里困了好多年了。”",
+    "health": 5,
+    "id": "TTN_466",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "米诺陶牛头人",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>突袭</b>\n每当本随从造成伤害时，获得等量的护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97697,
+    "flavor": "对某些厚岩客户特别敏感。",
+    "health": 2,
+    "id": "TTN_469",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "岩肤护甲商",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "text": "<b>战吼：</b>在本回合中，如果你的护甲值发生变化，抽两张牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 97052,
+    "flavor": "卡兹格罗斯的生活可谓是其乐熔熔。",
+    "id": "TTN_803",
+    "name": "熔铸",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "spellSchool": "FIRE",
+    "text": "随机使你手牌中的一张随从牌获得+3/+3。失去3点护甲值以重复一次。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Hideaki Takamura",
+    "attack": 2,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 100874,
+    "flavor": "“我要抱住他，缠紧他，亲切地叫他土灵乔治。”",
+    "health": 2,
+    "id": "YOG_501",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "历战无面者",
+    "rarity": "RARE",
+    "set": "TITANS",
+    "targetingArrowText": "变形成为它的复制。",
+    "text": "<b>战吼：</b>变形成为一个受伤的随从的复制。",
+    "type": "MINION"
+  }
+]

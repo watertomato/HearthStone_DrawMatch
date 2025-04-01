@@ -1,0 +1,61 @@
+[
+  {
+    "artist": "Hideaki Takamura",
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 61130,
+    "flavor": "演员受了伤，观众却以为是节目效果。",
+    "id": "DMF_224",
+    "name": "演员大接力",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DARKMOON_FAIRE",
+    "text": "召唤七个1/1并具有<b>突袭</b>的伊利达雷。在本回合中，如果他们全部死亡，再召唤七个。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61135,
+    "flavor": "杂耍学校竞争残酷，有时你需要踩着别人才能登上高处。",
+    "health": 1,
+    "id": "DMF_229",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "高跷艺人",
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>战吼：</b>抽一张牌。如果你在本回合中使用抽到的牌，使你的英雄在本回合中获得+4攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jakub Kasper",
+    "attack": 4,
+    "cardClass": "DEMONHUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 61271,
+    "flavor": "“小时候，我想拥有一把自己的武器。我的母亲告诉我：‘我看你像武器！’”",
+    "health": 3,
+    "id": "DMF_248",
+    "mechanics": [
+      "CORRUPT"
+    ],
+    "name": "魔钢处决者",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "set": "DARKMOON_FAIRE",
+    "text": "<b>腐蚀：</b>变为武器牌。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "artist": "Ozhill Studio",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 40428,
+    "flavor": "四害之首，曾给加基森的卫生安全带来极大的威胁。",
+    "health": 2,
+    "id": "CFM_316",
+    "mechanics": [
+      "DEATHRATTLE"
+    ],
+    "name": "瘟疫鼠群",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "EPIC",
+    "set": "GANGS",
+    "text": "<b>亡语：</b>召唤若干个1/1的老鼠，数量等同于本随从的攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Nick Southham",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 40683,
+    "durability": 0,
+    "flavor": "食人鱼当天的胃口决定了这把枪的威力大小。",
+    "health": 4,
+    "id": "CFM_337",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "食人鱼喷枪",
+    "rarity": "EPIC",
+    "set": "GANGS",
+    "text": "在你的英雄攻击后，召唤一个1/1的食人鱼。",
+    "type": "WEAPON"
+  }
+]

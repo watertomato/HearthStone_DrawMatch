@@ -1,0 +1,58 @@
+[
+  {
+    "artist": "Alex Konstad",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 38897,
+    "flavor": "在过去，她一个胳膊就能举起4面2吨重的盾牌，所以现在这点份量根本不在话下！",
+    "health": 6,
+    "id": "OG_301",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "上古之神护卫",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>\n如果你的克苏恩至少有10点攻击力，则获得10点护甲值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jim Nelson",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38918,
+    "flavor": "第二招叫化脓为血，将之前的过程反向来一遍，受害者多半是被恶心死的……",
+    "id": "OG_314",
+    "name": "化血为脓",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "对一个随从造成$1点伤害，如果它依然存活，则召唤一个2/2的泥浆怪。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 38920,
+    "flavor": "血帆海盗之所以干这行，是因为想要一只属于自己的血帆鹦鹉。",
+    "health": 4,
+    "id": "OG_315",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "血帆教徒",
+    "race": "PIRATE",
+    "races": [
+      "PIRATE"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>战吼：</b>如果你控制着其他海盗，使你的武器获得+1/+1。",
+    "type": "MINION"
+  }
+]

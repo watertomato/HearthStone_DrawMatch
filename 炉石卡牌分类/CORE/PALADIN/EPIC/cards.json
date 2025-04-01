@@ -1,0 +1,42 @@
+[
+  {
+    "artist": "Jason Kang",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "countAsCopyOfDbfId": 56443,
+    "dbfId": 120879,
+    "durability": 0,
+    "flavor": "“我要的明明是灰烬使者，不是灰尘使者！”",
+    "health": 2,
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得250场对战后解锁。",
+    "id": "CORE_BT_018",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "幽光鱼竿",
+    "rarity": "EPIC",
+    "set": "CORE",
+    "text": "在你的英雄攻击后，随机将一张鱼人牌置入你的手牌。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Vlad Botos",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 96917,
+    "flavor": "还会让你的动画效果加快20%。",
+    "howToEarn": "与圣骑士职业一同解锁。",
+    "howToEarnGolden": "使用圣骑士赢得250场对战后解锁。",
+    "id": "TTN_908",
+    "name": "十字军光环",
+    "rarity": "EPIC",
+    "set": "CORE",
+    "spellSchool": "HOLY",
+    "text": "每当一个友方随从攻击时，使其获得+2/+1。持续3回合。",
+    "type": "SPELL"
+  }
+]

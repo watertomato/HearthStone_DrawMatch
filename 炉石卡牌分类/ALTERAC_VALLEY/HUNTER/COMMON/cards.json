@@ -1,0 +1,105 @@
+[
+  {
+    "artist": "Studio Hive",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 67574,
+    "durability": 0,
+    "flavor": "你这话是什么意思？背后放箭毫无荣誉可言？！",
+    "health": 2,
+    "id": "AV_244",
+    "mechanics": [
+      "HONORABLE_KILL",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "觅血者",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>荣誉消灭：</b>获得+1/+1。",
+    "type": "WEAPON"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 70105,
+    "flavor": "别看它只是一只羊，羊儿的聪明难以想象。",
+    "health": 3,
+    "id": "AV_335",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "驯羊师",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "SECRET",
+      "STEALTH"
+    ],
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>如果你控制一个<b>奥秘</b>，便获得+1/+1和<b>潜行</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Todd Harris",
+    "attack": 5,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 70245,
+    "flavor": "如果它们想要你的野餐篮，我建议你乖乖地交出去。",
+    "health": 6,
+    "id": "AV_337",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "山岭野熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>嘲讽</b>，<b>亡语：</b>召唤两只2/4并具有<b>嘲讽</b>的山熊宝宝。",
+    "type": "MINION"
+  },
+  {
+    "artist": "L. Lullabi & A. Zemskov",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 71231,
+    "flavor": "不要和猎人做邻居。",
+    "id": "ONY_008",
+    "isMiniSet": true,
+    "name": "狂怒之嚎",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "抽一张牌。重复，直到你拥有至少三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Anzka Nguyen",
+    "attack": 4,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 71232,
+    "flavor": "“我来给你们取名字吧，你就叫贴身之裤，你叫抱抱之泡泡，你叫可爱之蛋糕，还有你……”",
+    "health": 4,
+    "id": "ONY_009",
+    "isMiniSet": true,
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "宠物收集者",
+    "rarity": "COMMON",
+    "set": "ALTERAC_VALLEY",
+    "text": "<b>战吼：</b>从你的牌库中召唤一只法力值消耗小于或等于（5）点的野兽。",
+    "type": "MINION"
+  }
+]

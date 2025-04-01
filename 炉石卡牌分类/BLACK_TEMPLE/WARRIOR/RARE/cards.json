@@ -1,0 +1,59 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 56512,
+    "flavor": "海盗最喜欢的藏宝地点是哪儿？是牌库最底下！",
+    "id": "BT_124",
+    "name": "海盗藏品",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "抽一张武器牌。使其获得+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivan Fomin",
+    "attack": 6,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 56732,
+    "flavor": "你大可以将古尔图格称为蛮兵。但明明没有人会像他这样关心伤员。",
+    "health": 8,
+    "id": "BT_138",
+    "mechanics": [
+      "RUSH"
+    ],
+    "name": "沸血蛮兵",
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>突袭</b>\n每有一个受伤的随从，本牌的法力值消耗便减少（1）点。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 57165,
+    "flavor": "这是我最后的护甲，收下吧！",
+    "health": 5,
+    "id": "BT_249",
+    "mechanics": [
+      "DEATHRATTLE",
+      "TAUNT"
+    ],
+    "name": "废铁魔像",
+    "race": "MECHANICAL",
+    "races": [
+      "MECHANICAL"
+    ],
+    "rarity": "RARE",
+    "set": "BLACK_TEMPLE",
+    "text": "<b>嘲讽</b>。<b>亡语：</b>获得等同于本随从攻击力的护甲值。",
+    "type": "MINION"
+  }
+]

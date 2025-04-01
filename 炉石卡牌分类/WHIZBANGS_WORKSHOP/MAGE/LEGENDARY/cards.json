@@ -1,0 +1,38 @@
+[
+  {
+    "artist": "Ramzy Kamen",
+    "attack": 5,
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 108515,
+    "elite": true,
+    "flavor": "卡德加卡德加告诉我，这世上白头发高个子又帅气的法师当中最聪明的是哪一个？",
+    "health": 5,
+    "id": "TOY_373",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "益智大师卡德加",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "text": "<b>战吼：</b>装备一个会施放有用的法师法术的0/6的魔法智慧之球！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Stone",
+    "cardClass": "MAGE",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 103354,
+    "elite": true,
+    "flavor": "仔细观察这枚球体，你能看见宇宙的扩展，包括空间和时间。哦，其实只是影像而已。",
+    "id": "TOY_378",
+    "name": "星空投影球",
+    "rarity": "LEGENDARY",
+    "set": "WHIZBANGS_WORKSHOP",
+    "spellSchool": "ARCANE",
+    "text": "再次施放你在本局对战中施放过的法术，每种法力值消耗各随机一个。<i>（尽可能以敌人为目标）</i>",
+    "type": "SPELL"
+  }
+]

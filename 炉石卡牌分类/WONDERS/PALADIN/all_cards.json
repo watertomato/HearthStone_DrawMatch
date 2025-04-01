@@ -1,0 +1,253 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102572,
+    "flavor": "如何骑上去，这是一个问题。",
+    "health": 4,
+    "id": "WON_045",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "象牙骑士",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b><b>发现</b>一张法术牌。为你的英雄恢复等同于其法力值消耗的生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Mike Azevedo",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102573,
+    "flavor": "嘿，你的科多兽不能停在这里！罚你200金币！",
+    "health": 4,
+    "id": "WON_046",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "污手街惩罚者",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "text": "在你的回合结束时，使你手牌中的所有随从牌获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 102575,
+    "flavor": "抓住最后一根救命稻草。",
+    "id": "WON_048",
+    "name": "圣疗术",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "spellSchool": "HOLY",
+    "text": "恢复#8点生命值，抽三张牌。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102576,
+    "flavor": "想进场得穿过拥挤的人群，太多忙着购物的人把走道堵得水泄不通……",
+    "id": "WON_049",
+    "name": "精英对决",
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "除了每个玩家攻击力最高的随从之外，消灭所有\n其他随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102578,
+    "flavor": "为了击败姆诺兹多与克苏恩合而为一的力量，诺兹多姆需要艾泽拉斯古今未来各个时空各路英雄的帮助。",
+    "id": "WON_051",
+    "name": "永时祝福",
+    "rarity": "RARE",
+    "set": "WONDERS",
+    "spellSchool": "HOLY",
+    "text": "随机使你手牌中的四张随从牌分别获得+4/+4，+3/+3，+2/+2和+1/+1。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Ivo Campelo da Silva",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 102579,
+    "flavor": "他来过这里。从某种意义上来说，他会在希利苏斯战斗不息，直到永远。",
+    "health": 5,
+    "id": "WON_052",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "青铜龙骑士",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "EPIC",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>如果本随从的攻击力大于或等于5点，召唤一个它的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 102580,
+    "elite": true,
+    "flavor": "泽瑞拉的女儿会在未来成长为守护时间的勇者；但诺兹多姆现在就需要她的帮助，需要她帮助现在。",
+    "health": 4,
+    "id": "WON_053",
+    "mechanics": [
+      "BATTLECRY",
+      "DISCOVER"
+    ],
+    "name": "时光探险者露妮",
+    "race": "DRAENEI",
+    "races": [
+      "DRAENEI"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>战吼：</b><b>发现</b>一张来自未来的地标牌！",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jimmy Lo",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103212,
+    "flavor": "和部落粗犷且朴素的整体风格相比，银月城可谓是东部王国的时尚之都。",
+    "id": "WON_309",
+    "name": "银月城传送门",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+2/+2。随机召唤一个法力值消耗为（2）的随从。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Phroilan Gardner",
+    "attack": 4,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103213,
+    "flavor": "大量优质圣盾批发价甩卖，要的带价密。",
+    "health": 3,
+    "id": "WON_310",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "夜色镇执法官",
+    "rarity": "RARE",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "WONDERS",
+    "text": "每当你召唤一个生命值为1的随从，便使其获得<b>圣盾</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "James Ryman",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103214,
+    "flavor": "只有死人才能离开奥达曼！",
+    "health": 4,
+    "id": "WON_311",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "奥达曼守护者",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "targetingArrowText": "变成3/3。",
+    "text": "<b>战吼：</b>\n将一个随从的攻击力和生命值变为3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 3,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 103215,
+    "elite": true,
+    "flavor": "燃鬃在污手党混迹多年，一直得不到重用。其中最主要的原因就是他开炮的速度太慢了，经常错过最佳时机。后来他把自己的胡子点着了，顺利得到了晋升。",
+    "health": 3,
+    "id": "WON_312",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "LIFESTEAL",
+      "TAUNT"
+    ],
+    "name": "燃鬃·自走炮",
+    "rarity": "LEGENDARY",
+    "set": "WONDERS",
+    "text": "<b>嘲讽</b>\n<b>吸血</b>。<b>圣盾</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 103236,
+    "flavor": "即便在最黑暗的岁月里，圣骑士也依然保持着他们的赤诚之心，誓要将光明与正义挥洒到世间的每一个角落。",
+    "id": "WON_333",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "黑暗曙光",
+    "rarity": "COMMON",
+    "set": "WONDERS",
+    "spellSchool": "HOLY",
+    "text": "<b>发现</b>一张圣骑士随从牌。使其获得+2/+2。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 5,
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 103237,
+    "flavor": "别看他出言不逊，玩世不恭，其实他是个很内向的人。",
+    "health": 5,
+    "id": "WON_334",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "神秘挑战者",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "WONDERS",
+    "text": "<b>战吼：</b>将每种不同的<b>奥秘</b>从你的牌库中置入战场。",
+    "type": "MINION"
+  }
+]

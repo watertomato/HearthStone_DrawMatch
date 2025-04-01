@@ -1,0 +1,39 @@
+[
+  {
+    "artist": "Grace Liu",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 38340,
+    "flavor": "禁忌古树在自己的套牌里放满了砰砰博士，因此旅店里没人愿意跟它玩。",
+    "health": 1,
+    "id": "OG_051",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "禁忌古树",
+    "rarity": "EPIC",
+    "set": "OG",
+    "text": "<b>战吼：</b>消耗你所有的法力值，每消耗一点法力值，便获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Skan Srisuwan",
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 38655,
+    "flavor": "只不过是打上了“上古之神”的商标，其实和普通的小精灵并无二致。",
+    "id": "OG_195",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "上古之神的小精灵",
+    "rarity": "EPIC",
+    "set": "OG",
+    "spellSchool": "NATURE",
+    "text": "<b>抉择：</b>召唤七个1/1的小精灵；或者使你的所有随从获得+2/+2。",
+    "type": "SPELL"
+  }
+]

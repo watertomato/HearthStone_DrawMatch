@@ -1,0 +1,55 @@
+[
+  {
+    "artist": "Dave Allsop",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 859,
+    "flavor": "扭曲虚空浩渺无际，充满着魔法、幻象和被放逐的生命体。",
+    "id": "EX1_312",
+    "name": "扭曲虚空",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "消灭所有随从和地标。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Glenn Rane",
+    "attack": 5,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 783,
+    "flavor": "或许玛诺洛斯、玛瑟里顿和布鲁塔卢斯都已经死了，但其实深渊领主还有很多很多。",
+    "health": 6,
+    "id": "EX1_313",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "深渊领主",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "text": "<b>战吼：</b>对你的英雄造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Raymond Swanland",
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 23,
+    "flavor": "福无双至，祸不单行。",
+    "id": "EX1_320",
+    "name": "末日灾祸",
+    "rarity": "EPIC",
+    "set": "EXPERT1",
+    "spellSchool": "SHADOW",
+    "text": "对一个角色造成$3点伤害。如果消灭该角色，随机召唤一个恶魔。",
+    "type": "SPELL"
+  }
+]

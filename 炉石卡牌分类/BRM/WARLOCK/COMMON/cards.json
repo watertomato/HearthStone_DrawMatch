@@ -1,0 +1,27 @@
+[
+  {
+    "artist": "Steve Prescott",
+    "attack": 2,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 2288,
+    "flavor": "每到夜深人静，他就会带着一群小鬼潜入暴风城，在法师塔的墙上到处涂鸦，比如写上一些“拉格纳罗斯最厉害！”之类的标语。",
+    "health": 4,
+    "howToEarn": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁。",
+    "howToEarnGolden": "加入“黑石山的火焰”冒险模式，在熔火之心中解锁制作。",
+    "id": "BRM_006",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "小鬼首领",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "COMMON",
+    "set": "BRM",
+    "text": "每当本随从受到伤害，召唤一个1/1的\n小鬼。",
+    "type": "MINION"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "artist": "Daniil Kudriavtsev",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 80117,
+    "flavor": "海底沙滩上划好了线，潮汐王座之战开始了。",
+    "id": "TID_949",
+    "isMiniSet": true,
+    "name": "战争前线",
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "text": "从每个玩家的牌库中各召唤一个随从。重复，直到任意一方的随从数量达到上限。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grace Liu",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 10,
+    "dbfId": 73434,
+    "flavor": "蓓蕾在此绝迹，贝类在此崛起。",
+    "id": "TSC_061",
+    "name": "花园惠景",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "THE_SUNKEN_CITY",
+    "spellSchool": "HOLY",
+    "text": "使一个随从获得+4/+4和<b>圣盾</b>。在本局对战中，你每消耗1点法力值用于神圣法术牌上，本牌的法力值消耗便减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Sergey Tsvelykh",
+    "cardClass": "PALADIN",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 76250,
+    "flavor": "“嗯，我完全不会用雷达。”",
+    "id": "TSC_079",
+    "name": "雷达探测",
+    "rarity": "EPIC",
+    "set": "THE_SUNKEN_CITY",
+    "text": "扫描你牌库底的5张牌。抽取探测到的机械牌，然后洗混你的牌库。",
+    "type": "SPELL"
+  }
+]

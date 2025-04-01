@@ -1,0 +1,167 @@
+[
+  {
+    "artist": "Ludo Lullabi",
+    "attack": 12,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 111461,
+    "elite": true,
+    "flavor": "咬住那个，再咬一口第二个，抓住这个，再把那个整个吞掉……",
+    "health": 12,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得500场对战后解锁。",
+    "id": "CORE_DRG_026",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯狂巨龙死亡之翼",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>攻击所有其他随从。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 76301,
+    "elite": true,
+    "flavor": "要么以恶人之名死去，要么活下来直到你变成一个英雄。",
+    "health": 5,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得500场对战后解锁。",
+    "id": "CORE_GIL_547",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "达利乌斯·克罗雷",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>\n在克罗雷攻击并消灭一个随从后，获得+2/+2。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 95741,
+    "elite": true,
+    "flavor": "爸爸！我觉得我创造了一个传说！",
+    "health": 6,
+    "id": "CORE_ICC_405",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "腐面",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "在本随从受到伤害并存活下来后，随机召唤一个<b>传说</b>随从。",
+    "type": "MINION"
+  },
+  {
+    "armor": 5,
+    "artist": "Greg Staples",
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 95745,
+    "elite": true,
+    "flavor": "“你敢挑战我？来啊！马上你就会咽下最后一口气——然后，你就是我的了。”",
+    "health": 30,
+    "heroPowerDbfId": 45585,
+    "id": "CORE_ICC_834",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "天灾领主加尔鲁什",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>装备一把4/3的影之哀伤，影之哀伤同时对其攻击目标相邻的随从造成伤害。",
+    "type": "HERO"
+  },
+  {
+    "artist": "Daniil Kudriavtsev",
+    "attack": 5,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 7,
+    "countAsCopyOfDbfId": 77704,
+    "dbfId": 118081,
+    "elite": true,
+    "flavor": "凶器究竟是铅管……烛台……还是这把富有灵性，癫狂，又嗜血的剑？",
+    "health": 10,
+    "id": "CORE_REV_316",
+    "mechanics": [
+      "RUSH",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "活体利刃蕾茉妮雅",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>突袭</b>\n在本随从攻击后，装备它。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Paul Mafayon",
+    "attack": 3,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "countAsCopyOfDbfId": 77313,
+    "dbfId": 118153,
+    "elite": true,
+    "flavor": "找到她了！",
+    "hasDiamondSkin": true,
+    "health": 7,
+    "id": "CORE_REV_934",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "屠戮者奥格拉",
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>战吼：</b>每有一个受伤的随从，便获得+1/+1，然后攻击所有敌人。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Jaemin Kim",
+    "attack": 4,
+    "cardClass": "WARRIOR",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 97326,
+    "elite": true,
+    "flavor": "或许我们永远都不会知道究竟是什么招惹了它，但我们永远都不会忘记招惹它的后果。",
+    "health": 8,
+    "howToEarn": "与战士职业一同解锁。",
+    "howToEarnGolden": "使用战士赢得500场对战后解锁。",
+    "id": "CORE_ULD_258",
+    "mechanics": [
+      "TAUNT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "硕铠鼠",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "PLACEHOLDER_202204",
+    "text": "<b>嘲讽</b>\n在你的回合结束时，使你手牌中所有<b>嘲讽</b>随从牌获得+2/+2。",
+    "type": "MINION"
+  }
+]

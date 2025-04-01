@@ -1,0 +1,26 @@
+[
+  {
+    "artist": "James Ryman",
+    "attack": 9,
+    "cardClass": "WARLOCK",
+    "collectible": true,
+    "cost": 9,
+    "dbfId": 40537,
+    "elite": true,
+    "flavor": "“只有能驾驭恶魔的人，才有资格成为一个术士”。斯匹克·菲兹把这段话刻在了自己的项链上。",
+    "health": 9,
+    "id": "CFM_750",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "唤魔者克鲁尔",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "GANGS",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则召唤你手牌中的所有\n恶魔。",
+    "type": "MINION"
+  }
+]

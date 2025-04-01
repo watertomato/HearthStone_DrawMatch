@@ -1,0 +1,64 @@
+[
+  {
+    "artist": "Cole Eastburn",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38621,
+    "flavor": "琥珀编织技术只有在特殊的职业技校才能学到。",
+    "health": 5,
+    "id": "OG_188",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "卡拉克西织珀者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>\n如果你的克苏恩至少有10点攻击力，便获得+5生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 3,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 38718,
+    "flavor": "金窝银窝不如自己的泥潭，说什么也不会卖的！",
+    "health": 4,
+    "id": "OG_202",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "泥潭守护者",
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "<b>抉择：</b>召唤一个2/2的泥浆怪；或者获得一个空的法力水晶。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Andrew Hou",
+    "attack": 2,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 2,
+    "dbfId": 38916,
+    "flavor": "腐化灰熊曾在森林里袭击过一个猎人。后来那个猎人奇迹般活了下来，并转行做了演员，听说最近还得了奖。",
+    "health": 3,
+    "id": "OG_313",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "腐化灰熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "OG",
+    "text": "在你召唤一只野兽后，使其获得+1/+1。",
+    "type": "MINION"
+  }
+]

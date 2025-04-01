@@ -1,0 +1,40 @@
+[
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 53924,
+    "elite": true,
+    "flavor": "“哈哈……又有新素材可以做卡背了。”",
+    "id": "ULD_155",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "打开宝库",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>任务：</b>召唤20个随从。<b>奖励：</b>法老的面盔。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & K. Turovec",
+    "attack": 2,
+    "cardClass": "HUNTER",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 53926,
+    "elite": true,
+    "flavor": "布莱恩的恐龙训练计划进展顺利——他现在已经学会坐下，起立，还有打滚啦！",
+    "health": 4,
+    "id": "ULD_156",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "恐龙大师布莱恩",
+    "rarity": "LEGENDARY",
+    "set": "ULDUM",
+    "text": "<b>战吼：</b>如果你的牌库里没有相同的牌，则召唤暴龙王克鲁什。",
+    "type": "MINION"
+  }
+]

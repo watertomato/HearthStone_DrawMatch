@@ -1,0 +1,53 @@
+[
+  {
+    "artist": "Ivan Fomin",
+    "attack": 1,
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 59579,
+    "flavor": "三更灯火五更鸡，新生眼皮抬不起。",
+    "health": 4,
+    "id": "SCH_137",
+    "name": "疲倦的大一新生",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "type": "MINION"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "PRIEST",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 58974,
+    "flavor": "参加龙族研习项目的学生大概率会被烧得油尽灯枯。",
+    "id": "SCH_233",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "龙族研习",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "text": "<b>发现</b>一张龙牌。你的下一张龙牌法力值消耗减少（1）点。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "cardClass": "PRIEST",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "collectible": true,
+    "cost": 0,
+    "dbfId": 59223,
+    "flavor": "从专业角度讲，这个算是迟到的治疗法术。",
+    "id": "SCH_514",
+    "name": "亡者复生",
+    "rarity": "COMMON",
+    "set": "SCHOLOMANCE",
+    "spellSchool": "SHADOW",
+    "text": "对你的英雄造成$3点伤害。将两个在本局对战中死亡的友方随从移回你的手牌。",
+    "type": "SPELL"
+  }
+]

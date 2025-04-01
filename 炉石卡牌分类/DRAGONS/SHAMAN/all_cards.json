@@ -1,0 +1,234 @@
+[
+  {
+    "artist": "Matt Dixon",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55643,
+    "elite": true,
+    "flavor": "他最拿手的还是模仿沙德沃克。",
+    "health": 5,
+    "id": "DRG_096",
+    "name": "班德斯莫什",
+    "rarity": "LEGENDARY",
+    "set": "DRAGONS",
+    "text": "如果这张牌在你的手牌中，每个回合都会随机变成一张<b>传说</b>随从牌的5/5的复制。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Gimaldinov",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 54956,
+    "flavor": "窗外天气多可怕……猎风巨龙乐开花！我们走过这条小路——过载啦！过载啦！",
+    "health": 7,
+    "id": "DRG_211",
+    "mechanics": [
+      "OVERLOAD",
+      "SPELLPOWER"
+    ],
+    "name": "猎风巨龙",
+    "overload": 2,
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "COMMON",
+    "set": "DRAGONS",
+    "spellDamage": 1,
+    "text": "<b>法术伤害+2</b>\n<b>过载：</b>（2）",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54965,
+    "flavor": "要摧毁一个热气球，需要几条巨龙？一，二，三，嘭！",
+    "id": "DRG_215",
+    "mechanics": [
+      "OVERLOAD"
+    ],
+    "name": "风暴狂怒",
+    "overload": 1,
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "使你的所有随从获得+1/+1。\n<b>过载：</b>（1）",
+    "type": "SPELL"
+  },
+  {
+    "artist": "MAR Studio",
+    "attack": 1,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 54966,
+    "flavor": "“过载了？应该装个电涌保护器的。”",
+    "health": 3,
+    "id": "DRG_216",
+    "name": "电涌风暴",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "COMMON",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "DRAGONS",
+    "text": "当你有<b>过载</b>的法力水晶时，拥有+1\n攻击力。",
+    "type": "MINION"
+  },
+  {
+    "artist": "MAR Studio",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54967,
+    "flavor": "每一个巨龙的兽群至少抵得上一张稀有卡牌。",
+    "id": "DRG_217",
+    "name": "巨龙的兽群",
+    "rarity": "EPIC",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "DRAGONS",
+    "text": "召唤两只2/3并具有<b>嘲讽</b>的幽灵狼。如果你已经<b>祈求</b>过两次，则使它们获得+3/+3。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Rafael Zanchetin",
+    "attack": 3,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 54969,
+    "flavor": "她最爱的视觉元素就是角。",
+    "health": 3,
+    "id": "DRG_218",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "堕落的元素师",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b><b>祈求</b>迦拉克隆两次。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 54971,
+    "flavor": "配料表：一条巨龙，一件毛衣，还需要干燥的天气。",
+    "id": "DRG_219",
+    "name": "闪电吐息",
+    "rarity": "RARE",
+    "set": "DRAGONS",
+    "spellSchool": "NATURE",
+    "text": "对一个随从造成$4点伤害。如果你的手牌中有龙牌，则同样对其相邻随从造成伤害。",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Evgeniy Dlinnov",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 55021,
+    "flavor": "“你们没有云娱乐设备吗？！”",
+    "health": 5,
+    "id": "DRG_223",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "遮天雨云",
+    "race": "ELEMENTAL",
+    "races": [
+      "ELEMENTAL"
+    ],
+    "rarity": "EPIC",
+    "referencedTags": [
+      "OVERLOAD"
+    ],
+    "set": "DRAGONS",
+    "targetingArrowText": "造成5点伤害。",
+    "text": "<b>战吼：</b>如果你有<b>过载</b>的法力水晶，造成5点伤害。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Peet Cooper",
+    "attack": 5,
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 6,
+    "dbfId": 55024,
+    "elite": true,
+    "flavor": "“你是霍格”读快了就成了尼索格。",
+    "health": 5,
+    "id": "DRG_224",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "尼索格",
+    "race": "DRAGON",
+    "races": [
+      "DRAGON"
+    ],
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤两个0/3的龙卵。下个回合它们将孵化为4/4并具有<b>突袭</b>的幼龙。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ludo Lullabi",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 1,
+    "dbfId": 55248,
+    "flavor": "迦拉克隆喜欢加冰的口感。",
+    "id": "DRG_248",
+    "name": "霜之祈咒",
+    "rarity": "COMMON",
+    "referencedTags": [
+      "FREEZE"
+    ],
+    "set": "DRAGONS",
+    "spellSchool": "FROST",
+    "text": "<b>冻结</b>一个敌人。<b>祈求</b>迦拉克隆。",
+    "type": "SPELL"
+  },
+  {
+    "armor": 5,
+    "artist": "Konstantin Turovec",
+    "cardClass": "SHAMAN",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 57427,
+    "elite": true,
+    "flavor": "哈加莎在风中呼喊：“诚然，您的威力可以与大漩涡相匹敌！”而风暴向她回答：“我就是大漩涡。”",
+    "health": 30,
+    "heroPowerDbfId": 55808,
+    "id": "DRG_620",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "风暴巨龙迦拉克隆",
+    "rarity": "LEGENDARY",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "DRAGONS",
+    "text": "<b>战吼：</b>召唤两个2/2并具有<b>突袭</b>的风暴。<i>（0）</i>",
+    "type": "HERO"
+  }
+]

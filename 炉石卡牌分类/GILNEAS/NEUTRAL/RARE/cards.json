@@ -1,0 +1,206 @@
+[
+  {
+    "artist": "Jim Nelson",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 46674,
+    "flavor": "他看起来疯疯癫癫的，可又有哪个地精不是呢……",
+    "health": 2,
+    "id": "GIL_125",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "疯帽客",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>随机向其他随从丢出三顶帽子。每顶帽子可使随从获得+1/+1。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 8,
+    "dbfId": 46601,
+    "flavor": "坦白讲，她们对利亚姆王子的死负有不可推卸的责任。",
+    "health": 8,
+    "id": "GIL_202",
+    "mechanics": [
+      "DIVINE_SHIELD",
+      "RUSH"
+    ],
+    "name": "吉尔尼斯皇家卫兵",
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>圣盾，突袭</b>\n如果这张牌在你的手牌中，每个回合使其攻击力和生命值互换。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Dai Yang",
+    "attack": 2,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 46634,
+    "flavor": "这些家伙招募自吉尔尼斯歌剧院。",
+    "health": 4,
+    "id": "GIL_207",
+    "mechanics": [
+      "ECHO",
+      "TAUNT"
+    ],
+    "name": "魅影民兵",
+    "race": "UNDEAD",
+    "races": [
+      "UNDEAD"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>回响，嘲讽</b>",
+    "type": "MINION"
+  },
+  {
+    "artist": "Ursula Dorada",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47142,
+    "flavor": "她经常帮村民们驱逐吵闹之物，比如说老鼠或是熊孩子。",
+    "health": 3,
+    "id": "GIL_584",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "女巫森林吹笛人",
+    "race": "DEMON",
+    "races": [
+      "DEMON"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>从你的牌库中抽一张法力值消耗最低的随从牌。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47241,
+    "flavor": "当地美食，跟香蕉是同样的吃法。",
+    "health": 4,
+    "id": "GIL_601",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "巨鳞蠕虫",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "referencedTags": [
+      "RUSH"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>如果你的手牌中有龙牌，便获得+1攻击力和<b>突袭</b>。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Slawomir Maniak",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47343,
+    "flavor": "饿昏头的时候，它也会吸零度圣水。",
+    "health": 3,
+    "id": "GIL_622",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "吸血蚊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>对敌方英雄造成3点伤害。为你的英雄恢复#3点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Alex Alexandrov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47346,
+    "flavor": "虽然看似有点不现实，但还是有很多人想拿它当坐骑。",
+    "health": 12,
+    "id": "GIL_623",
+    "mechanics": [
+      "BATTLECRY",
+      "TAUNT"
+    ],
+    "name": "女巫森林灰熊",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>嘲讽</b>。<b>战吼：</b>\n你的对手每有一张手牌，本随从便失去1点生命值。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Anton Zemskov",
+    "attack": 3,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 4,
+    "dbfId": 47348,
+    "flavor": "它喜欢在月黑风高的时候轧马路。",
+    "health": 3,
+    "id": "GIL_624",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "暗夜徘徊者",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "RARE",
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>如果它是战场上唯一的一个随从，获得+3/+3。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Matt Dixon",
+    "attack": 4,
+    "cardClass": "NEUTRAL",
+    "collectible": true,
+    "cost": 5,
+    "dbfId": 47458,
+    "flavor": "都给我靠墙站好放老实点！在我面前没有任何秘密！",
+    "health": 6,
+    "id": "GIL_648",
+    "mechanics": [
+      "BATTLECRY"
+    ],
+    "name": "总督察",
+    "rarity": "RARE",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "GILNEAS",
+    "text": "<b>战吼：</b>摧毁所有敌方<b>奥秘</b>。",
+    "type": "MINION"
+  }
+]

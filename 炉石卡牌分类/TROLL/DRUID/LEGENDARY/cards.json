@@ -1,0 +1,46 @@
+[
+  {
+    "artist": "Christopher Hayes",
+    "attack": 4,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 7,
+    "dbfId": 49985,
+    "elite": true,
+    "flavor": "拒绝向贡克效忠的赞达拉德鲁伊有一个共性：特别好吃。",
+    "health": 9,
+    "id": "TRL_241",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "贡克，迅猛龙之神",
+    "race": "BEAST",
+    "races": [
+      "BEAST"
+    ],
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "在你的英雄攻击并消灭一个随从后，便可再次攻击。",
+    "type": "MINION"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "attack": 1,
+    "cardClass": "DRUID",
+    "collectible": true,
+    "cost": 3,
+    "dbfId": 43310,
+    "elite": true,
+    "flavor": "“暴掠龙！太吓人了……巴拉蒙多龙！这是什么鬼？斯马克顿龙！嗯……就决定是你了！”",
+    "health": 2,
+    "id": "TRL_343",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "战争德鲁伊罗缇",
+    "rarity": "LEGENDARY",
+    "set": "TROLL",
+    "text": "<b>抉择：</b>变形成为罗缇的四种恐龙形态之一。",
+    "type": "MINION"
+  }
+]
