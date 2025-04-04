@@ -70,13 +70,15 @@ SET_NAMES = {
     # 最新扩展包
     'EMERALD_DREAM': '漫游翡翠梦境',
     'SPACE': '深暗领域',
-    'TITANS': '泰坦',
-    'BATTLE_OF_THE_BANDS': '传奇音乐节',
-    'RETURN_OF_THE_LICH_KING': '巫妖王的进军',
+    'ISLAND_VACATION': '胜地历险记',
     'WHIZBANGS_WORKSHOP': '威兹班的工坊',
-    'FESTIVAL_OF_LEGENDS': '传说节日',
+    'WILD_WEST': '决战荒芜之地',
+    'TITANS': '泰坦诸神',
+    'BATTLE_OF_THE_BANDS': '传奇音乐节',
     
-    # 其他扩展包
+    
+    'RETURN_OF_THE_LICH_KING': '巫妖王的进军',
+    'FESTIVAL_OF_LEGENDS': '传说节日',
     'THE_BARRENS': '贫瘠之地的锤炼',
     'SCHOLOMANCE': '通灵学院',
     'DARKMOON_FAIRE': '疯狂的暗月马戏团',
@@ -87,7 +89,6 @@ SET_NAMES = {
     'BOOMSDAY': '砰砰计划',
     'DRAGONS': '巨龙降临',
     'BLACK_TEMPLE': '外域的灰烬',
-    'WILD_WEST': '决战荒芜之地',
     'TROLL': '拉斯塔哈的大乱斗',
     'ULDUM': '奥丹姆奇兵',
     'DALARAN': '暗影崛起',
@@ -102,13 +103,13 @@ SET_NAMES = {
     'BRM': '黑石山的火焰',
     'LOE': '探险者协会',
     'CORE': '核心',
+    'EVENT': '活动',
     'EXPERT1': '经典卡牌',
     'VANILLA': '怀旧',
     'DEMON_HUNTER_INITIATE': '恶魔猎手新兵',
     'PATH_OF_ARTHAS': '阿尔萨斯之路',
     'LEGACY': '传统',
     'WONDERS': '诸多奇迹',
-    'ISLAND_VACATION': '胜地历险记'
 }
 
 # 保底机制设置
@@ -117,4 +118,13 @@ LEGENDARY_PITY_TIMER = 40        # 每40包必出一张传说
 
 # 数据路径设置
 DATA_PATH = os.path.join("炉石卡牌分类")
-REPORTS_DIR = os.path.join("抽卡报告") 
+REPORTS_DIR = os.path.join("抽卡报告")
+
+# 卡牌类型映射
+CARD_TYPE_NAMES = {
+    'MINION': '随从',
+    'SPELL': '法术',
+    'WEAPON': '武器',
+    'LOCATION': '地标',
+    'HERO': '英雄'
+} 

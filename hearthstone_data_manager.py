@@ -2,15 +2,24 @@ import requests
 import json
 import os
 from collections import defaultdict
+import sys # Import sys
 
 class HearthstoneDataManager:
     """炉石传说卡牌数据管理器，支持获取和组织卡牌数据"""
     
     def __init__(self):
-        # 使用相对路径
-        self.base_dir = os.path.dirname(os.path.abspath(__file__))
-        self.json_data_dir = os.path.join(self.base_dir, "hsJSON卡牌数据")
-        self.organized_dir = os.path.join(self.base_dir, "炉石卡牌分类")
+        # --- 判断运行环境并确定基准路径 ---
+        if getattr(sys, 'frozen', False):
+            # 如果是打包后的 exe 文件运行
+            application_path = os.path.dirname(sys.executable)
+        else:
+            # 如果是直接作为 .py 文件运行
+            application_path = os.path.dirname(os.path.abspath(__file__))
+        # ------------------------------------
+
+        # 使用 application_path 来构建输出目录
+        self.json_data_dir = os.path.join(application_path, "hsJSON卡牌数据")
+        self.organized_dir = os.path.join(application_path, "炉石卡牌分类")
         
         # 职业名称中英文映射（便于目录命名）
         self.class_name_map = {

@@ -1,16 +1,13 @@
 import os
 import sys
-import json
-import random
 from datetime import datetime
-from collections import defaultdict, Counter
+from collections import defaultdict
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
                           QHBoxLayout, QLabel, QPushButton, QListWidget, 
                           QListWidgetItem, QAbstractItemView, QTextEdit, 
-                          QFileDialog, QMessageBox, QDialog, QFrame, 
-                          QSplitter, QGroupBox)
-from PyQt5.QtCore import Qt, QSize
-from PyQt5.QtGui import QTextCursor, QColor, QFont, QIcon
+                          QMessageBox, QDialog, QSplitter, QCheckBox)
+from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QColor, QFont
 
 # 导入自定义模块
 from config import (RARITY_NAMES, RARITY_TAGS, SET_NAMES, CLASS_NAMES,
@@ -143,6 +140,11 @@ class HearthstonePackSimulator(QMainWindow):
         self.gen_report_btn.clicked.connect(self.generate_report)
         self.gen_report_btn.setEnabled(False)  # 初始禁用
         buttons_layout.addWidget(self.gen_report_btn)
+        
+        # 添加包含核心和活动卡的复选框
+        self.include_core_event = QCheckBox("包含核心和活动卡")
+        self.include_core_event.setChecked(False)  # 默认不勾选
+        buttons_layout.addWidget(self.include_core_event)
         
         left_layout.addLayout(buttons_layout)
         
@@ -411,8 +413,15 @@ class HearthstonePackSimulator(QMainWindow):
             # 获取时间戳
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             
+            # 获取是否包含核心和活动卡的选项
+            include_core_event = self.include_core_event.isChecked()
+            
             # 生成Excel报告
-            excel_report_path = self.report_generator.generate_pack_report(self.all_opened_cards, timestamp)
+            excel_report_path = self.report_generator.generate_pack_report(
+                self.all_opened_cards, 
+                timestamp,
+                include_core_event=include_core_event
+            )
             
             # 生成HTML报告
             html_report_path = os.path.join(os.path.dirname(excel_report_path), f"抽卡报告_{timestamp}.html")
@@ -432,13 +441,6 @@ class HearthstonePackSimulator(QMainWindow):
             if os.path.exists(html_report_path):
                 reports_generated.append(f"HTML报告: {html_report_path}")
                 
-                # 尝试自动打开HTML报告以便用户查看
-                try:
-                    import webbrowser
-                    webbrowser.open(html_report_path)
-                except Exception as e:
-                    print(f"打开HTML报告失败: {e}")
-            
             if reports_generated:
                 # 显示成功信息
                 self.statusBar().showMessage(f"报告已生成")
@@ -446,9 +448,9 @@ class HearthstonePackSimulator(QMainWindow):
                 # 延迟一下让UI有时间响应
                 QApplication.processEvents()
                 
-                # 显示成功消息
+                # 显示成功消息，修改提示内容
                 report_msg = "\n".join(reports_generated)
-                QMessageBox.information(self, "成功", f"抽卡报告已生成：\n{report_msg}\n\nHTML报告已尝试自动打开，可以点击\"打印\"保存为PDF")
+                QMessageBox.information(self, "成功", f"抽卡报告已生成：\n{report_msg}\n\n可以手动打开HTML报告，并点击\"打印\"保存为PDF")
                 
                 # 打开报告文件所在目录
                 try:

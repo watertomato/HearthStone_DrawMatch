@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from config import SET_NAMES, RARITY_NAMES, CLASS_NAMES
+from config import SET_NAMES, RARITY_NAMES, CLASS_NAMES, CARD_TYPE_NAMES
 
 class TextDisplayManager:
     """
@@ -14,6 +14,7 @@ class TextDisplayManager:
         self.set_names = SET_NAMES
         self.rarity_names = RARITY_NAMES
         self.class_names = CLASS_NAMES
+        self.card_type_names = CARD_TYPE_NAMES
         
         # 卡牌名称缓存
         self.card_name_cache = {}
@@ -41,6 +42,14 @@ class TextDisplayManager:
         
         # 返回配置中的中文名称，如果不存在则返回原始ID
         return self.class_names.get(class_id, class_id)
+    
+    def get_localized_card_type_name(self, type_id):
+        """获取卡牌类型的本地化名称"""
+        if not type_id:
+            return "未知类型"
+        
+        # 返回配置中的中文名称，如果不存在则返回原始ID
+        return self.card_type_names.get(type_id, type_id)
     
     def get_localized_card_name(self, card_name):
         """

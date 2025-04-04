@@ -63,6 +63,20 @@ class CardDataManager:
         except Exception as e:
             print(f"加载卡牌数据时出错: {e}")
             raise e
+    
+    def get_cards_by_set(self, set_id):
+        """获取指定扩展包的所有卡牌
+        
+        Args:
+            set_id: 扩展包ID
+            
+        Returns:
+            list: 该扩展包的所有卡牌列表
+        """
+        set_data = self.cards_by_set.get(set_id)
+        if set_data and 'cards' in set_data:
+            return set_data['cards']
+        return []
 
 
 class PackSimulator:
