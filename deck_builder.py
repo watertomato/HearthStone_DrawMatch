@@ -8,7 +8,8 @@ from PyQt5.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                           QListWidgetItem, QAbstractItemView, QComboBox,
                           QFileDialog, QMessageBox, QSplitter,
                           QTableWidget, QTableWidgetItem, QHeaderView,
-                          QLineEdit, QTextEdit, QDialog,QAction, QActionGroup,QInputDialog) # Add QInputDialog
+                          QLineEdit, QTextEdit, QDialog,QAction, QActionGroup,QInputDialog, 
+                          QToolButton) # Add QToolButton
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QFont, QColor
 
@@ -215,7 +216,7 @@ class DeckBuilder(QMainWindow):
         clear_deck_btn.clicked.connect(self.confirm_clear_deck)
         button_layout.addWidget(clear_deck_btn)
 
-        # 新增：导入代码按钮
+        # 导入代码按钮
         import_code_btn = QPushButton("导入代码")
         import_code_btn.clicked.connect(self.prompt_import_deck_code)
         button_layout.addWidget(import_code_btn)
@@ -224,6 +225,14 @@ class DeckBuilder(QMainWindow):
         export_deck_btn = QPushButton("导出卡组代码")
         export_deck_btn.clicked.connect(self.export_deckstring)
         button_layout.addWidget(export_deck_btn)
+
+        # 新增：导出帮助按钮
+        export_help_btn = QToolButton()
+        export_help_btn.setText("?")
+        export_help_btn.setFixedSize(24, 24) # 设置固定大小使其像图标按钮
+        export_help_btn.setToolTip("关于导出有效卡组代码的说明")
+        export_help_btn.clicked.connect(self.show_export_help)
+        button_layout.addWidget(export_help_btn)
         
         right_layout.addLayout(button_layout) # 将按钮布局添加到右侧垂直布局
         # ---------------------
@@ -1010,44 +1019,62 @@ class DeckBuilder(QMainWindow):
                 return
             print("DBF ID 映射重新加载完成。")
 
-        # 检查用户拥有的卡牌列表是否已加载 (通过导入 Excel)
         if not self.all_cards:
              QMessageBox.warning(self, "提示", "请先导入您的抽卡报告 (Excel 文件)，以便程序了解您拥有的卡牌和数量。")
              return
         
-        # 解析卡组代码
         deck_data = parse_deckstring(deckstring)
         if not deck_data:
             QMessageBox.critical(self, "错误", "解析卡组代码失败，请检查代码是否有效。")
             return
+            
+        # --- 确定目标职业 --- 
+        target_class = None
+        code_class_identified = False
         
-        # --- 获取职业并切换 --- 
-        if not deck_data['heroes']:
-            QMessageBox.critical(self, "错误", "卡组代码中未找到英雄信息。")
-            return
+        if deck_data['heroes']:
+            hero_dbf_id = deck_data['heroes'][0]
+            code_class = HERO_ID_TO_CLASS.get(hero_dbf_id)
+            
+            if not code_class:
+                # 尝试从卡牌推断
+                for dbf_id, _ in deck_data['cards']:
+                    if dbf_id in self.dbf_id_to_card_info:
+                        card_class_hsjson = self.dbf_id_to_card_info[dbf_id].get('cardClass') 
+                        if card_class_hsjson and card_class_hsjson != 'NEUTRAL':
+                             # 查找 CLASS_NAMES 中的值（中文名）
+                             for cn_key, cn_val in CLASS_NAMES.items():
+                                 # HearthstoneJSON 的职业名是大写的，需要匹配
+                                 if cn_key.upper() == card_class_hsjson:
+                                     code_class = cn_val
+                                     break
+                        if code_class: break 
+            
+            if code_class:
+                target_class = code_class
+                code_class_identified = True
+                print(f"从代码中识别出的职业: {target_class}")
+            else:
+                print(f"无法从代码的英雄ID {hero_dbf_id} 或卡牌中识别职业。")
+        else:
+            print("卡组代码中未包含英雄信息。")
+
+        # 如果无法从代码中识别职业，则使用当前选中的职业
+        if not code_class_identified:
+            if self.selected_class is None:
+                QMessageBox.warning(self, "需要选择职业", 
+                                    "无法识别卡组代码中的职业，且当前未选择任何职业。\n请先在左上角选择一个具体职业再导入。")
+                return
+            else:
+                target_class = self.selected_class
+                QMessageBox.information(self, "提示", 
+                                      f"无法识别卡组代码中的职业。\n将尝试把卡牌导入到当前选中的职业【{target_class}】中。")
+                print(f"将使用当前选中的职业: {target_class}")
         
-        hero_dbf_id = deck_data['heroes'][0] # 通常只有一个英雄
-        target_class = HERO_ID_TO_CLASS.get(hero_dbf_id)
-        
-        if not target_class:
-            # 尝试从卡牌中推断职业 (如果英雄ID未知)
-            found_class = None
-            for dbf_id, _ in deck_data['cards']:
-                if dbf_id in self.dbf_id_to_card_info:
-                    card_class = self.dbf_id_to_card_info[dbf_id].get('cardClass') # 注意 HearthstoneJSON 使用 cardClass
-                    if card_class and card_class != 'NEUTRAL': # NEUTRAL 是中立
-                        # 将 NEUTRAL 转为 中立， DEATHKNIGHT 转为 死亡骑士 等
-                        target_class = CLASS_NAMES.get(card_class)
-                        if target_class: break
-            if not target_class:
-                 QMessageBox.critical(self, "错误", f"无法识别卡组代码中的英雄职业 (ID: {hero_dbf_id})。")
-                 return
-        
-        print(f"代码职业: {target_class}")
-        
-        # 检查当前职业是否匹配，不匹配则尝试切换
+        # --- 处理职业切换和清空卡组 --- 
+        proceed_import = False
         if self.selected_class != target_class:
-            print(f"当前职业 '{self.selected_class}' 与代码职业 '{target_class}' 不匹配，尝试切换...")
+            print(f"当前职业 '{self.selected_class}' 与目标职业 '{target_class}' 不匹配，尝试切换..." if self.selected_class else f"当前未选择职业，尝试切换到目标职业 '{target_class}'...")
             target_index = -1
             for i in range(self.class_combo.count()):
                 if self.class_combo.itemText(i) == target_class:
@@ -1055,31 +1082,42 @@ class DeckBuilder(QMainWindow):
                     break
             
             if target_index == -1:
-                QMessageBox.critical(self, "错误", f"无法在下拉列表中找到职业 '{target_class}'。")
+                QMessageBox.critical(self, "错误", f"无法在下拉列表中找到职业 '{target_class}'。导入中止。")
                 return
             
-            # 触发职业切换 (这会处理清空卡组的确认)
+            # 触发职业切换 (会处理清空确认)
             self.class_combo.setCurrentIndex(target_index)
             
-            # 检查切换是否成功 (用户可能取消了)
-            if self.selected_class != target_class:
+            # 检查切换是否成功 (用户可能取消)
+            if self.selected_class == target_class:
+                print("职业切换成功，卡组已清空 (或用户确认清空)。")
+                proceed_import = True
+            else:
                 print("用户取消了职业切换或切换失败，导入中止。")
-                return 
-            print("职业切换成功。")
+                return
         else:
-            # 如果职业相同，检查是否需要清空当前卡组
+            # 职业匹配，或使用当前职业导入，需要确认清空
+            print(f"目标职业 '{target_class}' 与当前选中职业匹配。")
             if self.deck:
                 reply = QMessageBox.question(self, '确认导入',
-                                            "导入新卡组将清空当前卡组，您确定要继续吗？",
+                                            f"导入新卡组到【{target_class}】将清空当前卡组，您确定要继续吗？",
                                             QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
-                if reply == QMessageBox.No:
+                if reply == QMessageBox.Yes:
+                    self.deck.clear()
+                    print("已清空现有卡组。")
+                    proceed_import = True
+                else:
                     print("用户取消了导入。")
                     return
-                else:
-                    self.deck.clear() # 清空现有卡组
-                    print("已清空现有卡组。")
-        
-        # --- 开始添加卡牌 --- 
+            else:
+                # 当前卡组为空，直接继续
+                proceed_import = True
+
+        if not proceed_import:
+             print("未能继续导入流程。") # 理论上不应执行到这里
+             return
+             
+        # --- 开始添加卡牌 (后续逻辑保持不变) --- 
         print("开始添加卡牌到卡组...")
         imported_count = 0
         skipped_cards = [] # 记录无法添加或数量不足的卡牌
@@ -1196,6 +1234,18 @@ class DeckBuilder(QMainWindow):
              QMessageBox.information(self, "导入结果", summary_message + "\n" + "\n".join(details))
         else:
              QMessageBox.information(self, "导入成功", summary_message)
+
+    def show_export_help(self):
+        """显示导出卡组代码的帮助信息"""
+        help_text = """
+        要成功导出游戏可识别的卡组代码，需要满足以下条件：
+
+        1. 带满 30 张卡，即卡组不能是残缺的
+        2. 没有奇利亚斯等需要子模块的特殊卡牌
+        
+        当前导出功能不会处理这些特殊卡牌的子选项，导出的代码可能无法直接在游戏中使用。
+        """
+        QMessageBox.information(self, "导出卡组代码帮助", help_text)
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

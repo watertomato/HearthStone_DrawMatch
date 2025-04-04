@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+炉石卡牌分类/
+抽卡报告/
+炉石卡牌图片/
+hsJSON卡牌数据/
 build/
 develop-eggs/
 dist/

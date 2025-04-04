@@ -155,9 +155,9 @@ def decode_and_compare(deckstring1, deckstring2, card_db):
 
 if __name__ == "__main__":
     # 你的代码
-    deckstring_yours = "AAECAf0EBMK+BrPFBsvQBtuXBw2coATe+AW0pwaBvwaFvwaG5gaL9AaM9AaQ9AaZ9Aaa9Aad9AbF+AYA"
+    deckstring_yours = "AAECAa+nBwyh1ATLnwajogbHpAa9sQa6zgb23Qbh6gb9/AaSgwfDgwe8lAcJh/YEkMsGi9wGnuIG5uUGgf0GloIHl4IHtpQHAA=="
     # 官方代码
-    deckstring_official = "AAECAf0EBMK+BrPFBsvQBtuXBw2coATe+AW0pwaBvwaFvwaG5gaL9AaM9AaQ9AaZ9Aaa9Aad9AbF+AYAAA=="
+    deckstring_official = "AAECAa+nBwyh1ATLnwajogbHpAa9sQa6zgb23Qbh6gb9/AaSgwfDgwe8lAcJh/YEkMsGi9wGnuIG5uUGgf0GloIHl4IHtpQHAAED9bMGx6QG97MGx6QG6N4Gx6QGAAA="
 
     print("正在加载卡牌数据库...")
     card_database = load_card_database()
