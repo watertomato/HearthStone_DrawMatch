@@ -127,4 +127,32 @@ CARD_TYPE_NAMES = {
     'WEAPON': '武器',
     'LOCATION': '地标',
     'HERO': '英雄'
+}
+
+# 种族翻译
+RACE_TRANSLATIONS = {
+    'BEAST': '野兽',
+    'DEMON': '恶魔',
+    'DRAGON': '龙',
+    'ELEMENTAL': '元素',
+    'MECHANICAL': '机械',
+    'MURLOC': '鱼人',
+    'PIRATE': '海盗',
+    'TOTEM': '图腾',
+    'UNDEAD': '亡灵',
+    'NAGA': '娜迦',
+    'DRAENEI': '德莱尼',
+    'QUILBOAR': '野猪人',
+    'ALL': '全部'
+}
+
+# 法术类型翻译
+SPELL_SCHOOL_TRANSLATIONS = {
+    'ARCANE': '奥术',
+    'FIRE': '火焰',
+    'FROST': '冰霜',
+    'HOLY': '神圣',
+    'NATURE': '自然',
+    'SHADOW': '暗影',
+    'FEL': '邪能',
 } 

@@ -1,7 +1,9 @@
 import os
 import pandas as pd
 from collections import defaultdict
-from config import CLASS_NAMES, EXCEL_COLORS, REPORTS_DIR, RARITY_NAMES, SET_NAMES, CARD_TYPE_NAMES
+from config import (CLASS_NAMES, EXCEL_COLORS, REPORTS_DIR, RARITY_NAMES, 
+                   SET_NAMES, CARD_TYPE_NAMES, RACE_TRANSLATIONS, 
+                   SPELL_SCHOOL_TRANSLATIONS)
 
 class ReportGenerator:
     """抽卡报告生成器"""
@@ -98,6 +100,14 @@ class ReportGenerator:
                             health = card.get('health', 0)
                             attack_health = f"{attack}/{health}"
                         
+                        # 获取种族/类型
+                        race_type = ""
+                        if card_type == 'MINION' and 'races' in card:
+                            races = [RACE_TRANSLATIONS.get(race, race) for race in card['races']]
+                            race_type = '、'.join(races)
+                        elif card_type == 'SPELL' and 'spellSchool' in card:
+                            race_type = SPELL_SCHOOL_TRANSLATIONS.get(card['spellSchool'], card['spellSchool'])
+                        
                         # 添加卡牌描述
                         description = card.get('text', '')
                         # 处理描述中可能的HTML标签
@@ -109,21 +119,21 @@ class ReportGenerator:
                         # 转换扩展包ID为中文名称
                         card_set = SET_NAMES.get(card_set_id, card_set_id)
                         
-                        all_cards_data.append([name, class_name, card_set, rarity_cn, cost, card_type_cn, attack_health, count, description])
+                        all_cards_data.append([name, class_name, card_set, rarity_cn, cost, card_type_cn, attack_health, race_type, count, description])
                 
                 # 按稀有度排序 (使用原始稀有度英文代码进行排序)
                 rarity_mapping = {RARITY_NAMES['LEGENDARY']: 0, RARITY_NAMES['EPIC']: 1, RARITY_NAMES['RARE']: 2, RARITY_NAMES['COMMON']: 3}
                 all_cards_data.sort(key=lambda x: (rarity_mapping.get(x[3], 4), x[1], x[0]))
                 
                 # 创建所有卡牌的DataFrame
-                all_cards_df = pd.DataFrame(all_cards_data, columns=['卡牌名称', '职业', '扩展包', '稀有度', '法力值', '卡牌类型', '攻击力/生命值', '数量', '卡牌描述'])
+                all_cards_df = pd.DataFrame(all_cards_data, columns=['卡牌名称', '职业', '扩展包', '稀有度', '法力值', '卡牌类型', '攻击力/生命值', '种族/类型', '数量', '卡牌描述'])
                 
                 # 写入所有卡牌工作表
                 all_cards_df.to_excel(writer, sheet_name='抽卡结果', index=False)
                 all_cards_sheet = writer.sheets['抽卡结果']
                 
                 # 添加表头筛选功能
-                all_cards_sheet.autofilter(0, 0, len(all_cards_data), 8)  # 调整为包含新列
+                all_cards_sheet.autofilter(0, 0, len(all_cards_data), 9)  # 调整为包含新列
                 
                 # 设置列宽
                 all_cards_sheet.set_column('A:A', 30)  # 卡牌名称列宽
@@ -133,8 +143,9 @@ class ReportGenerator:
                 all_cards_sheet.set_column('E:E', 8)   # 法力值列宽
                 all_cards_sheet.set_column('F:F', 10)  # 卡牌类型列宽
                 all_cards_sheet.set_column('G:G', 15)  # 攻击力/生命值列宽
-                all_cards_sheet.set_column('H:H', 8)   # 数量列宽
-                all_cards_sheet.set_column('I:I', 70)  # 卡牌描述列宽
+                all_cards_sheet.set_column('H:H', 15)  # 种族/类型列宽
+                all_cards_sheet.set_column('I:I', 8)   # 数量列宽
+                all_cards_sheet.set_column('J:J', 70)  # 卡牌描述列宽
                 
                 # 创建描述列的字体格式（字体更小）
                 description_format = workbook.add_format({
@@ -146,11 +157,11 @@ class ReportGenerator:
                 })
                 
                 # 应用格式到表头
-                for col_num, value in enumerate(['卡牌名称', '职业', '扩展包', '稀有度', '法力值', '卡牌类型', '攻击力/生命值', '数量', '卡牌描述']):
+                for col_num, value in enumerate(['卡牌名称', '职业', '扩展包', '稀有度', '法力值', '卡牌类型', '攻击力/生命值', '种族/类型', '数量', '卡牌描述']):
                     all_cards_sheet.write(0, col_num, value, header_format)
                 
                 # 应用稀有度颜色格式到数据行
-                for row_num, (name, class_name, card_set, rarity_cn, cost, card_type_cn, attack_health, count, description) in enumerate(all_cards_data):
+                for row_num, (name, class_name, card_set, rarity_cn, cost, card_type_cn, attack_health, race_type, count, description) in enumerate(all_cards_data):
                     # 根据中文稀有度查找原始稀有度代码
                     original_rarity = next((k for k, v in RARITY_NAMES.items() if v == rarity_cn), None)
                     if not original_rarity:
@@ -167,9 +178,10 @@ class ReportGenerator:
                     all_cards_sheet.write(row_num + 1, 4, cost, cell_format)
                     all_cards_sheet.write(row_num + 1, 5, card_type_cn, cell_format)
                     all_cards_sheet.write(row_num + 1, 6, attack_health, cell_format)  # 攻击力/生命值
-                    all_cards_sheet.write(row_num + 1, 7, count, cell_format)
+                    all_cards_sheet.write(row_num + 1, 7, race_type, cell_format)  # 种族/类型
+                    all_cards_sheet.write(row_num + 1, 8, count, cell_format)
                     # 对描述列使用特殊格式
-                    all_cards_sheet.write(row_num + 1, 8, description, description_format)
+                    all_cards_sheet.write(row_num + 1, 9, description, description_format)
                 
                 # 统计工作表 - 按稀有度统计
                 rarity_stats = defaultdict(int)

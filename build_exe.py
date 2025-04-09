@@ -16,35 +16,15 @@ def cleanup():
 # 定义要打包的脚本和选项
 scripts_to_package = [
     {
-        'script': 'deck_builder.py',
-        'name': 'DeckBuilder',
+        'script': 'main.py',
+        'name': 'HearthstoneTool',
         'options': [
             '--onefile',
             '--windowed', # GUI application
-            '--add-data', 'hsJSON卡牌数据;hsJSON卡牌数据', 
+            # '--add-data', 'hsJSON卡牌数据;hsJSON卡牌数据', 
             '--exclude-module', 'PyQt6' # Exclude conflicting Qt binding
             # Add other necessary hidden imports or data if needed
             # e.g., '--hidden-import=pandas._libs.tslibs.timedeltas'
-        ]
-    },
-    {
-        'script': 'hearthstone_pack_simulator.py',
-        'name': 'HearthstonePackSimulator',
-        'options': [
-            '--onefile',
-            '--windowed',
-            '--add-data', 'hsJSON卡牌数据;hsJSON卡牌数据', 
-            '--exclude-module', 'PyQt6' # Exclude conflicting Qt binding
-        ]
-    },
-    {
-        'script': 'hearthstone_data_manager.py',
-        'name': 'HearthstoneDataManager',
-        'options': [
-            '--onefile',
-             # This script needs the json
-            '--add-data', 'hsJSON卡牌数据;hsJSON卡牌数据',
-            '--exclude-module', 'PyQt6' # Exclude conflicting Qt binding
         ]
     }
 ]
