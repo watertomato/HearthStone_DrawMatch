@@ -19,12 +19,18 @@ scripts_to_package = [
         'script': 'main.py',
         'name': 'HearthstoneTool',
         'options': [
-            '--onefile',
-            '--windowed', # GUI application
-            # '--add-data', 'hsJSON卡牌数据;hsJSON卡牌数据', 
-            '--exclude-module', 'PyQt6' # Exclude conflicting Qt binding
-            # Add other necessary hidden imports or data if needed
-            # e.g., '--hidden-import=pandas._libs.tslibs.timedeltas'
+            # '--onefile',  # 移除单文件模式
+            '--windowed',  # GUI应用
+            '--exclude-module', 'PyQt6',  # 排除冲突的Qt绑定
+            '--exclude-module', 'matplotlib',  # 排除不需要的大型库
+            '--exclude-module', 'notebook',
+            '--exclude-module', 'scipy',
+            '--exclude-module', 'PIL',
+            '--exclude-module', 'PyQt5.QtWebEngineWidgets',
+            '--exclude-module', 'PyQt5.QtWebEngine',
+            '--clean',  # 清理临时文件
+            '--noupx',  # 不使用UPX压缩，可能会影响启动速度
+            '--noconfirm'  # 不询问确认
         ]
     }
 ]

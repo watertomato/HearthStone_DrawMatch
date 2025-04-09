@@ -1,4 +1,5 @@
 import sys
+import os
 from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QPushButton, QLabel, QMessageBox, QWidget, QDialog
 from PyQt5.QtCore import Qt, QThread, pyqtSignal
 
@@ -159,6 +160,23 @@ def run_app():
     # 创建主 QApplication 实例
     app = QApplication(sys.argv)
     app.setStyle("Fusion") # 设置一个现代的外观风格
+
+    # 检查必要的目录
+    required_dirs = ['hsJSON卡牌数据', '炉石卡牌分类']
+    missing_dirs = [d for d in required_dirs if not os.path.exists(d)]
+    
+    if missing_dirs:
+        # 如果有缺失的目录，显示提示并自动运行数据管理器
+        msg = f"检测到以下必要目录缺失：\n{', '.join(missing_dirs)}\n\n即将自动下载所需数据..."
+        QMessageBox.information(None, "数据检查", msg)
+        
+        if HearthstoneDataManager:
+            # 显示更新进度窗口
+            update_dialog = UpdateDialog(None)
+            update_dialog.exec_()
+        else:
+            QMessageBox.critical(None, "错误", "数据管理器模块未能加载，无法自动下载数据。")
+            sys.exit(1)
 
     # 创建并显示主应用窗口
     main_app = MainApp()
