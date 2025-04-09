@@ -143,6 +143,7 @@ RACE_TRANSLATIONS = {
     'NAGA': '娜迦',
     'DRAENEI': '德莱尼',
     'QUILBOAR': '野猪人',
+    'ALL': '全部',
 }
 
 # 法术类型翻译
