@@ -1,7 +1,7 @@
 import sys
-from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QPushButton, QLabel, QMessageBox, QWidget
-from PyQt5.QtCore import Qt
-# 我希望选择更新数据后会弹出一个“更新数据中，请勿关闭程序”的窗口，然后在更新完成后自动关闭这个窗口并提示更新完成
+from PyQt5.QtWidgets import QApplication, QMainWindow, QVBoxLayout, QPushButton, QLabel, QMessageBox, QWidget, QDialog
+from PyQt5.QtCore import Qt, QThread, pyqtSignal
+
 # 尝试导入主应用程序类
 try:
     from deck_builder import DeckBuilder
@@ -24,6 +24,48 @@ except ImportError as e:
     print(f"错误：无法导入 HearthstoneDataManager: {e}")
     HearthstoneDataManager = None # 标记为加载失败
 
+class UpdateThread(QThread):
+    """更新数据的线程"""
+    finished = pyqtSignal(bool)  # 发送更新是否成功的信号
+
+    def run(self):
+        try:
+            data_manager = HearthstoneDataManager()
+            success = data_manager.run_all()
+            self.finished.emit(success)
+        except Exception as e:
+            print(f"更新过程中出错: {e}")
+            self.finished.emit(False)
+
+class UpdateDialog(QDialog):
+    """更新进度窗口"""
+    def __init__(self, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle("更新数据")
+        self.setFixedSize(300, 100)
+        self.setWindowFlags(self.windowFlags() & ~Qt.WindowCloseButtonHint)  # 禁用关闭按钮
+        
+        # 创建布局
+        layout = QVBoxLayout(self)
+        
+        # 添加提示标签
+        self.label = QLabel("正在更新数据，请勿关闭程序...", self)
+        self.label.setAlignment(Qt.AlignCenter)
+        layout.addWidget(self.label)
+        
+        # 创建并启动更新线程
+        self.update_thread = UpdateThread()
+        self.update_thread.finished.connect(self.on_update_finished)
+        self.update_thread.start()
+    
+    def on_update_finished(self, success):
+        """更新完成后的处理"""
+        self.accept()  # 关闭对话框
+        if success:
+            QMessageBox.information(self.parent(), "更新完成", "卡牌数据更新成功！")
+        else:
+            QMessageBox.warning(self.parent(), "更新失败", "卡牌数据更新失败，请检查控制台输出。")
+
 class MainApp(QMainWindow):
     """主应用程序窗口，直接集成功能选择"""
     def __init__(self):
@@ -34,6 +76,7 @@ class MainApp(QMainWindow):
         # 保存打开的窗口引用，防止垃圾回收
         self.deck_builder_window = None
         self.pack_simulator_window = None
+        self.update_dialog = None
         
         # 创建中央widget
         central_widget = QWidget()
@@ -96,11 +139,9 @@ class MainApp(QMainWindow):
                                       QMessageBox.No)
             
             if reply == QMessageBox.Yes:
-                data_manager = HearthstoneDataManager()
-                if data_manager.run_all():  # 使用run_all方法代替load_card_data
-                    QMessageBox.information(self, "数据加载", "卡牌数据下载和处理成功！")
-                else:
-                    QMessageBox.warning(self, "数据加载", "卡牌数据处理失败，请检查控制台输出。")
+                # 显示更新进度窗口
+                self.update_dialog = UpdateDialog(self)
+                self.update_dialog.exec_()
 
 def run_app():
     """主函数，处理应用程序的启动流程"""

@@ -23,6 +23,7 @@ class DeckBuilderUI:
         self.deck_list = None
         self.class_combo = None
         self.deck_count_label = None
+        self.current_runes_label = None  # 新增：当前符文标签
         self.search_edit = None
         self.export_help_btn = None
     
@@ -109,7 +110,7 @@ class DeckBuilderUI:
         self.cards_table = QTableWidget()
         self.cards_table.setColumnCount(10)  # 10列，包括种族/类型列
         self.cards_table.setHorizontalHeaderLabels([
-            "法力值", "卡牌名称", "职业", "扩展包", "稀有度", "卡牌类型", "攻/生", "种族/类型", "卡牌描述", "拥有数量"
+            "法力值", "卡牌名称", "职业", "扩展包", "稀有度", "卡牌类型", "攻/生", "种族/类型", "卡牌描述", "数量"
         ])
         # 设置列宽调整模式为 Interactive (允许用户调整，并由我们代码控制)
         self.cards_table.horizontalHeader().setSectionResizeMode(QHeaderView.Interactive)
@@ -138,10 +139,25 @@ class DeckBuilderUI:
         deck_title.setFont(QFont("Sans Serif", 12, QFont.Bold))
         right_layout.addWidget(deck_title)
         
+        # 创建水平布局来放置卡牌数量和当前符文
+        stats_layout = QHBoxLayout()
+        
         # 卡牌数量显示
         self.deck_count_label = QLabel("卡牌数量: 0/30")
         self.deck_count_label.setFont(QFont("Sans Serif", 10))
-        right_layout.addWidget(self.deck_count_label)
+        stats_layout.addWidget(self.deck_count_label)
+        
+        # 当前符文显示
+        self.current_runes_label = QLabel("")
+        self.current_runes_label.setFont(QFont("Sans Serif", 10))
+        self.current_runes_label.hide()  # 初始时隐藏
+        stats_layout.addWidget(self.current_runes_label)
+        
+        # 添加弹性空间
+        stats_layout.addStretch()
+        
+        # 将水平布局添加到主布局
+        right_layout.addLayout(stats_layout)
         
         # 卡组列表
         self.deck_list = QListWidget()
@@ -187,6 +203,9 @@ class DeckBuilderUI:
         """
         self.deck_list.clear()
         
+        # 用于跟踪每种符文的最大值
+        max_runes = {'红': 0, '蓝': 0, '绿': 0}
+        
         # 按费用和名称排序
         sorted_cards = sorted(deck, key=lambda x: (x['cost'], x['name']))
         
@@ -194,6 +213,32 @@ class DeckBuilderUI:
         for card in sorted_cards:
             # 创建显示文本
             display_text = f"{card['cost']}费 {card['name']} ({card['type']})"
+            
+            # 检查是否有符文消耗并更新最大值
+            if 'description' in card and '符文：' in card['description']:
+                rune_text = card['description'].split('符文：')[1].split('。')[0]
+                
+                # 解析符文消耗并更新最大值
+                if '红' in rune_text:
+                    count = int(rune_text.split('红')[0].strip())
+                    max_runes['红'] = max(max_runes['红'], count)
+                if '蓝' in rune_text:
+                    count = int(rune_text.split('蓝')[0].strip().split(',')[-1].strip())
+                    max_runes['蓝'] = max(max_runes['蓝'], count)
+                if '绿' in rune_text:
+                    count = int(rune_text.split('绿')[0].strip().split(',')[-1].strip())
+                    max_runes['绿'] = max(max_runes['绿'], count)
+                
+                # 为显示文本添加符文信息
+                runes = []
+                if '红' in rune_text:
+                    runes.append(rune_text.split('红')[0].strip() + '红')
+                if '蓝' in rune_text:
+                    runes.append(rune_text.split('蓝')[0].strip().split(',')[-1].strip() + '蓝')
+                if '绿' in rune_text:
+                    runes.append(rune_text.split('绿')[0].strip().split(',')[-1].strip() + '绿')
+                if runes:
+                    display_text += f" {' '.join(runes)}"
             
             # 创建列表项
             item = QListWidgetItem(display_text)
@@ -210,6 +255,21 @@ class DeckBuilderUI:
                 item.setForeground(QColor("#888888"))  # 灰色
             
             self.deck_list.addItem(item)
+        
+        # 更新当前符文显示
+        rune_text_parts = []
+        if max_runes['红'] > 0:
+            rune_text_parts.append(f"{max_runes['红']}红")
+        if max_runes['蓝'] > 0:
+            rune_text_parts.append(f"{max_runes['蓝']}蓝")
+        if max_runes['绿'] > 0:
+            rune_text_parts.append(f"{max_runes['绿']}绿")
+        
+        if rune_text_parts:
+            self.current_runes_label.setText("当前符文: " + " ".join(rune_text_parts))
+            self.current_runes_label.show()
+        else:
+            self.current_runes_label.hide()
     
     def update_deck_count(self, deck_size):
         """

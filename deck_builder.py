@@ -276,7 +276,6 @@ class DeckBuilder(QMainWindow):
             'description': self.ui.cards_table.item(row, 8).text(),
             'attack_health': self.ui.cards_table.item(row, 6).text()
         }
-        # ---------------------------------------------
         
         # --- 检查添加的卡是否符合当前职业 --- (双重保险)
         if card['class'] != self.selected_class and card['class'] != '中立':
@@ -303,6 +302,52 @@ class DeckBuilder(QMainWindow):
             if current_deck_count >= 2:
                 QMessageBox.warning(self, "规则限制", "非传说卡最多只能带2张！") # Should be caught by owned_count check, but good practice
                 return
+
+        # --- 检查符文限制 ---
+        # 计算添加这张卡后的符文总数
+        new_max_runes = {'红': 0, '蓝': 0, '绿': 0}
+        
+        # 先计算当前卡组中的最大符文数
+        for deck_card in self.deck:
+            if 'description' in deck_card and '符文：' in deck_card['description']:
+                rune_text = deck_card['description'].split('符文：')[1].split('。')[0]
+                if '红' in rune_text:
+                    count = int(rune_text.split('红')[0].strip())
+                    new_max_runes['红'] = max(new_max_runes['红'], count)
+                if '蓝' in rune_text:
+                    count = int(rune_text.split('蓝')[0].strip().split(',')[-1].strip())
+                    new_max_runes['蓝'] = max(new_max_runes['蓝'], count)
+                if '绿' in rune_text:
+                    count = int(rune_text.split('绿')[0].strip().split(',')[-1].strip())
+                    new_max_runes['绿'] = max(new_max_runes['绿'], count)
+        
+        # 检查新卡牌的符文数
+        if 'description' in card and '符文：' in card['description']:
+            rune_text = card['description'].split('符文：')[1].split('。')[0]
+            if '红' in rune_text:
+                count = int(rune_text.split('红')[0].strip())
+                new_max_runes['红'] = max(new_max_runes['红'], count)
+            if '蓝' in rune_text:
+                count = int(rune_text.split('蓝')[0].strip().split(',')[-1].strip())
+                new_max_runes['蓝'] = max(new_max_runes['蓝'], count)
+            if '绿' in rune_text:
+                count = int(rune_text.split('绿')[0].strip().split(',')[-1].strip())
+                new_max_runes['绿'] = max(new_max_runes['绿'], count)
+        
+        # 检查是否超过符文限制
+        total_runes = sum(new_max_runes.values())
+        if total_runes > 3:
+            current_runes = []
+            if new_max_runes['红'] > 0:
+                current_runes.append(f"{new_max_runes['红']}红")
+            if new_max_runes['蓝'] > 0:
+                current_runes.append(f"{new_max_runes['蓝']}蓝")
+            if new_max_runes['绿'] > 0:
+                current_runes.append(f"{new_max_runes['绿']}绿")
+            QMessageBox.warning(self, "符文冲突", 
+                f"添加【{card['name']}】后，卡组符文总数将达到 {' '.join(current_runes)}，超过了3点符文上限！")
+            return
+        # ----------------------
         
         # 添加卡牌到卡组
         self.deck.append(card)

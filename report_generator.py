@@ -114,6 +114,19 @@ class ReportGenerator:
                         description = description.replace('<b>', '').replace('</b>', '')
                         description = description.replace('<i>', '').replace('</i>', '')
                         
+                        # 处理符文消耗
+                        if 'runeCost' in card:
+                            rune_cost = card['runeCost']
+                            rune_text = []
+                            if rune_cost.get('blood', 0) > 0:
+                                rune_text.append(f"{rune_cost['blood']} 红")
+                            if rune_cost.get('frost', 0) > 0:
+                                rune_text.append(f"{rune_cost['frost']} 蓝")
+                            if rune_cost.get('unholy', 0) > 0:
+                                rune_text.append(f"{rune_cost['unholy']} 绿")
+                            if rune_text:
+                                description = f"符文：{', '.join(rune_text)}。\n{description}"
+                        
                         # 获取卡牌所属的扩展包ID
                         card_set_id = card.get('set', '')
                         # 转换扩展包ID为中文名称
