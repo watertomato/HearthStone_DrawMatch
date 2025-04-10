@@ -374,3 +374,105 @@ class ReportGenerator:
             return report_path
         
         return None 
+
+    def generate_transmog_report(self, selected_sets, timestamp=None, include_core_event=False):
+        """生成幻变卡牌报告
+        
+        Args:
+            selected_sets: 所选扩展包的ID列表
+            timestamp: 可选时间戳，用于文件名
+            include_core_event: 是否包含核心和活动卡
+            
+        Returns:
+            str: 报告文件路径
+        """
+        # 导入时间模块
+        import datetime
+        
+        # 获取时间戳
+        if timestamp is None:
+            timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+        
+        # 创建报告文件名
+        report_filename = f"幻变卡牌报告_{timestamp}.xlsx"
+        report_path = os.path.join(self.reports_dir, report_filename)
+        
+        # 按职业分类卡牌
+        cards_by_class = {}
+        cards_temp = defaultdict(lambda: defaultdict(int))
+        
+        # 处理选中的扩展包卡牌
+        for set_id in selected_sets:
+            cards = self.card_manager.get_cards_by_set(set_id)
+            for card in cards:
+                card_class = card.get('cardClass', 'NEUTRAL')
+                card_id = card.get('id', '')
+                if not card_id:
+                    continue
+                
+                # 根据稀有度设置固定数量
+                if card.get('rarity') == 'LEGENDARY':
+                    # 传说卡设置为1张
+                    fixed_count = 1
+                else:
+                    # 非传说卡设置为2张
+                    fixed_count = 2
+                
+                # 直接设置到cards_temp中
+                cards_temp[card_class][card_id] = fixed_count
+        
+        # 如果需要包含核心和活动卡
+        if include_core_event:
+            # 从卡牌管理器中获取核心和活动卡
+            core_cards = self.card_manager.get_cards_by_set('CORE')
+            event_cards = self.card_manager.get_cards_by_set('EVENT')
+            
+            # 预先处理核心和活动卡，并设置固定数量
+            for card_list in [core_cards, event_cards]:
+                for card in card_list:
+                    card_class = card.get('cardClass', 'NEUTRAL')
+                    card_id = card.get('id', '')
+                    if not card_id:
+                        continue
+                    
+                    # 根据稀有度设置固定数量
+                    if card.get('rarity') == 'LEGENDARY':
+                        # 传说卡设置为1张
+                        fixed_count = 1
+                    else:
+                        # 非传说卡设置为2张
+                        fixed_count = 2
+                    
+                    # 直接设置到cards_temp中
+                    cards_temp[card_class][card_id] = fixed_count
+        
+        # 收集所有卡牌信息
+        all_cards = []
+        for set_id in selected_sets:
+            cards = self.card_manager.get_cards_by_set(set_id)
+            for card in cards:
+                all_cards.append(card)
+        
+        if include_core_event:
+            all_cards.extend(core_cards)
+            all_cards.extend(event_cards)
+        
+        # 转换为最终数据结构
+        for class_id, card_counts in cards_temp.items():
+            cards_by_class[class_id] = []
+            for card_id, count in card_counts.items():
+                # 找到该卡牌的完整信息
+                card_info = None
+                for card in all_cards:
+                    if card.get('id') == card_id:
+                        card_info = card.copy()  # 复制一份避免修改原始数据
+                        break
+                if card_info:
+                    card_info['count'] = count
+                    cards_by_class[class_id].append(card_info)
+        
+        # 创建Excel报告
+        if self.create_excel_report(report_path, cards_by_class):
+            return report_path
+        
+        return None 

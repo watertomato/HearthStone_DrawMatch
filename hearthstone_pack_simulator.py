@@ -136,6 +136,10 @@ class HearthstonePackSimulator(QMainWindow):
         self.set_prob_btn.clicked.connect(self.configure_rarity_probabilities)
         buttons_layout.addWidget(self.set_prob_btn)
         
+        self.gen_transmog_btn = QPushButton("生成幻变卡牌报告")
+        self.gen_transmog_btn.clicked.connect(self.generate_transmog_report)
+        buttons_layout.addWidget(self.gen_transmog_btn)
+        
         self.gen_report_btn = QPushButton("生成抽卡报告")
         self.gen_report_btn.clicked.connect(self.generate_report)
         self.gen_report_btn.setEnabled(False)  # 初始禁用
@@ -143,7 +147,7 @@ class HearthstonePackSimulator(QMainWindow):
         
         # 添加包含核心和活动卡的复选框
         self.include_core_event = QCheckBox("包含核心和活动卡")
-        self.include_core_event.setChecked(False)  # 默认不勾选
+        self.include_core_event.setChecked(True)  # 默认勾选
         buttons_layout.addWidget(self.include_core_event)
         
         left_layout.addLayout(buttons_layout)
@@ -676,6 +680,68 @@ class HearthstonePackSimulator(QMainWindow):
         except Exception as e:
             print(f"设置稀有度概率时出错: {e}")
             QMessageBox.critical(self, "错误", f"设置稀有度概率时出错: {str(e)}")
+
+    def generate_transmog_report(self):
+        """生成幻变卡牌报告"""
+        # 获取当前选中的扩展包
+        selected_sets = []
+        for item in self.sets_list.selectedItems():
+            set_id = item.data(Qt.UserRole)
+            if set_id:
+                selected_sets.append(set_id)
+        
+        if not selected_sets:
+            QMessageBox.information(self, "提示", "请先选择至少一个扩展包")
+            return
+        
+        try:
+            # 显示正在生成报告的提示
+            self.statusBar().showMessage("正在生成幻变卡牌报告，请稍候...")
+            QApplication.processEvents()  # 让UI响应
+            
+            # 获取时间戳
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            
+            # 获取是否包含核心和活动卡的选项
+            include_core_event = self.include_core_event.isChecked()
+            
+            # 生成Excel报告
+            excel_report_path = self.report_generator.generate_transmog_report(
+                selected_sets, 
+                timestamp,
+                include_core_event=include_core_event
+            )
+            
+            # 检查报告是否生成成功
+            if excel_report_path and os.path.exists(excel_report_path):
+                # 显示成功信息
+                self.statusBar().showMessage(f"幻变卡牌报告已生成")
+                
+                # 延迟一下让UI有时间响应
+                QApplication.processEvents()
+                
+                # 显示成功消息
+                QMessageBox.information(self, "成功", f"幻变卡牌报告已生成：\n{excel_report_path}")
+                
+                # 打开报告文件所在目录
+                try:
+                    os.startfile(os.path.dirname(excel_report_path))
+                except Exception as e:
+                    print(f"打开报告目录失败: {e}")
+            else:
+                self.statusBar().showMessage("生成幻变卡牌报告失败")
+                QMessageBox.warning(self, "警告", "生成幻变卡牌报告失败，请查看控制台输出")
+                
+        except Exception as e:
+            print(f"生成幻变卡牌报告时出错: {e}")
+            import traceback
+            traceback.print_exc()
+            self.statusBar().showMessage(f"生成幻变卡牌报告时出错: {str(e)}")
+            QMessageBox.critical(self, "错误", f"生成幻变卡牌报告时出错: {str(e)}")
+            
+        finally:
+            # 确保UI保持响应
+            QApplication.processEvents()
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
