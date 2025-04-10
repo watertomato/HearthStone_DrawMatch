@@ -13,7 +13,7 @@ try:
     # 尝试从 deckstring_parser 导入 read_varint
     from deckstring_parser import read_varint, load_card_database
 except ImportError:
-    print("错误：无法导入 deckstring_parser.py。请确保该文件在同一目录下。")
+    # print("错误：无法导入 deckstring_parser.py。请确保该文件在同一目录下。")
     # 定义一个备用的 read_varint 以便至少可以进行字节比较
     def read_varint(stream):
         result = 0
@@ -155,7 +155,7 @@ def decode_and_compare(deckstring1, deckstring2, card_db):
 
 if __name__ == "__main__":
     # 你的代码
-    deckstring_yours = "AAECAa+nBwyh1ATLnwajogbHpAa9sQa6zgb23Qbh6gb9/AaSgwfDgwe8lAcJh/YEkMsGi9wGnuIG5uUGgf0GloIHl4IHtpQHAA=="
+    deckstring_yours = "AAECAfHhBAyh1ATLnwajogbHpAa9sQa6zgb23Qbh6gb9/AaSgwfDgwe8lAcJh/YEkMsGi9wGnuIG5uUGgf0GloIHl4IHtpQHAAED9bMGx6QG97MGx6QG6N4Gx6QGAAA="
     # 官方代码
     deckstring_official = "AAECAa+nBwyh1ATLnwajogbHpAa9sQa6zgb23Qbh6gb9/AaSgwfDgwe8lAcJh/YEkMsGi9wGnuIG5uUGgf0GloIHl4IHtpQHAAED9bMGx6QG97MGx6QG6N4Gx6QGAAA="
 

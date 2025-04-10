@@ -3,7 +3,7 @@ import sys
 import pandas as pd
 
 from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QDialog
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtGui import QFont
 
 # 导入自定义模块
@@ -122,7 +122,7 @@ class DeckBuilder(QMainWindow):
                 card_name = str(row[required_column]).strip() if required_column in row and pd.notna(row[required_column]) else ""
                 if not card_name:
                     skipped_rows += 1
-                    print(f"Skipping row {index+2} because '{required_column}' is empty.")
+                    # print(f"Skipping row {index+2} because '{required_column}' is empty.")
                     continue 
                 # -------------------------------------
                 
@@ -181,6 +181,9 @@ class DeckBuilder(QMainWindow):
 
         new_class_text = self.ui.class_combo.currentText()
 
+        # 检查是否有待导入的卡组代码
+        pending_deckstring = getattr(self, "_pending_import_deckstring", None)
+
         # 检查卡组是否为空，如果不为空则提示
         if self.deck: # 如果卡组不为空
             reply = QMessageBox.question(self, '确认切换职业',
@@ -193,6 +196,9 @@ class DeckBuilder(QMainWindow):
                 self.ui.class_combo.blockSignals(True)
                 self.ui.class_combo.setCurrentIndex(self.previous_class_index)
                 self.ui.class_combo.blockSignals(False)
+                # 如果是导入卡组流程中取消了，清除待导入记录
+                if pending_deckstring:
+                    self._pending_import_deckstring = None
                 return # 退出，不执行后续操作
             else:
                 # 用户确认，清空卡组
@@ -211,6 +217,15 @@ class DeckBuilder(QMainWindow):
         
         # 更新上一次选择的索引
         self.previous_class_index = index
+        
+        # 如果有待导入的卡组代码，继续导入流程
+        if pending_deckstring:
+            # 清除待导入标记
+            deckstring = pending_deckstring
+            self._pending_import_deckstring = None
+            
+            # 使用一个短暂的延迟，确保UI已更新后再继续导入
+            QTimer.singleShot(100, lambda: self.import_deck_from_string(deckstring))
     
     def update_cards_list(self):
         """更新左侧卡牌列表"""
@@ -233,8 +248,8 @@ class DeckBuilder(QMainWindow):
                     vacation_allowed = (card['set'] == '胜地历险记' and card_class_name in self.guest_classes)
                     
                     # 打印调试信息
-                    if card['set'] == '胜地历险记' and not vacation_allowed:
-                        print(f"过滤掉圣地历险记卡牌: {card['name']} (职业: {card_class_name})，当前允许的游客职业: {self.guest_classes}")
+                    # if card['set'] == '胜地历险记' and not vacation_allowed:
+                    #     print(f"过滤掉圣地历险记卡牌: {card['name']} (职业: {card_class_name})，当前允许的游客职业: {self.guest_classes}")
                         
                     if not vacation_allowed:
                         continue
@@ -271,7 +286,7 @@ class DeckBuilder(QMainWindow):
             owned_count = int(self.ui.cards_table.item(row, 9).text())
         except (ValueError, TypeError):
             owned_count = 1 # Fallback if count is invalid
-            print(f"Warning: Could not parse owned count for {card_name}, defaulting to 1.")
+            # print(f"Warning: Could not parse owned count for {card_name}, defaulting to 1.")
         
         card = {
             'name': card_name,
@@ -434,7 +449,7 @@ class DeckBuilder(QMainWindow):
         for class_name, prefix in class_prefixes.items():
             if description.startswith(prefix):
                 self.guest_classes.add(class_name)
-                print(f"检测到游客卡牌: {card['name']} 允许使用 {class_name} 职业卡")
+                # print(f"检测到游客卡牌: {card['name']} 允许使用 {class_name} 职业卡")
                 # 弹出提示信息
                 QMessageBox.information(self, "游客卡牌", 
                     f"已添加游客卡牌【{card['name']}】。\n现在您可以使用圣地历险记版本的【{class_name}】职业卡牌了。")
@@ -513,7 +528,7 @@ class DeckBuilder(QMainWindow):
                         self.guest_classes.add(class_name)
                         break
         
-        print(f"重建后的游客职业集合: {self.guest_classes}")
+        # print(f"重建后的游客职业集合: {self.guest_classes}")
         
         # 如果移除游客卡后，该职业不再允许使用
         if guest_class not in self.guest_classes:
