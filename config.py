@@ -75,17 +75,18 @@ SET_NAMES = {
     'WILD_WEST': '决战荒芜之地',
     'TITANS': '泰坦诸神',
     'BATTLE_OF_THE_BANDS': '传奇音乐节',
-    
-    
     'RETURN_OF_THE_LICH_KING': '巫妖王的进军',
-    'FESTIVAL_OF_LEGENDS': '传说节日',
-    'THE_BARRENS': '贫瘠之地的锤炼',
-    'SCHOLOMANCE': '通灵学院',
-    'DARKMOON_FAIRE': '疯狂的暗月马戏团',
-    'STORMWIND': '暴风城下的集结',
-    'THE_SUNKEN_CITY': '探寻沉没之城',
     'REVENDRETH': '纳斯利亚堡的悬案',
+    'THE_SUNKEN_CITY': '探寻沉没之城',
     'ALTERAC_VALLEY': '奥特兰克的决裂',
+    'STORMWIND': '暴风城下的集结',
+    'THE_BARRENS': '贫瘠之地的锤炼',
+    'DARKMOON_FAIRE': '疯狂的暗月马戏团',
+    
+    'WONDERS': '时光之穴',
+    'PATH_OF_ARTHAS': '阿尔萨斯之路',
+    'FESTIVAL_OF_LEGENDS': '传说节日',
+    'SCHOLOMANCE': '通灵学院',
     'BOOMSDAY': '砰砰计划',
     'DRAGONS': '巨龙降临',
     'BLACK_TEMPLE': '外域的灰烬',
@@ -107,9 +108,7 @@ SET_NAMES = {
     'EXPERT1': '经典卡牌',
     'VANILLA': '怀旧',
     'DEMON_HUNTER_INITIATE': '恶魔猎手新兵',
-    'PATH_OF_ARTHAS': '阿尔萨斯之路',
     'LEGACY': '传统',
-    'WONDERS': '诸多奇迹',
 }
 
 # 保底机制设置
