@@ -26,6 +26,7 @@ class DeckBuilder(QMainWindow):
         self.sort_column = -1  # 当前排序的列
         self.sort_order = Qt.AscendingOrder  # 当前排序顺序
         self.previous_class_index = 0 # 记录上一次选择的职业索引，默认为"全部职业"
+        self.guest_classes = set()  # 游客卡牌对应的职业集合
         
         # 初始化数据管理器
         self.data_manager = DeckDataManager()
@@ -228,7 +229,15 @@ class DeckBuilder(QMainWindow):
             if selected_class_name is not None:
                 # 如果选择了特定职业，显示该职业和中立卡牌
                 if not (card_class_name == selected_class_name or card_class_name == '中立'):
-                    continue
+                    # 检查这张卡是否是来自圣地历险记且职业是游客卡允许的职业
+                    vacation_allowed = (card['set'] == '胜地历险记' and card_class_name in self.guest_classes)
+                    
+                    # 打印调试信息
+                    if card['set'] == '胜地历险记' and not vacation_allowed:
+                        print(f"过滤掉圣地历险记卡牌: {card['name']} (职业: {card_class_name})，当前允许的游客职业: {self.guest_classes}")
+                        
+                    if not vacation_allowed:
+                        continue
             
             # 搜索过滤
             if self.search_text:
@@ -279,9 +288,49 @@ class DeckBuilder(QMainWindow):
         
         # --- 检查添加的卡是否符合当前职业 --- (双重保险)
         if card['class'] != self.selected_class and card['class'] != '中立':
-             QMessageBox.warning(self, "错误", f"无法将【{card['class']}】职业卡牌添加到【{self.selected_class}】卡组中。")
-             return
+            # 检查是否这张卡是圣地历险记的卡，且当前允许游客职业
+            if not (card['set'] == '胜地历险记' and card['class'] in self.guest_classes):
+                QMessageBox.warning(self, "错误", f"无法将【{card['class']}】职业卡牌添加到【{self.selected_class}】卡组中。")
+                return
         # -------------------------------------
+        
+        # --- 检查是否是游客卡牌并限制每个卡组最多一张游客卡 ---
+        if 'description' in card and card['description']:
+            is_guest_card = False
+            guest_class = None
+            
+            # 定义职业名称及对应的游客前缀
+            class_prefixes = {
+                '战士': '战士游客',
+                '圣骑士': '圣骑士游客',
+                '猎人': '猎人游客',
+                '德鲁伊': '德鲁伊游客',
+                '术士': '术士游客',
+                '法师': '法师游客',
+                '牧师': '牧师游客',
+                '潜行者': '潜行者游客',
+                '萨满祭司': '萨满祭司游客',
+                '恶魔猎手': '恶魔猎手游客',
+                '死亡骑士': '死亡骑士游客',
+            }
+            
+            # 检查是否是游客卡牌
+            for class_name, prefix in class_prefixes.items():
+                if card['description'].startswith(prefix):
+                    is_guest_card = True
+                    guest_class = class_name
+                    break
+            
+            # 如果是游客卡牌，检查卡组中是否已经有游客卡
+            if is_guest_card:
+                for deck_card in self.deck:
+                    if 'description' in deck_card and deck_card['description']:
+                        for _, prefix in class_prefixes.items():
+                            if deck_card['description'].startswith(prefix):
+                                QMessageBox.warning(self, "游客卡牌限制", 
+                                    f"每套卡组最多只能携带一张游客卡牌！\n卡组中已有游客卡牌: 【{deck_card['name']}】")
+                                return
+        # ------------------------------------------------------
         
         # --- 检查拥有数量 --- 
         current_deck_count = sum(1 for deck_card in self.deck if deck_card['name'] == card['name'])
@@ -352,9 +401,46 @@ class DeckBuilder(QMainWindow):
         # 添加卡牌到卡组
         self.deck.append(card)
         
+        # 检查是否是游客卡牌并更新允许的职业
+        if 'description' in card and card['description']:
+            self.check_and_update_guest_classes(card)
+        
         # 更新显示
         self.update_deck_list()
         self.update_deck_count()
+        # 确保左侧卡牌列表也更新，以反映新的可用卡牌
+        self.update_cards_list()
+    
+    def check_and_update_guest_classes(self, card):
+        """检查是否是游客卡牌，并更新允许的游客职业"""
+        description = card['description']
+        
+        # 定义职业名称及对应的游客前缀
+        class_prefixes = {
+            '战士': '战士游客',
+            '圣骑士': '圣骑士游客',
+            '猎人': '猎人游客',
+            '德鲁伊': '德鲁伊游客',
+            '术士': '术士游客',
+            '法师': '法师游客',
+            '牧师': '牧师游客',
+            '潜行者': '潜行者游客',
+            '萨满祭司': '萨满祭司游客',
+            '恶魔猎手': '恶魔猎手游客',
+            '死亡骑士': '死亡骑士游客',
+        }
+        
+        # 检查是否有任何职业前缀在描述中
+        for class_name, prefix in class_prefixes.items():
+            if description.startswith(prefix):
+                self.guest_classes.add(class_name)
+                print(f"检测到游客卡牌: {card['name']} 允许使用 {class_name} 职业卡")
+                # 弹出提示信息
+                QMessageBox.information(self, "游客卡牌", 
+                    f"已添加游客卡牌【{card['name']}】。\n现在您可以使用圣地历险记版本的【{class_name}】职业卡牌了。")
+                # 更新卡牌列表以显示新的可用卡牌
+                self.update_cards_list()
+                break
     
     def remove_card_from_deck(self, item):
         """从卡组中移除卡牌"""
@@ -362,14 +448,96 @@ class DeckBuilder(QMainWindow):
         card_to_remove = item.data(Qt.UserRole)
         
         if card_to_remove in self.deck:
+            # 检查是否是游客卡牌并处理
+            self._handle_guest_card_removal(card_to_remove)
+            
             # 从内部列表中移除这个特定的卡牌对象
-            # 对于同名非传说卡，这会移除列表中的第一个匹配项
             self.deck.remove(card_to_remove)
             
             # 更新显示
             self.update_deck_list()
             self.update_deck_count()
+            
+            # 确保左侧列表也更新
+            self.update_cards_list()
         # 如果卡牌不在列表中（理论上不应发生），则不执行任何操作
+        
+    def _handle_guest_card_removal(self, card):
+        """处理游客卡牌的移除逻辑"""
+        if not ('description' in card and card['description']):
+            return
+            
+        description = card['description']
+        
+        # 定义职业名称及对应的游客前缀
+        class_prefixes = {
+            '战士': '战士游客',
+            '圣骑士': '圣骑士游客',
+            '猎人': '猎人游客',
+            '德鲁伊': '德鲁伊游客',
+            '术士': '术士游客',
+            '法师': '法师游客',
+            '牧师': '牧师游客',
+            '潜行者': '潜行者游客',
+            '萨满祭司': '萨满祭司游客',
+            '恶魔猎手': '恶魔猎手游客',
+            '死亡骑士': '死亡骑士游客',
+        }
+        
+        # 检查是否是游客卡牌，并确定其对应的职业
+        guest_class = None
+        for class_name, prefix in class_prefixes.items():
+            if description.startswith(prefix):
+                guest_class = class_name
+                break
+        
+        # 如果不是游客卡牌，直接返回
+        if not guest_class:
+            return
+            
+        # 这是一张游客卡牌，先显示移除提示
+        QMessageBox.information(self, "移除游客卡牌", 
+            f"已移除游客卡牌【{card['name']}】。\n这会影响您使用圣地历险记版本的【{guest_class}】职业卡牌。")
+        
+        # 先移除该卡，以确保下面的代码不会计入它
+        self.deck.remove(card)
+        
+        # 完全重建游客职业集合
+        self.guest_classes.clear()  # 先清空集合
+        
+        # 从当前卡组重建游客职业集合
+        for deck_card in self.deck:
+            if 'description' in deck_card and deck_card['description']:
+                for class_name, prefix in class_prefixes.items():
+                    if deck_card['description'].startswith(prefix):
+                        self.guest_classes.add(class_name)
+                        break
+        
+        print(f"重建后的游客职业集合: {self.guest_classes}")
+        
+        # 如果移除游客卡后，该职业不再允许使用
+        if guest_class not in self.guest_classes:
+            # 查找和移除所有相关的圣地历险记卡牌
+            cards_to_remove = []
+            for deck_card in list(self.deck):  # 使用列表副本来安全迭代
+                if deck_card['class'] == guest_class and deck_card['set'] == '胜地历险记':
+                    cards_to_remove.append(deck_card)
+                    self.deck.remove(deck_card)
+            
+            # 如果有卡牌被移除，显示提示
+            if cards_to_remove:
+                QMessageBox.information(self, "移除卡牌", 
+                    f"由于移除了游客卡牌，系统已自动从卡组中移除 {len(cards_to_remove)} 张圣地历险记的【{guest_class}】职业卡牌。")
+        
+        # 将移除的卡牌放回卡组（因为实际的移除在这个方法的调用者中进行）
+        self.deck.append(card)
+    
+    def check_and_remove_guest_class(self, card):
+        """
+        这个方法已被_handle_guest_card_removal取代，保留此方法是为了兼容性
+        """
+        # 调用新的处理方法
+        self._handle_guest_card_removal(card)
     
     def confirm_clear_deck(self):
         """显示确认对话框并清空卡组"""
@@ -380,10 +548,14 @@ class DeckBuilder(QMainWindow):
         if reply == QMessageBox.Yes:
             # 清空内部卡组数据
             self.deck.clear()
+            # 清空游客职业集合
+            self.guest_classes.clear()
             # 更新右侧列表显示
             self.update_deck_list()
             # 更新卡组数量显示
             self.update_deck_count()
+            # 更新左侧可选卡牌列表
+            self.update_cards_list()
     
     def update_deck_list(self):
         """更新右侧卡组列表"""
