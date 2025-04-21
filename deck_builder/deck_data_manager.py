@@ -1,5 +1,8 @@
 import os
 import json
+
+# 修改导入路径
+from config import DATA_PATH
 from PyQt5.QtWidgets import QMessageBox
 from utils import normalize_card_name
 
@@ -124,4 +127,4 @@ class DeckDataManager:
             return self.normalized_name_to_dbf_id[normalized_name]
                 
         print(f"    警告：未能通过精确匹配找到卡牌 '{card_name}' 的 DBF ID。")        
-        return None 
+        return None

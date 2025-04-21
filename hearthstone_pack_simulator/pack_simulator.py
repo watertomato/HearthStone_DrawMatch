@@ -13,10 +13,17 @@ from PyQt5.QtGui import QColor, QFont
 from config import (RARITY_NAMES, RARITY_TAGS, SET_NAMES, CLASS_NAMES,
                  GUARANTEE_RARE_OR_HIGHER, LEGENDARY_PITY_TIMER,
                  RARITY_PROBABILITIES)
-from simulator import PackSimulator, CardDataManager
-from text_display_manager import TextDisplayManager
-from ui_dialogs import PackCountDialog, RarityProbabilityDialog
-from report_generator import ReportGenerator
+# 修改导入路径
+from .simulator.simulator import PackSimulator, CardDataManager
+from .ui.text_display_manager import TextDisplayManager
+from .ui.ui_dialogs import PackCountDialog, RarityProbabilityDialog
+from .report_generator import ReportGenerator
+
+# 修改导入路径
+from deck_builder.deck_builder_main import DeckBuilder
+
+# 修改导入语句
+from hearthstone_data_manager.data_manager import HearthstoneDataManager
 
 class HearthstonePackSimulator(QMainWindow):
     def __init__(self):
@@ -752,4 +759,4 @@ if __name__ == "__main__":
     # 实例化并显示
     simulator = HearthstonePackSimulator()
     
-    sys.exit(app.exec_()) 
+    sys.exit(app.exec_())

@@ -10,11 +10,11 @@ class ReportGenerator:
     def __init__(self):
         self.reports_dir = REPORTS_DIR
         os.makedirs(self.reports_dir, exist_ok=True)
-        # 初始化卡牌管理器
-        from simulator import CardDataManager
+        # 修改导入语句
+        from .simulator.simulator import CardDataManager
         self.card_manager = CardDataManager()
         self.card_manager.load_card_data()
-        
+
     def create_excel_report(self, report_path, cards_by_class):
         """创建Excel格式的抽卡报告，所有职业卡牌合并到一个表格中"""
         try:
@@ -475,4 +475,4 @@ class ReportGenerator:
         if self.create_excel_report(report_path, cards_by_class):
             return report_path
         
-        return None 
+        return None

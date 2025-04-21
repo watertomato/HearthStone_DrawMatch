@@ -5,9 +5,10 @@ from PyQt5.QtWidgets import QDialog, QVBoxLayout, QLabel, QTextEdit, QPushButton
 from PyQt5.QtGui import QFont
 from PyQt5.QtCore import Qt
 
-from deck_constants import ACCURATE_HERO_DBF_IDS
+# 修改导入路径
+from .deck_constants import ACCURATE_HERO_DBF_IDS
 from utils import write_varint
-from deckstring_parser import parse_deckstring
+from .deckstring_parser import parse_deckstring
 from config import CLASS_NAMES
 
 class DeckImportExport:
@@ -249,7 +250,7 @@ class DeckImportExport:
         要成功导出游戏可识别的卡组代码，需要满足以下条件：
 
         1. 带满 30 张卡，即卡组不能是残缺的
-        2. 本程序现在已支持奇利亚斯豪华版3000型卡牌的导出，但是不支持牛头人酋长等其他需要子模块的特殊卡牌的导出。
+        2. 本程序现在已支持奇利亚斯豪华版3000型的导出，但是不支持精英乐团牛头人酋长的导出。
         """
         QMessageBox.information(parent_widget, "导出卡组代码帮助", help_text)
     
@@ -486,4 +487,4 @@ class DeckImportExport:
         else:
              QMessageBox.information(parent_widget, "导入成功", summary_message)
              
-        return True 
+        return True

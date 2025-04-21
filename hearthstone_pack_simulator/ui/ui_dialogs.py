@@ -2,7 +2,8 @@ from PyQt5.QtWidgets import (QDialog, QVBoxLayout, QHBoxLayout, QLabel,
                       QPushButton, QScrollArea, QWidget, QSpinBox, 
                       QApplication, QMessageBox, QGridLayout, QLineEdit)
 from PyQt5.QtCore import Qt
-from text_display_manager import TextDisplayManager
+# 修改导入语句
+from .text_display_manager import TextDisplayManager
 
 class PackCountDialog(QDialog):
     """卡包数量设置对话框"""
@@ -285,4 +286,4 @@ class RarityProbabilityDialog(QDialog):
             
         # 如果没有验证过，返回默认值
         from config import RARITY_PROBABILITIES
-        return RARITY_PROBABILITIES 
+        return RARITY_PROBABILITIES

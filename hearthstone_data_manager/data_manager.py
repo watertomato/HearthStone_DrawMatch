@@ -14,9 +14,10 @@ class HearthstoneDataManager:
             application_path = os.path.dirname(sys.executable)
         else:
             # 如果是直接作为 .py 文件运行
-            application_path = os.path.dirname(os.path.abspath(__file__))
+            # 修改为使用项目根目录
+            application_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         # ------------------------------------
-
+    
         # 使用 application_path 来构建输出目录
         self.json_data_dir = os.path.join(application_path, "hsJSON卡牌数据")
         self.organized_dir = os.path.join(application_path, "炉石卡牌分类")
@@ -292,4 +293,4 @@ class HearthstoneDataManager:
 # 如果直接运行此脚本，则执行全部流程
 if __name__ == "__main__":
     manager = HearthstoneDataManager()
-    manager.run_all() 
+    manager.run_all()

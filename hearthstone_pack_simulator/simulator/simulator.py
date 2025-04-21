@@ -457,4 +457,4 @@ if __name__ == "__main__":
         "collectible": True
     }
     
-    display_manager.display_card_info(sample_card) 
+    display_manager.display_card_info(sample_card)

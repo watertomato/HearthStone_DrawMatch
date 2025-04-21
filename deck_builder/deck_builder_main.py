@@ -6,12 +6,12 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox, QDialog
 from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtGui import QFont
 
-# 导入自定义模块
+# 修改导入路径
 from config import CLASS_NAMES, RARITY_NAMES, SET_NAMES, CARD_TYPE_NAMES
-from deck_constants import ACCURATE_HERO_DBF_IDS
-from deck_data_manager import DeckDataManager
-from deck_ui_components import DeckBuilderUI
-from deck_import_export import DeckImportExport
+from deck_builder.deck_constants import ACCURATE_HERO_DBF_IDS
+from deck_builder.deck_data_manager import DeckDataManager
+from deck_builder.deck_ui_components import DeckBuilderUI
+from deck_builder.deck_import_export import DeckImportExport
 
 class DeckBuilder(QMainWindow):
     def __init__(self):
@@ -242,7 +242,7 @@ class DeckBuilder(QMainWindow):
             
             # 职业过滤
             if selected_class_name is not None:
-                # 如果选择了特定职业，显示该职业和中立卡牌
+                # 如果选择了特定职业，显示该职业中和立卡牌
                 if not (card_class_name == selected_class_name or card_class_name == '中立'):
                     # 检查这张卡是否是来自圣地历险记且职业是游客卡允许的职业
                     vacation_allowed = (card['set'] == '胜地历险记' and card_class_name in self.guest_classes)
@@ -256,7 +256,10 @@ class DeckBuilder(QMainWindow):
             
             # 搜索过滤
             if self.search_text:
-                searchable_text = f"{card['name']} {card['description']} {card['type']} {card_class_name} {card['set']} {card['rarity']}".lower()
+                # 包含所有可能的搜索字段，包括种族/派系
+                race_type = card.get('race_type', '')
+                attack_health = card.get('attack_health', '')
+                searchable_text = f"{card['name']} {card['description']} {card['type']} {card_class_name} {card['set']} {card['rarity']} {race_type} {attack_health}".lower()
                 if self.search_text not in searchable_text:
                     continue
             
@@ -617,12 +620,8 @@ class DeckBuilder(QMainWindow):
         DeckImportExport.show_export_help(self)
 
 if __name__ == "__main__":
+    
     app = QApplication(sys.argv)
-    
-    # 设置应用程序样式
     app.setStyle("Fusion")
-    
-    # 实例化并显示
     deck_builder = DeckBuilder()
-    
     sys.exit(app.exec_())

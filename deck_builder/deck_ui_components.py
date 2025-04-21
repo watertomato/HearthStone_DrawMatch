@@ -1,9 +1,15 @@
-from PyQt5.QtWidgets import (QVBoxLayout, QHBoxLayout, QLabel, QPushButton, 
-                              QComboBox, QLineEdit, QTableWidget, QTableWidgetItem,
-                              QListWidget, QListWidgetItem, QHeaderView, 
-                              QAbstractItemView, QToolButton, QSplitter, QWidget)
-from PyQt5.QtCore import Qt
-from PyQt5.QtGui import QFont, QColor
+import os
+from PyQt5.QtWidgets import (QWidget, QVBoxLayout, QHBoxLayout, QLabel, 
+                           QComboBox, QLineEdit, QPushButton, QTableWidget,
+                           QTableWidgetItem, QHeaderView, QListWidget, 
+                           QListWidgetItem, QAbstractItemView, QSplitter,
+                           QToolButton)  # 添加 QToolButton 导入
+from PyQt5.QtCore import Qt, QSize
+from PyQt5.QtGui import QColor, QFont, QIcon
+
+# 修改导入路径
+from config import CLASS_NAMES, RARITY_NAMES
+
 from utils import NumericTableWidgetItem
 from config import CLASS_NAMES
 
@@ -438,4 +444,4 @@ class DeckBuilderUI:
             width = max(10, int(available_width * proportion))
             # 设置为 Interactive 允许用户调整，然后设置固定宽度
             header.setSectionResizeMode(i, QHeaderView.Interactive)
-            header.resizeSection(i, width) 
+            header.resizeSection(i, width)
