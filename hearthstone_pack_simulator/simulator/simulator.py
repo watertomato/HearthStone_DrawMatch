@@ -173,6 +173,7 @@ class PackSimulator:
             # 确保返回5张卡片
             while len(cards) < 5:
                 # 如果卡片不足5张，从所有卡牌中随机补充
+                print(f"扩展包 {set_id} 卡牌不足5张，从所有卡牌中随机补充")
                 all_cards = self.card_manager.cards_by_set[set_id]['cards']
                 if not all_cards:
                     raise ValueError(f"扩展包 {set_id} 没有可用卡牌数据")
@@ -202,11 +203,11 @@ class PackSimulator:
             available_cards = cards_by_rarity.get(rarity, [])
             
             # 如果没有该稀有度的卡牌，尝试使用更高稀有度
-            if not available_cards and rarity != 'LEGENDARY':
-                for higher_rarity in ['LEGENDARY', 'EPIC', 'RARE']:
-                    if higher_rarity in cards_by_rarity and cards_by_rarity[higher_rarity]:
-                        available_cards = cards_by_rarity[higher_rarity]
-                        break
+            # if not available_cards and rarity != 'LEGENDARY':
+            #     for higher_rarity in ['LEGENDARY', 'EPIC', 'RARE']:
+            #         if higher_rarity in cards_by_rarity and cards_by_rarity[higher_rarity]:
+            #             available_cards = cards_by_rarity[higher_rarity]
+            #             break
             
             if not available_cards:
                 print(f"扩展包 {set_id} 没有可用的 {rarity} 稀有度卡牌")
@@ -251,33 +252,37 @@ class PackSimulator:
         """确定一个卡包中5张卡的稀有度"""
         rarities = []
         
-        # 如果保证传说，直接添加一张传说
-        if guaranteed_legendary:
-            rarities.append('LEGENDARY')
-            remaining_cards = 4
-        else:
-            remaining_cards = 5
+        # 先抽取前4张卡
+        for _ in range(4):
+            rarity_items = list(self.rarity_probabilities.items())
+            rarities_list = [r[0] for r in rarity_items]
+            weights = [r[1] for r in rarity_items]
+            selected_rarity = random.choices(rarities_list, weights=weights, k=1)[0]
+            rarities.append(selected_rarity)
         
-        # 确保至少有一张稀有或更高
-        if self.guarantee_rare_or_higher and 'LEGENDARY' not in rarities:
-            # 按照概率抽取一张稀有+的卡牌
+        # 检查前4张卡中是否已经有传说
+        has_legendary = 'LEGENDARY' in rarities
+        # 检查前4张卡中是否已经有稀有及以上的卡
+        has_rare_or_higher = any(r in ['LEGENDARY', 'EPIC', 'RARE'] for r in rarities)
+        
+        # 决定最后一张卡的稀有度
+        if guaranteed_legendary and not has_legendary:
+            # 如果需要保底传说且还没抽到传说，最后一张必定是传说
+            rarities.append('LEGENDARY')
+        elif self.guarantee_rare_or_higher and not has_rare_or_higher:
+            # 如果需要保底稀有且还没抽到稀有或更高，从稀有及以上随机抽取
             higher_rarities = ['LEGENDARY', 'EPIC', 'RARE']
             weights = [self.rarity_probabilities.get(r, 0) for r in higher_rarities]
-            
-            # 归一化权重
             total_weight = sum(weights)
             if total_weight > 0:
                 normalized_weights = [w/total_weight for w in weights]
                 selected_rarity = random.choices(higher_rarities, weights=normalized_weights, k=1)[0]
                 rarities.append(selected_rarity)
-                remaining_cards -= 1
-        
-        # 抽取剩余卡片
-        for _ in range(remaining_cards):
+        else:
+            # 如果不需要特殊处理，正常抽取
             rarity_items = list(self.rarity_probabilities.items())
             rarities_list = [r[0] for r in rarity_items]
             weights = [r[1] for r in rarity_items]
-            
             selected_rarity = random.choices(rarities_list, weights=weights, k=1)[0]
             rarities.append(selected_rarity)
         

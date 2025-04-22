@@ -91,7 +91,7 @@ class PackCountDialog(QDialog):
             
             # 创建数量输入
             spin = QSpinBox()
-            spin.setRange(1, 200)
+            spin.setRange(1, 500)
             spin.setValue(1)
             spin.setFixedWidth(60)
             row.addWidget(spin)
